@@ -196,11 +196,6 @@
       "CHINESE": "最近"
     },
     {
-      "_CMSKEY": "o_FAVORITES",
-      "ENGLISH": "Favorites",
-      "CHINESE": "我最喜欢"
-    },
-    {
       "_CMSKEY": "o_HEX",
       "ENGLISH": "Hex",
       "CHINESE": "Hex"
@@ -257,17 +252,17 @@
     },
     {
       "_CMSKEY": "o_ADDING_NEW_THEME",
-      "ENGLISH": "AddingNew Theme ",
+      "ENGLISH": "Adding New Theme ",
       "CHINESE": "加新模板"
     },
     {
       "_CMSKEY": "o_ADDING_NEW_THEME_ONBOARDING",
-      "ENGLISH": "From thetheme ribbon section, it displays a “+” icon which let’s you start creatingyour new theme. ",
+      "ENGLISH": "From the theme ribbon section, it displays a “+” icon which let’s you start creating your new theme. ",
       "CHINESE": "点”+“标图来创建新模板。"
     },
     {
       "_CMSKEY": "o_THEME_STATUS",
-      "ENGLISH": "ThemeStatus",
+      "ENGLISH": "Theme Status",
       "CHINESE": "模板状态"
     },
     {
@@ -287,7 +282,7 @@
     },
     {
       "_CMSKEY": "o_CHANGING_VIEWS",
-      "ENGLISH": "Changingof Views",
+      "ENGLISH": "Changing of Views",
       "CHINESE": "改显示模式"
     },
     {
@@ -297,7 +292,7 @@
     },
     {
       "_CMSKEY": "o_EDIT_THEME_ONBOARDING",
-      "ENGLISH": "Customizablecomponents will be highlighted when the user hovers over it. Upon clicking,it will show all of the customizable elements. ",
+      "ENGLISH": "Customizable components will be highlighted when the user hovers over it. Upon clicking,it will show all of the customizable elements. ",
       "CHINESE": "当这些滑鼠移到可编辑的物件上会标记颜色。单击这些可编辑的物件会上列出可编辑的元素供选择。   "
     },
     {
@@ -307,254 +302,193 @@
     },
     {
       "_CMSKEY": "o_PUBLISH_THEME",
-      "ENGLISH": "PublishTheme",
+      "ENGLISH": "Publish Theme",
       "CHINESE": "发布模板"
     },
     {
       "_CMSKEY": "o_WELCOME_TO_STYLING",
-      "ENGLISH": "WelcomeTo Styling",
+      "ENGLISH": "Welcome To Styling",
       "CHINESE": "欢迎来到网站主题设计工具"
     },
     {
       "_CMSKEY": "o_VIEW_ON_BIGGER_RESOLUTION_MESSAGE",
-      "ENGLISH": "Pleaseview this module on a bigger resolution.",
+      "ENGLISH": "Please view this module on a bigger resolution.",
       "CHINESE": "请用更高的分辨率来浏览此网站"
     },
-    ,
     {
-      "_CMSKEY": "o_DASHBOARD",
-      "ENGLISH": "Dashboard",
-      "CHINESE": "首页"
+      "_CMSKEY": "o_CHANGE_LOG",
+      "ENGLISH": "Change Log",
+      "CHINESE": "查看记录"
     },
     {
-      "_CMSKEY": "o_PROBLEM_ACCOUNT",
-      "ENGLISH": "ProblemAccount",
-      "CHINESE": "问题帐号"
+      "_CMSKEY": "o_THEME_ID",
+      "ENGLISH": "Theme ID",
+      "CHINESE": "模板帐号"
     },
     {
-      "_CMSKEY": "o_ANNOUNCEMENT",
-      "ENGLISH": "Announcement",
-      "CHINESE": "公告"
+      "_CMSKEY": "o_DATE",
+      "ENGLISH": "Date",
+      "CHINESE": "日期"
     },
     {
-      "_CMSKEY": "o_QUICK_SEARCH",
-      "ENGLISH": "QuickSearch",
-      "CHINESE": "快速搜索"
+      "_CMSKEY": "o_USER",
+      "ENGLISH": "User ID",
+      "CHINESE": "用户帐号"
     },
     {
-      "_CMSKEY": "o_LIVE_CHAT",
-      "ENGLISH": "LiveChat",
-      "CHINESE": "在线客服"
+      "_CMSKEY": "o_ACTION",
+      "ENGLISH": "Action",
+      "CHINESE": "记录类型"
     },
     {
-      "_CMSKEY": "o_WMC",
-      "ENGLISH": "WMC",
-      "CHINESE": "注单监视视窗"
+      "_CMSKEY": "o_SEARCH",
+      "ENGLISH": "Search",
+      "CHINESE": "搜索"
     },
     {
-      "_CMSKEY": "o_PERFORMANCE_OVERVIEW",
-      "ENGLISH": "PerformanceOverview",
-      "CHINESE": "绩效概况"
+      "_CMSKEY": "o_FROM",
+      "ENGLISH": "From",
+      "CHINESE": "从"
     },
     {
-      "_CMSKEY": "o_ACCOUNT_OVERVIEW",
-      "ENGLISH": "AccountOverview",
-      "CHINESE": "下线概况"
+      "_CMSKEY": "o_TO",
+      "ENGLISH": "To",
+      "CHINESE": "至"
     },
     {
-      "_CMSKEY": "o_DOWNLINE_SUMMARY",
-      "ENGLISH": "DownlineSummary",
-      "CHINESE": "下线状态"
+      "_CMSKEY": "o_NEW",
+      "ENGLISH": "New",
+      "CHINESE": "新建"
     },
     {
-      "_CMSKEY": "o_POSSESS_REVENUE",
-      "ENGLISH": "PossessRevenue",
-      "CHINESE": "占成收入"
+      "_CMSKEY": "o_EDIT",
+      "ENGLISH": "Edit",
+      "CHINESE": "更改"
     },
     {
-      "_CMSKEY": "o_MEMBERS_WITH_WAGER",
-      "ENGLISH": "Members withWagers",
-      "CHINESE": "投注人数"
+      "_CMSKEY": "o_All",
+      "ENGLISH": "All",
+      "CHINESE": "所有"
     },
     {
-      "_CMSKEY": "o_TURNOVER",
-      "ENGLISH": "Turnover",
-      "CHINESE": "实货量"
+      "_CMSKEY": "o_TYPE_HERE",
+      "ENGLISH": "Type Here",
+      "CHINESE": "输入模板号"
     },
     {
-      "_CMSKEY": "o_WIN_LOSS",
-      "ENGLISH": "Win / Loss",
-      "CHINESE": "赢 / 输"
+      "_CMSKEY": "o_DELETE",
+      "ENGLISH": "Delete",
+      "CHINESE": "删除"
     },
     {
-      "_CMSKEY": "o_YESTERDAY",
-      "ENGLISH": "Yesterday",
-      "CHINESE": "昨天"
+      "_CMSKEY": "o_25_JUNE_21",
+      "ENGLISH": "25 June 2021",
+      "CHINESE": "2021年6月25日"
     },
     {
-      "_CMSKEY": "o_LAST_WEEK",
-      "ENGLISH": "LastWeek",
-      "CHINESE": "上周"
+      "_CMSKEY": "o_MAY_2021",
+      "ENGLISH": "MAY 2021",
+      "CHINESE": "5月"
     },
     {
-      "_CMSKEY": "o_THIS_PERIOD",
-      "ENGLISH": "ThisPeriod",
-      "CHINESE": "本期"
+      "_CMSKEY": "o_JUNE_2021",
+      "ENGLISH": "JUN 2021",
+      "CHINESE": "6月"
     },
     {
-      "_CMSKEY": "o_LAST_PERIOD",
-      "ENGLISH": "LastPeriod",
-      "CHINESE": "上期"
+      "_CMSKEY": "o_SUNDAY",
+      "ENGLISH": "SU",
+      "CHINESE": "日"
     },
     {
-      "_CMSKEY": "o_PROFIT_MARGIN",
-      "ENGLISH": "ProfitMargin",
-      "CHINESE": "获利率"
+      "_CMSKEY": "o_MONDAY",
+      "ENGLISH": "MO",
+      "CHINESE": "一"
     },
     {
-      "_CMSKEY": "o_INCREASE_PREVIOUS_DAY",
-      "ENGLISH": "increase from previous day",
-      "CHINESE": "比前一天增加"
+      "_CMSKEY": "o_TUESDAY",
+      "ENGLISH": "TU",
+      "CHINESE": "二"
     },
     {
-      "_CMSKEY": "o_DECREASE_PREVIOUS_DAY",
-      "ENGLISH": "decrease from previous day",
-      "CHINESE": "比前一天减少"
+      "_CMSKEY": "o_WEDNESDAY",
+      "ENGLISH": "WE",
+      "CHINESE": "三"
     },
     {
-      "_CMSKEY": "o_INCREASE_PREVIOUS_WEEK",
-      "ENGLISH": "increase from previous week",
-      "CHINESE": "比上周增加"
+      "_CMSKEY": "o_THURSDAY",
+      "ENGLISH": "TH",
+      "CHINESE": "四"
     },
     {
-      "_CMSKEY": "o_DECREASE_PREVIOUS_WEEK",
-      "ENGLISH": "decrease from previous week",
-      "CHINESE": "比上周减少"
+      "_CMSKEY": "o_FRIDAY",
+      "ENGLISH": "FR",
+      "CHINESE": "五"
     },
     {
-      "_CMSKEY": "o_CREDIT",
-      "ENGLISH": "Credit",
-      "CHINESE": "信用额度"
+      "_CMSKEY": "o_SATURDAY",
+      "ENGLISH": "SA",
+      "CHINESE": "六"
     },
     {
-      "_CMSKEY": "o_AVAILABLE_BALANCE",
-      "ENGLISH": "AvailableBalance",
-      "CHINESE": "剩余额度"
+      "_CMSKEY": "o_DESKTOP",
+      "ENGLISH": "Desktop",
+      "CHINESE": "桌面"
     },
     {
-      "_CMSKEY": "o_NEW_MEMBERS_THIS_PERIOD",
-      "ENGLISH": "NewMembers this Period",
-      "CHINESE": "本期新会员数"
+      "_CMSKEY": "o_TABLET",
+      "ENGLISH": "Tablet",
+      "CHINESE": "平板"
     },
     {
-      "_CMSKEY": "o_REMAINING_DAYS",
-      "ENGLISH": "RemainingDays",
-      "CHINESE": "本周剩余天数"
+      "_CMSKEY": "o_MOBILE",
+      "ENGLISH": "Mobile",
+      "CHINESE": "手机"
     },
     {
-      "_CMSKEY": "o_COMPLETED_DAYS",
-      "ENGLISH": "Completed Days",
-      "CHINESE": "本周完成天数"
+      "_CMSKEY": "o_ODDS_TYPE",
+      "ENGLISH": "Odds Type",
+      "CHINESE": "盘口类型"
     },
     {
-      "_CMSKEY": "o_LAST_LOGIN",
-      "ENGLISH": "Last Login",
-      "CHINESE": "最后登入日期"
+      "_CMSKEY": "o_EURO_ODDS",
+      "ENGLISH": "Decimal Odds (Euro)",
+      "CHINESE": "欧洲盘"
     },
     {
-      "_CMSKEY": "o_LAST_PASSWORD_CHANGE",
-      "ENGLISH": "Last PasswordChange",
-      "CHINESE": "密码最后更新日期"
+      "_CMSKEY": "o_HK_ODDS",
+      "ENGLISH": "Hong Kong Odds",
+      "CHINESE": "香港盘"
     },
     {
-      "_CMSKEY": "o_MA",
-      "ENGLISH": "MA",
-      "CHINESE": "总代理"
+      "_CMSKEY": "o_MALAY_ODDS",
+      "ENGLISH": "Malay Odds",
+      "CHINESE": "马来盘"
     },
     {
-      "_CMSKEY": "o_AGENT",
-      "ENGLISH": "Agent",
-      "CHINESE": "代理商"
+      "_CMSKEY": "o_INDO_ODDS",
+      "ENGLISH": "Indo Odds",
+      "CHINESE": "印尼盘"
     },
     {
-      "_CMSKEY": "o_MEMBER",
-      "ENGLISH": "Member",
-      "CHINESE": "会员"
+      "_CMSKEY": "o_SWITCH_ODDS_ONBOARDING",
+      "ENGLISH": "Switch the odds type by clicking this Icon.",
+      "CHINESE": "用此按钮改盘口类型"
     },
     {
-      "_CMSKEY": "o_ACTIVE",
-      "ENGLISH": "Active",
-      "CHINESE": "启用"
+      "_CMSKEY": "o_SWITCH_ODDS_TYPE",
+      "ENGLISH": "改盘口类型",
+      "CHINESE": "Switch Odds Type"
     },
     {
-      "_CMSKEY": "o_INACTIVE",
-      "ENGLISH": "Inactive",
-      "CHINESE": "停用"
+      "_CMSKEY": "o_DARK",
+      "ENGLISH": "Dark",
+      "CHINESE": "黑暗"
     },
     {
-      "_CMSKEY": "o_VIEW_ONLY",
-      "ENGLISH": "ViewOnly",
-      "CHINESE": "只能看帐"
-    },
-    {
-      "_CMSKEY": "o_SUSPENDED",
-      "ENGLISH": "Suspended",
-      "CHINESE": "禁止登入"
-    },
-    {
-      "_CMSKEY": "o_THIS_PERIOD_IS_NOT_SET",
-      "ENGLISH": "This period is not set.",
-      "CHINESE": "本期未定下"
-    },
-    {
-      "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
-      "ENGLISH": "The data is temporarily unavailable.",
-      "CHINESE": "暂时无数据"
-    },
-    {
-      "_CMSKEY": "o_DAY1",
-      "ENGLISH": "Day 1",
-      "CHINESE": "第1天"
-    },
-    {
-      "_CMSKEY": "o_DAY3",
-      "ENGLISH": "Day 3",
-      "CHINESE": "第3天"
-    },
-    {
-      "_CMSKEY": "o_22_FEB",
-      "ENGLISH": "22 Feb(Mon)",
-      "CHINESE": "02月22日(星期一）"
-    },
-    {
-      "_CMSKEY": "o_24_FEB",
-      "ENGLISH": "24 Feb(Wed)",
-      "CHINESE": "02月24日(星期三）"
-    },
-    {
-      "_CMSKEY": "o_REMAINING_DAYS",
-      "ENGLISH": "Remaining Days",
-      "CHINESE": "本期剩余天数"
-    },
-    {
-      "_CMSKEY": "o_COMPLETED_DAYS",
-      "ENGLISH": "Completed Days",
-      "CHINESE": "本期完成天数"
-    },
-    {
-      "_CMSKEY": "o_LAST_LOGIN",
-      "ENGLISH": "Last Login",
-      "CHINESE": "最后登入时间"
-    },
-    {
-      "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
-      "ENGLISH": "Search Calibri General B39 Data will be available after daily maintenance",
-      "CHINESE": "维修后才有数据"
-    },
-    {
-      "_CMSKEY": "o_ACCOUNT_OVERVIEW",
-      "ENGLISH": "Account Overview",
-      "CHINESE": "帐号概况"
+      "_CMSKEY": "o_LIGHT",
+      "ENGLISH": "Light",
+      "CHINESE": "浅色"
     }
-  ]
+    ]
 }
