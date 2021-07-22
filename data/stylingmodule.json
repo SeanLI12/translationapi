@@ -74,7 +74,7 @@
       "_CMSKEY": "o_UAT",
       "ENGLISH": "UAT",
       "CHINESE": "UAT版本"
-    },
+    },e
     {
       "_CMSKEY": "o_PUBLISH_UAT",
       "ENGLISH": "Publish UAT",
@@ -138,7 +138,7 @@
     {
       "_CMSKEY": "o_TEXT",
       "ENGLISH": "Text",
-      "CHINESE": "Text"
+      "CHINESE": "文字"
     },
     {
       "_CMSKEY": "o_BACKGROUND",
@@ -477,8 +477,13 @@
     },
     {
       "_CMSKEY": "o_SWITCH_ODDS_TYPE",
-      "ENGLISH": "改盘口类型",
-      "CHINESE": "Switch Odds Type"
+      "ENGLISH": "Switch Odds Type",
+      "CHINESE": "改盘口类型"
+    },
+    {
+      "_CMSKEY": "o_FAVORITES",
+      "ENGLISH": "Favorites",
+      "CHINESE": "我最喜欢"
     },
     {
       "_CMSKEY": "o_DARK",
