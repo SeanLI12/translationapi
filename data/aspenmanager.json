@@ -133,7 +133,7 @@
     {
       "_CMSKEY": "o_COMPLETED_DAYS",
       "ENGLISH": "Completed Days",
-      "CHINESE": "本周完成天数"
+      "CHINESE": "本期完成天数"
     },
     {
       "_CMSKEY": "o_LAST_LOGIN",
