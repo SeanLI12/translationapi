@@ -2981,7 +2981,7 @@
       "_CMSKEY": "o_HANDICAP_FRAME"
     },
     {
-      "CHINESE": "进球",
+      "CHINESE": "进球数",
       "ENGLISH": "Goals",
       "_CMSKEY": "o_GOALSMARKETLINE"
     },
@@ -3136,7 +3136,7 @@
       "_CMSKEY": "o_MATCHES"
     },
     {
-      "CHINESE": "比赛玩法",
+      "CHINESE": "赛事盘口",
       "ENGLISH": "Matche Matkets",
       "_CMSKEY": "o_MATCHMARKETS"
     },
@@ -5636,12 +5636,12 @@
       "_CMSKEY": "o_HANDICAPOVERUNDER"
     },
     {
-      "CHINESE": "让分 & 大小",
+      "CHINESE": "让球 & 大 / 小",
       "ENGLISH": "Handicap & Over / Under",
       "_CMSKEY": "o_HANDICAPANDOVERUNDER"
     },
     {
-      "CHINESE": "中场",
+      "CHINESE": "区间",
       "ENGLISH": "Intervals",
       "_CMSKEY": "o_INTERVALS"
     },
@@ -5676,7 +5676,7 @@
       "_CMSKEY": "o_OTHERS"
     },
     {
-      "CHINESE": "全部玩法",
+      "CHINESE": "所有盘口",
       "ENGLISH": "All Markets",
       "_CMSKEY": "o_ALLMARKETS"
     },
@@ -6094,6 +6094,12 @@
       "CHINESE": "得分最多球员",
       "ENGLISH": "Top Goal Scorer",
       "_CMSKEY": "TOP_GOAL_SCORER"
+    },
+    {
+      "CHINESE": "单节",
+      "ENGLISH": "Quarters",
+      "_CMSKEY": "o_QUARTERSBASKETBALL"
     }
+    
   ]
 }
