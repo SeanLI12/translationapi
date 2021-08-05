@@ -6114,6 +6114,11 @@
       "CHINESE": "版权声明 (C) 2021 版权所有",
       "ENGLISH": "Copyright (C) 2021. All rights reserved.",
       "_CMSKEY": "o_COPYRIGHGTS"
+    },
+    {
+      "CHINESE": "系统需求",
+      "ENGLISH": "System Requirements",
+      "_CMSKEY": "o_SYSTEMREQUIREMENTS"
     }
     
   ]
