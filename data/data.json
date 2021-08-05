@@ -6099,6 +6099,21 @@
       "CHINESE": "单节",
       "ENGLISH": "Quarters",
       "_CMSKEY": "o_QUARTERSBASKETBALL"
+    },
+    {
+      "CHINESE": "电话号码",
+      "ENGLISH": "PHONE",
+      "_CMSKEY": "o_PHONE"
+    },
+    {
+      "CHINESE": "电子邮件",
+      "ENGLISH": "EMAIL",
+      "_CMSKEY": "o_EMAIL"
+    },
+    {
+      "CHINESE": "版权声明 (C) 2021 版权所有",
+      "ENGLISH": "Copyright (C) 2021. All rights reserved.",
+      "_CMSKEY": "o_COPYRIGHGTS"
     }
     
   ]
