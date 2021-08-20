@@ -214,6 +214,131 @@
       "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
       "ENGLISH": "Data will be available after daily maintenance",
       "CHINESE": "维护后才有数据"
-    }
+    },
+    {
+			"CHINESE": "净胜球数",
+			"ENGLISH": "Winning Margin",
+			"_CMSKEY": "o_WINNING_MARGIN"
+    },
+    {
+			"CHINESE": "净胜球数- 上半场",
+			"ENGLISH": "Winning Margin - 1st Half",
+			"_CMSKEY": "o_WINNING_MARGIN_1ST_HALF"
+		},
+		{
+			"CHINESE": "净胜球数- 第一节",
+			"ENGLISH": "Winning Margin - 1st Quarter",
+			"_CMSKEY": "o_WINNING_MARGIN_1ST_QUARTER"
+		},
+		{
+			"CHINESE": "净胜球数- 第二节",
+			"ENGLISH": "Winning Margin - 2nd Quarter",
+			"_CMSKEY": "o_WINNING_MARGIN_2ND_QUARTER"
+		},
+		{
+			"CHINESE": "净胜球数- 第三节",
+			"ENGLISH": "Winning Margin - 3rd Quarter",
+			"_CMSKEY": "o_WINNING_MARGIN_3RD_QUARTER"
+		},
+		{
+			"CHINESE": "净胜球数- 第四节",
+			"ENGLISH": "Winning Margin - 4th Quarter",
+			"_CMSKEY": "o_WINNING_MARGIN_4TH_QUARTER"
+		},
+		{
+			"CHINESE": "净胜球数- 下半场",
+			"ENGLISH": "Winning Margin - 2nd Half",
+			"_CMSKEY": "o_WINNING_MARGIN_2ND_HALF"
+		},
+		{
+			"CHINESE": "[主队名]- 净胜1-5分",
+			"ENGLISH": "[Team1] - Win by 1 - 5 Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_1_5_POINTS"
+		},
+		{
+			"CHINESE": "[主队名]- 净胜6-10分",
+			"ENGLISH": "[Team1] - Win by 6 - 10 Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_6_10_POINTS"
+		},
+		{
+			"CHINESE": "[主队名] - 净胜11-15分",
+			"ENGLISH": "[Team1] - Win by 11 - 15 Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_11_15_POINTS"
+		},
+		{
+			"CHINESE": "[主队名]- 净胜16-20分",
+			"ENGLISH": "[Team1] - Win by 16 - 20 Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_16_20_POINTS"
+		},
+		{
+			"CHINESE": "[主队名] - 净胜21-25分",
+			"ENGLISH": "[Team1] - Win by 21 - 25 Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_21_25_POINTS"
+		},
+		{
+			"CHINESE": "[主队名] - 净胜26分或更多",
+			"ENGLISH": "[Team1] - Win by 26+ Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_26_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜1-5分",
+			"ENGLISH": "[Team2] - Win by 1 - 5 Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_1_5_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜6-10分",
+			"ENGLISH": "[Team2] - Win by 6 - 10 Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_6_10_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜11-15分",
+			"ENGLISH": "[Team2] - Win by 11 - 15 Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_11_15_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜16-20分",
+			"ENGLISH": "[Team2] - Win by 16 - 20 Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_16_20_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜21-25分",
+			"ENGLISH": "[Team2] - Win by 21 - 25 Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_21_25_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜26分或更多",
+			"ENGLISH": "[Team2] - Win by 26+ Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_26_POINTS"
+		},
+		{
+			"CHINESE": "[主队名] - 净胜3-7分",
+			"ENGLISH": "[Team1] - Win by 3 - 7 Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_3_7_POINTS"
+		},
+		{
+			"CHINESE": "[主队名] - 净胜8分或更多",
+			"ENGLISH": "[Team1] - Win by 8+ Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_8_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜3-7分",
+			"ENGLISH": "[Team2] - Win by 3 - 7 Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_3_7_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜8分或更多",
+			"ENGLISH": "[Team2] - Win by 8+ Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_8_POINTS"
+		},
+		{
+			"CHINESE": "[主队名] - 净胜3分或更多",
+			"ENGLISH": "[Team1] - Win by 3+ Points",
+			"_CMSKEY": "o_TEAM1_WIN_BY_3_POINTS"
+		},
+		{
+			"CHINESE": "[客队名]- 净胜3分或更多",
+			"ENGLISH": "[Team2] - Win by 3+ Points",
+			"_CMSKEY": "o_TEAM2_WIN_BY_3_POINTS"
+		}
   ]
 }
