@@ -41,6 +41,11 @@
 			"CHINESE": "冠军  -"
 		},
 		{
+			"_CMSKEY": "o_WINNER_TO_QUALIFY",
+			"ENGLISH": "Winner / To Qualify",
+			"CHINESE": "冠軍/晉級"
+		},
+		{
 			"_CMSKEY": "o_CORRECT_SCORE",
 			"ENGLISH": "Correct Score",
 			"CHINESE": "波胆"
@@ -3072,7 +3077,7 @@
 		},
 		{
 			"CHINESE": "篮球 / 美式足球",
-			"ENGLISH": "BASKETBALL AND AMERICAN FOOTBALL",
+			"ENGLISH": "Basketball & American Football",
 			"_CMSKEY": "o_BASKETBALLANDAMERICANFOOTBALL"
 		},
 		{
@@ -3701,8 +3706,8 @@
 			"_CMSKEY": "o_ACCEPTBETTERODDS"
 		},
 		{
-			"CHINESE": "赔率偏好修改",
-			"ENGLISH": "Odds Change Preference",
+			"CHINESE": "赔率偏好设定",
+			"ENGLISH": "ODDS CHANGE PREFERENCE",
 			"_CMSKEY": "o_ODDSCHANGEPREFERENCE"
 		},
 		{
@@ -4706,6 +4711,21 @@
 			"_CMSKEY": "o_STATISTICS"
 		},
 		{
+			"CHINESE": "",
+			"ENGLISH": "TIMELINE",
+			"_CMSKEY": "o_TIMELINE"
+		},
+		{
+			"CHINESE": "",
+			"ENGLISH": "HEAD TO HEAD",
+			"_CMSKEY": "o_HEAD_TO_HEAD"
+		},
+		{
+			"CHINESE": "",
+			"ENGLISH": "STANDINGS",
+			"_CMSKEY": "o_STANDINGS"
+		},
+		{
 			"CHINESE": "你的密码已成功修改完成。",
 			"ENGLISH": "Your password has been changed successfully.",
 			"_CMSKEY": "o_YOURPASSWORDHASBEENCHANGEDSUCCESSFULLY"
@@ -4761,7 +4781,7 @@
 			"_CMSKEY": "o_INPLAYMATCHES"
 		},
 		{
-			"CHINESE": "今天的赛事基于GMT-4。",
+			"CHINESE": "今日赛事显示时区为GMT-4。",
 			"ENGLISH": "Today's events are based on GMT -4",
 			"_CMSKEY": "o_TODAYSEVENTSAREBASEDONGMT"
 		},
@@ -4797,7 +4817,7 @@
 		},
 		{
 			"CHINESE": "目前没有任何讯息。",
-			"ENGLISH": "There are currently no messages available.",
+			"ENGLISH": "THERE ARE CURRENTLY NO MESSAGES AVAILABLE.",
 			"_CMSKEY": "o_THEREARENOMESSAGE"
 		},
 		{
@@ -4856,7 +4876,7 @@
 			"_CMSKEY": "o_FREEKICKSMARKETS"
 		},
 		{
-			"CHINESE": "射门",
+			"CHINESE": "任意球",
 			"ENGLISH": "Free Kicks",
 			"_CMSKEY": "o_GOALKICKSMARKETS"
 		},
@@ -5169,6 +5189,11 @@
 			"CHINESE": "网路极度不稳定，请检查你的网路。",
 			"ENGLISH": "Your internet connection is unstable.Please check your connection and try again.",
 			"_CMSKEY": "o_REFRESHMSG"
+		},
+		{
+			"CHINESE": "網路不穩，請至交易狀況確認注單是否成功。",
+			"ENGLISH": "The Internet is unstable at the moment, please goto open bet to confirm if the bet has been successfully placed or not.",
+			"_CMSKEY": "o_INTERNET_UNSTABLE_OPEN_BET"
 		},
 		{
 			"CHINESE": "总分",
@@ -5986,7 +6011,7 @@
 			"_CMSKEY": "o_INFOMESSAGEEVENTFILTER"
 		},
 		{
-			"CHINESE": "罚牌玩法为点数制。一张红卡等于两点，黄卡为一点。三点为每个球员的最大点数上限。",
+			"CHINESE": "罚牌盘口以分数为结算依据。 红牌等于2分，黄牌等于1分。 每个球员最高罚牌分数为3分。",
 			"ENGLISH": "Booking markets are settled on a points system. Red Cards equal 2 points, while Yellow Cards equal 1 point. The maximum points any player can accumulate is 3.",
 			"_CMSKEY": "o_BOOKINGMRKETS"
 		},
@@ -6199,6 +6224,11 @@
 			"CHINESE": "净胜3分或更多",
 			"ENGLISH": "Win by 3+ Points",
 			"_CMSKEY": "o_WIN_BY_3_POINTS"
+		},
+		{
+			"CHINESE": "视频助理裁判助理",
+			"ENGLISH": "Video Assistant Referee (VAR) Decision",
+			"_CMSKEY": "o_VIDEO_ASSISTANT_REFEREE"
 		}
 	]
 }
