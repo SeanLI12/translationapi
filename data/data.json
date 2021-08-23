@@ -4486,7 +4486,7 @@
 			"_CMSKEY": "o_INCORRECTPASSCODEPLEASETRYAGAIN"
 		},
 		{
-			"CHINESE": "账号或密码错误。请再试一次。",
+			"CHINESE": "您輸入的帳號或密碼不正確。 請重新登入。",
 			"ENGLISH": "Invalid username or password. Please try again.",
 			"_CMSKEY": "o_INCORRECTUSERNAME"
 		},
