@@ -295,10 +295,10 @@
 			"ENGLISH": "Win by 3+ Points",
 			"_CMSKEY": "o_WIN_BY_3_POINTS"
 		},
-	  {
+		{
 			"CHINESE": "其它比分",
-			"ENGLISH": "Any Other Score",
+			"ENGLISH": "Any Other Result",
 			"_CMSKEY": "o_ANY_OTHER_SCORE"
-	  }
+		}
   ]
 }
