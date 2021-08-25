@@ -494,6 +494,66 @@
 			"_CMSKEY": "o_LIGHT",
 			"ENGLISH": "Light",
 			"CHINESE": "浅色"
+		},
+		{
+			"_CMSKEY": "o_PREVIEW",
+			"ENGLISH": "Preview",
+			"CHINESE": "预览版本"
+		},
+		{
+			"_CMSKEY": "o_PUBLISH_PREVIEW",
+			"ENGLISH": "Publish Preview",
+			"CHINESE": "发布到预览网站"
+		},
+		{
+			"_CMSKEY": "o_SET_MAIN_COLOR",
+			"ENGLISH": "Set Main Color",
+			"CHINESE": "设主颜色"
+		},
+		{
+			"_CMSKEY": "o_SET_MAIN_COLOR_ONBOARDING",
+			"ENGLISH": "Select from the Main Colors to edit the color scheme of your template.",
+			"CHINESE": "从主颜色列表中选择想编辑的颜色。"
+		},
+		{
+			"_CMSKEY": "o_THEME_STATUS_ONBOARDING_PREVIEW",
+			"ENGLISH": "“Preview” published to Preview environment.",
+			"CHINESE": "\"预览版本\" 状态，代表模板已发布到预览网站"
+		},
+		{
+			"_CMSKEY": "o_EDIT_THEME_COLOR",
+			"ENGLISH": "Edit Theme (Colors)",
+			"CHINESE": "编辑模板 (颜色）"
+		},
+		{
+			"_CMSKEY": "o_PUBLISH_PREVIEW_HOW",
+			"ENGLISH": "How to view in preview mode:",
+			"CHINESE": "如何在预览网站查看设计："
+		},
+		{
+			"_CMSKEY": "o_PUBLISH_PREVIEW_HOW_1",
+			"ENGLISH": "Open a browser.",
+			"CHINESE": "打开浏览器"
+		},
+		{
+			"_CMSKEY": "o_PUBLISH_PREVIEW_HOW_2",
+			"ENGLISH": "Input your Production site URL.",
+			"CHINESE": "输入您的生产环境URL"
+		},
+		{
+			"_CMSKEY": "o_PUBLISH_PREVIEW_HOW_3",
+			"ENGLISH": "Add this parameter “&preview=true” at the end of your URL.",
+			"CHINESE": "在URL的后面,加这个参数：\"&preview=true\""
+		},
+		{
+			"_CMSKEY": "o_PUBLISH_LIVE_ONBOARDING",
+			"ENGLISH": "Publish your theme to Production directly.",
+			"CHINESE": "直接发布您创建的模板到生产环境"
+		},
+		{
+			"_CMSKEY": "o_DONT_SHOW_AGAIN",
+			"ENGLISH": "Don’t show this again",
+			"CHINESE": "不再显示"
 		}
 	]
 }
