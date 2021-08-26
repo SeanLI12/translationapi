@@ -299,6 +299,31 @@
 			"CHINESE": "其它比分",
 			"ENGLISH": "Any Other Result",
 			"_CMSKEY": "o_ANY_OTHER_SCORE"
+		},
+		{
+			"CHINESE": "版权声明 (C) 2021 版权所有",
+			"ENGLISH": "Copyright (C) 2021. All rights reserved.",
+			"_CMSKEY": "o_COPYRIGHGTS"
+		},
+		{
+			"_CMSKEY": "o_FEATURES",
+			"ENGLISH": "Features",
+			"CHINESE": "特色"
+		},
+		{
+			"_CMSKEY": "o_NEW_URL",
+			"ENGLISH": "New URL",
+			"CHINESE": "最新网址"
+		},
+		{
+			"_CMSKEY": "o_CONTACT_US",
+			"ENGLISH": "Contact Us",
+			"CHINESE": "联系我们"
+		},
+		{
+			"_CMSKEY": "o_TROUBLESHOOTING",
+			"ENGLISH": "Troubleshooting",
+			"CHINESE": "故障及疑难排解"
 		}
 	]
 }
