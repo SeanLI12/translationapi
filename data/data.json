@@ -6229,6 +6229,11 @@
 			"CHINESE": "视频助理裁判助理",
 			"ENGLISH": "Video Assistant Referee (VAR) Decision",
 			"_CMSKEY": "o_VIDEO_ASSISTANT_REFEREE"
+		},
+		{
+			"CHINESE": "篮球 (滚球) 净胜球数",
+			"ENGLISH": "Basketball (In-Play) Winning Margin",
+			"_CMSKEY": "o_BASKETBALL_IN_PLAY_WINNING_MARGIN"
 		}
 	]
 }
