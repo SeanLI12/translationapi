@@ -6239,6 +6239,11 @@
 			"CHINESE": "星期一",
 			"ENGLISH": "Monday",
 			"_CMSKEY": "o_MONDAY"
+		},
+		{
+			"CHINESE": "8月23日 星期一",
+			"ENGLISH": "08-23 Monday",
+			"_CMSKEY": "o_08_23_MONDAY"
 		}
 	]
 }
