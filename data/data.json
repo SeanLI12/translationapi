@@ -3931,7 +3931,7 @@
 			"_CMSKEY": "o_RETAINSELECTIONS"
 		},
 		{
-			"CHINESE": "投注额",
+			"CHINESE": "下注金额",
 			"ENGLISH": "Stake",
 			"_CMSKEY": "o_STAKE"
 		},
@@ -5416,8 +5416,8 @@
 			"_CMSKEY": "o_SINGLES"
 		},
 		{
-			"CHINESE": "您已成功下注。",
-			"ENGLISH": "Your bets have been successfully placed!",
+			"CHINESE": "您已成功投注。",
+			"ENGLISH": "YOUR BETS HAVE BEEN SUCCESSFULLY PLACED.",
 			"_CMSKEY": "o_YOURBETSHAVEBEENSUCCESFULLYPLACED"
 		},
 		{
@@ -6106,7 +6106,7 @@
 			"_CMSKEY": "o_HALFPUSH/HALFWIN"
 		},
 		{
-			"CHINESE": "预计可赢：",
+			"CHINESE": "可赢金额:",
 			"ENGLISH": "Est. Win:",
 			"_CMSKEY": "o_EST.WIN:"
 		},
@@ -6244,6 +6244,11 @@
 			"CHINESE": "8月23日 星期一",
 			"ENGLISH": "08-23 Monday",
 			"_CMSKEY": "o_08_23_MONDAY"
+		},
+		{
+			"CHINESE": "04:36:26 (香港盘)",
+			"ENGLISH": "04:36:26 (HK)",
+			"_CMSKEY": "o_04_36_26_HK"
 		}
 	]
 }
