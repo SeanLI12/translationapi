@@ -6234,6 +6234,11 @@
 			"CHINESE": "篮球 (滚球) 净胜球数",
 			"ENGLISH": "Basketball (In-Play) Winning Margin",
 			"_CMSKEY": "o_BASKETBALL_IN_PLAY_WINNING_MARGIN"
+		},
+		{
+			"CHINESE": "星期一",
+			"ENGLISH": "Monday",
+			"_CMSKEY": "o_MONDAY"
 		}
 	]
 }
