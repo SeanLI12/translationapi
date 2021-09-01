@@ -3721,17 +3721,17 @@
 			"_CMSKEY": "o_ENTERSTAKE"
 		},
 		{
-			"CHINESE": "所有投注",
+			"CHINESE": "下注总额",
 			"ENGLISH": "Total Bets",
 			"_CMSKEY": "o_TOTALBETS"
 		},
 		{
-			"CHINESE": "总共可赢:",
+			"CHINESE": "预估可赢",
 			"ENGLISH": "Est. Winnings",
 			"_CMSKEY": "o_ESTWIN"
 		},
 		{
-			"CHINESE": "可赢金额:",
+			"CHINESE": "预估可赢",
 			"ENGLISH": "Est. Winnings",
 			"_CMSKEY": "o_ESTWINNINGS"
 		},
