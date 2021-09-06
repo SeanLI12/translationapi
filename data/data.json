@@ -3001,7 +3001,7 @@
 			"_CMSKEY": "o_NOGOAL"
 		},
 		{
-			"CHINESE": "进球 大/小",
+			"CHINESE": "得分大小",
 			"ENGLISH": "Goals O/U",
 			"_CMSKEY": "o_GOALSOU"
 		},
