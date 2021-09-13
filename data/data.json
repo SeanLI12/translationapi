@@ -3641,13 +3641,13 @@
 			"_CMSKEY": "o_ALLMATCHES"
 		},
 		{
-			"CHINESE": "我收藏的赛事",
+			"CHINESE": "我的赛事",
 			"ENGLISH": "My Events",
 			"_CMSKEY": "o_MYEVENTS"
 		},
 		{
-			"CHINESE": "我的注单",
-			"ENGLISH": "My Betss",
+			"CHINESE": "投注记录",
+			"ENGLISH": "My Bets",
 			"_CMSKEY": "o_MYBETS"
 		},
 		{
