@@ -6249,6 +6249,11 @@
 			"CHINESE": "04:36:26 (香港盘)",
 			"ENGLISH": "04:36:26 (HK)",
 			"_CMSKEY": "o_04_36_26_HK"
+		},
+		{
+			"CHINESE": "已加入我的賽事",
+			"ENGLISH": "Added to my events",
+			"_CMSKEY": "o_ADDED_TO_MY_EVENTS"
 		}
 	]
 }
