@@ -6294,6 +6294,11 @@
 			"_CMSKEY": "o_09_24_SATURDAY",
 			"ENGLISH": "09-24 Saturday",
 			"CHINESE": "9月24日 星期六"
+		},
+		{
+			"_CMSKEY": "o_NEW",
+			"ENGLISH": "New",
+			"CHINESE": "新"
 		}
 	]
 }
