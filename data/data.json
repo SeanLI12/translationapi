@@ -6254,6 +6254,16 @@
 			"CHINESE": "已加入我的賽事",
 			"ENGLISH": "Added to my events",
 			"_CMSKEY": "o_ADDED_TO_MY_EVENTS"
+		},
+		{
+			"_CMSKEY": "o_FROM",
+			"ENGLISH": "From",
+			"CHINESE": "從"
+		},
+		{
+			"_CMSKEY": "o_TO",
+			"ENGLISH": "To",
+			"CHINESE": "到"
 		}
 	]
 }
