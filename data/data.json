@@ -6264,6 +6264,36 @@
 			"_CMSKEY": "o_TO",
 			"ENGLISH": "To",
 			"CHINESE": "到"
+		},
+		{
+			"_CMSKEY": "o_09_19_MONDAY",
+			"ENGLISH": "09-19 Monday",
+			"CHINESE": "9月19日 星期一"
+		},
+		{
+			"_CMSKEY": "o_09_20_TUESDAY",
+			"ENGLISH": "09-20 Tuesday",
+			"CHINESE": "9月19日 星期二"
+		},
+		{
+			"_CMSKEY": "o_09_21_WEDNESDAY",
+			"ENGLISH": "09-21 Wednesday",
+			"CHINESE": "9月19日 星期三"
+		},
+		{
+			"_CMSKEY": "o_09_22_THURSDAY",
+			"ENGLISH": "09-22 Thursday",
+			"CHINESE": "9月19日 星期四"
+		},
+		{
+			"_CMSKEY": "o_09_23_FRIDAY",
+			"ENGLISH": "09-23 Friday",
+			"CHINESE": "9月19日 星期五"
+		},
+		{
+			"_CMSKEY": "o_09_24_SATURDAY",
+			"ENGLISH": "09-24 Saturday",
+			"CHINESE": "9月19日 星期六"
 		}
 	]
 }
