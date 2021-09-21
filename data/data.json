@@ -3047,7 +3047,7 @@
 		},
 		{
 			"CHINESE": "滚球",
-			"ENGLISH": "INPLAY",
+			"ENGLISH": "In-Play",
 			"_CMSKEY": "o_INPLAY"
 		},
 		{
@@ -3057,13 +3057,23 @@
 		},
 		{
 			"CHINESE": "早盘",
-			"ENGLISH": "EARLY",
+			"ENGLISH": "Early",
 			"_CMSKEY": "o_EARLY"
 		},
 		{
-			"CHINESE": "连串过关",
-			"ENGLISH": "PARLAY",
+			"CHINESE": "过关",
+			"ENGLISH": "Parlay",
 			"_CMSKEY": "o_PARLAY"
+		},
+		{
+			"CHINESE": "冠军",
+			"ENGLISH": "Outright",
+			"_CMSKEY": "o_OUTRIGHT"
+		},
+		{
+			"CHINESE": "线上会员",
+			"ENGLISH": "Online Members:",
+			"_CMSKEY": "o_ONLINE_MEMBERS"
 		},
 		{
 			"CHINESE": "连串过关 / 复式过关",
@@ -3617,7 +3627,7 @@
 		},
 		{
 			"CHINESE": "登出",
-			"ENGLISH": "LOG OUT",
+			"ENGLISH": "Log Out",
 			"_CMSKEY": "o_LOGOUT"
 		},
 		{
@@ -3664,6 +3674,11 @@
 			"CHINESE": "否",
 			"ENGLISH": "No",
 			"_CMSKEY": "o_NO"
+		},
+		{
+			"CHINESE": "保存",
+			"ENGLISH": "Save",
+			"_CMSKEY": "o_SAVE"
 		},
 		{
 			"CHINESE": "地区",
@@ -4216,14 +4231,49 @@
 			"_CMSKEY": "o_MESSAGES"
 		},
 		{
-			"CHINESE": "设定",
+			"CHINESE": "设置",
 			"ENGLISH": "Settings",
 			"_CMSKEY": "o_SETTINGS"
 		},
 		{
-			"CHINESE": "语言",
-			"ENGLISH": "Language",
+			"CHINESE": "我的设置",
+			"ENGLISH": "My Settings",
+			"_CMSKEY": "o_MY_SETTINGS"
+		},
+		{
+			"CHINESE": "我的活动记录",
+			"ENGLISH": "MyActivities",
+			"_CMSKEY": "o_MY_ACTIVITIES"
+		},
+		{
+			"CHINESE": "密码恢复",
+			"ENGLISH": "Password Recovery",
+			"_CMSKEY": "o_PASSWORD_RECOVERY"
+		},
+		{
+			"CHINESE": "更改密码",
+			"ENGLISH": "Change Password",
+			"_CMSKEY": "o_CHANGE_PASSWORD"
+		},
+		{
+			"CHINESE": "语言：",
+			"ENGLISH": "Language：",
 			"_CMSKEY": "o_LANGUAGE"
+		},
+		{
+			"CHINESE": "简体",
+			"ENGLISH": "Simplified",
+			"_CMSKEY": "o_SIMPLIFIED"
+		},
+		{
+			"CHINESE": "最新网址",
+			"ENGLISH": "New URL",
+			"_CMSKEY": "o_NEW_URL"
+		},
+		{
+			"CHINESE": "系统需求",
+			"ENGLISH": "System Requirement",
+			"_CMSKEY": "o_SYSTEM_REQUIREMENT"
 		},
 		{
 			"CHINESE": "盘口类型",
@@ -4256,7 +4306,7 @@
 			"_CMSKEY": "o_SUPPORT"
 		},
 		{
-			"CHINESE": "新功能",
+			"CHINESE": "特色",
 			"ENGLISH": "Features",
 			"_CMSKEY": "o_FEATURES"
 		},
@@ -4296,7 +4346,7 @@
 			"_CMSKEY": "o_ODDSCONVERSION"
 		},
 		{
-			"CHINESE": "概述",
+			"CHINESE": "总览",
 			"ENGLISH": "Overview",
 			"_CMSKEY": "o_OVERVIEW"
 		},
@@ -4316,14 +4366,14 @@
 			"_CMSKEY": "o_TERMSANDCONDITIONS"
 		},
 		{
-			"CHINESE": "故障疑难排解",
-			"ENGLISH": "Trouble Shooting",
+			"CHINESE": "故障及疑难排解",
+			"ENGLISH": "Troubleshooting",
 			"_CMSKEY": "o_TROUBLESHOOTING"
 		},
 		{
 			"CHINESE": "联系我们",
-			"ENGLISH": "Contact us",
-			"_CMSKEY": "o_CONTACTUS"
+			"ENGLISH": "Contact Us",
+			"_CMSKEY": "o_CONTACT_US"
 		},
 		{
 			"CHINESE": "全部",
@@ -6132,18 +6182,43 @@
 		},
 		{
 			"CHINESE": "电话号码",
-			"ENGLISH": "PHONE",
+			"ENGLISH": "Phone",
 			"_CMSKEY": "o_PHONE"
 		},
 		{
 			"CHINESE": "电子邮件",
-			"ENGLISH": "EMAIL",
+			"ENGLISH": "Email",
 			"_CMSKEY": "o_EMAIL"
 		},
 		{
+			"CHINESE": "立即与客户服务人员聊天：",
+			"ENGLISH": "Chat with a Customer Service Agent now:",
+			"_CMSKEY": "o_LIVE_CHAT_CONTENT"
+		},
+		{
+			"CHINESE": "聊天",
+			"ENGLISH": "Chat",
+			"_CMSKEY": "o_CHAT"
+		},
+		{
 			"CHINESE": "版权声明 (C) 2021 版权所有",
-			"ENGLISH": "Copyright (C) 2021. All rights reserved.",
+			"ENGLISH": "Copyright © 2021. All rights reserved.",
 			"_CMSKEY": "o_COPYRIGHGTS"
+		},
+		{
+			"CHINESE": "报表",
+			"ENGLISH": "Reports",
+			"_CMSKEY": "o_REPORTS"
+		},
+		{
+			"CHINESE": "帐号管理",
+			"ENGLISH": "Account Management",
+			"_CMSKEY": "o_ACCT_MANAGEMENT"
+		},
+		{
+			"CHINESE": "即时注单",
+			"ENGLISH": "Total Bet",
+			"_CMSKEY": "o_TOTAL_BET"
 		},
 		{
 			"CHINESE": "系统需求",
