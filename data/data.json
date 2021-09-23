@@ -6304,6 +6304,11 @@
 			"_CMSKEY": "o_NEW",
 			"ENGLISH": "New",
 			"CHINESE": "新"
+		},
+		{
+			"_CMSKEY": "o_MAX_OF_25_EVENTS_PER_SPORT",
+			"ENGLISH": "Max of 25 events per sport can be added to My Events",
+			"CHINESE": "一个体育最多可加至25场。"
 		}
 	]
 }
