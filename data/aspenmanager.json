@@ -469,6 +469,226 @@
 			"CHINESE": "即时注单",
 			"ENGLISH": "Total Bet",
 			"_CMSKEY": "o_TOTAL_BET"
+		},
+		{
+			"_CMSKEY": "o_SUBACCOUNT",
+			"ENGLISH": "Sub Account",
+			"CHINESE": "子帐号"
+		},
+		{
+			"_CMSKEY": "o_MENU",
+			"ENGLISH": "Menu",
+			"CHINESE": "菜单"
+		},
+		{
+			"_CMSKEY": "o_SYSTEM_MESSAGE",
+			"ENGLISH": "System Message",
+			"CHINESE": "系统公告"
+		},
+		{
+			"_CMSKEY": "o_ACCOUNT_TYPE",
+			"ENGLISH": "Account Type",
+			"CHINESE": "额度模式"
+		},
+		{
+			"_CMSKEY": "o_AUTO_RECOVERY_ACCOUNT",
+			"ENGLISH": "Auto Recovery Account",
+			"CHINESE": "自动恢复"
+		},
+		{
+			"_CMSKEY": "o_AUTO_RECOVERY_ACCOUNT_MEANING",
+			"ENGLISH": "In this mode, credit will automatically be recovered daily. This is the standard mode.",
+			"CHINESE": "在此模式您的信用额度会每日自动恢复。这是标准模式。"
+		},
+		{
+			"_CMSKEY": "o_WIN_LOSS_ACCOUNT",
+			"ENGLISH": "Win/Loss Account",
+			"CHINESE": "余额浮动"
+		},
+		{
+			"_CMSKEY": "o_WIN_LOSS_ACCOUNT_MEANING",
+			"ENGLISH": "In this mode, the agent and member's credit will not automatically be recovered daily. Member's winnings and loses will also reflect automatically.",
+			"CHINESE": "在此模式代理及会员的额度不会每日自动恢复，而会员的额度转变为赢输而浮动。"
+		},
+		{
+			"_CMSKEY": "o_STATUS",
+			"ENGLISH": "Status",
+			"CHINESE": "帐户状态"
+		},
+		{
+			"_CMSKEY": "o_ACTIVE_MEANING",
+			"ENGLISH": "All functions are available for users in this status.",
+			"CHINESE": "该帐号的所有功能都能正常使用。"
+		},
+		{
+			"_CMSKEY": "o_INACTIVE_MEANING",
+			"ENGLISH": "User will not be able to log in to any site. Once an account is set to Inactive, all its downline will inherit the same status. If the account gets re-activated, downline accounts can only be re-activated individually.",
+			"CHINESE": "无法登入管理端/会员端，使用后所有下线会同样处于停用状态， 当重新启用帐号时，只会单独的启用而不会全数下线恢复启用。"
+		},
+		{
+			"_CMSKEY": "o_VIEW_ONLY_MEANING",
+			"ENGLISH": "User will only have access to view reports. Once an account is set to View Only, all its active downline will inherit the same status. If the account gets re-activated, all view only downline account will get re-activated automatically. Downline that are in \"Suspended\" or \"Inactive\" status will remain as is.",
+			"CHINESE": "允许登入管理端/会员端，但只能查看帐目而不能使用任何功能。使用后所有启用的下线会处于只能看帐的状态，当重新启用帐号后下线也会根据当时的状态而恢复，在使用前被停用或禁止登入的帐号不受此状态影响。"
+		},
+		{
+			"_CMSKEY": "o_SUSPENDED_MEANING",
+			"ENGLISH": "User will not be able to log in to any site. Once an account is set to Suspended, all Active and View Only downline accounts will inherit the same status. If the account gets re-activated, all Active and View Only downline accounts will return to its original status prior to the change.",
+			"CHINESE": "无法登入管理端/会员端，使用后所有下线会处于禁止登入状态，当重新启用帐号后其下线会按照当时的状态恢复，在使用前被停用或禁止登入的帐号不受此状态影响。"
+		},
+		{
+			"_CMSKEY": "o_POSSESS",
+			"ENGLISH": "POSSESS",
+			"CHINESE": "占成数"
+		},
+		{
+			"_CMSKEY": "o_EDITABLE_PERIOD",
+			"ENGLISH": "Editable Period",
+			"CHINESE": "可修改时间"
+		},
+		{
+			"_CMSKEY": "o_EDITABLE_PERIOD_MEANING",
+			"ENGLISH": "Every Sunday 12:00 to Monday 19:00 (GMT +8)",
+			"CHINESE": "每星期日12:00至星期一 19:00 (香港时间)"
+		},
+		{
+			"_CMSKEY": "o_EDITABLE_DATE",
+			"ENGLISH": "Editable Date",
+			"CHINESE": "生效时间"
+		},
+		{
+			"_CMSKEY": "o_EDITABLE_DATE_MEANING",
+			"ENGLISH": "Monday 19:00 (GMT +8)",
+			"CHINESE": "每星期一 19:00 (香港时间)"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD",
+			"ENGLISH": "Password",
+			"CHINESE": "密码"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD_RULE1",
+			"ENGLISH": "Password must be between 8 - 16 alphanumeric characters with at least 1 upper (A - Z) and lowercase letters (a - z) and at least 1 numeric character (0 - 9).",
+			"CHINESE": "密码必须至少要有一个大写, 一个小写英文字母和数字(0 - 9)组合, 字数最少8至16个。"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD_RULE2",
+			"ENGLISH": "Password must contain at least 3 different alphanumeric characters.",
+			"CHINESE": "密码必须三个不同的字母数字。"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD_RULE3",
+			"ENGLISH": "Password must NOT contain any spaces.",
+			"CHINESE": "密码不允许有空格。"
+		},
+		{
+			"_CMSKEY": "o_SPREAD_GROUP",
+			"ENGLISH": "Spread Group",
+			"CHINESE": "盘口种类"
+		},
+		{
+			"_CMSKEY": "o_SPREAD_GROUP_MEANING",
+			"ENGLISH": "Once the account is created, Spread Group can no longer be changed.",
+			"CHINESE": "帐号一旦新增后, 此项目无法更改。"
+		},
+		{
+			"_CMSKEY": "o_SAVE_APPLY_ALL_SPORTS",
+			"ENGLISH": "Save & Apply to All Sports",
+			"CHINESE": "保存及应用于所有球类"
+		},
+		{
+			"_CMSKEY": "o_SAVE_APPLY_ALL_SPORTS_MEANING",
+			"ENGLISH": "Clicking \"Save & Apply to All Sports\" will copy settings on Soccer to the rest of the sports tab.",
+			"CHINESE": "按\"保存及应用于所有球类\" 会将足球的设定复制到所有球类。"
+		},
+		{
+			"_CMSKEY": "o_BET_LIMIT",
+			"ENGLISH": "Bet Limit",
+			"CHINESE": "投注限额"
+		},
+		{
+			"_CMSKEY": "o_MAX_PER_EVENT",
+			"ENGLISH": "Max per Event",
+			"CHINESE": "单场最高"
+		},
+		{
+			"_CMSKEY": "o_MAX_PER_EVENT_MEANING",
+			"ENGLISH": "Maximum bet amount will vary depending on the bet type and event ID, except for Odd / Even",
+			"CHINESE": "单场最高投注金额的限制是根据个别玩法和场次号, 单双除外"
+		},
+		{
+			"_CMSKEY": "o_MAX_PER_BET",
+			"ENGLISH": "Max per Bet",
+			"CHINESE": "单注最高"
+		},
+		{
+			"_CMSKEY": "o_MAX_PER_BET_MEANING",
+			"ENGLISH": "Maximum bet amount for each wager",
+			"CHINESE": "单注的最高投注额"
+		},
+		{
+			"_CMSKEY": "o_COMMISSION_BET_LIMIT_LESS_THAN_MESSAGE",
+			"ENGLISH": "Your Commission & Bet Limit settings cannot be less than your downline's Commission & Bet Limit settings.",
+			"CHINESE": "退水和限额设定值不可小于下线。"
+		},
+		{
+			"_CMSKEY": "o_SOCCER_HANDICAP_OU_OE",
+			"ENGLISH": "Soccer - Handicap, Over / Under, Odd / Even",
+			"CHINESE": "足球 - 让球, 大 / 小, 单 / 双"
+		},
+		{
+			"_CMSKEY": "o_TICKET_NO_13338728057",
+			"ENGLISH": "Ticket No: 13338728057",
+			"CHINESE": "注单号: 13338728057"
+		},
+		{
+			"_CMSKEY": "o_TICKET_NO_13338728057_MESSAGE",
+			"ENGLISH": "Badminton: 09/22 [test.test] (TEST A VS TEST C) - Wager Number: 13338738057 will be considered VOID due to wrong Odds/Handicap odds being offered.",
+			"CHINESE": "羽毛球赛事: 09月22日 test.test (测试A VS 测试C ) 因盘口/赔率错误, 注单号: 13338738057一律取消."
+		},
+		{
+			"_CMSKEY": "o_ISSUE_CONNECTING_TRY_AGAIN_MESSAGE",
+			"ENGLISH": "Sorry, there seems to be an issue connecting. Please try again.",
+			"CHINESE": "为您载入客服对话视窗时遇到些问题，请再试一次。"
+		},
+		{
+			"_CMSKEY": "o_SYSTEM_BUSY_TRY_AGAIN_MESSAGE",
+			"ENGLISH": "System busy, Please try again later!!",
+			"CHINESE": "系统忙碌中, 请稍候再查询!!"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD_RECOVERY",
+			"ENGLISH": "Password Recovery",
+			"CHINESE": "密码恢复"
+		},
+		{
+			"_CMSKEY": "o_CANCEL_PASSWORD_RECOVERY",
+			"ENGLISH": "Cancel Password Recovery?",
+			"CHINESE": "取消密码恢复？"
+		},
+		{
+			"_CMSKEY": "o_UNSAVED_CHANGES_MESSAGE",
+			"ENGLISH": "Your unsaved changes will be lost if you decide to navigate away. Are you sure you want to leave this page?",
+			"CHINESE": "若您离开此页所有未保存的更改都将丢失。确定要离开此页吗？"
+		},
+		{
+			"_CMSKEY": "o_NEW_MASTER_AGENT",
+			"ENGLISH": "New Master Agent",
+			"CHINESE": "新增总代理"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD_RESET",
+			"ENGLISH": "Password Reset",
+			"CHINESE": "更改密码"
+		},
+		{
+			"_CMSKEY": "o_PASSWORD_STRENGTH",
+			"ENGLISH": "Password Strength",
+			"CHINESE": "密码强度"
+		},
+		{
+			"_CMSKEY": "o_AVAILABLE_CREDIT",
+			"ENGLISH": "Available Credit: ",
+			"CHINESE": "剩余额度"
 		}
 	]
 }
