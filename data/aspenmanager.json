@@ -689,6 +689,21 @@
 			"_CMSKEY": "o_AVAILABLE_CREDIT",
 			"ENGLISH": "Available Credit: ",
 			"CHINESE": "剩余额度"
+		},
+		{
+			"_CMSKEY": "o_RESULTS",
+			"ENGLISH": "Results",
+			"CHINESE": "赛果"
+		},
+		{
+			"_CMSKEY": "o_MESSAGE_US",
+			"ENGLISH": "Message Us",
+			"CHINESE": "联系客服"
+		},
+		{
+			"_CMSKEY": "o_CALL_US",
+			"ENGLISH": "Call Us",
+			"CHINESE": "客服电话"
 		}
 	]
 }
