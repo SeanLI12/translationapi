@@ -704,6 +704,11 @@
 			"_CMSKEY": "o_CALL_US",
 			"ENGLISH": "Call Us",
 			"CHINESE": "客服电话"
+		},
+		{
+			"_CMSKEY": "o_CONFIRM",
+			"ENGLISH": "Confirm",
+			"CHINESE": "确认"
 		}
 	]
 }
