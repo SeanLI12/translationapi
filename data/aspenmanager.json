@@ -709,6 +709,11 @@
 			"_CMSKEY": "o_CONFIRM",
 			"ENGLISH": "Confirm",
 			"CHINESE": "确认"
+		},
+		{
+			"_CMSKEY": "o_INFO",
+			"ENGLISH": "Info",
+			"CHINESE": "信息"
 		}
 	]
 }
