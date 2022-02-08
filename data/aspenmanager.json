@@ -714,6 +714,71 @@
 			"_CMSKEY": "o_INFO",
 			"ENGLISH": "Info",
 			"CHINESE": "信息"
+		},
+		{
+			"_CMSKEY": "o_TOP10_LOSING_MEMBERS",
+			"ENGLISH": "Top 10 Losing Members",
+			"CHINESE": "前十输家"
+		},
+		{
+			"_CMSKEY": "o_TOP10_WININNG_MEMBERS",
+			"ENGLISH": "Top 10 Winning Members",
+			"CHINESE": "前十赢家"
+		},
+		{
+			"_CMSKEY": "o_USERCODE",
+			"ENGLISH": "User Code",
+			"CHINESE": "帐号"
+		},
+		{
+			"_CMSKEY": "o_NAME",
+			"ENGLISH": "Name",
+			"CHINESE": "名称"
+		},
+		{
+			"_CMSKEY": "o_TOTAL_WAGER",
+			"ENGLISH": "Total Wager",
+			"CHINESE": "总计笔数"
+		},
+		{
+			"_CMSKEY": "o_TOTAL_STAKE",
+			"ENGLISH": "Total Stake",
+			"CHINESE": "总计下注金额"
+		},
+		{
+			"_CMSKEY": "o_TURNOVER_WINNING_PERCENTAGE",
+			"ENGLISH": "Turnover & Winning Percentage",
+			"CHINESE": "实货量 & 胜率"
+		},
+		{
+			"_CMSKEY": "o_SHOW_DATA_TABLE",
+			"ENGLISH": "Show Data Table",
+			"CHINESE": "显示数据"
+		},
+		{
+			"_CMSKEY": "o_MEMBERS_LOSS",
+			"ENGLISH": "Member's Loss",
+			"CHINESE": "会员损失"
+		},
+		{
+			"_CMSKEY": "o_POSITIVE",
+			"ENGLISH": "Positive",
+			"CHINESE": "正值"
+		},
+		{
+			"_CMSKEY": "o_NEGATIVE",
+			"ENGLISH": "Negative",
+			"CHINESE": "负值"
+		},
+		{
+			"_CMSKEY": "o_DAY",
+			"ENGLISH": "Day",
+			"CHINESE": "日期"
+		},
+		{
+			"_CMSKEY": "o_WINNING_PERCENTAGE",
+			"ENGLISH": "Winning Percentage",
+			"CHINESE": "胜率"
 		}
 	]
 }
