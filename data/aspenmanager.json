@@ -779,6 +779,11 @@
 			"_CMSKEY": "o_WINNING_PERCENTAGE",
 			"ENGLISH": "Winning Percentage",
 			"CHINESE": "胜率"
+		},
+		{
+			"_CMSKEY": "o_THIS_WEEK",
+			"ENGLISH": "This Week",
+			"CHINESE": "本星期"
 		}
 	]
 }
