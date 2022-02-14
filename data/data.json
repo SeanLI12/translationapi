@@ -4096,7 +4096,7 @@
 			"_CMSKEY": "o_BETAMOUNT"
 		},
 		{
-			"CHINESE": "赢",
+			"CHINESE": "冠",
 			"ENGLISH": "Win",
 			"_CMSKEY": "o_WIN"
 		},
@@ -5851,7 +5851,7 @@
 			"_CMSKEY": "o_ANYTIME"
 		},
 		{
-			"CHINESE": "最後進球",
+			"CHINESE": "殿",
 			"ENGLISH": "Last",
 			"_CMSKEY": "o_LAST"
 		},
@@ -6309,6 +6309,136 @@
 			"_CMSKEY": "o_MAX_OF_25_EVENTS_PER_SPORT",
 			"ENGLISH": "Max of 25 events per sport can be added to My Events",
 			"CHINESE": "一个体育最多可加至25场。"
+		},
+		{
+			"_CMSKEY": "o_HIGHLIGHTS_TAB",
+			"ENGLISH": "Highlights  (Tab)",
+			"CHINESE": "精选"
+		},
+		{
+			"_CMSKEY": "o_TEAMS_TAB",
+			"ENGLISH": "Teams     (Tab)",
+			"CHINESE": "队伍"
+		},
+		{
+			"_CMSKEY": "o_GROUP_A",
+			"ENGLISH": "GROUP A",
+			"CHINESE": "A 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_B",
+			"ENGLISH": "GROUP B",
+			"CHINESE": "B 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_C",
+			"ENGLISH": "GROUP C",
+			"CHINESE": "C 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_D",
+			"ENGLISH": "GROUP D",
+			"CHINESE": "D 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_E",
+			"ENGLISH": "GROUP E",
+			"CHINESE": "E 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_F",
+			"ENGLISH": "GROUP F",
+			"CHINESE": "F 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_G",
+			"ENGLISH": "GROUP G",
+			"CHINESE": "G 组"
+		},
+		{
+			"_CMSKEY": "o_GROUP_H",
+			"ENGLISH": "GROUP H",
+			"CHINESE": "H 组"
+		},
+		{
+			"_CMSKEY": "o_SEMI_FINALS",
+			"ENGLISH": "SEMI FINALS",
+			"CHINESE": "半决赛"
+		},
+		{
+			"_CMSKEY": "o_THIRD_PLACE",
+			"ENGLISH": "THIRD PLACE",
+			"CHINESE": "季軍賽"
+		},
+		{
+			"_CMSKEY": "o_FINAL",
+			"ENGLISH": "FINAL",
+			"CHINESE": "决赛"
+		},
+		{
+			"_CMSKEY": "o_P",
+			"ENGLISH": "P",
+			"CHINESE": "比赛"
+		},
+		{
+			"_CMSKEY": "o_PTS",
+			"ENGLISH": "Pts",
+			"CHINESE": "积分"
+		},
+		{
+			"_CMSKEY": "o_PLUS_MINUS",
+			"ENGLISH": "+/-",
+			"CHINESE": "净胜球"
+		},
+		{
+			"_CMSKEY": "o_W",
+			"ENGLISH": "W",
+			"CHINESE": "胜"
+		},
+		{
+			"_CMSKEY": "o_D",
+			"ENGLISH": "D",
+			"CHINESE": "平"
+		},
+		{
+			"_CMSKEY": "o_L",
+			"ENGLISH": "L",
+			"CHINESE": "负"
+		},
+		{
+			"_CMSKEY": "o_GF",
+			"ENGLISH": "GF",
+			"CHINESE": "进球"
+		},
+		{
+			"_CMSKEY": "o_GA",
+			"ENGLISH": "GA",
+			"CHINESE": "失球"
+		},
+		{
+			"_CMSKEY": "o_TOP_2",
+			"ENGLISH": "Top 2",
+			"CHINESE": "前二名"
+		},
+		{
+			"_CMSKEY": "o_2ND",
+			"ENGLISH": "2nd",
+			"CHINESE": "亚"
+		},
+		{
+			"_CMSKEY": "o_3RD",
+			"ENGLISH": "3rd",
+			"CHINESE": "季"
+		},
+		{
+			"_CMSKEY": "o_VIEW_ALL_OUTRIGHT",
+			"ENGLISH": "View All Outright",
+			"CHINESE": "所有冠军"
+		},
+		{
+			"_CMSKEY": "o_VIEW_ALL_MATCHES",
+			"ENGLISH": "View All Matches",
+			"CHINESE": "所有赛事"
 		}
 	]
 }
