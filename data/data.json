@@ -6439,6 +6439,11 @@
 			"_CMSKEY": "o_VIEW_ALL_MATCHES",
 			"ENGLISH": "View All Matches",
 			"CHINESE": "所有赛事"
+		},
+		{
+			"_CMSKEY": "o_VIEW_ALL",
+			"ENGLISH": "View All",
+			"CHINESE": "顯示所有"
 		}
 	]
 }
