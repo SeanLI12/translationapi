@@ -6444,6 +6444,16 @@
 			"_CMSKEY": "o_VIEW_ALL",
 			"ENGLISH": "View All",
 			"CHINESE": "顯示所有"
+		},
+		{
+			"_CMSKEY": "o_ROUND_OF_16",
+			"ENGLISH": "ROUND OF 16",
+			"CHINESE": "1/8决赛"
+		},
+		{
+			"_CMSKEY": "o_QUARTER_FINALS",
+			"ENGLISH": "QUARTER FINALS",
+			"CHINESE": "1/4决赛"
 		}
 	]
 }
