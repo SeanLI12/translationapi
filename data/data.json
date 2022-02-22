@@ -4096,7 +4096,7 @@
 			"_CMSKEY": "o_BETAMOUNT"
 		},
 		{
-			"CHINESE": "冠",
+			"CHINESE": "冠军",
 			"ENGLISH": "Win",
 			"_CMSKEY": "o_WIN"
 		},
@@ -5851,7 +5851,7 @@
 			"_CMSKEY": "o_ANYTIME"
 		},
 		{
-			"CHINESE": "殿",
+			"CHINESE": "殿军",
 			"ENGLISH": "Last",
 			"_CMSKEY": "o_LAST"
 		},
@@ -6423,12 +6423,12 @@
 		{
 			"_CMSKEY": "o_2ND",
 			"ENGLISH": "2nd",
-			"CHINESE": "亚"
+			"CHINESE": "亚军"
 		},
 		{
 			"_CMSKEY": "o_3RD",
 			"ENGLISH": "3rd",
-			"CHINESE": "季"
+			"CHINESE": "季军"
 		},
 		{
 			"_CMSKEY": "o_VIEW_ALL_OUTRIGHT",
