@@ -3061,7 +3061,7 @@
 			"_CMSKEY": "o_EARLY"
 		},
 		{
-			"CHINESE": "连串过关",
+			"CHINESE": "综合过关",
 			"ENGLISH": "PARLAY",
 			"_CMSKEY": "o_PARLAY"
 		},
@@ -6454,6 +6454,21 @@
 			"_CMSKEY": "o_QUARTER_FINALS",
 			"ENGLISH": "QUARTER FINALS",
 			"CHINESE": "1/4决赛"
+		},
+		{
+			"_CMSKEY": "o_ENGLISH_PREMIER_LEAGUE",
+			"ENGLISH": "English Premier League",
+			"CHINESE": "英格兰超级联赛"
+		},
+		{
+			"_CMSKEY": "o_GERMANY_BUNDESLIGA_1",
+			"ENGLISH": "Germany Bundesliga 1",
+			"CHINESE": "德国甲组联赛"
+		},
+		{
+			"_CMSKEY": "o_31_07",
+			"ENGLISH": "31/07",
+			"CHINESE": "7月31日"
 		}
 	]
 }
