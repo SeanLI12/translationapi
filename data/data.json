@@ -4716,17 +4716,17 @@
 			"_CMSKEY": "o_STATISTICS"
 		},
 		{
-			"CHINESE": "",
+			"CHINESE": "时间线",
 			"ENGLISH": "TIMELINE",
 			"_CMSKEY": "o_TIMELINE"
 		},
 		{
-			"CHINESE": "",
+			"CHINESE": "一对一",
 			"ENGLISH": "HEAD TO HEAD",
 			"_CMSKEY": "o_HEAD_TO_HEAD"
 		},
 		{
-			"CHINESE": "",
+			"CHINESE": "排名",
 			"ENGLISH": "STANDINGS",
 			"_CMSKEY": "o_STANDINGS"
 		},
