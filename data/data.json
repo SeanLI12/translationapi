@@ -3147,7 +3147,7 @@
 		},
 		{
 			"CHINESE": "赛事盘口",
-			"ENGLISH": "Matche Matkets",
+			"ENGLISH": "Match Markets",
 			"_CMSKEY": "o_MATCHMARKETS"
 		},
 		{
@@ -5699,6 +5699,11 @@
 			"CHINESE": "热门",
 			"ENGLISH": "Highlights",
 			"_CMSKEY": "o_HIGHLIGHTS"
+		},
+		{
+			"CHINESE": "隊伍",
+			"ENGLISH": "TEAMS",
+			"_CMSKEY": "o_TEAMS"
 		},
 		{
 			"CHINESE": "特殊赛事名称",
