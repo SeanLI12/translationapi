@@ -3051,6 +3051,11 @@
 			"_CMSKEY": "o_INPLAY"
 		},
 		{
+			"CHINESE": "滚球",
+			"ENGLISH": "IN-PLAY",
+			"_CMSKEY": "o_IN_PLAY"
+		},
+		{
 			"CHINESE": "即将开赛",
 			"ENGLISH": "UPCOMING",
 			"_CMSKEY": "o_UPCOMING"
@@ -4847,7 +4852,7 @@
 		},
 		{
 			"CHINESE": "主要玩法",
-			"ENGLISH": "General Rule",
+			"ENGLISH": "Main Markets",
 			"_CMSKEY": "o_MAINMARKETS"
 		},
 		{
