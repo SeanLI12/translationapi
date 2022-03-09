@@ -3,6 +3,54 @@
 		{
 			"ENGLISH": "Dashboard Test",
 			"CHINESE": "首页"
+		},
+		{
+			"ENGLISH": "Jan",
+			"CHINESE": "一月"
+		},
+		{
+			"ENGLISH": "Feb",
+			"CHINESE": "二月"
+		},
+		{
+			"ENGLISH": "Mar",
+			"CHINESE": "三月"
+		},
+		{
+			"ENGLISH": "Apr",
+			"CHINESE": "四月"
+		},
+		{
+			"ENGLISH": "May",
+			"CHINESE": "五月"
+		},
+		{
+			"ENGLISH": "Jun",
+			"CHINESE": "六月"
+		},
+		{
+			"ENGLISH": "Jul",
+			"CHINESE": "七月"
+		},
+		{
+			"ENGLISH": "Aug",
+			"CHINESE": "八月"
+		},
+		{
+			"ENGLISH": "Sep",
+			"CHINESE": "九月"
+		},
+		{
+			"ENGLISH": "Oct",
+			"CHINESE": "十月"
+		},
+		{
+			"ENGLISH": "Nov",
+			"CHINESE": "十一月"
+		},
+		{
+			"ENGLISH": "Dec",
+			"CHINESE": "十二月"
 		}
 	]
 }
