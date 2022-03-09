@@ -6,6 +6,11 @@
 			"CHINESE": "让球"
 		},
 		{
+			"_CMSKEY": "o_HANDICAPS",
+			"ENGLISH": "Handicaps",
+			"CHINESE": "让球"
+		},
+		{
 			"_CMSKEY": "o_HANDICAP_1ST_HALF",
 			"ENGLISH": "Handicap - 1st Half",
 			"CHINESE": "让球 - 上半场"
@@ -44,6 +49,11 @@
 			"_CMSKEY": "o_WINNER_TO_QUALIFY",
 			"ENGLISH": "Winner / To Qualify",
 			"CHINESE": "冠軍/晉級"
+		},
+		{
+			"_CMSKEY": "o_TO_QUALIFY_WINNER",
+			"ENGLISH": "To Qualify / Winner",
+			"CHINESE": "冠军/晋级"
 		},
 		{
 			"_CMSKEY": "o_CORRECT_SCORE",
