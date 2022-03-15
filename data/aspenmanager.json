@@ -784,6 +784,21 @@
 			"_CMSKEY": "o_THIS_WEEK",
 			"ENGLISH": "This Week",
 			"CHINESE": "本星期"
+		},
+		{
+			"_CMSKEY": "o_NEW_MEMBER",
+			"ENGLISH": "New Member",
+			"CHINESE": "新增会员"
+		},
+		{
+			"_CMSKEY": "o_NEW_AGENT",
+			"ENGLISH": "New Agent",
+			"CHINESE": "新增代理"
+		},
+		{
+			"_CMSKEY": "o_NEW_MA",
+			"ENGLISH": "New MA",
+			"CHINESE": "新增总代理"
 		}
 	]
 }
