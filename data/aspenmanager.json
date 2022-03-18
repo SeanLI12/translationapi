@@ -301,8 +301,8 @@
 			"_CMSKEY": "o_ANY_OTHER_SCORE"
 		},
 		{
-			"CHINESE": "版权声明 © 2021。 版权所有",
-			"ENGLISH": "Copyright © 2021. All rights reserved.",
+			"CHINESE": "版权声明 © 2022。 版权所有",
+			"ENGLISH": "Copyright © 2022. All rights reserved.",
 			"_CMSKEY": "o_COPYRIGHGTS"
 		},
 		{
@@ -788,17 +788,22 @@
 		{
 			"_CMSKEY": "o_NEW_MEMBER",
 			"ENGLISH": "New Member",
-			"CHINESE": "新增会员"
+			"CHINESE": "新会员"
 		},
 		{
 			"_CMSKEY": "o_NEW_AGENT",
 			"ENGLISH": "New Agent",
-			"CHINESE": "新增代理"
+			"CHINESE": "新代理"
 		},
 		{
 			"_CMSKEY": "o_NEW_MA",
 			"ENGLISH": "New MA",
-			"CHINESE": "新增总代理"
+			"CHINESE": "新总代"
+		},
+		{
+			"_CMSKEY": "o_SEARCH",
+			"ENGLISH": "Search",
+			"CHINESE": "搜帐号"
 		}
 	]
 }
