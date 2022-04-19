@@ -3376,7 +3376,7 @@
       "_CMSKEY": "o_BOOKINGMSG"
     },
     {
-      "CHINESE": "进球:单 / 双",
+      "CHINESE": "进球:单 / 双",
       "ENGLISH": "Goals Odd / Even",
       "_CMSKEY": "o_GOALSODDEVEN"
     },
@@ -3581,7 +3581,7 @@
       "_CMSKEY": "o_2H"
     },
     {
-      "CHINESE": "加时 下半场",
+      "CHINESE": "加时 下半场",
       "ENGLISH": "ET 2H",
       "_CMSKEY": "o_ET2H"
     },
@@ -6493,7 +6493,7 @@
     {
       "_CMSKEY": "o_ET_1H",
       "ENGLISH": "ET 1H",
-      "CHINESE": "加时 上半场"
+      "CHINESE": "加时 上半场"
     },
     {
       "_CMSKEY": "o_GOALS_OVER_UNDER",
@@ -6506,14 +6506,19 @@
       "CHINESE": "进球 大 / 小 上半场"
     },
     {
-      "_CMSKEY": "o_GOALS_OVER_UNDER_1H",
-      "ENGLISH": "Goals Over / Under 1H",
-      "CHINESE": "进球 大 / 小 上半场"
-    },
-    {
       "_CMSKEY": "o_HDP_OU",
       "ENGLISH": "HDP & O/U",
-      "CHINESE": "让球&大小"
+      "CHINESE": "让球&大/小"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ALL_MARKETS",
+      "ENGLISH": "View All Markets",
+      "CHINESE": "所有玩法"
+    },
+    {
+      "_CMSKEY": "o_GOALS_OU_1H",
+      "ENGLISH": "Goals O/U 1H",
+      "CHINESE": "得分大小"
     }
   ]
 }
