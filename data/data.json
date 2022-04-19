@@ -6504,6 +6504,16 @@
       "_CMSKEY": "o_GOALS_OVER_UNDER_1H",
       "ENGLISH": "Goals Over / Under 1H",
       "CHINESE": "进球 大 / 小 上半场"
+    },
+    {
+      "_CMSKEY": "o_GOALS_OVER_UNDER_1H",
+      "ENGLISH": "Goals Over / Under 1H",
+      "CHINESE": "进球 大 / 小 上半场"
+    },
+    {
+      "_CMSKEY": "o_HDP_OU",
+      "ENGLISH": "HDP & O/U",
+      "CHINESE": "让球&大小"
     }
   ]
 }
