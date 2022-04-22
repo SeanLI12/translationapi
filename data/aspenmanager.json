@@ -1000,257 +1000,256 @@
       "ENGLISH": "Create Template",
       "CHINESE": "创建模板"
     },
-
     {
       "_CMSKEY": "o_EDIT_TEMPLATE",
-      "_ENGLISH": "Edit Template",
+      "ENGLISH": "Edit Template",
       "CHINESE": "编辑模板"
     },
     {
       "_CMSKEY": "o_TEMPLATE_NAME",
-      "_ENGLISH": "Template Name",
+      "ENGLISH": "Template Name",
       "CHINESE": "模板名"
     },
     {
       "_CMSKEY": "o_DEFAULT_URL_QRCODE",
-      "_ENGLISH": "Default URL for QR Code",
+      "ENGLISH": "Default URL for QR Code",
       "CHINESE": "设默认网址用于产生二维码"
     },
     {
       "_CMSKEY": "o_DEFAULT_URL_QRCODE_MEANING",
-      "_ENGLISH": "This is the URL that will be used for QR code generation.",
+      "ENGLISH": "This is the URL that will be used for QR code generation.",
       "CHINESE": "选定的网址 会用于产生二维码"
     },
     {
       "_CMSKEY": "o_SET_DEFAULT_PASSWORD",
-      "_ENGLISH": "Set Default Password",
+      "ENGLISH": "Set Default Password",
       "CHINESE": "设默认密码"
     },
     {
       "_CMSKEY": "o_SET_DEFAULT_PASSWORD_MEANING",
-      "_ENGLISH": "Member will be forced to change password upon first login.",
+      "ENGLISH": "Member will be forced to change password upon first login.",
       "CHINESE": "会员首次登入必须更改密码。"
     },
     {
       "_CMSKEY": "o_SET_DEFAULT_CREDITLIMIT",
-      "_ENGLISH": "Set Default Credit Limit",
+      "ENGLISH": "Set Default Credit Limit",
       "CHINESE": "设默认信用额度"
     },
     {
       "_CMSKEY": "o_SET_ATLEAST_ONE _CURRENCY",
-      "_ENGLISH": "Set at least one currency. ",
+      "ENGLISH": "Set at least one currency. ",
       "CHINESE": "请选一个货币"
     },
-    { "_CMSKEY": "o_VERY_WEAK", "_ENGLISH": "Very Weak", "CHINESE": "非常弱" },
-    { "_CMSKEY": "o_WEAK", "_ENGLISH": "Weak", "CHINESE": "弱" },
-    { "_CMSKEY": "o_FAIR", "_ENGLISH": "Fair", "CHINESE": "一般" },
-    { "_CMSKEY": "o_GOOD", "_ENGLISH": "Good", "CHINESE": "好" },
-    { "_CMSKEY": "o_STRONG", "_ENGLISH": "Strong", "CHINESE": "强" },
+    { "_CMSKEY": "o_VERY_WEAK", "ENGLISH": "Very Weak", "CHINESE": "非常弱" },
+    { "_CMSKEY": "o_WEAK", "ENGLISH": "Weak", "CHINESE": "弱" },
+    { "_CMSKEY": "o_FAIR", "ENGLISH": "Fair", "CHINESE": "一般" },
+    { "_CMSKEY": "o_GOOD", "ENGLISH": "Good", "CHINESE": "好" },
+    { "_CMSKEY": "o_STRONG", "ENGLISH": "Strong", "CHINESE": "强" },
     {
       "_CMSKEY": "o_VERY_WEAK_MEANING",
-      "_ENGLISH": "It would take a computer 0.03 Seconds to crack your password.",
+      "ENGLISH": "It would take a computer 0.03 Seconds to crack your password.",
       "CHINESE": "一台电脑破解您的密码需要 0.03 秒"
     },
     {
       "_CMSKEY": "o_WEAK_MEANING",
-      "_ENGLISH": "It would take a computer 43.5 Minutes to crack your password.",
+      "ENGLISH": "It would take a computer 43.5 Minutes to crack your password.",
       "CHINESE": "一台电脑破解您的密码需要 43.5 分钟"
     },
     {
       "_CMSKEY": "o_FAIR_MEANING",
-      "_ENGLISH": "It would take a computer 3 Days to crack your password.",
+      "ENGLISH": "It would take a computer 3 Days to crack your password.",
       "CHINESE": "一台电脑破解您的密码需要 3 天"
     },
     {
       "_CMSKEY": "o_GOOD_MEANING",
-      "_ENGLISH": "It would take a computer 7 Months to crack your password.",
+      "ENGLISH": "It would take a computer 7 Months to crack your password.",
       "CHINESE": "一台电脑破解您的密码需要 57个月"
     },
     {
       "_CMSKEY": "o_STRONG_MEANING",
-      "_ENGLISH": "It would take a computer 3 Years to crack your password.",
+      "ENGLISH": "It would take a computer 3 Years to crack your password.",
       "CHINESE": "一台电脑破解您的密码需要 3 年"
     },
-    { "_CMSKEY": "o_CREATING", "_ENGLISH": "Creating", "CHINESE": "创建中" },
-    { "_CMSKEY": "o_SAVING", "_ENGLISH": "Saving", "CHINESE": "保存中" },
-    { "_CMSKEY": "o_QR_CODE", "_ENGLISH": "QR Code", "CHINESE": "二维码" },
+    { "_CMSKEY": "o_CREATING", "ENGLISH": "Creating", "CHINESE": "创建中" },
+    { "_CMSKEY": "o_SAVING", "ENGLISH": "Saving", "CHINESE": "保存中" },
+    { "_CMSKEY": "o_QR_CODE", "ENGLISH": "QR Code", "CHINESE": "二维码" },
     {
       "_CMSKEY": "o_QR_CODE_MEANING",
-      "_ENGLISH": "Share this QR Code with your member to use as their initial log-in.",
+      "ENGLISH": "Share this QR Code with your member to use as their initial log-in.",
       "CHINESE": " 将二维码共享给会员，让他们用于初始登录。"
     },
     {
       "_CMSKEY": "o_ACCOUNT_INFORMATION",
-      "_ENGLISH": "Account Information",
+      "ENGLISH": "Account Information",
       "CHINESE": "帐户信息"
     },
     {
       "_CMSKEY": "o_SELECT_A _URL",
-      "_ENGLISH": "Select a URL",
+      "ENGLISH": "Select a URL",
       "CHINESE": "请选网址"
     },
     {
       "_CMSKEY": "o_SELECT_A _URL_MEANING",
-      "_ENGLISH": "Please select a URL to generate a QR code.",
+      "ENGLISH": "Please select a URL to generate a QR code.",
       "CHINESE": "请选网址用于产生二维码"
     },
     {
       "_CMSKEY": "o_LEARN_MORE",
-      "_ENGLISH": "Learn More",
+      "ENGLISH": "Learn More",
       "CHINESE": "了解更多"
     },
-    { "_CMSKEY": "o_HELP", "_ENGLISH": "Help", "CHINESE": "了解更多" },
+    { "_CMSKEY": "o_HELP", "ENGLISH": "Help", "CHINESE": "了解更多" },
     {
       "_CMSKEY": "o_HOW_TO_GUIDE",
-      "_ENGLISH": "How-To Guide",
+      "ENGLISH": "How-To Guide",
       "CHINESE": "用户指南"
     },
     {
       "_CMSKEY": "o_MEMBER_AC_TEMPLATES",
-      "_ENGLISH": "Member A/C Templates",
+      "ENGLISH": "Member A/C Templates",
       "CHINESE": "创建会员帐户模板"
     },
     {
       "_CMSKEY": "o_MEMBER_AC_TEMPLATES_CONTENT",
-      "_ENGLISH": "",
-      "CHINESE": ""
+      "ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!&#x000d;<br/> &#x000d;<br/>You can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.",
+      "CHINESE": "使用会员帐户模板节省时间快熟创建新会员！&#x000d;<br/>&#x000d;<br/>帐户模板可以让你制定帐户的一些设置值。最多可以创建5个会员帐户模板。"
     },
     {
       "_CMSKEY": "o_CREATE_A_TEMPLATE_CONTENT",
-      "_ENGLISH": "",
-      "CHINESE": ""
+      "ENGLISH": "Press the ‘Create Template’ button and set up a custom template.&#x000d;<br/> &#x000d;<br/>Apply the following defaults settings for your template:&#x000d;<br/> &#x000d;<br/>1. Commission &amp; Bet Limits.&#x000d;<br/>2. Default Password (Member will be forced to change once they log in the first time).&#x000d;<br/>3. Member Site URL&#x000d;<br/>4. Spread Group&#x000d;<br/>5. Credit Limit&#x000d;<br/> &#x000d;<br/>Enter a name for your template and press ‘Create’.",
+      "CHINESE": "按“创建模板”按钮并设置自定义模板。&#x000d;<br/>&#x000d;<br/>在模板里设以下默认值：&#x000d;<br/>&#x000d;<br/>1. 退水和限额。&#x000d;<br/>2. 默认密码（会员首次登录会被强制更改）。&#x000d;<br/>3. 会员端网址&#x000d;<br/>4. 盘口种类&#x000d;<br/>5. 信用额度&#x000d;<br/>&#x000d;<br/>输入模板名称，然后按“创建”。使用模板添加帐户"
     },
     {
       "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT",
-      "_ENGLISH": "Use a template to add an account",
+      "ENGLISH": "Use a template to add an account",
       "CHINESE": "用模板来创建帐号"
     },
     {
       "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT_CONTENT",
-      "_ENGLISH": "",
-      "CHINESE": ""
+      "ENGLISH": "Select ‘New Member’.&#x000d;<br/>&#x000d;<br/>STEP 1 &#x000d;<br/>Select your preferred template. The following fields will auto-populate based on the selected template: &#x000d;<br/>&#x000d;<br/>1. Commission &amp; Bet Limits &#x000d;<br/>2. Member Password &#x000d;<br/>3. Credit Limit &#x000d;<br/>&#x000d;<br/>STEP 2 &#x000d;<br/>Press the ‘Generate’ button on the User Code field and let the system easily find an available user code for you. &#x000d;<br/>&#x000d;<br/>STEP 3 &#x000d;<br/>Enter a name for the new account. &#x000d;<br/>&#x000d;<br/>Press ‘Next’ and the system will generate a QR Code and a tokenized URL for you.&#x000d;<br/>&#x000d;<br/>‘Share’ the QR Code or the Tokenized URL with your new Member to easily get them started. &#x000d;<br/>&#x000d;<br/>Note: The first time they log in they will be required to create their own Login ID and change the default password to secure their new account.",
+      "CHINESE": "第1步&#x000d;<br/>选择您享用的模板。新会员页面的字段会根据所选模板的设置自动填充：&#x000d;<br/>&#x000d;<br/>1.退水和限额。&#x000d;<br/>2.默认密码&#x000d;<br/>3.信用额度&#x000d;<br/>&#x000d;<br/>第2步&#x000d;<br/>在帐号字段按“生成”按钮，让系统自动产生可用帐号。&#x000d;<br/>&#x000d;<br/>&#x000d;<br/>第 3 步&#x000d;<br/>输入新帐户名称。&#x000d;<br/>&#x000d;<br/>按“下一步”，系统会生成二维码和一次性用的 网址。&#x000d;<br/>&#x000d;<br/>按“分享”把二维码或一次性用 网址共享给会员，让他们快熟登入会员立即开始下单。&#x000d;<br/>&#x000d;<br/>注意：首次登录时，会员必须创建自己登入帐号而改默认密码，以保护帐户的安全。&#x000d;<br/>"
     },
     {
       "_CMSKEY": "o_CONFIRM_MODAL_DELETE_TEMPLATE",
-      "_ENGLISH": "Are you sure you want to delete this template?",
+      "ENGLISH": "Are you sure you want to delete this template?",
       "CHINESE": "确定删除此模板？"
     },
     {
       "_CMSKEY": "o_CONFIRM_MODAL_UNSAVED_CHANGES_WILL_BE_LOST",
-      "_ENGLISH": "Your unsaved changes will be lost if you decide to navigate away. Are you sure you want to leave this page?",
+      "ENGLISH": "Your unsaved changes will be lost if you decide to navigate away. Are you sure you want to leave this page?",
       "CHINESE": "若您离开此页所有未保存的更改都将丢失。确定要离开此页吗？"
     },
     {
       "_CMSKEY": "o_USERCODE_MEANING",
-      "_ENGLISH": "Create a user code for your member by clicking on the generate button.",
+      "ENGLISH": "Create a user code for your member by clicking on the generate button.",
       "CHINESE": "点击“产生”按钮自动生成可用的帐号名称 。"
     },
     {
       "_CMSKEY": "o_WHATS_NEW",
-      "_ENGLISH": "What&apos;s New",
+      "ENGLISH": "What&apos;s New",
       "CHINESE": "新增功能"
     },
     {
       "_CMSKEY": "o_IMPROVED_MEMBER_AC_CREATION",
-      "_ENGLISH": "Improved member A/C Creation",
+      "ENGLISH": "Improved member A/C Creation",
       "CHINESE": "优化创建新会员流程"
     },
-    { "_CMSKEY": "o_NEW", "_ENGLISH": "New", "CHINESE": "新" },
+    { "_CMSKEY": "o_NEW", "ENGLISH": "New", "CHINESE": "新" },
     {
       "_CMSKEY": "o_IMPROVED_MEMBER_AC_CREATION_CONTENT",
-      "_ENGLISH": "",
-      "CHINESE": ""
+      "ENGLISH": "Introducing a faster way to add accounts for your members. Using Member Account templates, you can create a new account in seconds! &#x000d;<br/>&#x000d;<br/>You can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.&#x000d;<br/>&#x000d;<br/>Now you can create new Member Accounts in 3 quick steps using the new Member Account Templates.",
+      "CHINESE": "介绍会员帐户模板新功能，让您快速创建新会员！&#x000d;<br/>&#x000d;<br/>使用会员帐户模板来设自定义配置，最多可建 5 个模板。&#x000d;<br/>&#x000d;<br/>模板定完，就只需要3步就可以快速的建完新会员。&quot;"
     },
     {
       "_CMSKEY": "o_WHAT_IS_A_TEMPLATE",
-      "_ENGLISH": "WHAT IS A TEMPLATE?",
+      "ENGLISH": "WHAT IS A TEMPLATE?",
       "CHINESE": "什么是模板？"
     },
     {
       "_CMSKEY": "o_WHAT_IS_A_TEMPLATE_CONTENT",
-      "_ENGLISH": "",
-      "CHINESE": ""
+      "ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:&#x000d;<br/>&#x000d;<br/>1. Commission &amp; Bet Limits&#x000d;<br/>2. Member first time Password&#x000d;<br/>3. Initial account Credit Limit&#x000d;<br/>&#x000d;<br/>When the template is set, you can easily create an account in three simple steps: &#x000d;<br/>Step 1: Select a template.&#x000d;<br/>Step 2: Generate a User Code.&#x000d;<br/>Step 3: Enter a name for the new account and create the account.&#x000d;<br/>&#x000d;<br/>A maximum of 5 templates can be created.",
+      "CHINESE": "&quot;使用会员帐户模板来设置创建会员常用的默认值。例如：&#x000d;<br/>1. 退水和限额&#x000d;<br/>2. 会员首次登入密码&#x000d;<br/>3.信用额度&#x000d;<br/>&#x000d;<br/>&#x000d;<br/>当配完会员帐户模板， 就可以在3步快速的建完新会员：&#x000d;<br/>第一步: 选想用的模板&#x000d;<br/>第二步: 产生帐号&#x000d;<br/>第三步: 输入用户名，然后点“创建”&#x000d;<br/>&#x000d;<br/>最多可以创建 5 个模板。&#x000d;<br/>&quot;"
     },
     {
       "_CMSKEY": "o_USERCODE_AVAILABLE_MESSAGE",
-      "_ENGLISH": "User code is available.",
+      "ENGLISH": "User code is available.",
       "CHINESE": "此帐号无人使用."
     },
     {
       "_CMSKEY": "o_USERCODE_NOT_AVAILABLE_MESSAGE",
-      "_ENGLISH": "User code is not available.",
+      "ENGLISH": "User code is not available.",
       "CHINESE": "此帐号已有人使用."
     },
     {
       "_CMSKEY": "o_CANNOT_LEAVE_EMPTY_MESSAGE",
-      "_ENGLISH": "You cannot leave this empty.",
+      "ENGLISH": "You cannot leave this empty.",
       "CHINESE": "此处不能留空"
     },
     {
       "_CMSKEY": "o_USERCODE_GENERATION_TIMEDOUT_MESSAGE",
-      "_ENGLISH": "User Code generation timed out. Please generate again.",
+      "ENGLISH": "User Code generation timed out. Please generate again.",
       "CHINESE": "产生帐号已超时。 请重试。"
     },
     {
       "_CMSKEY": "o_CREDITS_EXCEED_CREDIT_BALANCE_MESSAGE",
-      "_ENGLISH": "Credits entered exceeds the Credit Balance. Please try again.",
+      "ENGLISH": "Credits entered exceeds the Credit Balance. Please try again.",
       "CHINESE": "您输入的额度大于剩余额度，请重新输入."
     },
     {
       "_CMSKEY": "o_DEFAULT_URL_NEEDS_UPDATE_MESSAGE",
-      "_ENGLISH": "Default URL needs to be updated.",
+      "ENGLISH": "Default URL needs to be updated.",
       "CHINESE": "必需更新默认网址。请编辑您的模板。"
     },
     {
       "_CMSKEY": "o_PLEASE_SELECT_DEFAULT_URL_MESSAGE",
-      "_ENGLISH": "Please select a default URL.",
+      "ENGLISH": "Please select a default URL.",
       "CHINESE": "请选默认网址"
     },
     {
       "_CMSKEY": "o_MAX_TEMPLATES_CREATED_MESSAGE",
-      "_ENGLISH": "Maximum number of templates has been created.",
+      "ENGLISH": "Maximum number of templates has been created.",
       "CHINESE": "已创建最大数量的模板。"
     },
     {
       "_CMSKEY": "o_TEMPLATE_UPDATE_WITH_NEW_URL_MESSAGE",
-      "_ENGLISH": "Template has been updated with the new URL.",
+      "ENGLISH": "Template has been updated with the new URL.",
       "CHINESE": "此模板中的网址已被更新。"
     },
     {
       "_CMSKEY": "o_URL_IN_TEMPLATE_NOT_AVAILABLE_SELECT_NEW_URL_MESSAGE",
-      "_ENGLISH": "The URL in your template is no longer available. Please select a new URL.",
+      "ENGLISH": "The URL in your template is no longer available. Please select a new URL.",
       "CHINESE": "您模板中的 网址 已失效。 请选择新网址。"
     },
     {
       "_CMSKEY": "o_SIMPLE_PASSWORD_SECURITY_PROBLEM_MESSAGE",
-      "_ENGLISH": "A simple Password may cause security problems. Please use a different Password combination.",
+      "ENGLISH": "A simple Password may cause security problems. Please use a different Password combination.",
       "CHINESE": "密码过于简易会导致安全性的问题，请尝试使用其他密码组合。"
     },
     {
       "_CMSKEY": "o_TEMPLATE_INTRO",
-      "_ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!",
+      "ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!",
       "CHINESE": "使用会员帐户模板节省时间快熟创建新会员！"
     },
     {
       "_CMSKEY": "o_DATA_HAS_BEEN_COPIED",
-      "_ENGLISH": "The data has been copied.",
+      "ENGLISH": "The data has been copied.",
       "CHINESE": "資料已复制"
     },
     {
       "_CMSKEY": "o_ADD_ANOTHER_MEMBER",
-      "_ENGLISH": "Add Another Member",
+      "ENGLISH": "Add Another Member",
       "CHINESE": "再加新会员"
     },
     {
       "_CMSKEY": "o_MEMBER_LISTING",
-      "_ENGLISH": "Member Listing",
+      "ENGLISH": "Member Listing",
       "CHINESE": "会员"
     },
     {
       "_CMSKEY": "o_COPY_DETAILS",
-      "_ENGLISH": "Copy Details",
+      "ENGLISH": "Copy Details",
       "CHINESE": "复杂信息"
     },
-    { "_CMSKEY": "o_SHARE", "_ENGLISH": "Share", "CHINESE": "共享" }
+    { "_CMSKEY": "o_SHARE", "ENGLISH": "Share", "CHINESE": "共享" }
   ]
 }
