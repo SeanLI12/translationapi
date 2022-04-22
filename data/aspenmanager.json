@@ -1116,7 +1116,7 @@
     },
     {
       "_CMSKEY": "o_CREATE_A_TEMPLATE_CONTENT",
-      "ENGLISH": "Press the ‘Create Template’ button and set up a custom template.&#x000d;<br/> &#x000d;\nApply the following defaults settings for your template:\n\n1. Commission &amp; Bet Limits.\n2. Default Password (Member will be forced to change once they log in the first time).\n3. Member Site URL\n4. Spread Group\n5. Credit Limit\n\nEnter a name for your template and press ‘Create’.",
+      "ENGLISH": "Press the ‘Create Template’ button and set up a custom template.\n\nApply the following defaults settings for your template:\n\n1. Commission & Bet Limits.\n2. Default Password (Member will be forced to change once they log in the first time).\n3. Member Site URL\n4. Spread Group\n5. Credit Limit\n\nEnter a name for your template and press ‘Create’.",
       "CHINESE": "按“创建模板”按钮并设置自定义模板。\n\n在模板里设以下默认值：\n\n1. 退水和限额。\n2. 默认密码（会员首次登录会被强制更改）。\n3. 会员端网址\n4. 盘口种类\n5. 信用额度\n\n输入模板名称，然后按“创建”。使用模板添加帐户"
     },
     {
@@ -1126,8 +1126,8 @@
     },
     {
       "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT_CONTENT",
-      "ENGLISH": "Select ‘New Member’.&#x000d;<br/>&#x000d;<br/>STEP 1 &#x000d;<br/>Select your preferred template. The following fields will auto-populate based on the selected template: &#x000d;<br/>&#x000d;<br/>1. Commission &amp; Bet Limits &#x000d;<br/>2. Member Password &#x000d;<br/>3. Credit Limit &#x000d;<br/>&#x000d;<br/>STEP 2 &#x000d;<br/>Press the ‘Generate’ button on the User Code field and let the system easily find an available user code for you. &#x000d;<br/>&#x000d;<br/>STEP 3 &#x000d;<br/>Enter a name for the new account. &#x000d;<br/>&#x000d;<br/>Press ‘Next’ and the system will generate a QR Code and a tokenized URL for you.&#x000d;<br/>&#x000d;<br/>‘Share’ the QR Code or the Tokenized URL with your new Member to easily get them started. &#x000d;<br/>&#x000d;<br/>Note: The first time they log in they will be required to create their own Login ID and change the default password to secure their new account.",
-      "CHINESE": "第1步&#x000d;<br/>选择您享用的模板。新会员页面的字段会根据所选模板的设置自动填充：&#x000d;<br/>&#x000d;<br/>1.退水和限额。&#x000d;<br/>2.默认密码&#x000d;<br/>3.信用额度&#x000d;<br/>&#x000d;<br/>第2步&#x000d;<br/>在帐号字段按“生成”按钮，让系统自动产生可用帐号。&#x000d;<br/>&#x000d;<br/>&#x000d;<br/>第 3 步&#x000d;<br/>输入新帐户名称。&#x000d;<br/>&#x000d;<br/>按“下一步”，系统会生成二维码和一次性用的 网址。&#x000d;<br/>&#x000d;<br/>按“分享”把二维码或一次性用 网址共享给会员，让他们快熟登入会员立即开始下单。&#x000d;<br/>&#x000d;<br/>注意：首次登录时，会员必须创建自己登入帐号而改默认密码，以保护帐户的安全。&#x000d;<br/>"
+      "ENGLISH": "Select ‘New Member’.\n\nSTEP 1\nSelect your preferred template. The following fields will auto-populate based on the selected template:\n\n1. Commission & Bet Limits\n2. Member Password\n3. Credit Limit\n\nSTEP 2\nPress the ‘Generate’ button on the User Code field and let the system easily find an available user code for you.\n\nSTEP 3\nEnter a name for the new account.\n\nPress ‘Next’ and the system will generate a QR Code and a tokenized URL for you.\n\n‘Share’ the QR Code or the Tokenized URL with your new Member to easily get them started.\n\nNote: The first time they log in they will be required to create their own Login ID and change the default password to secure their new account.",
+      "CHINESE": "第1步\n选择您享用的模板。新会员页面的字段会根据所选模板的设置自动填充：\n\n1.退水和限额。\n2.默认密码\n3.信用额度\n\n第2步\n在帐号字段按“生成”按钮，让系统自动产生可用帐号。\n\n\n第 3 步\n输入新帐户名称。\n\n按“下一步”，系统会生成二维码和一次性用的 网址。\n\n按“分享”把二维码或一次性用 网址共享给会员，让他们快熟登入会员立即开始下单。\n\n注意：首次登录时，会员必须创建自己登入帐号而改默认密码，以保护帐户的安全。\n"
     },
     {
       "_CMSKEY": "o_CONFIRM_MODAL_DELETE_TEMPLATE",
@@ -1157,8 +1157,8 @@
     { "_CMSKEY": "o_NEW", "ENGLISH": "New", "CHINESE": "新" },
     {
       "_CMSKEY": "o_IMPROVED_MEMBER_AC_CREATION_CONTENT",
-      "ENGLISH": "Introducing a faster way to add accounts for your members. Using Member Account templates, you can create a new account in seconds! &#x000d;<br/>&#x000d;<br/>You can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.&#x000d;<br/>&#x000d;<br/>Now you can create new Member Accounts in 3 quick steps using the new Member Account Templates.",
-      "CHINESE": "介绍会员帐户模板新功能，让您快速创建新会员！&#x000d;<br/>&#x000d;<br/>使用会员帐户模板来设自定义配置，最多可建 5 个模板。&#x000d;<br/>&#x000d;<br/>模板定完，就只需要3步就可以快速的建完新会员。&quot;"
+      "ENGLISH": "Introducing a faster way to add accounts for your members. Using Member Account templates, you can create a new account in seconds! \n\nYou can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.\n\nNow you can create new Member Accounts in 3 quick steps using the new Member Account Templates.",
+      "CHINESE": "介绍会员帐户模板新功能，让您快速创建新会员！\n\n使用会员帐户模板来设自定义配置，最多可建 5 个模板。\n\n模板定完，就只需要3步就可以快速的建完新会员。"
     },
     {
       "_CMSKEY": "o_WHAT_IS_A_TEMPLATE",
@@ -1167,8 +1167,8 @@
     },
     {
       "_CMSKEY": "o_WHAT_IS_A_TEMPLATE_CONTENT",
-      "ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:&#x000d;<br/>&#x000d;<br/>1. Commission &amp; Bet Limits&#x000d;<br/>2. Member first time Password&#x000d;<br/>3. Initial account Credit Limit&#x000d;<br/>&#x000d;<br/>When the template is set, you can easily create an account in three simple steps: &#x000d;<br/>Step 1: Select a template.&#x000d;<br/>Step 2: Generate a User Code.&#x000d;<br/>Step 3: Enter a name for the new account and create the account.&#x000d;<br/>&#x000d;<br/>A maximum of 5 templates can be created.",
-      "CHINESE": "&quot;使用会员帐户模板来设置创建会员常用的默认值。例如：&#x000d;<br/>1. 退水和限额&#x000d;<br/>2. 会员首次登入密码&#x000d;<br/>3.信用额度&#x000d;<br/>&#x000d;<br/>&#x000d;<br/>当配完会员帐户模板， 就可以在3步快速的建完新会员：&#x000d;<br/>第一步: 选想用的模板&#x000d;<br/>第二步: 产生帐号&#x000d;<br/>第三步: 输入用户名，然后点“创建”&#x000d;<br/>&#x000d;<br/>最多可以创建 5 个模板。&#x000d;<br/>&quot;"
+      "ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:\n\n1. Commission & Bet Limits\n2. Member first time Password\n3. Initial account Credit Limit\n\nWhen the template is set, you can easily create an account in three simple steps: \nStep 1: Select a template.\nStep 2: Generate a User Code.\nStep 3: Enter a name for the new account and create the account.\n\nA maximum of 5 templates can be created.",
+      "CHINESE": "使用会员帐户模板来设置创建会员常用的默认值。例如：\n1. 退水和限额\n2. 会员首次登入密码\n3.信用额度\n\n\n当配完会员帐户模板， 就可以在3步快速的建完新会员：\n第一步: 选想用的模板\n第二步: 产生帐号\n第三步: 输入用户名，然后点“创建”\n\n最多可以创建 5 个模板。\n"
     },
     {
       "_CMSKEY": "o_USERCODE_AVAILABLE_MESSAGE",
