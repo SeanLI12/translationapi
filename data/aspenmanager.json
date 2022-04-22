@@ -1,809 +1,1256 @@
 {
-	"All Terms": [
-		{
-			"_CMSKEY": "o_DASHBOARD",
-			"ENGLISH": "Dashboard",
-			"CHINESE": "首页"
-		},
-		{
-			"_CMSKEY": "o_PROBLEM_ACCOUNT",
-			"ENGLISH": "Problem Account",
-			"CHINESE": "问题帐号"
-		},
-		{
-			"_CMSKEY": "o_ANNOUNCEMENT",
-			"ENGLISH": "Announcement",
-			"CHINESE": "公告"
-		},
-		{
-			"_CMSKEY": "o_QUICK_SEARCH",
-			"ENGLISH": "Quick Search",
-			"CHINESE": "快速搜索"
-		},
-		{
-			"_CMSKEY": "o_LIVE_CHAT",
-			"ENGLISH": "Live Chat",
-			"CHINESE": "在线客服"
-		},
-		{
-			"_CMSKEY": "o_WMC",
-			"ENGLISH": "WMC",
-			"CHINESE": "注单监视视窗"
-		},
-		{
-			"_CMSKEY": "o_PERFORMANCE_OVERVIEW",
-			"ENGLISH": "Performance Overview",
-			"CHINESE": "绩效概况"
-		},
-		{
-			"_CMSKEY": "o_ACCOUNT_OVERVIEW",
-			"ENGLISH": "Account Overview",
-			"CHINESE": "帐号概况"
-		},
-		{
-			"_CMSKEY": "o_DOWNLINE_SUMMARY",
-			"ENGLISH": "Downline Summary",
-			"CHINESE": "下线状态"
-		},
-		{
-			"_CMSKEY": "o_POSSESS_REVENUE",
-			"ENGLISH": "Possess Revenue",
-			"CHINESE": "占成收入"
-		},
-		{
-			"_CMSKEY": "o_MEMBERS_WITH_WAGER",
-			"ENGLISH": "Members with Wagers",
-			"CHINESE": "投注人数"
-		},
-		{
-			"_CMSKEY": "o_TURNOVER",
-			"ENGLISH": "Turnover",
-			"CHINESE": "实货量"
-		},
-		{
-			"_CMSKEY": "o_WIN_LOSS",
-			"ENGLISH": "Win / Loss",
-			"CHINESE": "赢 / 输"
-		},
-		{
-			"_CMSKEY": "o_YESTERDAY",
-			"ENGLISH": "Yesterday",
-			"CHINESE": "昨天"
-		},
-		{
-			"_CMSKEY": "o_LAST_WEEK",
-			"ENGLISH": "LastWeek",
-			"CHINESE": "上周"
-		},
-		{
-			"_CMSKEY": "o_THIS_PERIOD",
-			"ENGLISH": "ThisPeriod",
-			"CHINESE": "本期"
-		},
-		{
-			"_CMSKEY": "o_LAST_PERIOD",
-			"ENGLISH": "LastPeriod",
-			"CHINESE": "上期"
-		},
-		{
-			"_CMSKEY": "o_PROFIT_MARGIN",
-			"ENGLISH": "ProfitMargin",
-			"CHINESE": "获利率"
-		},
-		{
-			"_CMSKEY": "o_INCREASE_PREVIOUS_DAY",
-			"ENGLISH": "increasefrom previous day",
-			"CHINESE": "比前一天增加"
-		},
-		{
-			"_CMSKEY": "o_DECREASE_PREVIOUS_DAY",
-			"ENGLISH": "decrease fromprevious day",
-			"CHINESE": "比前一天减少"
-		},
-		{
-			"_CMSKEY": "o_INCREASE_PREVIOUS_WEEK",
-			"ENGLISH": "increase fromprevious week",
-			"CHINESE": "比上周增加"
-		},
-		{
-			"_CMSKEY": "o_DECREASE_PREVIOUS_WEEK",
-			"ENGLISH": "decrease fromprevious week",
-			"CHINESE": "比上周减少"
-		},
-		{
-			"_CMSKEY": "o_CREDIT",
-			"ENGLISH": "Credit",
-			"CHINESE": "信用额度"
-		},
-		{
-			"_CMSKEY": "o_AVAILABLE_BALANCE",
-			"ENGLISH": "AvailableBalance",
-			"CHINESE": "剩余额度"
-		},
-		{
-			"_CMSKEY": "o_NEW_MEMBERS_THIS_PERIOD",
-			"ENGLISH": "NewMembers this Period",
-			"CHINESE": "本期新会员数"
-		},
-		{
-			"_CMSKEY": "o_REMAINING_DAYS",
-			"ENGLISH": "Remaining Days",
-			"CHINESE": "本期剩余天数"
-		},
-		{
-			"_CMSKEY": "o_COMPLETED_DAYS",
-			"ENGLISH": "Completed Days",
-			"CHINESE": "本期完成天数"
-		},
-		{
-			"_CMSKEY": "o_LAST_LOGIN",
-			"ENGLISH": "Last Login",
-			"CHINESE": "最后登入时间"
-		},
-		{
-			"_CMSKEY": "o_LAST_PASSWORD_CHANGE",
-			"ENGLISH": "Last Password Change",
-			"CHINESE": "密码最后更新时间"
-		},
-		{
-			"_CMSKEY": "o_MA",
-			"ENGLISH": "Master Agent",
-			"CHINESE": "总代理"
-		},
-		{
-			"_CMSKEY": "o_AGENT",
-			"ENGLISH": "Agent",
-			"CHINESE": "代理商"
-		},
-		{
-			"_CMSKEY": "o_MEMBER",
-			"ENGLISH": "Member",
-			"CHINESE": "会员"
-		},
-		{
-			"_CMSKEY": "o_ACTIVE",
-			"ENGLISH": "Active",
-			"CHINESE": "启用"
-		},
-		{
-			"_CMSKEY": "o_INACTIVE",
-			"ENGLISH": "Inactive",
-			"CHINESE": "停用"
-		},
-		{
-			"_CMSKEY": "o_VIEW_ONLY",
-			"ENGLISH": "View Only",
-			"CHINESE": "只能看帐"
-		},
-		{
-			"_CMSKEY": "o_SUSPENDED",
-			"ENGLISH": "Suspended",
-			"CHINESE": "禁止登入"
-		},
-		{
-			"_CMSKEY": "o_THIS_PERIOD_IS_NOT_SET",
-			"ENGLISH": "\"This Period\" is not set.",
-			"CHINESE": "'本期'未定下"
-		},
-		{
-			"_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
-			"ENGLISH": "Data will be available after daily maintenance.",
-			"CHINESE": "维护后才有数据"
-		},
-		{
-			"_CMSKEY": "o_DAY1",
-			"ENGLISH": "Day 1",
-			"CHINESE": "第1天"
-		},
-		{
-			"_CMSKEY": "o_DAY3",
-			"ENGLISH": "Day 3",
-			"CHINESE": "第3天"
-		},
-		{
-			"_CMSKEY": "o_22_FEB",
-			"ENGLISH": "22 Feb(Mon)",
-			"CHINESE": "02月22日(星期一）"
-		},
-		{
-			"_CMSKEY": "o_24_FEB",
-			"ENGLISH": "24 Feb(Wed)",
-			"CHINESE": "02月24日(星期三）"
-		},
-		{
-			"_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
-			"ENGLISH": "Data will be available after daily maintenance",
-			"CHINESE": "维护后才有数据"
-		},
-		{
-			"CHINESE": "净胜球数",
-			"ENGLISH": "Winning Margin",
-			"_CMSKEY": "o_WINNING_MARGIN"
-		},
-		{
-			"CHINESE": "上半场",
-			"ENGLISH": "1st Half",
-			"_CMSKEY": "o_1ST_HALF"
-		},
-		{
-			"CHINESE": "第一节",
-			"ENGLISH": "1st Quarter",
-			"_CMSKEY": "o_1ST_QUARTER"
-		},
-		{
-			"CHINESE": "第二节",
-			"ENGLISH": "2nd Quarter",
-			"_CMSKEY": "o_2ND_QUARTER"
-		},
-		{
-			"CHINESE": "第三节",
-			"ENGLISH": "3rd Quarter",
-			"_CMSKEY": "o_3RD_QUARTER"
-		},
-		{
-			"CHINESE": "第四节",
-			"ENGLISH": "4th Quarter",
-			"_CMSKEY": "o_4TH_QUARTER"
-		},
-		{
-			"CHINESE": "下半场",
-			"ENGLISH": "2nd Half",
-			"_CMSKEY": "o_2ND_HALF"
-		},
-		{
-			"CHINESE": "净胜1 - 5分",
-			"ENGLISH": "Win by 1 - 5 Points",
-			"_CMSKEY": "o_WIN_BY_1_5_POINTS"
-		},
-		{
-			"CHINESE": "[主队名]- 净胜6 - 10分",
-			"ENGLISH": "[Team1] - Win by 6 - 10 Points",
-			"_CMSKEY": "o_WIN_BY_6_10_POINTS"
-		},
-		{
-			"CHINESE": "净胜11-15分",
-			"ENGLISH": "Win by 11 - 15 Points",
-			"_CMSKEY": "o_WIN_BY_11_15_POINTS"
-		},
-		{
-			"CHINESE": "净胜16-20分",
-			"ENGLISH": "Win by 16 - 20 Points",
-			"_CMSKEY": "o_WIN_BY_16_20_POINTS"
-		},
-		{
-			"CHINESE": "净胜21-25分",
-			"ENGLISH": "Win by 21 - 25 Points",
-			"_CMSKEY": "o_WIN_BY_21_25_POINTS"
-		},
-		{
-			"CHINESE": "[主队名] - 净胜26分或更多",
-			"ENGLISH": "[Team1] - Win by 26+ Points",
-			"_CMSKEY": "o_WIN_BY_26_POINTS"
-		},
-		{
-			"CHINESE": "净胜3-7分",
-			"ENGLISH": "Win by 3 - 7 Points",
-			"_CMSKEY": "o_WIN_BY_3_7_POINTS"
-		},
-		{
-			"CHINESE": "净胜8分或更多",
-			"ENGLISH": "Win by 8+ Points",
-			"_CMSKEY": "o_WIN_BY_8_POINTS"
-		},
-		{
-			"CHINESE": "净胜3分或更多",
-			"ENGLISH": "Win by 3+ Points",
-			"_CMSKEY": "o_WIN_BY_3_POINTS"
-		},
-		{
-			"CHINESE": "其它比分",
-			"ENGLISH": "Any Other Result",
-			"_CMSKEY": "o_ANY_OTHER_SCORE"
-		},
-		{
-			"CHINESE": "版权声明 © 2022。 版权所有",
-			"ENGLISH": "Copyright © 2022. All rights reserved.",
-			"_CMSKEY": "o_COPYRIGHGTS"
-		},
-		{
-			"_CMSKEY": "o_FEATURES",
-			"ENGLISH": "Features",
-			"CHINESE": "特色"
-		},
-		{
-			"_CMSKEY": "o_NEW_URL",
-			"ENGLISH": "New URL",
-			"CHINESE": "最新网址"
-		},
-		{
-			"_CMSKEY": "o_CONTACT_US",
-			"ENGLISH": "Contact Us",
-			"CHINESE": "联系我们"
-		},
-		{
-			"_CMSKEY": "o_TROUBLESHOOTING",
-			"ENGLISH": "Troubleshooting",
-			"CHINESE": "故障及疑难排解"
-		},
-		{
-			"CHINESE": "滚球",
-			"ENGLISH": "In-Play",
-			"_CMSKEY": "o_INPLAY"
-		},
-		{
-			"CHINESE": "今日",
-			"ENGLISH": "Today",
-			"_CMSKEY": "o_TODAY"
-		},
-		{
-			"CHINESE": "早盘",
-			"ENGLISH": "Early",
-			"_CMSKEY": "o_EARLY"
-		},
-		{
-			"CHINESE": "过关",
-			"ENGLISH": "Parlay",
-			"_CMSKEY": "o_PARLAY"
-		},
-		{
-			"CHINESE": "冠军",
-			"ENGLISH": "Outright",
-			"_CMSKEY": "o_OUTRIGHT"
-		},
-		{
-			"CHINESE": "线上会员",
-			"ENGLISH": "Online Members:",
-			"_CMSKEY": "o_ONLINE_MEMBERS"
-		},
-		{
-			"CHINESE": "登出",
-			"ENGLISH": "Log Out",
-			"_CMSKEY": "o_LOGOUT"
-		},
-		{
-			"CHINESE": "否",
-			"ENGLISH": "No",
-			"_CMSKEY": "o_NO"
-		},
-		{
-			"CHINESE": "是",
-			"ENGLISH": "Yes",
-			"_CMSKEY": "o_YES"
-		},
-		{
-			"CHINESE": "保存",
-			"ENGLISH": "Save",
-			"_CMSKEY": "o_SAVE"
-		},
-		{
-			"CHINESE": "取消",
-			"ENGLISH": "Cancel",
-			"_CMSKEY": "o_CANCEL"
-		},
-		{
-			"CHINESE": "确认",
-			"ENGLISH": "OK",
-			"_CMSKEY": "o_OK"
-		},
-		{
-			"CHINESE": "设置",
-			"ENGLISH": "Settings",
-			"_CMSKEY": "o_SETTINGS"
-		},
-		{
-			"CHINESE": "我的设置",
-			"ENGLISH": "My Settings",
-			"_CMSKEY": "o_MY_SETTINGS"
-		},
-		{
-			"CHINESE": "我的活动记录",
-			"ENGLISH": "MyActivities",
-			"_CMSKEY": "o_MY_ACTIVITIES"
-		},
-		{
-			"CHINESE": "密码恢复",
-			"ENGLISH": "Password Recovery",
-			"_CMSKEY": "o_PASSWORD_RECOVERY"
-		},
-		{
-			"CHINESE": "更改密码",
-			"ENGLISH": "Change Password",
-			"_CMSKEY": "o_CHANGE_PASSWORD"
-		},
-		{
-			"CHINESE": "帮助",
-			"ENGLISH": "Help",
-			"_CMSKEY": "o_HELP"
-		},
-		{
-			"CHINESE": "语言：",
-			"ENGLISH": "Language：",
-			"_CMSKEY": "o_LANGUAGE"
-		},
-		{
-			"CHINESE": "简体",
-			"ENGLISH": "Simplified",
-			"_CMSKEY": "o_SIMPLIFIED"
-		},
-		{
-			"CHINESE": "系统需求",
-			"ENGLISH": "System Requirement",
-			"_CMSKEY": "o_SYSTEM_REQUIREMENT"
-		},
-		{
-			"CHINESE": "总览",
-			"ENGLISH": "Overview",
-			"_CMSKEY": "o_OVERVIEW"
-		},
-		{
-			"CHINESE": "电话号码",
-			"ENGLISH": "Phone",
-			"_CMSKEY": "o_PHONE"
-		},
-		{
-			"CHINESE": "电子邮件",
-			"ENGLISH": "Email",
-			"_CMSKEY": "o_EMAIL"
-		},
-		{
-			"CHINESE": "立即与客户服务人员聊天：",
-			"ENGLISH": "Chat with a Customer Service Agent now:",
-			"_CMSKEY": "o_LIVE_CHAT_CONTENT"
-		},
-		{
-			"CHINESE": "聊天",
-			"ENGLISH": "Chat",
-			"_CMSKEY": "o_CHAT"
-		},
-		{
-			"CHINESE": "报表",
-			"ENGLISH": "Reports",
-			"_CMSKEY": "o_REPORTS"
-		},
-		{
-			"CHINESE": "帐号管理",
-			"ENGLISH": "Account Management",
-			"_CMSKEY": "o_ACCT_MANAGEMENT"
-		},
-		{
-			"CHINESE": "即时注单",
-			"ENGLISH": "Total Bet",
-			"_CMSKEY": "o_TOTAL_BET"
-		},
-		{
-			"_CMSKEY": "o_SUBACCOUNT",
-			"ENGLISH": "Sub Account",
-			"CHINESE": "子帐号"
-		},
-		{
-			"_CMSKEY": "o_MENU",
-			"ENGLISH": "Menu",
-			"CHINESE": "菜单"
-		},
-		{
-			"_CMSKEY": "o_SYSTEM_MESSAGE",
-			"ENGLISH": "System Message",
-			"CHINESE": "系统公告"
-		},
-		{
-			"_CMSKEY": "o_ACCOUNT_TYPE",
-			"ENGLISH": "Account Type",
-			"CHINESE": "额度模式"
-		},
-		{
-			"_CMSKEY": "o_AUTO_RECOVERY_ACCOUNT",
-			"ENGLISH": "Auto Recovery Account",
-			"CHINESE": "自动恢复"
-		},
-		{
-			"_CMSKEY": "o_AUTO_RECOVERY_ACCOUNT_MEANING",
-			"ENGLISH": "In this mode, credit will automatically be recovered daily. This is the standard mode.",
-			"CHINESE": "在此模式您的信用额度会每日自动恢复。这是标准模式。"
-		},
-		{
-			"_CMSKEY": "o_WIN_LOSS_ACCOUNT",
-			"ENGLISH": "Win/Loss Account",
-			"CHINESE": "余额浮动"
-		},
-		{
-			"_CMSKEY": "o_WIN_LOSS_ACCOUNT_MEANING",
-			"ENGLISH": "In this mode, the agent and member's credit will not automatically be recovered daily. Member's winnings and loses will also reflect automatically.",
-			"CHINESE": "在此模式代理及会员的额度不会每日自动恢复，而会员的额度转变为赢输而浮动。"
-		},
-		{
-			"_CMSKEY": "o_STATUS",
-			"ENGLISH": "Status",
-			"CHINESE": "帐户状态"
-		},
-		{
-			"_CMSKEY": "o_ACTIVE_MEANING",
-			"ENGLISH": "All functions are available for users in this status.",
-			"CHINESE": "该帐号的所有功能都能正常使用。"
-		},
-		{
-			"_CMSKEY": "o_INACTIVE_MEANING",
-			"ENGLISH": "User will not be able to log in to any site. Once an account is set to Inactive, all its downline will inherit the same status. If the account gets re-activated, downline accounts can only be re-activated individually.",
-			"CHINESE": "无法登入管理端/会员端，使用后所有下线会同样处于停用状态， 当重新启用帐号时，只会单独的启用而不会全数下线恢复启用。"
-		},
-		{
-			"_CMSKEY": "o_VIEW_ONLY_MEANING",
-			"ENGLISH": "User will only have access to view reports. Once an account is set to View Only, all its active downline will inherit the same status. If the account gets re-activated, all view only downline account will get re-activated automatically. Downline that are in \"Suspended\" or \"Inactive\" status will remain as is.",
-			"CHINESE": "允许登入管理端/会员端，但只能查看帐目而不能使用任何功能。使用后所有启用的下线会处于只能看帐的状态，当重新启用帐号后下线也会根据当时的状态而恢复，在使用前被停用或禁止登入的帐号不受此状态影响。"
-		},
-		{
-			"_CMSKEY": "o_SUSPENDED_MEANING",
-			"ENGLISH": "User will not be able to log in to any site. Once an account is set to Suspended, all Active and View Only downline accounts will inherit the same status. If the account gets re-activated, all Active and View Only downline accounts will return to its original status prior to the change.",
-			"CHINESE": "无法登入管理端/会员端，使用后所有下线会处于禁止登入状态，当重新启用帐号后其下线会按照当时的状态恢复，在使用前被停用或禁止登入的帐号不受此状态影响。"
-		},
-		{
-			"_CMSKEY": "o_POSSESS",
-			"ENGLISH": "POSSESS",
-			"CHINESE": "占成数"
-		},
-		{
-			"_CMSKEY": "o_EDITABLE_PERIOD",
-			"ENGLISH": "Editable Period",
-			"CHINESE": "可修改时间"
-		},
-		{
-			"_CMSKEY": "o_EDITABLE_PERIOD_MEANING",
-			"ENGLISH": "Every Sunday 12:00 to Monday 19:00 (GMT +8)",
-			"CHINESE": "每星期日12:00至星期一 19:00 (香港时间)"
-		},
-		{
-			"_CMSKEY": "o_EDITABLE_DATE",
-			"ENGLISH": "Editable Date",
-			"CHINESE": "生效时间"
-		},
-		{
-			"_CMSKEY": "o_EDITABLE_DATE_MEANING",
-			"ENGLISH": "Monday 19:00 (GMT +8)",
-			"CHINESE": "每星期一 19:00 (香港时间)"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD",
-			"ENGLISH": "Password",
-			"CHINESE": "密码"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD_RULE1",
-			"ENGLISH": "Password must be between 8 - 16 alphanumeric characters with at least 1 upper (A - Z) and lowercase letters (a - z) and at least 1 numeric character (0 - 9).",
-			"CHINESE": "密码必须至少要有一个大写, 一个小写英文字母和数字(0 - 9)组合, 字数最少8至16个。"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD_RULE2",
-			"ENGLISH": "Password must contain at least 3 different alphanumeric characters.",
-			"CHINESE": "密码必须三个不同的字母数字。"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD_RULE3",
-			"ENGLISH": "Password must NOT contain any spaces.",
-			"CHINESE": "密码不允许有空格。"
-		},
-		{
-			"_CMSKEY": "o_SPREAD_GROUP",
-			"ENGLISH": "Spread Group",
-			"CHINESE": "盘口种类"
-		},
-		{
-			"_CMSKEY": "o_SPREAD_GROUP_MEANING",
-			"ENGLISH": "Once the account is created, Spread Group can no longer be changed.",
-			"CHINESE": "帐号一旦新增后, 此项目无法更改。"
-		},
-		{
-			"_CMSKEY": "o_SAVE_APPLY_ALL_SPORTS",
-			"ENGLISH": "Save & Apply to All Sports",
-			"CHINESE": "保存及应用于所有球类"
-		},
-		{
-			"_CMSKEY": "o_SAVE_APPLY_ALL_SPORTS_MEANING",
-			"ENGLISH": "Clicking \"Save & Apply to All Sports\" will copy settings on Soccer to the rest of the sports tab.",
-			"CHINESE": "按\"保存及应用于所有球类\" 会将足球的设定复制到所有球类。"
-		},
-		{
-			"_CMSKEY": "o_BET_LIMIT",
-			"ENGLISH": "Bet Limit",
-			"CHINESE": "投注限额"
-		},
-		{
-			"_CMSKEY": "o_MAX_PER_EVENT",
-			"ENGLISH": "Max per Event",
-			"CHINESE": "单场最高"
-		},
-		{
-			"_CMSKEY": "o_MAX_PER_EVENT_MEANING",
-			"ENGLISH": "Maximum bet amount will vary depending on the bet type and event ID, except for Odd / Even",
-			"CHINESE": "单场最高投注金额的限制是根据个别玩法和场次号, 单双除外"
-		},
-		{
-			"_CMSKEY": "o_MAX_PER_BET",
-			"ENGLISH": "Max per Bet",
-			"CHINESE": "单注最高"
-		},
-		{
-			"_CMSKEY": "o_MAX_PER_BET_MEANING",
-			"ENGLISH": "Maximum bet amount for each wager",
-			"CHINESE": "单注的最高投注额"
-		},
-		{
-			"_CMSKEY": "o_COMMISSION_BET_LIMIT_LESS_THAN_MESSAGE",
-			"ENGLISH": "Your Commission & Bet Limit settings cannot be less than your downline's Commission & Bet Limit settings.",
-			"CHINESE": "退水和限额设定值不可小于下线。"
-		},
-		{
-			"_CMSKEY": "o_SOCCER_HANDICAP_OU_OE",
-			"ENGLISH": "Soccer - Handicap, Over / Under, Odd / Even",
-			"CHINESE": "足球 - 让球, 大 / 小, 单 / 双"
-		},
-		{
-			"_CMSKEY": "o_TICKET_NO_13338728057",
-			"ENGLISH": "Ticket No: 13338728057",
-			"CHINESE": "注单号: 13338728057"
-		},
-		{
-			"_CMSKEY": "o_TICKET_NO_13338728057_MESSAGE",
-			"ENGLISH": "Badminton: 09/22 [test.test] (TEST A VS TEST C) - Wager Number: 13338738057 will be considered VOID due to wrong Odds/Handicap odds being offered.",
-			"CHINESE": "羽毛球赛事: 09月22日 test.test (测试A VS 测试C ) 因盘口/赔率错误, 注单号: 13338738057一律取消."
-		},
-		{
-			"_CMSKEY": "o_ISSUE_CONNECTING_TRY_AGAIN_MESSAGE",
-			"ENGLISH": "Sorry, there seems to be an issue connecting. Please try again.",
-			"CHINESE": "为您载入客服对话视窗时遇到些问题，请再试一次。"
-		},
-		{
-			"_CMSKEY": "o_SYSTEM_BUSY_TRY_AGAIN_MESSAGE",
-			"ENGLISH": "System busy, Please try again later!!",
-			"CHINESE": "系统忙碌中, 请稍候再查询!!"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD_RECOVERY",
-			"ENGLISH": "Password Recovery",
-			"CHINESE": "密码恢复"
-		},
-		{
-			"_CMSKEY": "o_CANCEL_PASSWORD_RECOVERY",
-			"ENGLISH": "Cancel Password Recovery?",
-			"CHINESE": "取消密码恢复？"
-		},
-		{
-			"_CMSKEY": "o_UNSAVED_CHANGES_MESSAGE",
-			"ENGLISH": "Your unsaved changes will be lost if you decide to navigate away. Are you sure you want to leave this page?",
-			"CHINESE": "若您离开此页所有未保存的更改都将丢失。确定要离开此页吗？"
-		},
-		{
-			"_CMSKEY": "o_NEW_MASTER_AGENT",
-			"ENGLISH": "New Master Agent",
-			"CHINESE": "新增总代理"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD_RESET",
-			"ENGLISH": "Password Reset",
-			"CHINESE": "更改密码"
-		},
-		{
-			"_CMSKEY": "o_PASSWORD_STRENGTH",
-			"ENGLISH": "Password Strength",
-			"CHINESE": "密码强度"
-		},
-		{
-			"_CMSKEY": "o_AVAILABLE_CREDIT",
-			"ENGLISH": "Available Credit: ",
-			"CHINESE": "剩余额度"
-		},
-		{
-			"_CMSKEY": "o_RESULTS",
-			"ENGLISH": "Results",
-			"CHINESE": "赛果"
-		},
-		{
-			"_CMSKEY": "o_MESSAGE_US",
-			"ENGLISH": "Message Us",
-			"CHINESE": "联系客服"
-		},
-		{
-			"_CMSKEY": "o_CALL_US",
-			"ENGLISH": "Call Us",
-			"CHINESE": "客服电话"
-		},
-		{
-			"_CMSKEY": "o_CONFIRM",
-			"ENGLISH": "Confirm",
-			"CHINESE": "确认"
-		},
-		{
-			"_CMSKEY": "o_INFO",
-			"ENGLISH": "Info",
-			"CHINESE": "信息"
-		},
-		{
-			"_CMSKEY": "o_TOP10_LOSING_MEMBERS",
-			"ENGLISH": "Top 10 Losing Members",
-			"CHINESE": "前十输家"
-		},
-		{
-			"_CMSKEY": "o_TOP10_WININNG_MEMBERS",
-			"ENGLISH": "Top 10 Winning Members",
-			"CHINESE": "前十赢家"
-		},
-		{
-			"_CMSKEY": "o_USERCODE",
-			"ENGLISH": "User Code",
-			"CHINESE": "帐号"
-		},
-		{
-			"_CMSKEY": "o_NAME",
-			"ENGLISH": "Name",
-			"CHINESE": "名称"
-		},
-		{
-			"_CMSKEY": "o_TOTAL_WAGER",
-			"ENGLISH": "Total Wager",
-			"CHINESE": "总计笔数"
-		},
-		{
-			"_CMSKEY": "o_TOTAL_STAKE",
-			"ENGLISH": "Total Stake",
-			"CHINESE": "总计下注金额"
-		},
-		{
-			"_CMSKEY": "o_TURNOVER_WINNING_PERCENTAGE",
-			"ENGLISH": "Turnover & Winning Percentage",
-			"CHINESE": "实货量 & 胜率"
-		},
-		{
-			"_CMSKEY": "o_SHOW_DATA_TABLE",
-			"ENGLISH": "Show Data Table",
-			"CHINESE": "显示数据"
-		},
-		{
-			"_CMSKEY": "o_MEMBERS_LOSS",
-			"ENGLISH": "Member's Loss",
-			"CHINESE": "会员损失"
-		},
-		{
-			"_CMSKEY": "o_POSITIVE",
-			"ENGLISH": "Positive",
-			"CHINESE": "正值"
-		},
-		{
-			"_CMSKEY": "o_NEGATIVE",
-			"ENGLISH": "Negative",
-			"CHINESE": "负值"
-		},
-		{
-			"_CMSKEY": "o_DAY",
-			"ENGLISH": "Day",
-			"CHINESE": "日期"
-		},
-		{
-			"_CMSKEY": "o_WINNING_PERCENTAGE",
-			"ENGLISH": "Winning Percentage",
-			"CHINESE": "胜率"
-		},
-		{
-			"_CMSKEY": "o_THIS_WEEK",
-			"ENGLISH": "This Week",
-			"CHINESE": "本星期"
-		},
-		{
-			"_CMSKEY": "o_NEW_MEMBER",
-			"ENGLISH": "New Member",
-			"CHINESE": "新会员"
-		},
-		{
-			"_CMSKEY": "o_NEW_AGENT",
-			"ENGLISH": "New Agent",
-			"CHINESE": "新代理"
-		},
-		{
-			"_CMSKEY": "o_NEW_MA",
-			"ENGLISH": "New MA",
-			"CHINESE": "新总代"
-		},
-		{
-			"_CMSKEY": "o_SEARCH",
-			"ENGLISH": "Search",
-			"CHINESE": "搜帐号"
-		}
-	]
+  "All Terms": [
+    {
+      "_CMSKEY": "o_DASHBOARD",
+      "ENGLISH": "Dashboard",
+      "CHINESE": "首页"
+    },
+    {
+      "_CMSKEY": "o_PROBLEM_ACCOUNT",
+      "ENGLISH": "Problem Account",
+      "CHINESE": "问题帐号"
+    },
+    {
+      "_CMSKEY": "o_ANNOUNCEMENT",
+      "ENGLISH": "Announcement",
+      "CHINESE": "公告"
+    },
+    {
+      "_CMSKEY": "o_QUICK_SEARCH",
+      "ENGLISH": "Quick Search",
+      "CHINESE": "快速搜索"
+    },
+    {
+      "_CMSKEY": "o_LIVE_CHAT",
+      "ENGLISH": "Live Chat",
+      "CHINESE": "在线客服"
+    },
+    {
+      "_CMSKEY": "o_WMC",
+      "ENGLISH": "WMC",
+      "CHINESE": "注单监视视窗"
+    },
+    {
+      "_CMSKEY": "o_PERFORMANCE_OVERVIEW",
+      "ENGLISH": "Performance Overview",
+      "CHINESE": "绩效概况"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_OVERVIEW",
+      "ENGLISH": "Account Overview",
+      "CHINESE": "帐号概况"
+    },
+    {
+      "_CMSKEY": "o_DOWNLINE_SUMMARY",
+      "ENGLISH": "Downline Summary",
+      "CHINESE": "下线状态"
+    },
+    {
+      "_CMSKEY": "o_POSSESS_REVENUE",
+      "ENGLISH": "Possess Revenue",
+      "CHINESE": "占成收入"
+    },
+    {
+      "_CMSKEY": "o_MEMBERS_WITH_WAGER",
+      "ENGLISH": "Members with Wagers",
+      "CHINESE": "投注人数"
+    },
+    {
+      "_CMSKEY": "o_TURNOVER",
+      "ENGLISH": "Turnover",
+      "CHINESE": "实货量"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS",
+      "ENGLISH": "Win / Loss",
+      "CHINESE": "赢 / 输"
+    },
+    {
+      "_CMSKEY": "o_YESTERDAY",
+      "ENGLISH": "Yesterday",
+      "CHINESE": "昨天"
+    },
+    {
+      "_CMSKEY": "o_LAST_WEEK",
+      "ENGLISH": "LastWeek",
+      "CHINESE": "上周"
+    },
+    {
+      "_CMSKEY": "o_THIS_PERIOD",
+      "ENGLISH": "ThisPeriod",
+      "CHINESE": "本期"
+    },
+    {
+      "_CMSKEY": "o_LAST_PERIOD",
+      "ENGLISH": "LastPeriod",
+      "CHINESE": "上期"
+    },
+    {
+      "_CMSKEY": "o_PROFIT_MARGIN",
+      "ENGLISH": "ProfitMargin",
+      "CHINESE": "获利率"
+    },
+    {
+      "_CMSKEY": "o_INCREASE_PREVIOUS_DAY",
+      "ENGLISH": "increasefrom previous day",
+      "CHINESE": "比前一天增加"
+    },
+    {
+      "_CMSKEY": "o_DECREASE_PREVIOUS_DAY",
+      "ENGLISH": "decrease fromprevious day",
+      "CHINESE": "比前一天减少"
+    },
+    {
+      "_CMSKEY": "o_INCREASE_PREVIOUS_WEEK",
+      "ENGLISH": "increase fromprevious week",
+      "CHINESE": "比上周增加"
+    },
+    {
+      "_CMSKEY": "o_DECREASE_PREVIOUS_WEEK",
+      "ENGLISH": "decrease fromprevious week",
+      "CHINESE": "比上周减少"
+    },
+    {
+      "_CMSKEY": "o_CREDIT",
+      "ENGLISH": "Credit",
+      "CHINESE": "信用额度"
+    },
+    {
+      "_CMSKEY": "o_AVAILABLE_BALANCE",
+      "ENGLISH": "AvailableBalance",
+      "CHINESE": "剩余额度"
+    },
+    {
+      "_CMSKEY": "o_NEW_MEMBERS_THIS_PERIOD",
+      "ENGLISH": "NewMembers this Period",
+      "CHINESE": "本期新会员数"
+    },
+    {
+      "_CMSKEY": "o_REMAINING_DAYS",
+      "ENGLISH": "Remaining Days",
+      "CHINESE": "本期剩余天数"
+    },
+    {
+      "_CMSKEY": "o_COMPLETED_DAYS",
+      "ENGLISH": "Completed Days",
+      "CHINESE": "本期完成天数"
+    },
+    {
+      "_CMSKEY": "o_LAST_LOGIN",
+      "ENGLISH": "Last Login",
+      "CHINESE": "最后登入时间"
+    },
+    {
+      "_CMSKEY": "o_LAST_PASSWORD_CHANGE",
+      "ENGLISH": "Last Password Change",
+      "CHINESE": "密码最后更新时间"
+    },
+    {
+      "_CMSKEY": "o_MA",
+      "ENGLISH": "Master Agent",
+      "CHINESE": "总代理"
+    },
+    {
+      "_CMSKEY": "o_AGENT",
+      "ENGLISH": "Agent",
+      "CHINESE": "代理商"
+    },
+    {
+      "_CMSKEY": "o_MEMBER",
+      "ENGLISH": "Member",
+      "CHINESE": "会员"
+    },
+    {
+      "_CMSKEY": "o_ACTIVE",
+      "ENGLISH": "Active",
+      "CHINESE": "启用"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE",
+      "ENGLISH": "Inactive",
+      "CHINESE": "停用"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ONLY",
+      "ENGLISH": "View Only",
+      "CHINESE": "只能看帐"
+    },
+    {
+      "_CMSKEY": "o_SUSPENDED",
+      "ENGLISH": "Suspended",
+      "CHINESE": "禁止登入"
+    },
+    {
+      "_CMSKEY": "o_THIS_PERIOD_IS_NOT_SET",
+      "ENGLISH": "\"This Period\" is not set.",
+      "CHINESE": "'本期'未定下"
+    },
+    {
+      "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
+      "ENGLISH": "Data will be available after daily maintenance.",
+      "CHINESE": "维护后才有数据"
+    },
+    {
+      "_CMSKEY": "o_DAY1",
+      "ENGLISH": "Day 1",
+      "CHINESE": "第1天"
+    },
+    {
+      "_CMSKEY": "o_DAY3",
+      "ENGLISH": "Day 3",
+      "CHINESE": "第3天"
+    },
+    {
+      "_CMSKEY": "o_22_FEB",
+      "ENGLISH": "22 Feb(Mon)",
+      "CHINESE": "02月22日(星期一）"
+    },
+    {
+      "_CMSKEY": "o_24_FEB",
+      "ENGLISH": "24 Feb(Wed)",
+      "CHINESE": "02月24日(星期三）"
+    },
+    {
+      "_CMSKEY": "o_DATA_TEMPORARY_UNAVAILABLE",
+      "ENGLISH": "Data will be available after daily maintenance",
+      "CHINESE": "维护后才有数据"
+    },
+    {
+      "CHINESE": "净胜球数",
+      "ENGLISH": "Winning Margin",
+      "_CMSKEY": "o_WINNING_MARGIN"
+    },
+    {
+      "CHINESE": "上半场",
+      "ENGLISH": "1st Half",
+      "_CMSKEY": "o_1ST_HALF"
+    },
+    {
+      "CHINESE": "第一节",
+      "ENGLISH": "1st Quarter",
+      "_CMSKEY": "o_1ST_QUARTER"
+    },
+    {
+      "CHINESE": "第二节",
+      "ENGLISH": "2nd Quarter",
+      "_CMSKEY": "o_2ND_QUARTER"
+    },
+    {
+      "CHINESE": "第三节",
+      "ENGLISH": "3rd Quarter",
+      "_CMSKEY": "o_3RD_QUARTER"
+    },
+    {
+      "CHINESE": "第四节",
+      "ENGLISH": "4th Quarter",
+      "_CMSKEY": "o_4TH_QUARTER"
+    },
+    {
+      "CHINESE": "下半场",
+      "ENGLISH": "2nd Half",
+      "_CMSKEY": "o_2ND_HALF"
+    },
+    {
+      "CHINESE": "净胜1 - 5分",
+      "ENGLISH": "Win by 1 - 5 Points",
+      "_CMSKEY": "o_WIN_BY_1_5_POINTS"
+    },
+    {
+      "CHINESE": "[主队名]- 净胜6 - 10分",
+      "ENGLISH": "[Team1] - Win by 6 - 10 Points",
+      "_CMSKEY": "o_WIN_BY_6_10_POINTS"
+    },
+    {
+      "CHINESE": "净胜11-15分",
+      "ENGLISH": "Win by 11 - 15 Points",
+      "_CMSKEY": "o_WIN_BY_11_15_POINTS"
+    },
+    {
+      "CHINESE": "净胜16-20分",
+      "ENGLISH": "Win by 16 - 20 Points",
+      "_CMSKEY": "o_WIN_BY_16_20_POINTS"
+    },
+    {
+      "CHINESE": "净胜21-25分",
+      "ENGLISH": "Win by 21 - 25 Points",
+      "_CMSKEY": "o_WIN_BY_21_25_POINTS"
+    },
+    {
+      "CHINESE": "[主队名] - 净胜26分或更多",
+      "ENGLISH": "[Team1] - Win by 26+ Points",
+      "_CMSKEY": "o_WIN_BY_26_POINTS"
+    },
+    {
+      "CHINESE": "净胜3-7分",
+      "ENGLISH": "Win by 3 - 7 Points",
+      "_CMSKEY": "o_WIN_BY_3_7_POINTS"
+    },
+    {
+      "CHINESE": "净胜8分或更多",
+      "ENGLISH": "Win by 8+ Points",
+      "_CMSKEY": "o_WIN_BY_8_POINTS"
+    },
+    {
+      "CHINESE": "净胜3分或更多",
+      "ENGLISH": "Win by 3+ Points",
+      "_CMSKEY": "o_WIN_BY_3_POINTS"
+    },
+    {
+      "CHINESE": "其它比分",
+      "ENGLISH": "Any Other Result",
+      "_CMSKEY": "o_ANY_OTHER_SCORE"
+    },
+    {
+      "CHINESE": "版权声明 © 2022。 版权所有",
+      "ENGLISH": "Copyright © 2022. All rights reserved.",
+      "_CMSKEY": "o_COPYRIGHGTS"
+    },
+    {
+      "_CMSKEY": "o_FEATURES",
+      "ENGLISH": "Features",
+      "CHINESE": "特色"
+    },
+    {
+      "_CMSKEY": "o_NEW_URL",
+      "ENGLISH": "New URL",
+      "CHINESE": "最新网址"
+    },
+    {
+      "_CMSKEY": "o_CONTACT_US",
+      "ENGLISH": "Contact Us",
+      "CHINESE": "联系我们"
+    },
+    {
+      "_CMSKEY": "o_TROUBLESHOOTING",
+      "ENGLISH": "Troubleshooting",
+      "CHINESE": "故障及疑难排解"
+    },
+    {
+      "CHINESE": "滚球",
+      "ENGLISH": "In-Play",
+      "_CMSKEY": "o_INPLAY"
+    },
+    {
+      "CHINESE": "今日",
+      "ENGLISH": "Today",
+      "_CMSKEY": "o_TODAY"
+    },
+    {
+      "CHINESE": "早盘",
+      "ENGLISH": "Early",
+      "_CMSKEY": "o_EARLY"
+    },
+    {
+      "CHINESE": "过关",
+      "ENGLISH": "Parlay",
+      "_CMSKEY": "o_PARLAY"
+    },
+    {
+      "CHINESE": "冠军",
+      "ENGLISH": "Outright",
+      "_CMSKEY": "o_OUTRIGHT"
+    },
+    {
+      "CHINESE": "线上会员",
+      "ENGLISH": "Online Members:",
+      "_CMSKEY": "o_ONLINE_MEMBERS"
+    },
+    {
+      "CHINESE": "登出",
+      "ENGLISH": "Log Out",
+      "_CMSKEY": "o_LOGOUT"
+    },
+    {
+      "CHINESE": "否",
+      "ENGLISH": "No",
+      "_CMSKEY": "o_NO"
+    },
+    {
+      "CHINESE": "是",
+      "ENGLISH": "Yes",
+      "_CMSKEY": "o_YES"
+    },
+    {
+      "CHINESE": "保存",
+      "ENGLISH": "Save",
+      "_CMSKEY": "o_SAVE"
+    },
+    {
+      "CHINESE": "取消",
+      "ENGLISH": "Cancel",
+      "_CMSKEY": "o_CANCEL"
+    },
+    {
+      "CHINESE": "确认",
+      "ENGLISH": "OK",
+      "_CMSKEY": "o_OK"
+    },
+    {
+      "CHINESE": "设置",
+      "ENGLISH": "Settings",
+      "_CMSKEY": "o_SETTINGS"
+    },
+    {
+      "CHINESE": "我的设置",
+      "ENGLISH": "My Settings",
+      "_CMSKEY": "o_MY_SETTINGS"
+    },
+    {
+      "CHINESE": "我的活动记录",
+      "ENGLISH": "MyActivities",
+      "_CMSKEY": "o_MY_ACTIVITIES"
+    },
+    {
+      "CHINESE": "密码恢复",
+      "ENGLISH": "Password Recovery",
+      "_CMSKEY": "o_PASSWORD_RECOVERY"
+    },
+    {
+      "CHINESE": "更改密码",
+      "ENGLISH": "Change Password",
+      "_CMSKEY": "o_CHANGE_PASSWORD"
+    },
+    {
+      "CHINESE": "帮助",
+      "ENGLISH": "Help",
+      "_CMSKEY": "o_HELP"
+    },
+    {
+      "CHINESE": "语言：",
+      "ENGLISH": "Language：",
+      "_CMSKEY": "o_LANGUAGE"
+    },
+    {
+      "CHINESE": "简体",
+      "ENGLISH": "Simplified",
+      "_CMSKEY": "o_SIMPLIFIED"
+    },
+    {
+      "CHINESE": "系统需求",
+      "ENGLISH": "System Requirement",
+      "_CMSKEY": "o_SYSTEM_REQUIREMENT"
+    },
+    {
+      "CHINESE": "总览",
+      "ENGLISH": "Overview",
+      "_CMSKEY": "o_OVERVIEW"
+    },
+    {
+      "CHINESE": "电话号码",
+      "ENGLISH": "Phone",
+      "_CMSKEY": "o_PHONE"
+    },
+    {
+      "CHINESE": "电子邮件",
+      "ENGLISH": "Email",
+      "_CMSKEY": "o_EMAIL"
+    },
+    {
+      "CHINESE": "立即与客户服务人员聊天：",
+      "ENGLISH": "Chat with a Customer Service Agent now:",
+      "_CMSKEY": "o_LIVE_CHAT_CONTENT"
+    },
+    {
+      "CHINESE": "聊天",
+      "ENGLISH": "Chat",
+      "_CMSKEY": "o_CHAT"
+    },
+    {
+      "CHINESE": "报表",
+      "ENGLISH": "Reports",
+      "_CMSKEY": "o_REPORTS"
+    },
+    {
+      "CHINESE": "帐号管理",
+      "ENGLISH": "Account Management",
+      "_CMSKEY": "o_ACCT_MANAGEMENT"
+    },
+    {
+      "CHINESE": "即时注单",
+      "ENGLISH": "Total Bet",
+      "_CMSKEY": "o_TOTAL_BET"
+    },
+    {
+      "_CMSKEY": "o_SUBACCOUNT",
+      "ENGLISH": "Sub Account",
+      "CHINESE": "子帐号"
+    },
+    {
+      "_CMSKEY": "o_MENU",
+      "ENGLISH": "Menu",
+      "CHINESE": "菜单"
+    },
+    {
+      "_CMSKEY": "o_SYSTEM_MESSAGE",
+      "ENGLISH": "System Message",
+      "CHINESE": "系统公告"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_TYPE",
+      "ENGLISH": "Account Type",
+      "CHINESE": "额度模式"
+    },
+    {
+      "_CMSKEY": "o_AUTO_RECOVERY_ACCOUNT",
+      "ENGLISH": "Auto Recovery Account",
+      "CHINESE": "自动恢复"
+    },
+    {
+      "_CMSKEY": "o_AUTO_RECOVERY_ACCOUNT_MEANING",
+      "ENGLISH": "In this mode, credit will automatically be recovered daily. This is the standard mode.",
+      "CHINESE": "在此模式您的信用额度会每日自动恢复。这是标准模式。"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_ACCOUNT",
+      "ENGLISH": "Win/Loss Account",
+      "CHINESE": "余额浮动"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_ACCOUNT_MEANING",
+      "ENGLISH": "In this mode, the agent and member's credit will not automatically be recovered daily. Member's winnings and loses will also reflect automatically.",
+      "CHINESE": "在此模式代理及会员的额度不会每日自动恢复，而会员的额度转变为赢输而浮动。"
+    },
+    {
+      "_CMSKEY": "o_STATUS",
+      "ENGLISH": "Status",
+      "CHINESE": "帐户状态"
+    },
+    {
+      "_CMSKEY": "o_ACTIVE_MEANING",
+      "ENGLISH": "All functions are available for users in this status.",
+      "CHINESE": "该帐号的所有功能都能正常使用。"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE_MEANING",
+      "ENGLISH": "User will not be able to log in to any site. Once an account is set to Inactive, all its downline will inherit the same status. If the account gets re-activated, downline accounts can only be re-activated individually.",
+      "CHINESE": "无法登入管理端/会员端，使用后所有下线会同样处于停用状态， 当重新启用帐号时，只会单独的启用而不会全数下线恢复启用。"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ONLY_MEANING",
+      "ENGLISH": "User will only have access to view reports. Once an account is set to View Only, all its active downline will inherit the same status. If the account gets re-activated, all view only downline account will get re-activated automatically. Downline that are in \"Suspended\" or \"Inactive\" status will remain as is.",
+      "CHINESE": "允许登入管理端/会员端，但只能查看帐目而不能使用任何功能。使用后所有启用的下线会处于只能看帐的状态，当重新启用帐号后下线也会根据当时的状态而恢复，在使用前被停用或禁止登入的帐号不受此状态影响。"
+    },
+    {
+      "_CMSKEY": "o_SUSPENDED_MEANING",
+      "ENGLISH": "User will not be able to log in to any site. Once an account is set to Suspended, all Active and View Only downline accounts will inherit the same status. If the account gets re-activated, all Active and View Only downline accounts will return to its original status prior to the change.",
+      "CHINESE": "无法登入管理端/会员端，使用后所有下线会处于禁止登入状态，当重新启用帐号后其下线会按照当时的状态恢复，在使用前被停用或禁止登入的帐号不受此状态影响。"
+    },
+    {
+      "_CMSKEY": "o_POSSESS",
+      "ENGLISH": "POSSESS",
+      "CHINESE": "占成数"
+    },
+    {
+      "_CMSKEY": "o_EDITABLE_PERIOD",
+      "ENGLISH": "Editable Period",
+      "CHINESE": "可修改时间"
+    },
+    {
+      "_CMSKEY": "o_EDITABLE_PERIOD_MEANING",
+      "ENGLISH": "Every Sunday 12:00 to Monday 19:00 (GMT +8)",
+      "CHINESE": "每星期日12:00至星期一 19:00 (香港时间)"
+    },
+    {
+      "_CMSKEY": "o_EDITABLE_DATE",
+      "ENGLISH": "Editable Date",
+      "CHINESE": "生效时间"
+    },
+    {
+      "_CMSKEY": "o_EDITABLE_DATE_MEANING",
+      "ENGLISH": "Monday 19:00 (GMT +8)",
+      "CHINESE": "每星期一 19:00 (香港时间)"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD",
+      "ENGLISH": "Password",
+      "CHINESE": "密码"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_RULE1",
+      "ENGLISH": "Password must be between 8 - 16 alphanumeric characters with at least 1 upper (A - Z) and lowercase letters (a - z) and at least 1 numeric character (0 - 9).",
+      "CHINESE": "密码必须至少要有一个大写, 一个小写英文字母和数字(0 - 9)组合, 字数最少8至16个。"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_RULE2",
+      "ENGLISH": "Password must contain at least 3 different alphanumeric characters.",
+      "CHINESE": "密码必须三个不同的字母数字。"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_RULE3",
+      "ENGLISH": "Password must NOT contain any spaces.",
+      "CHINESE": "密码不允许有空格。"
+    },
+    {
+      "_CMSKEY": "o_SPREAD_GROUP",
+      "ENGLISH": "Spread Group",
+      "CHINESE": "盘口种类"
+    },
+    {
+      "_CMSKEY": "o_SPREAD_GROUP_MEANING",
+      "ENGLISH": "Once the account is created, Spread Group can no longer be changed.",
+      "CHINESE": "帐号一旦新增后, 此项目无法更改。"
+    },
+    {
+      "_CMSKEY": "o_SAVE_APPLY_ALL_SPORTS",
+      "ENGLISH": "Save & Apply to All Sports",
+      "CHINESE": "保存及应用于所有球类"
+    },
+    {
+      "_CMSKEY": "o_SAVE_APPLY_ALL_SPORTS_MEANING",
+      "ENGLISH": "Clicking \"Save & Apply to All Sports\" will copy settings on Soccer to the rest of the sports tab.",
+      "CHINESE": "按\"保存及应用于所有球类\" 会将足球的设定复制到所有球类。"
+    },
+    {
+      "_CMSKEY": "o_BET_LIMIT",
+      "ENGLISH": "Bet Limit",
+      "CHINESE": "投注限额"
+    },
+    {
+      "_CMSKEY": "o_MAX_PER_EVENT",
+      "ENGLISH": "Max per Event",
+      "CHINESE": "单场最高"
+    },
+    {
+      "_CMSKEY": "o_MAX_PER_EVENT_MEANING",
+      "ENGLISH": "Maximum bet amount will vary depending on the bet type and event ID, except for Odd / Even",
+      "CHINESE": "单场最高投注金额的限制是根据个别玩法和场次号, 单双除外"
+    },
+    {
+      "_CMSKEY": "o_MAX_PER_BET",
+      "ENGLISH": "Max per Bet",
+      "CHINESE": "单注最高"
+    },
+    {
+      "_CMSKEY": "o_MAX_PER_BET_MEANING",
+      "ENGLISH": "Maximum bet amount for each wager",
+      "CHINESE": "单注的最高投注额"
+    },
+    {
+      "_CMSKEY": "o_COMMISSION_BET_LIMIT_LESS_THAN_MESSAGE",
+      "ENGLISH": "Your Commission & Bet Limit settings cannot be less than your downline's Commission & Bet Limit settings.",
+      "CHINESE": "退水和限额设定值不可小于下线。"
+    },
+    {
+      "_CMSKEY": "o_SOCCER_HANDICAP_OU_OE",
+      "ENGLISH": "Soccer - Handicap, Over / Under, Odd / Even",
+      "CHINESE": "足球 - 让球, 大 / 小, 单 / 双"
+    },
+    {
+      "_CMSKEY": "o_TICKET_NO_13338728057",
+      "ENGLISH": "Ticket No: 13338728057",
+      "CHINESE": "注单号: 13338728057"
+    },
+    {
+      "_CMSKEY": "o_TICKET_NO_13338728057_MESSAGE",
+      "ENGLISH": "Badminton: 09/22 [test.test] (TEST A VS TEST C) - Wager Number: 13338738057 will be considered VOID due to wrong Odds/Handicap odds being offered.",
+      "CHINESE": "羽毛球赛事: 09月22日 test.test (测试A VS 测试C ) 因盘口/赔率错误, 注单号: 13338738057一律取消."
+    },
+    {
+      "_CMSKEY": "o_ISSUE_CONNECTING_TRY_AGAIN_MESSAGE",
+      "ENGLISH": "Sorry, there seems to be an issue connecting. Please try again.",
+      "CHINESE": "为您载入客服对话视窗时遇到些问题，请再试一次。"
+    },
+    {
+      "_CMSKEY": "o_SYSTEM_BUSY_TRY_AGAIN_MESSAGE",
+      "ENGLISH": "System busy, Please try again later!!",
+      "CHINESE": "系统忙碌中, 请稍候再查询!!"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_RECOVERY",
+      "ENGLISH": "Password Recovery",
+      "CHINESE": "密码恢复"
+    },
+    {
+      "_CMSKEY": "o_CANCEL_PASSWORD_RECOVERY",
+      "ENGLISH": "Cancel Password Recovery?",
+      "CHINESE": "取消密码恢复？"
+    },
+    {
+      "_CMSKEY": "o_UNSAVED_CHANGES_MESSAGE",
+      "ENGLISH": "Your unsaved changes will be lost if you decide to navigate away. Are you sure you want to leave this page?",
+      "CHINESE": "若您离开此页所有未保存的更改都将丢失。确定要离开此页吗？"
+    },
+    {
+      "_CMSKEY": "o_NEW_MASTER_AGENT",
+      "ENGLISH": "New Master Agent",
+      "CHINESE": "新增总代理"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_RESET",
+      "ENGLISH": "Password Reset",
+      "CHINESE": "更改密码"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_STRENGTH",
+      "ENGLISH": "Password Strength",
+      "CHINESE": "密码强度"
+    },
+    {
+      "_CMSKEY": "o_AVAILABLE_CREDIT",
+      "ENGLISH": "Available Credit: ",
+      "CHINESE": "剩余额度"
+    },
+    {
+      "_CMSKEY": "o_RESULTS",
+      "ENGLISH": "Results",
+      "CHINESE": "赛果"
+    },
+    {
+      "_CMSKEY": "o_MESSAGE_US",
+      "ENGLISH": "Message Us",
+      "CHINESE": "联系客服"
+    },
+    {
+      "_CMSKEY": "o_CALL_US",
+      "ENGLISH": "Call Us",
+      "CHINESE": "客服电话"
+    },
+    {
+      "_CMSKEY": "o_CONFIRM",
+      "ENGLISH": "Confirm",
+      "CHINESE": "确认"
+    },
+    {
+      "_CMSKEY": "o_INFO",
+      "ENGLISH": "Info",
+      "CHINESE": "信息"
+    },
+    {
+      "_CMSKEY": "o_TOP10_LOSING_MEMBERS",
+      "ENGLISH": "Top 10 Losing Members",
+      "CHINESE": "前十输家"
+    },
+    {
+      "_CMSKEY": "o_TOP10_WININNG_MEMBERS",
+      "ENGLISH": "Top 10 Winning Members",
+      "CHINESE": "前十赢家"
+    },
+    {
+      "_CMSKEY": "o_USERCODE",
+      "ENGLISH": "User Code",
+      "CHINESE": "帐号"
+    },
+    {
+      "_CMSKEY": "o_NAME",
+      "ENGLISH": "Name",
+      "CHINESE": "名称"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_WAGER",
+      "ENGLISH": "Total Wager",
+      "CHINESE": "总计笔数"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_STAKE",
+      "ENGLISH": "Total Stake",
+      "CHINESE": "总计下注金额"
+    },
+    {
+      "_CMSKEY": "o_TURNOVER_WINNING_PERCENTAGE",
+      "ENGLISH": "Turnover & Winning Percentage",
+      "CHINESE": "实货量 & 胜率"
+    },
+    {
+      "_CMSKEY": "o_SHOW_DATA_TABLE",
+      "ENGLISH": "Show Data Table",
+      "CHINESE": "显示数据"
+    },
+    {
+      "_CMSKEY": "o_MEMBERS_LOSS",
+      "ENGLISH": "Member's Loss",
+      "CHINESE": "会员损失"
+    },
+    {
+      "_CMSKEY": "o_POSITIVE",
+      "ENGLISH": "Positive",
+      "CHINESE": "正值"
+    },
+    {
+      "_CMSKEY": "o_NEGATIVE",
+      "ENGLISH": "Negative",
+      "CHINESE": "负值"
+    },
+    {
+      "_CMSKEY": "o_DAY",
+      "ENGLISH": "Day",
+      "CHINESE": "日期"
+    },
+    {
+      "_CMSKEY": "o_WINNING_PERCENTAGE",
+      "ENGLISH": "Winning Percentage",
+      "CHINESE": "胜率"
+    },
+    {
+      "_CMSKEY": "o_THIS_WEEK",
+      "ENGLISH": "This Week",
+      "CHINESE": "本星期"
+    },
+    {
+      "_CMSKEY": "o_NEW_MEMBER",
+      "ENGLISH": "New Member",
+      "CHINESE": "新会员"
+    },
+    {
+      "_CMSKEY": "o_NEW_AGENT",
+      "ENGLISH": "New Agent",
+      "CHINESE": "新代理"
+    },
+    {
+      "_CMSKEY": "o_NEW_MA",
+      "ENGLISH": "New MA",
+      "CHINESE": "新总代"
+    },
+    {
+      "_CMSKEY": "o_SEARCH",
+      "ENGLISH": "Search",
+      "CHINESE": "搜帐号"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_DETAILS",
+      "ENGLISH": "Account details",
+      "CHINESE": "用户详细设定"
+    },
+    {
+      "_CMSKEY": "o_COMMISSION_BET_LIMIT",
+      "ENGLISH": "Commission & Bet Limit",
+      "CHINESE": "退水和限额"
+    },
+    {
+      "_CMSKEY": "o_SUMMARY",
+      "ENGLISH": "Summary",
+      "CHINESE": "概要"
+    },
+    {
+      "_CMSKEY": "o_REQUIRED_FIELDS",
+      "ENGLISH": "Required Fields",
+      "CHINESE": "必填栏位"
+    },
+    {
+      "_CMSKEY": "o_GENERAL_DATA",
+      "ENGLISH": "General Data",
+      "CHINESE": "基本资料"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_TYPE_CREDIT",
+      "ENGLISH": "Account Type and Credit",
+      "CHINESE": "额度模式和金额"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD",
+      "ENGLISH": "Password",
+      "CHINESE": "密码"
+    },
+    {
+      "_CMSKEY": "o_GENERATE",
+      "ENGLISH": "Generate",
+      "CHINESE": "产生"
+    },
+    {
+      "_CMSKEY": "o_AVAILABLE_BALANCE",
+      "ENGLISH": "Available Balance",
+      "CHINESE": "剩余额度"
+    },
+    {
+      "_CMSKEY": "o_CREDIT",
+      "ENGLISH": "Credit",
+      "CHINESE": "信用额度"
+    },
+    {
+      "_CMSKEY": "o_RATE",
+      "ENGLISH": "Rate",
+      "CHINESE": "汇率"
+    },
+    {
+      "_CMSKEY": "o_COMMISSION",
+      "ENGLISH": "Commission",
+      "CHINESE": "退水设定"
+    },
+    {
+      "_CMSKEY": "o_RMB",
+      "ENGLISH": "RMB",
+      "CHINESE": "人民币"
+    },
+    {
+      "_CMSKEY": "o_HKD",
+      "ENGLISH": "HKD",
+      "CHINESE": "港币"
+    },
+    {
+      "_CMSKEY": "o_USD",
+      "ENGLISH": "USD",
+      "CHINESE": "美金"
+    },
+    {
+      "_CMSKEY": "o_MYR",
+      "ENGLISH": "MYR",
+      "CHINESE": "马币"
+    },
+    {
+      "_CMSKEY": "o_SGD",
+      "ENGLISH": "SGD",
+      "CHINESE": "新币"
+    },
+    {
+      "_CMSKEY": "o_GBP",
+      "ENGLISH": "GBP",
+      "CHINESE": "英磅"
+    },
+    {
+      "_CMSKEY": "o_EUR",
+      "ENGLISH": "EUR",
+      "CHINESE": "欧元"
+    },
+    {
+      "_CMSKEY": "o_IDR",
+      "ENGLISH": "IDR",
+      "CHINESE": "印尼盾"
+    },
+    {
+      "_CMSKEY": "o_MAX_20M_RMB",
+      "ENGLISH": "Max: 20,000,000 RMB",
+      "CHINESE": "最高: 人民币 20,000,000"
+    },
+    {
+      "_CMSKEY": "o_MAX_330KM_RMB",
+      "ENGLISH": "Max: 330,000 RMB",
+      "CHINESE": "最高: 人民币 330,000"
+    },
+    {
+      "_CMSKEY": "o_SOCCER",
+      "ENGLISH": "Soccer",
+      "CHINESE": "足球"
+    },
+    {
+      "_CMSKEY": "o_BASKETBALL",
+      "ENGLISH": "Basketball",
+      "CHINESE": "篮球"
+    },
+    {
+      "_CMSKEY": "o_OTHER_SPORTS",
+      "ENGLISH": "Other Sports",
+      "CHINESE": "其他球类"
+    },
+    {
+      "_CMSKEY": "o_HANDICAP",
+      "ENGLISH": "Handicap",
+      "CHINESE": "让球"
+    },
+    {
+      "_CMSKEY": "o_OU",
+      "ENGLISH": "Over / Under",
+      "CHINESE": "大 / 小"
+    },
+    {
+      "_CMSKEY": "o_OE",
+      "ENGLISH": "Odd / Even",
+      "CHINESE": "单 / 双"
+    },
+    {
+      "_CMSKEY": "o_INPLAY_HANDICAP",
+      "ENGLISH": "In-Play Handicap",
+      "CHINESE": "滚球让球"
+    },
+    {
+      "_CMSKEY": "o_1X2",
+      "ENGLISH": "1 X 2",
+      "CHINESE": "独赢"
+    },
+    {
+      "_CMSKEY": "o_INPLAY_1X2",
+      "ENGLISH": "In-Play 1 X 2",
+      "CHINESE": "滚球独赢"
+    },
+    {
+      "_CMSKEY": "o_OTHER_BETTYPES",
+      "ENGLISH": "Other Bet Types",
+      "CHINESE": "其他玩法"
+    },
+    {
+      "_CMSKEY": "o_INPLAY_OTHER_BETTYPES",
+      "ENGLISH": "In-Play Other Bet Types",
+      "CHINESE": "滚球其他玩法"
+    },
+    {
+      "_CMSKEY": "o_NEXT",
+      "ENGLISH": "Next",
+      "CHINESE": "下一步"
+    },
+    {
+      "_CMSKEY": "o_BACK",
+      "ENGLISH": "Back",
+      "CHINESE": "上一步"
+    },
+    {
+      "_CMSKEY": "o_CREATE",
+      "ENGLISH": "Create",
+      "CHINESE": "创建"
+    },
+    {
+      "_CMSKEY": "o_TEMPLATES",
+      "ENGLISH": "Templates",
+      "CHINESE": "模版"
+    },
+    {
+      "_CMSKEY": "o_CREATE_A_TEMPLATE",
+      "ENGLISH": "Create a Template",
+      "CHINESE": "创建模板"
+    },
+    {
+      "_CMSKEY": "o_CREATE_TEMPLATE",
+      "ENGLISH": "Create Template",
+      "CHINESE": "创建模板"
+    },
+
+    {
+      "_CMSKEY": "o_EDIT_TEMPLATE",
+      "_ENGLISH": "Edit Template",
+      "CHINESE": "编辑模板"
+    },
+    {
+      "_CMSKEY": "o_TEMPLATE_NAME",
+      "_ENGLISH": "Template Name",
+      "CHINESE": "模板名"
+    },
+    {
+      "_CMSKEY": "o_DEFAULT_URL_QRCODE",
+      "_ENGLISH": "Default URL for QR Code",
+      "CHINESE": "设默认网址用于产生二维码"
+    },
+    {
+      "_CMSKEY": "o_DEFAULT_URL_QRCODE_MEANING",
+      "_ENGLISH": "This is the URL that will be used for QR code generation.",
+      "CHINESE": "选定的网址 会用于产生二维码"
+    },
+    {
+      "_CMSKEY": "o_SET_DEFAULT_PASSWORD",
+      "_ENGLISH": "Set Default Password",
+      "CHINESE": "设默认密码"
+    },
+    {
+      "_CMSKEY": "o_SET_DEFAULT_PASSWORD_MEANING",
+      "_ENGLISH": "Member will be forced to change password upon first login.",
+      "CHINESE": "会员首次登入必须更改密码。"
+    },
+    {
+      "_CMSKEY": "o_SET_DEFAULT_CREDITLIMIT",
+      "_ENGLISH": "Set Default Credit Limit",
+      "CHINESE": "设默认信用额度"
+    },
+    {
+      "_CMSKEY": "o_SET_ATLEAST_ONE _CURRENCY",
+      "_ENGLISH": "Set at least one currency. ",
+      "CHINESE": "请选一个货币"
+    },
+    { "_CMSKEY": "o_VERY_WEAK", "_ENGLISH": "Very Weak", "CHINESE": "非常弱" },
+    { "_CMSKEY": "o_WEAK", "_ENGLISH": "Weak", "CHINESE": "弱" },
+    { "_CMSKEY": "o_FAIR", "_ENGLISH": "Fair", "CHINESE": "一般" },
+    { "_CMSKEY": "o_GOOD", "_ENGLISH": "Good", "CHINESE": "好" },
+    { "_CMSKEY": "o_STRONG", "_ENGLISH": "Strong", "CHINESE": "强" },
+    {
+      "_CMSKEY": "o_VERY_WEAK_MEANING",
+      "_ENGLISH": "It would take a computer 0.03 Seconds to crack your password.",
+      "CHINESE": "一台电脑破解您的密码需要 0.03 秒"
+    },
+    {
+      "_CMSKEY": "o_WEAK_MEANING",
+      "_ENGLISH": "It would take a computer 43.5 Minutes to crack your password.",
+      "CHINESE": "一台电脑破解您的密码需要 43.5 分钟"
+    },
+    {
+      "_CMSKEY": "o_FAIR_MEANING",
+      "_ENGLISH": "It would take a computer 3 Days to crack your password.",
+      "CHINESE": "一台电脑破解您的密码需要 3 天"
+    },
+    {
+      "_CMSKEY": "o_GOOD_MEANING",
+      "_ENGLISH": "It would take a computer 7 Months to crack your password.",
+      "CHINESE": "一台电脑破解您的密码需要 57个月"
+    },
+    {
+      "_CMSKEY": "o_STRONG_MEANING",
+      "_ENGLISH": "It would take a computer 3 Years to crack your password.",
+      "CHINESE": "一台电脑破解您的密码需要 3 年"
+    },
+    { "_CMSKEY": "o_CREATING", "_ENGLISH": "Creating", "CHINESE": "创建中" },
+    { "_CMSKEY": "o_SAVING", "_ENGLISH": "Saving", "CHINESE": "保存中" },
+    { "_CMSKEY": "o_QR_CODE", "_ENGLISH": "QR Code", "CHINESE": "二维码" },
+    {
+      "_CMSKEY": "o_QR_CODE_MEANING",
+      "_ENGLISH": "Share this QR Code with your member to use as their initial log-in.",
+      "CHINESE": " 将二维码共享给会员，让他们用于初始登录。"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_INFORMATION",
+      "_ENGLISH": "Account Information",
+      "CHINESE": "帐户信息"
+    },
+    {
+      "_CMSKEY": "o_SELECT_A _URL",
+      "_ENGLISH": "Select a URL",
+      "CHINESE": "请选网址"
+    },
+    {
+      "_CMSKEY": "o_SELECT_A _URL_MEANING",
+      "_ENGLISH": "Please select a URL to generate a QR code.",
+      "CHINESE": "请选网址用于产生二维码"
+    },
+    {
+      "_CMSKEY": "o_LEARN_MORE",
+      "_ENGLISH": "Learn More",
+      "CHINESE": "了解更多"
+    },
+    { "_CMSKEY": "o_HELP", "_ENGLISH": "Help", "CHINESE": "了解更多" },
+    {
+      "_CMSKEY": "o_HOW_TO_GUIDE",
+      "_ENGLISH": "How-To Guide",
+      "CHINESE": "用户指南"
+    },
+    {
+      "_CMSKEY": "o_MEMBER_AC_TEMPLATES",
+      "_ENGLISH": "Member A/C Templates",
+      "CHINESE": "创建会员帐户模板"
+    },
+    {
+      "_CMSKEY": "o_MEMBER_AC_TEMPLATES_CONTENT",
+      "_ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!&#x000d;<br/> &#x000d;<br/>You can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.",
+      "CHINESE": "使用会员帐户模板节省时间快熟创建新会员！&#x000d;<br/>&#x000d;<br/>帐户模板可以让你制定帐户的一些设置值。最多可以创建5个会员帐户模板。"
+    },
+    {
+      "_CMSKEY": "o_CREATE_A_TEMPLATE_CONTENT",
+      "_ENGLISH": "Press the ‘Create Template’ button and set up a custom template.&#x000d;<br/> &#x000d;<br/>Apply the following defaults settings for your template:&#x000d;<br/> &#x000d;<br/>1. Commission &amp; Bet Limits.&#x000d;<br/>2. Default Password (Member will be forced to change once they log in the first time).&#x000d;<br/>3. Member Site URL&#x000d;<br/>4. Spread Group&#x000d;<br/>5. Credit Limit&#x000d;<br/> &#x000d;<br/>Enter a name for your template and press ‘Create’.",
+      "CHINESE": "按“创建模板”按钮并设置自定义模板。&#x000d;<br/>&#x000d;<br/>在模板里设以下默认值：&#x000d;<br/>&#x000d;<br/>1. 退水和限额。&#x000d;<br/>2. 默认密码（会员首次登录会被强制更改）。&#x000d;<br/>3. 会员端网址&#x000d;<br/>4. 盘口种类&#x000d;<br/>5. 信用额度&#x000d;<br/>&#x000d;<br/>输入模板名称，然后按“创建”。使用模板添加帐户"
+    },
+    {
+      "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT",
+      "_ENGLISH": "Use a template to add an account",
+      "CHINESE": "用模板来创建帐号"
+    },
+    {
+      "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT_CONTENT",
+      "_ENGLISH": "Select ‘New Member’.&#x000d;<br/>&#x000d;<br/>STEP 1 &#x000d;<br/>Select your preferred template. The following fields will auto-populate based on the selected template: &#x000d;<br/>&#x000d;<br/>1. Commission &amp; Bet Limits &#x000d;<br/>2. Member Password &#x000d;<br/>3. Credit Limit &#x000d;<br/>&#x000d;<br/>STEP 2 &#x000d;<br/>Press the ‘Generate’ button on the User Code field and let the system easily find an available user code for you. &#x000d;<br/>&#x000d;<br/>STEP 3 &#x000d;<br/>Enter a name for the new account. &#x000d;<br/>&#x000d;<br/>Press ‘Next’ and the system will generate a QR Code and a tokenized URL for you.&#x000d;<br/>&#x000d;<br/>‘Share’ the QR Code or the Tokenized URL with your new Member to easily get them started. &#x000d;<br/>&#x000d;<br/>Note: The first time they log in they will be required to create their own Login ID and change the default password to secure their new account.",
+      "CHINESE": "第1步&#x000d;<br/>选择您享用的模板。新会员页面的字段会根据所选模板的设置自动填充：&#x000d;<br/>&#x000d;<br/>1.退水和限额。&#x000d;<br/>2.默认密码&#x000d;<br/>3.信用额度&#x000d;<br/>&#x000d;<br/>第2步&#x000d;<br/>在帐号字段按“生成”按钮，让系统自动产生可用帐号。&#x000d;<br/>&#x000d;<br/>&#x000d;<br/>第 3 步&#x000d;<br/>输入新帐户名称。&#x000d;<br/>&#x000d;<br/>按“下一步”，系统会生成二维码和一次性用的 网址。&#x000d;<br/>&#x000d;<br/>按“分享”把二维码或一次性用 网址共享给会员，让他们快熟登入会员立即开始下单。&#x000d;<br/>&#x000d;<br/>注意：首次登录时，会员必须创建自己登入帐号而改默认密码，以保护帐户的安全。&#x000d;<br/>"
+    },
+    {
+      "_CMSKEY": "o_CONFIRM_MODAL_DELETE_TEMPLATE",
+      "_ENGLISH": "Are you sure you want to delete this template?",
+      "CHINESE": "确定删除此模板？"
+    },
+    {
+      "_CMSKEY": "o_CONFIRM_MODAL_UNSAVED_CHANGES_WILL_BE_LOST",
+      "_ENGLISH": "Your unsaved changes will be lost if you decide to navigate away. Are you sure you want to leave this page?",
+      "CHINESE": "若您离开此页所有未保存的更改都将丢失。确定要离开此页吗？"
+    },
+    {
+      "_CMSKEY": "o_USERCODE_MEANING",
+      "_ENGLISH": "Create a user code for your member by clicking on the generate button.",
+      "CHINESE": "点击“产生”按钮自动生成可用的帐号名称 。"
+    },
+    {
+      "_CMSKEY": "o_WHATS_NEW",
+      "_ENGLISH": "What&apos;s New",
+      "CHINESE": "新增功能"
+    },
+    {
+      "_CMSKEY": "o_IMPROVED_MEMBER_AC_CREATION",
+      "_ENGLISH": "Improved member A/C Creation",
+      "CHINESE": "优化创建新会员流程"
+    },
+    { "_CMSKEY": "o_NEW", "_ENGLISH": "New", "CHINESE": "新" },
+    {
+      "_CMSKEY": "o_IMPROVED_MEMBER_AC_CREATION_CONTENT",
+      "_ENGLISH": "Introducing a faster way to add accounts for your members. Using Member Account templates, you can create a new account in seconds! &#x000d;<br/>&#x000d;<br/>You can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.&#x000d;<br/>&#x000d;<br/>Now you can create new Member Accounts in 3 quick steps using the new Member Account Templates.",
+      "CHINESE": "介绍会员帐户模板新功能，让您快速创建新会员！&#x000d;<br/>&#x000d;<br/>使用会员帐户模板来设自定义配置，最多可建 5 个模板。&#x000d;<br/>&#x000d;<br/>模板定完，就只需要3步就可以快速的建完新会员。&quot;"
+    },
+    {
+      "_CMSKEY": "o_WHAT_IS_A_TEMPLATE",
+      "_ENGLISH": "WHAT IS A TEMPLATE?",
+      "CHINESE": "什么是模板？"
+    },
+    {
+      "_CMSKEY": "o_WHAT_IS_A_TEMPLATE_CONTENT",
+      "_ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:&#x000d;<br/>&#x000d;<br/>1. Commission &amp; Bet Limits&#x000d;<br/>2. Member first time Password&#x000d;<br/>3. Initial account Credit Limit&#x000d;<br/>&#x000d;<br/>When the template is set, you can easily create an account in three simple steps: &#x000d;<br/>Step 1: Select a template.&#x000d;<br/>Step 2: Generate a User Code.&#x000d;<br/>Step 3: Enter a name for the new account and create the account.&#x000d;<br/>&#x000d;<br/>A maximum of 5 templates can be created.",
+      "CHINESE": "&quot;使用会员帐户模板来设置创建会员常用的默认值。例如：&#x000d;<br/>1. 退水和限额&#x000d;<br/>2. 会员首次登入密码&#x000d;<br/>3.信用额度&#x000d;<br/>&#x000d;<br/>&#x000d;<br/>当配完会员帐户模板， 就可以在3步快速的建完新会员：&#x000d;<br/>第一步: 选想用的模板&#x000d;<br/>第二步: 产生帐号&#x000d;<br/>第三步: 输入用户名，然后点“创建”&#x000d;<br/>&#x000d;<br/>最多可以创建 5 个模板。&#x000d;<br/>&quot;"
+    },
+    {
+      "_CMSKEY": "o_USERCODE_AVAILABLE_MESSAGE",
+      "_ENGLISH": "User code is available.",
+      "CHINESE": "此帐号无人使用."
+    },
+    {
+      "_CMSKEY": "o_USERCODE_NOT_AVAILABLE_MESSAGE",
+      "_ENGLISH": "User code is not available.",
+      "CHINESE": "此帐号已有人使用."
+    },
+    {
+      "_CMSKEY": "o_CANNOT_LEAVE_EMPTY_MESSAGE",
+      "_ENGLISH": "You cannot leave this empty.",
+      "CHINESE": "此处不能留空"
+    },
+    {
+      "_CMSKEY": "o_USERCODE_GENERATION_TIMEDOUT_MESSAGE",
+      "_ENGLISH": "User Code generation timed out. Please generate again.",
+      "CHINESE": "产生帐号已超时。 请重试。"
+    },
+    {
+      "_CMSKEY": "o_CREDITS_EXCEED_CREDIT_BALANCE_MESSAGE",
+      "_ENGLISH": "Credits entered exceeds the Credit Balance. Please try again.",
+      "CHINESE": "您输入的额度大于剩余额度，请重新输入."
+    },
+    {
+      "_CMSKEY": "o_DEFAULT_URL_NEEDS_UPDATE_MESSAGE",
+      "_ENGLISH": "Default URL needs to be updated.",
+      "CHINESE": "必需更新默认网址。请编辑您的模板。"
+    },
+    {
+      "_CMSKEY": "o_PLEASE_SELECT_DEFAULT_URL_MESSAGE",
+      "_ENGLISH": "Please select a default URL.",
+      "CHINESE": "请选默认网址"
+    },
+    {
+      "_CMSKEY": "o_MAX_TEMPLATES_CREATED_MESSAGE",
+      "_ENGLISH": "Maximum number of templates has been created.",
+      "CHINESE": "已创建最大数量的模板。"
+    },
+    {
+      "_CMSKEY": "o_TEMPLATE_UPDATE_WITH_NEW_URL_MESSAGE",
+      "_ENGLISH": "Template has been updated with the new URL.",
+      "CHINESE": "此模板中的网址已被更新。"
+    },
+    {
+      "_CMSKEY": "o_URL_IN_TEMPLATE_NOT_AVAILABLE_SELECT_NEW_URL_MESSAGE",
+      "_ENGLISH": "The URL in your template is no longer available. Please select a new URL.",
+      "CHINESE": "您模板中的 网址 已失效。 请选择新网址。"
+    },
+    {
+      "_CMSKEY": "o_SIMPLE_PASSWORD_SECURITY_PROBLEM_MESSAGE",
+      "_ENGLISH": "A simple Password may cause security problems. Please use a different Password combination.",
+      "CHINESE": "密码过于简易会导致安全性的问题，请尝试使用其他密码组合。"
+    },
+    {
+      "_CMSKEY": "o_TEMPLATE_INTRO",
+      "_ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!",
+      "CHINESE": "使用会员帐户模板节省时间快熟创建新会员！"
+    },
+    {
+      "_CMSKEY": "o_DATA_HAS_BEEN_COPIED",
+      "_ENGLISH": "The data has been copied.",
+      "CHINESE": "資料已复制"
+    },
+    {
+      "_CMSKEY": "o_ADD_ANOTHER_MEMBER",
+      "_ENGLISH": "Add Another Member",
+      "CHINESE": "再加新会员"
+    },
+    {
+      "_CMSKEY": "o_MEMBER_LISTING",
+      "_ENGLISH": "Member Listing",
+      "CHINESE": "会员"
+    },
+    {
+      "_CMSKEY": "o_COPY_DETAILS",
+      "_ENGLISH": "Copy Details",
+      "CHINESE": "复杂信息"
+    },
+    { "_CMSKEY": "o_SHARE", "_ENGLISH": "Share", "CHINESE": "共享" }
+  ]
 }
