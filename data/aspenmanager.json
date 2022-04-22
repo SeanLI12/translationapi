@@ -1111,13 +1111,13 @@
     },
     {
       "_CMSKEY": "o_MEMBER_AC_TEMPLATES_CONTENT",
-      "ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!&#x000d;<br/> &#x000d;<br/>You can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.",
-      "CHINESE": "使用会员帐户模板节省时间快熟创建新会员！&#x000d;<br/>&#x000d;<br/>帐户模板可以让你制定帐户的一些设置值。最多可以创建5个会员帐户模板。"
+      "ENGLISH": "Save yourself time and create new Member accounts in seconds using Member Account templates!\n\nYou can create up to 5 Member Account templates to allow you to configure different settings for various types of accounts you wish to add.",
+      "CHINESE": "使用会员帐户模板节省时间快熟创建新会员！\n\n>帐户模板可以让你制定帐户的一些设置值。最多可以创建5个会员帐户模板。"
     },
     {
       "_CMSKEY": "o_CREATE_A_TEMPLATE_CONTENT",
-      "ENGLISH": "Press the ‘Create Template’ button and set up a custom template.&#x000d;<br/> &#x000d;<br/>Apply the following defaults settings for your template:&#x000d;<br/> &#x000d;<br/>1. Commission &amp; Bet Limits.&#x000d;<br/>2. Default Password (Member will be forced to change once they log in the first time).&#x000d;<br/>3. Member Site URL&#x000d;<br/>4. Spread Group&#x000d;<br/>5. Credit Limit&#x000d;<br/> &#x000d;<br/>Enter a name for your template and press ‘Create’.",
-      "CHINESE": "按“创建模板”按钮并设置自定义模板。&#x000d;<br/>&#x000d;<br/>在模板里设以下默认值：&#x000d;<br/>&#x000d;<br/>1. 退水和限额。&#x000d;<br/>2. 默认密码（会员首次登录会被强制更改）。&#x000d;<br/>3. 会员端网址&#x000d;<br/>4. 盘口种类&#x000d;<br/>5. 信用额度&#x000d;<br/>&#x000d;<br/>输入模板名称，然后按“创建”。使用模板添加帐户"
+      "ENGLISH": "Press the ‘Create Template’ button and set up a custom template.&#x000d;<br/> &#x000d;\nApply the following defaults settings for your template:\n\n1. Commission &amp; Bet Limits.\n2. Default Password (Member will be forced to change once they log in the first time).\n3. Member Site URL\n4. Spread Group\n5. Credit Limit\n\nEnter a name for your template and press ‘Create’.",
+      "CHINESE": "按“创建模板”按钮并设置自定义模板。\n\n在模板里设以下默认值：\n\n1. 退水和限额。\n2. 默认密码（会员首次登录会被强制更改）。\n3. 会员端网址\n4. 盘口种类\n5. 信用额度\n\n输入模板名称，然后按“创建”。使用模板添加帐户"
     },
     {
       "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT",
