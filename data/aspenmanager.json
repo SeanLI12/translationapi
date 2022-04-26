@@ -1255,6 +1255,11 @@
       "_CMSKEY": "o_SET_DEFAULT_SPREAD_GROUP",
       "ENGLISH": "Set Default Spread Group",
       "CHINESE": "设默认盘口种类"
+    },
+    {
+      "_CMSKEY": "o_SELECT_A_TEMPLATE",
+      "ENGLISH": "Select a Template",
+      "CHINESE": "请选模板"
     }
   ]
 }
