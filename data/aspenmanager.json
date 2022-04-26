@@ -1260,6 +1260,11 @@
       "_CMSKEY": "o_SELECT_A_TEMPLATE",
       "ENGLISH": "Select a Template",
       "CHINESE": "请选模板"
+    },
+    {
+      "_CMSKEY": "o_DEFAULT_URL_NEEDS_TO_BE_UPDATED_MESSAGE",
+      "ENGLISH": "Default URL needs to be updated. Please edit yout template.",
+      "CHINESE": "必需更新默认网址。请编辑您的模板。"
     }
   ]
 }
