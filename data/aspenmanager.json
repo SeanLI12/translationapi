@@ -1036,7 +1036,7 @@
       "CHINESE": "设默认信用额度"
     },
     {
-      "_CMSKEY": "o_SET_ATLEAST_ONE _CURRENCY",
+      "_CMSKEY": "o_SET_ATLEAST_ONE_CURRENCY",
       "ENGLISH": "Set at least one currency. ",
       "CHINESE": "请选一个货币"
     },
@@ -1084,12 +1084,12 @@
       "CHINESE": "帐户信息"
     },
     {
-      "_CMSKEY": "o_SELECT_A _URL",
+      "_CMSKEY": "o_SELECT_A_URL",
       "ENGLISH": "Select a URL",
       "CHINESE": "请选网址"
     },
     {
-      "_CMSKEY": "o_SELECT_A _URL_MEANING",
+      "_CMSKEY": "o_SELECT_A_URL_MEANING",
       "ENGLISH": "Please select a URL to generate a QR code.",
       "CHINESE": "请选网址用于产生二维码"
     },
