@@ -1126,8 +1126,8 @@
     },
     {
       "_CMSKEY": "o_USE_TEMPLATE_TO_ADD_ACCOUNT_CONTENT",
-      "ENGLISH": "Select ‘New Member’.\n\nSTEP 1\nSelect your preferred template. The following fields will auto-populate based on the selected template:\n\n1. Commission & Bet Limits\n2. Member Password\n3. Credit Limit\n\nSTEP 2\nPress the ‘Generate’ button on the User Code field and let the system easily find an available user code for you.\n\nSTEP 3\nEnter a name for the new account.\n\nPress ‘Next’ and the system will generate a QR Code and a tokenized URL for you.\n\n‘Share’ the QR Code or the Tokenized URL with your new Member to easily get them started.\n\nNote: The first time they log in they will be required to create their own Login ID and change the default password to secure their new account.",
-      "CHINESE": "第1步\n选择您享用的模板。新会员页面的字段会根据所选模板的设置自动填充：\n\n1.退水和限额。\n2.默认密码\n3.信用额度\n\n第2步\n在帐号字段按“生成”按钮，让系统自动产生可用帐号。\n\n\n第 3 步\n输入新帐户名称。\n\n按“下一步”，系统会生成二维码和一次性用的 网址。\n\n按“分享”把二维码或一次性用 网址共享给会员，让他们快熟登入会员立即开始下单。\n\n注意：首次登录时，会员必须创建自己登入帐号而改默认密码，以保护帐户的安全。\n"
+      "ENGLISH": "Select ‘New Member’.\n\nSTEP 1\nSelect your preferred template. The following fields will auto-populate based on the selected template:\n\n1. Commission & Bet Limits\n2. Member Password\n3. Credit Limit\n\nSTEP 2\nPress the ‘Generate’ button on the User Code field and let the system easily find an available user code for you.\n\nSTEP 3\nEnter a name for the new account.\n\nPress ‘Next’ and the system will generate a QR Code and a tokenized URL for you.\n\n‘Share’ the QR Code or the Tokenized URL with your new Member to easily get them started.\n\nNote: The first time they log in they will be required to create their own Login ID and change the default password to secure their new account.",
+      "CHINESE": "第1步\n选择您享用的模板。新会员页面的字段会根据所选模板的设置自动填充：\n\n选择“新成员”。\n1.退水和限额。\n2.默认密码\n3.信用额度\n\n第2步\n在帐号字段按“生成”按钮，让系统自动产生可用帐号。\n\n\n第 3 步\n输入新帐户名称。\n\n按“下一步”，系统会生成二维码和一次性用的 网址。\n\n按“分享”把二维码或一次性用 网址共享给会员，让他们快熟登入会员立即开始下单。\n\n注意：首次登录时，会员必须创建自己登入帐号而改默认密码，以保护帐户的安全。"
     },
     {
       "_CMSKEY": "o_CONFIRM_MODAL_DELETE_TEMPLATE",
