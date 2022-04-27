@@ -1018,7 +1018,7 @@
     {
       "_CMSKEY": "o_DEFAULT_URL_QRCODE_MEANING",
       "ENGLISH": "This is the URL that will be used for QR code generation.",
-      "CHINESE": "选定的网址 会用于产生二维码"
+      "CHINESE": "选定的网址会用于产生二维码"
     },
     {
       "_CMSKEY": "o_SET_DEFAULT_PASSWORD",
@@ -1076,7 +1076,7 @@
     {
       "_CMSKEY": "o_QR_CODE_MEANING",
       "ENGLISH": "Share this QR Code with your member to use as their initial log-in.",
-      "CHINESE": " 将二维码共享给会员，让他们用于初始登录。"
+      "CHINESE": "将二维码共享给会员，让他们用于初始登录。"
     },
     {
       "_CMSKEY": "o_ACCOUNT_INFORMATION",
@@ -1218,7 +1218,7 @@
     {
       "_CMSKEY": "o_URL_IN_TEMPLATE_NOT_AVAILABLE_SELECT_NEW_URL_MESSAGE",
       "ENGLISH": "The URL in your template is no longer available. Please select a new URL.",
-      "CHINESE": "您模板中的 网址 已失效。 请选择新网址。"
+      "CHINESE": "您模板中的网址已失效。 请选择新网址。"
     },
     {
       "_CMSKEY": "o_SIMPLE_PASSWORD_SECURITY_PROBLEM_MESSAGE",
