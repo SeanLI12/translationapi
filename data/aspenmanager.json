@@ -1265,6 +1265,11 @@
       "_CMSKEY": "o_DEFAULT_URL_NEEDS_TO_BE_UPDATED_MESSAGE",
       "ENGLISH": "Default URL needs to be updated. Please edit yout template.",
       "CHINESE": "必需更新默认网址。请编辑您的模板。"
+    },
+    {
+      "_CMSKEY": "o_10K_RMB",
+      "ENGLISH": "10,000 RMB",
+      "CHINESE": "10,000 人民币"
     }
   ]
 }
