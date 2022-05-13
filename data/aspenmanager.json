@@ -1270,6 +1270,21 @@
       "_CMSKEY": "o_10K_RMB",
       "ENGLISH": "10,000 RMB",
       "CHINESE": "10,000 人民币"
+    },
+    {
+      "_CMSKEY": "o_ENABLED",
+      "ENGLISH": "Enabled",
+      "CHINESE": "启用"
+    },
+    {
+      "_CMSKEY": "o_DISABLED",
+      "ENGLISH": "Disabled",
+      "CHINESE": "禁用"
+    },
+    {
+      "_CMSKEY": "o_CREATE_QR_CODE",
+      "ENGLISH": "Create QR Code",
+      "CHINESE": "产生二维码"
     }
   ]
 }
