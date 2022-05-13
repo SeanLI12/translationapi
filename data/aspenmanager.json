@@ -1285,6 +1285,11 @@
       "_CMSKEY": "o_CREATE_QR_CODE",
       "ENGLISH": "Create QR Code",
       "CHINESE": "产生二维码"
+    },
+    {
+      "_CMSKEY": "o_AGENT_DEFAULT_SETTINGS_USED_HERE",
+      "ENGLISH": "Agent’s default settings will be used here.",
+      "CHINESE": "用于代理的默认设定"
     }
   ]
 }
