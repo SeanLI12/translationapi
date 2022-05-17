@@ -1075,8 +1075,8 @@
     { "_CMSKEY": "o_QR_CODE", "ENGLISH": "QR Code", "CHINESE": "二维码" },
     {
       "_CMSKEY": "o_QR_CODE_MEANING",
-      "ENGLISH": "Share this QR Code with your member to use as their initial log-in.",
-      "CHINESE": "将二维码共享给会员，让他们用于初始登录。"
+      "ENGLISH": "Share this QR Code with your member to use as their initial log-in. This will expire in 3 days.",
+      "CHINESE": "将二维码共享给会员，让他们用于初始登录。 此二维码有效期为3天。"
     },
     {
       "_CMSKEY": "o_ACCOUNT_INFORMATION",
