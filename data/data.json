@@ -6519,6 +6519,31 @@
       "_CMSKEY": "o_GOALS_OU_1H",
       "ENGLISH": "Goals O/U 1H",
       "CHINESE": "得分大小"
+    },
+    {
+      "_CMSKEY": "o_INFORMATION_RELATING_TO_CONTENT",
+      "ENGLISH": "Information Relating to Content",
+      "CHINESE": "相关信息"
+    },
+    {
+      "_CMSKEY": "o_SOCCER_HANDICAP",
+      "ENGLISH": "Soccer Handicap",
+      "CHINESE": "足球 让球"
+    },
+    {
+      "_CMSKEY": "o_OVER",
+      "ENGLISH": "Over",
+      "CHINESE": "大"
+    },
+    {
+      "_CMSKEY": "o_UNDER",
+      "ENGLISH": "Under",
+      "CHINESE": "小"
+    },
+    {
+      "_CMSKEY": "o_HANDICAPS_AND_OVER_UNDER",
+      "ENGLISH": "Handicaps & Over / under",
+      "CHINESE": "让球 & 大/小"
     }
   ]
 }
