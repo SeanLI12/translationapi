@@ -1290,6 +1290,46 @@
       "_CMSKEY": "o_AGENT_DEFAULT_SETTINGS_USED_HERE",
       "ENGLISH": "Agent’s default settings will be used here.",
       "CHINESE": "用于代理的默认设定"
+    },
+    {
+      "_CMSKEY": "o_MAX_22M_RMB",
+      "ENGLISH": "Max: 22,000,000 RMB",
+      "CHINESE": "最高: 人民币 22,000,000"
+    },
+    {
+      "_CMSKEY": "o_MAX_11M_RMB",
+      "ENGLISH": "Max: 11,000,000 RMB",
+      "CHINESE": "最高: 人民币 11,000,000"
+    },
+    {
+      "_CMSKEY": "o_MAX_1.1M_RMB",
+      "ENGLISH": "Max: 1,100,000 RMB",
+      "CHINESE": "最高: 人民币 1,100,000"
+    },
+    {
+      "_CMSKEY": "o_MAX_330K_RMB",
+      "ENGLISH": "Max: 330,000 RMB",
+      "CHINESE": "最高: 人民币 330,000"
+    },
+    {
+      "_CMSKEY": "o_MAX_220K_RMB",
+      "ENGLISH": "Max: 220,000 RMB",
+      "CHINESE": "最高: 人民币 220,000"
+    },
+    {
+      "_CMSKEY": "o_MAX_55K_RMB",
+      "ENGLISH": "Max: 55,000 RMB",
+      "CHINESE": "最高: 人民币 55,000"
+    },
+    {
+      "_CMSKEY": "o_SPREAD_GRPOUP_C",
+      "ENGLISH": "Spread Group C",
+      "CHINESE": "盘口种类 C"
+    },
+    {
+      "_CMSKEY": "o_OK_GOT_IT",
+      "ENGLISH": "Ok, got it",
+      "CHINESE": "已了解"
     }
   ]
 }
