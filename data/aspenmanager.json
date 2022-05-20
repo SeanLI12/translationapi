@@ -1336,6 +1336,18 @@
       "_CMSKEY": "o_COPY_QR_CODE",
       "ENGLISH": "Copy QR code",
       "CHINESE": "复制二维码"
+    },
+    
+    {
+      "_CMSKEY": "o_COPY_DETAILS_IN_CHINESE",
+      "ENGLISH": "copy details in chinese change to",
+      "CHINESE": "复制登入资料"
+    },
+    
+    {
+      "_CMSKEY": "o_SUCCESS",
+      "ENGLISH": "Success",
+      "CHINESE": "成功"
     }
   ]
 }
