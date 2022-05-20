@@ -6544,6 +6544,51 @@
       "_CMSKEY": "o_HANDICAPS_AND_OVER_UNDER",
       "ENGLISH": "Handicaps & Over / under",
       "CHINESE": "让球 & 大/小"
+    },
+    {
+      "_CMSKEY": "o_FOR_SECURITY_REASONS",
+      "ENGLISH": "For security reasons, you are required to change password every 30 days.",
+      "CHINESE": "为了安全起见，您必须每30天改变一次密码。"
+    },
+    {
+      "_CMSKEY": "o_YOUR_PASSWORD_MUST",
+      "ENGLISH": "Your Password must:",
+      "CHINESE": "您的密码必须根据以下规则:"
+    },
+    {
+      "_CMSKEY": "o_YOUR_PASSWORD_MUST_S1",
+      "ENGLISH": "Be between 6 - 12 alphanumeric characters with at least 2 upper (A-Z) or lowercase letters (a-z) and at least 1 numeric characters (0-9).",
+      "CHINESE": "至少要有两个大或小写英文字母和数字(0-9)组合, 字数最少6至12个。"
+    },
+    {
+      "_CMSKEY": "o_YOUR_PASSWORD_MUST_S2",
+      "ENGLISH": "Contain at least 3 different alphanumeric characters.",
+      "CHINESE": "三个不同的字母数字。"
+    },
+    {
+      "_CMSKEY": "o_YOUR_PASSWORD_MUST_S3",
+      "ENGLISH": "Not contain any spaces.",
+      "CHINESE": "不准许有空格。"
+    },
+    {
+      "_CMSKEY": "o_PLEASE_CREATE_A_LOGIN_ID",
+      "ENGLISH": "Please create a Login ID that you can easily remember.",
+      "CHINESE": "请创建一个便于记忆的登入帐号。"
+    },
+    {
+      "_CMSKEY": "o_EASYREMEMBER_RULES",
+      "ENGLISH": "Rules:",
+      "CHINESE": "规则："
+    },
+    {
+      "_CMSKEY": "o_EASYREMEMBER_RULES_S1",
+      "ENGLISH": "Your Login ID must be between 6 to 12 alphanumeric characters with at least 2 capital (A-Z) or lowercase letters (a-z) and at least 1 numeric character (0-9).",
+      "CHINESE": "除了小写英文字母(a-z)以外，您的登入帐号字数必须介于6~12个之间并至少有两个大写字母(A-Z)以及1个(0-9)之间的数字。"
+    },
+    {
+      "_CMSKEY": "o_EASYREMEMBER_RULES_S2",
+      "ENGLISH": "Your Login ID must not contain any spaces.",
+      "CHINESE": "帐号字母间不可以有空白。"
     }
   ]
 }
