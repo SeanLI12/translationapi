@@ -1355,6 +1355,11 @@
       "_CMSKEY": "o_COPY_URL_AND_USER_CODE",
       "ENGLISH": "Copy URL and User Code",
       "CHINESE": "复制网址和帐号"
+    },
+    {
+      "_CMSKEY": "o_COPY_AC_INFO",
+      "ENGLISH": "Copy A/C Info",
+      "CHINESE": "复制帐户信息"
     }
   ]
 }
