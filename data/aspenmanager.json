@@ -1372,11 +1372,6 @@
       "CHINESE": "使用会员帐户模板来设置创建会员常用的默认值。例如："
     },
     {
-      "_CMSKEY": "o_A_TEMPLATE_ALLOWS_YOU",
-      "ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:",
-      "CHINESE": "使用会员帐户模板来设置创建会员常用的默认值。例如："
-    },
-    {
       "_CMSKEY": "o_COMMISSIONANDBET",
       "ENGLISH": "Commission & Bet Limits",
       "CHINESE": "退水和限额"
@@ -1390,12 +1385,7 @@
       "_CMSKEY": "o_INITACCOUNTCREDIT",
       "ENGLISH": "Initial account Credit Limit",
       "CHINESE": "信用额度"
-    },
-    {
-      "_CMSKEY": "o_WHENTHETEMPLATEISSET",
-      "ENGLISH": "When the template is set, you can easily create an account in four simple steps.",
-      "CHINESE": "当配完会员帐户模板， 就可以在4步快速的建完新会员："
-    },
+    }
     {
       "_CMSKEY": "o_WHENTHETEMPLATEISSET",
       "ENGLISH": "When the template is set, you can easily create an account in four simple steps.",
