@@ -1360,6 +1360,71 @@
       "_CMSKEY": "o_COPY_AC_INFO",
       "ENGLISH": "Copy A/C Info",
       "CHINESE": "复制帐户信息"
+    },
+    {
+      "_CMSKEY": "o_WHAT_IS_TEMPLATE",
+      "ENGLISH": "WHAT IS A TEMPLATE?",
+      "CHINESE": "什么是模板？"
+    },
+    {
+      "_CMSKEY": "o_A_TEMPLATE_ALLOWS_YOU",
+      "ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:",
+      "CHINESE": "使用会员帐户模板来设置创建会员常用的默认值。例如："
+    },
+    {
+      "_CMSKEY": "o_A_TEMPLATE_ALLOWS_YOU",
+      "ENGLISH": "A template allows you to pre-configure certain data that you regularly enter when creating new accounts. This includes:",
+      "CHINESE": "使用会员帐户模板来设置创建会员常用的默认值。例如："
+    },
+    {
+      "_CMSKEY": "o_COMMISSIONANDBET",
+      "ENGLISH": "Commission & Bet Limits",
+      "CHINESE": "退水和限额"
+    },
+    {
+      "_CMSKEY": "o_SPREADGROUP",
+      "ENGLISH": "Spread Group",
+      "CHINESE": "盘口种类"
+    },
+    {
+      "_CMSKEY": "o_INITACCOUNTCREDIT",
+      "ENGLISH": "Initial account Credit Limit",
+      "CHINESE": "信用额度"
+    },
+    {
+      "_CMSKEY": "o_WHENTHETEMPLATEISSET",
+      "ENGLISH": "When the template is set, you can easily create an account in four simple steps.",
+      "CHINESE": "当配完会员帐户模板， 就可以在4步快速的建完新会员："
+    },
+    {
+      "_CMSKEY": "o_WHENTHETEMPLATEISSET",
+      "ENGLISH": "When the template is set, you can easily create an account in four simple steps.",
+      "CHINESE": "当配完会员帐户模板， 就可以在4步快速的建完新会员："
+    },
+    {
+      "_CMSKEY": "o_SELECATEMPLATE",
+      "ENGLISH": "Step 1: Select a template.",
+      "CHINESE": "第一步: 选想用的模板"
+    },
+    {
+      "_CMSKEY": "o_GENACCOUNT",
+      "ENGLISH": "Step 2: Generate a User Code.",
+      "CHINESE": "第二步: 产生帐号"
+    },
+    {
+      "_CMSKEY": "o_ENTERANAMEFORTHENEWACCOUNT",
+      "ENGLISH": "Step 3: Enter a name for the new account.",
+      "CHINESE": "第三步: 输入用户名"
+    },
+    {
+      "_CMSKEY": "o_ADDAPASSWORDANDCREATE",
+      "ENGLISH": "Step 4: Add a password and create the account.",
+      "CHINESE": "第四步：输入密码，然后点'创建'"
+    },
+    {
+      "_CMSKEY": "o_AMAXIUMUMOF5TEMPLATES",
+      "ENGLISH": "A maximum of 5 templates can be created. ",
+      "CHINESE": "最多可以创建 5 个模板。"
     }
   ]
 }
