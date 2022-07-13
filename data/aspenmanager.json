@@ -1385,7 +1385,7 @@
       "_CMSKEY": "o_INITACCOUNTCREDIT",
       "ENGLISH": "Initial account Credit Limit",
       "CHINESE": "信用额度"
-    }
+    },
     {
       "_CMSKEY": "o_WHENTHETEMPLATEISSET",
       "ENGLISH": "When the template is set, you can easily create an account in four simple steps.",
@@ -1415,6 +1415,11 @@
       "_CMSKEY": "o_AMAXIUMUMOF5TEMPLATES",
       "ENGLISH": "A maximum of 5 templates can be created. ",
       "CHINESE": "最多可以创建 5 个模板。"
+    },
+    {
+      "_CMSKEY": "o_CREATE_QR_INFO",
+      "ENGLISH": "Create a QR Code to share with your member to use as their initial log-in. The QR Code will expire in 2 hours.",
+      "CHINESE": "产生二维码并将其二维码共享给会员，让他们用于初始登录。此二维码有效期为两小时."
     }
   ]
 }
