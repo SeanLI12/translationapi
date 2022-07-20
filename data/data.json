@@ -6589,6 +6589,16 @@
       "_CMSKEY": "o_EASYREMEMBER_RULES_S2",
       "ENGLISH": "Your Login ID must not contain any spaces.",
       "CHINESE": "帐号字母间不可以有空白。"
+    },
+    {
+      "_CMSKEY": "o_OKGOTIT",
+      "ENGLISH": "Ok, Got it",
+      "CHINESE": "了解"
+    },
+    {
+      "_CMSKEY": "o_GMAILERRORMSG",
+      "ENGLISH": "Gmail is no longer supported by our Password Recovery feature. If you are currently using gmail, please update your email to another email provider to avoid further issues. Thank you!",
+      "CHINESE": "此功能不再支援Gmail。请用其他供应商的电子邮件。"
     }
   ]
 }
