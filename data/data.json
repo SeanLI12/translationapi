@@ -4256,7 +4256,7 @@
       "_CMSKEY": "o_PASSCODELOGIN"
     },
     {
-      "CHINESE": "密码回复",
+      "CHINESE": "密码恢复",
       "ENGLISH": "Password Recovery",
       "_CMSKEY": "o_PASSWORDRECOVERY"
     },
@@ -4756,7 +4756,7 @@
       "_CMSKEY": "o_DELETEPASSWORDRECOVERYEMAIL"
     },
     {
-      "CHINESE": "请输入您用于回复密码的电子信箱地址。",
+      "CHINESE": "请输入您用于恢复密码的电子信箱地址。",
       "ENGLISH": "Please enter the email address you want to use for Password Recovery.",
       "_CMSKEY": "o_PLEASEENTERTHEEMAILADDRESSYOUWANTTOUSEFORPASSWORDRECOVERY"
     },
