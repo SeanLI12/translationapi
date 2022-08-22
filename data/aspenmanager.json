@@ -843,7 +843,7 @@
     {
       "_CMSKEY": "o_GENERATE",
       "ENGLISH": "Generate",
-      "CHINESE": "产生"
+      "CHINESE": "随机"
     },
     {
       "_CMSKEY": "o_AVAILABLE_BALANCE",
@@ -1284,7 +1284,7 @@
     {
       "_CMSKEY": "o_CREATE_QR_CODE",
       "ENGLISH": "Create QR Code",
-      "CHINESE": "产生二维码"
+      "CHINESE": "生成二维码"
     },
     {
       "_CMSKEY": "o_AGENT_DEFAULT_SETTINGS_USED_HERE",
@@ -1419,7 +1419,7 @@
     {
       "_CMSKEY": "o_CREATE_QR_INFO",
       "ENGLISH": "Create a QR Code to share with your member to use as their initial log-in. The QR Code will expire in 2 hours.",
-      "CHINESE": "产生二维码并将其二维码共享给会员，让他们用于初始登录。此二维码有效期为两小时."
+      "CHINESE": "生成二维码并将其二维码共享给会员，让他们用于初始登录。此二维码有效期为两小时."
     }
   ]
 }
