@@ -1420,6 +1420,201 @@
       "_CMSKEY": "o_CREATE_QR_INFO",
       "ENGLISH": "Create a QR Code to share with your member to use as their initial log-in. The QR Code will expire in 2 hours.",
       "CHINESE": "生成二维码并将其二维码共享给会员，让他们用于初始登录。此二维码有效期为两小时."
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE_CREDIT",
+      "ENGLISH": "Retrieve Credit",
+      "CHINESE": "回收额度"
+    },
+    {
+      "_CMSKEY": "o_GENERAL_RETRIEVE",
+      "ENGLISH": "General Retrieve Credit",
+      "CHINESE": "总额回收模式"
+    },
+    {
+      "_CMSKEY": "o_INDIVIDUAL_RETRIEVE",
+      "ENGLISH": "Individual Retrieve Credit",
+      "CHINESE": "个别回收模式"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE_AGS",
+      "ENGLISH": "Inactive Agent(s)",
+      "CHINESE": "停用代理商总额"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE_MEMS",
+      "ENGLISH": "Inactive Member(s)",
+      "CHINESE": "停用会员总额"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE_MAS",
+      "ENGLISH": "Inactive Master Agent(s)",
+      "CHINESE": "停用总代理总额"
+    },
+    {
+      "_CMSKEY": "o_INACTIVE_ACCOUNT_CREDIT",
+      "ENGLISH": "Inactive Account Credit",
+      "CHINESE": "停用帐户额度"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVABLE_CREDIT",
+      "ENGLISH": "Retrievable Credit",
+      "CHINESE": "可回收额度"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE",
+      "ENGLISH": "Retrieve",
+      "CHINESE": "回收"
+    },
+    {
+      "_CMSKEY": "o_NOTES",
+      "ENGLISH": "Notes:",
+      "CHINESE": "注意:"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE_MEANING",
+      "ENGLISH": "Pressing \"Retrieve\" will reclaim all your downline's credit back to your account (minimum of 1 unit of credit must remain in affected accounts).",
+      "CHINESE": "点击\"回收\"后, 您的帐户将回收全部停用下线的额度。 (帐户保留最低余额为1)"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE_NOTE1",
+      "ENGLISH": "Retrieval can only be actioned on Auto-Recovery accounts that are inactive.",
+      "CHINESE": "自动恢复模式帐户的额度才能被回收。"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE_NOTE2",
+      "ENGLISH": "Retrieval of Credit will be from the Members to their Upline.",
+      "CHINESE": "回收额度将从会员层级往上跨层抽取。"
+    },
+    {
+      "_CMSKEY": "o_CREDIT_IS_UPDATING",
+      "ENGLISH": "Credit is being updated, Please stand by.",
+      "CHINESE": "正在更新，请稍等"
+    },
+    {
+      "_CMSKEY": "o_AC_MGMT_NOT_ACCESSIBLE",
+      "ENGLISH": "Account Management，Create Account and Search are not accessible at this time.",
+      "CHINESE": "帐户管理、创建帐户以及搜索当前无法使用。"
+    },
+    {
+      "_CMSKEY": "o_SUCCESSFULLY_RETRIEVED_CREDIT",
+      "ENGLISH": "Successfully Retrieved Credit",
+      "CHINESE": "回收额度成功"
+    },
+    {
+      "_CMSKEY": "o_FAILED_RETRIEVED_CREDIT",
+      "ENGLISH": "Retrieved Credit Failed",
+      "CHINESE": "回收额度失败"
+    },
+    {
+      "_CMSKEY": "o_ALL_DOWNLINE",
+      "ENGLISH": "All Downline",
+      "CHINESE": "所有下线"
+    },
+    {
+      "_CMSKEY": "o_YOUR_ACCOUNT",
+      "ENGLISH": "Your Account",
+      "CHINESE": "您的帐户"
+    },
+    {
+      "_CMSKEY": "o_MEM_MEMBER0001",
+      "ENGLISH": "(MEM) Member0001",
+      "CHINESE": "(会员) Member0001"
+    },
+    {
+      "_CMSKEY": "o_MEM_MEMBER0001",
+      "ENGLISH": "(MA) MA00000004",
+      "CHINESE": "(总代理) MA00000004"
+    },
+    {
+      "_CMSKEY": "o_MEM_MEMBER0001",
+      "ENGLISH": "(AG) AG00000001",
+      "CHINESE": "(代理商) AG00000001"
+    },
+    {
+      "_CMSKEY": "o_MEM_MEMBER0001",
+      "ENGLISH": "(AG) AG00000004",
+      "CHINESE": "(代理商) AG00000004"
+    },
+    {
+      "_CMSKEY": "o_MEM_MEMBER0001",
+      "ENGLISH": "(MA) MA00000001",
+      "CHINESE": "(总代理) MA00000001"
+    },
+    {
+      "_CMSKEY": "o_MEM_COUNT",
+      "ENGLISH": "Member",
+      "CHINESE": "会员人数"
+    },
+    {
+      "_CMSKEY": "o_AG_COUNT",
+      "ENGLISH": "Agent",
+      "CHINESE": "代理商人数"
+    },
+    {
+      "_CMSKEY": "o_SEARCH_USERCODE",
+      "ENGLISH": "Search User Code",
+      "CHINESE": "搜寻帐号"
+    },
+    {
+      "_CMSKEY": "o_TYPES_RETRIEVE_CREDIT",
+      "ENGLISH": "Types of Retrieve Credit",
+      "CHINESE": "回收额度模式"
+    },
+    {
+      "_CMSKEY": "o_GENERAL_RETRIEVE_MEANING",
+      "ENGLISH": "This form of credit retrieval will be from all your immediate inactive downline. Credit from General Retrieve Credit will go back to your own account.",
+      "CHINESE": "总额回收模式: 回收所有停用下线的额度, 退还至您的帐户。"
+    },
+    {
+      "_CMSKEY": "o_INDIVIDUAL_RETRIEVE_MEANING",
+      "ENGLISH": "This form of credit retrieval will be from a specific account and will go back to the account’s direct upline.",
+      "CHINESE": "个别回收模式: 回收个别停用下线的额度, 退还至上线帐户。"
+    },
+    {
+      "_CMSKEY": "o_NO_DATA_FOUND",
+      "ENGLISH": "No data found",
+      "CHINESE": "无资料"
+    },
+    {
+      "_CMSKEY": "o_AC_CREATED",
+      "ENGLISH": "Account Created",
+      "CHINESE": "新增帐号"
+    },
+    {
+      "_CMSKEY": "o_AC_CREATED_BY",
+      "ENGLISH": "Account Created By",
+      "CHINESE": "此帐号被谁新增"
+    },
+    {
+      "_CMSKEY": "o_CHANGE_CREDIT",
+      "ENGLISH": "Change Credit",
+      "CHINESE": "更改额度"
+    },
+    {
+      "_CMSKEY": "o_CHANGE_STATUS",
+      "ENGLISH": "Change Status",
+      "CHINESE": "更改帐户状态"
+    },
+    {
+      "_CMSKEY": "o_ACTIVITIES",
+      "ENGLISH": "Activities",
+      "CHINESE": "活动类别"
+    },
+    {
+      "_CMSKEY": "o_PERIOD",
+      "ENGLISH": "Period",
+      "CHINESE": "时期"
+    },
+    {
+      "_CMSKEY": "o_THISMONTH",
+      "ENGLISH": "This Month",
+      "CHINESE": "这个月"
+    },
+    {
+      "_CMSKEY": "o_ACTIVITIES",
+      "ENGLISH": "My Activities",
+      "CHINESE": "我的活动记录"
     }
   ]
 }
