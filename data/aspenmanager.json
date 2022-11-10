@@ -1615,6 +1615,16 @@
       "_CMSKEY": "o_ACTIVITIES",
       "ENGLISH": "My Activities",
       "CHINESE": "我的活动记录"
+    },
+    {
+      "_CMSKEY": "o_DISABLED_RETRIEVE_MEANING",
+      "ENGLISH": "Retrieve function is not available for this level. Drill down to check if the retrieve credit function is available for other levels.",
+      "CHINESE": "此功能仅适用于停用状态的帐户。"
+    },
+    {
+      "_CMSKEY": "o_DISABLED_RETRIEVE",
+      "ENGLISH": "Disabled Retrieve",
+      "CHINESE": "无法回收"
     }
   ]
 }
