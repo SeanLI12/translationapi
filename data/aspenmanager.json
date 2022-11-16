@@ -1630,6 +1630,11 @@
       "_CMSKEY": "o_SEARCH_USERCODE_LOGIN_ID",
       "ENGLISH": "Search User Code or Login ID",
       "CHINESE": "搜寻帐号或登⼊帐号"
+    },
+    {
+      "_CMSKEY": "o_CURRENCY",
+      "ENGLISH": "Currency",
+      "CHINESE": "汇率"
     }
   ]
 }
