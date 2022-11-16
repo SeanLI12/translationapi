@@ -3641,7 +3641,7 @@
       "_CMSKEY": "o_ALLOUTRIGHTS"
     },
     {
-      "CHINESE": "确认",
+      "CHINESE": "完成",
       "ENGLISH": "OK",
       "_CMSKEY": "o_OK"
     },
@@ -3696,7 +3696,7 @@
       "_CMSKEY": "o_JUNE"
     },
     {
-      "CHINESE": "注单",
+      "CHINESE": "注单收据",
       "ENGLISH": "Bet Receipt",
       "_CMSKEY": "o_BETRECEIPT"
     },
@@ -3731,7 +3731,7 @@
       "_CMSKEY": "o_ODDS"
     },
     {
-      "CHINESE": "注入投注额",
+      "CHINESE": "输入下注金额",
       "ENGLISH": "Enter Stake",
       "_CMSKEY": "o_ENTERSTAKE"
     },
@@ -3781,7 +3781,7 @@
       "_CMSKEY": "o_TOWIN"
     },
     {
-      "CHINESE": "最大赌注",
+      "CHINESE": "最大投注金额",
       "ENGLISH": "MAX BET",
       "_CMSKEY": "o_MAXBET"
     },
@@ -3946,7 +3946,7 @@
       "_CMSKEY": "o_RETAINSELECTIONS"
     },
     {
-      "CHINESE": "投注金额",
+      "CHINESE": "下注金额",
       "ENGLISH": "Stake",
       "_CMSKEY": "o_STAKE"
     },
@@ -6628,7 +6628,22 @@
     {
       "_CMSKEY": "o_TENNISGAME1530GAME4",
       "ENGLISH": "Tennis Game at 15/30 - Game 4",
-      "CHINESE": "网球以对手15/30赢局 - 局 4"
+      "CHINESE": "网球(滚球) 以对手15/30赢局 - 局 4"
+    },
+    {
+      "_CMSKEY": "o_WINNERSET2GAME4",
+      "ENGLISH": "Winner - set 2, game 4",
+      "CHINESE": "独赢 - 第二盘 第四局"
+    },
+    {
+      "_CMSKEY": "o_WINNERSET2GAME5",
+      "ENGLISH": "Winner - set 2, game 5",
+      "CHINESE": "独赢 - 第二盘 第五局"
+    },
+    {
+      "_CMSKEY": "o_TOTALPOINTSOVERUNDERSET2GAME4",
+      "ENGLISH": "Total Points: Over / Under - set 2, game 4",
+      "CHINESE": "总得分数大/小 - 盘二,局四"
     }
   ]
 }
