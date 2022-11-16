@@ -1635,6 +1635,41 @@
       "_CMSKEY": "o_CURRENCY",
       "ENGLISH": "Currency",
       "CHINESE": "汇率"
+    },
+    {
+      "_CMSKEY": "o_SMA",
+      "ENGLISH": "SMA",
+      "CHINESE": "股东"
+    },
+    {
+      "_CMSKEY": "o_OLD",
+      "ENGLISH": "Old",
+      "CHINESE": "旧值"
+    },
+    {
+      "_CMSKEY": "o_NEW",
+      "ENGLISH": "New",
+      "CHINESE": "新值"
+    },
+    {
+      "_CMSKEY": "o_ACTIVITY",
+      "ENGLISH": "Activity",
+      "CHINESE": "活动类别"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT",
+      "ENGLISH": "Account",
+      "CHINESE": "帐号"
+    },
+    {
+      "_CMSKEY": "o_DATE",
+      "ENGLISH": "Date",
+      "CHINESE": "记录日期时间"
+    },
+    {
+      "_CMSKEY": "o_CHANGED_BY",
+      "ENGLISH": "Changed By",
+      "CHINESE": "操作者"
     }
   ]
 }
