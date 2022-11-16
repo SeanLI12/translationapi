@@ -6604,6 +6604,31 @@
       "_CMSKEY": "o_GMAILERRORPR",
       "ENGLISH": "Gmail is not supported for this function. Please use a different email provider.",
       "CHINESE": "此功能不再支援Gmail。请用其他供应商的电子邮件。"
+    },
+    {
+      "_CMSKEY": "o_GAME1530",
+      "ENGLISH": "Game at 15/30",
+      "CHINESE": "以对手15/30赢局"
+    },
+    {
+      "_CMSKEY": "o_GAME4",
+      "ENGLISH": "Game 4",
+      "CHINESE": "局 4"
+    },
+    {
+      "_CMSKEY": "o_2NDSET",
+      "ENGLISH": "2nd Set",
+      "CHINESE": "第2盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1530SET2GAME4",
+      "ENGLISH": "Game at 15/30 - Set 2, Game 4",
+      "CHINESE": "以对手15/30赢局 - 盘2,局3"
+    },
+    {
+      "_CMSKEY": "o_TENNISGAME1530GAME4",
+      "ENGLISH": "Tennis Game at 15/30 - Game 4",
+      "CHINESE": "网球以对手15/30赢局 - 局 4"
     }
   ]
 }
