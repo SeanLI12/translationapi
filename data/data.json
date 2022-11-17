@@ -6648,12 +6648,12 @@
     {
       "_CMSKEY": "o_SET2GAME4",
       "ENGLISH": "Set 2 Game 4",
-      "CHINESE": "第二盘 第四局"
+      "CHINESE": "盘2,局4"
     },
     {
       "_CMSKEY": "o_SET2GAME5",
       "ENGLISH": "Set 2 Game 5",
-      "CHINESE": "第二盘 第五局"
+      "CHINESE": "盘2,局5"
     },
     {
       "_CMSKEY": "o_TOTALPOINTSOVERUNDER",
