@@ -6644,6 +6644,21 @@
       "_CMSKEY": "o_TOTALPOINTSOVERUNDERSET2GAME4",
       "ENGLISH": "Total Points: Over / Under - set 2, game 4",
       "CHINESE": "总得分数大/小 - 盘二,局四"
+    },
+    {
+      "_CMSKEY": "o_SET2GAME4",
+      "ENGLISH": "Set 2 Game 4",
+      "CHINESE": "第二盘 第四局"
+    },
+    {
+      "_CMSKEY": "o_SET2GAME5",
+      "ENGLISH": "Set 2 Game 5",
+      "CHINESE": "第二盘 第五局"
+    },
+    {
+      "_CMSKEY": "o_TOTALPOINTSOVERUNDER",
+      "ENGLISH": "Total Points: Over / Under",
+      "CHINESE": "总得分数大/小"
     }
   ]
 }
