@@ -1670,6 +1670,11 @@
       "_CMSKEY": "o_CHANGED_BY",
       "ENGLISH": "Changed By",
       "CHINESE": "操作者"
+    },
+    {
+      "_CMSKEY": "o_ALL",
+      "ENGLISH": "All",
+      "CHINESE": "全部"
     }
   ]
 }
