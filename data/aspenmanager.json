@@ -1474,7 +1474,7 @@
     {
       "_CMSKEY": "o_RETRIEVE_MEANING",
       "ENGLISH": "Pressing \"Retrieve\" will reclaim all your downline's credit back to your account (minimum of 1 unit of credit must remain in affected accounts).",
-      "CHINESE": "点击\"回收\"后, 您的帐户将回收全部停用下线的额度。 (帐户保留最低余额为1)"
+      "CHINESE": "点击\"回收\"后, 您全部停用下线的额度将被回收. (帐户保留最低余额为1)"
     },
     {
       "_CMSKEY": "o_RETRIEVE_NOTE1",
