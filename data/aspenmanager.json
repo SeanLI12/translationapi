@@ -1568,8 +1568,8 @@
     },
     {
       "_CMSKEY": "o_INDIVIDUAL_RETRIEVE_MEANING",
-      "ENGLISH": "This form of credit retrieval will be from a specific account and will go back to the account’s direct upline.",
-      "CHINESE": "个别回收模式: 回收个别停用下线的额度, 退还至上线帐户。"
+      "ENGLISH": "Pressing on \"Retrieve\" will reclaim this account's credit back to its upline, leaving 1 credit to all affected downlines.",
+      "CHINESE": "点击\"回收\"后, 您将把指定帐户的停用额度退还至其上线. (帐户保留最低余额为1)"
     },
     {
       "_CMSKEY": "o_NO_DATA_FOUND",
