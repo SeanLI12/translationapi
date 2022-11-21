@@ -1439,17 +1439,17 @@
     {
       "_CMSKEY": "o_INACTIVE_AGS",
       "ENGLISH": "Inactive Agent(s)",
-      "CHINESE": "停用代理商总额"
+      "CHINESE": "停用代理商"
     },
     {
       "_CMSKEY": "o_INACTIVE_MEMS",
       "ENGLISH": "Inactive Member(s)",
-      "CHINESE": "停用会员总额"
+      "CHINESE": "停用会员"
     },
     {
       "_CMSKEY": "o_INACTIVE_MAS",
       "ENGLISH": "Inactive Master Agent(s)",
-      "CHINESE": "停用总代理总额"
+      "CHINESE": "停用总代理"
     },
     {
       "_CMSKEY": "o_INACTIVE_ACCOUNT_CREDIT",
