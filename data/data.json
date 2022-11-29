@@ -6659,6 +6659,86 @@
       "_CMSKEY": "o_TOTALPOINTSOVERUNDER",
       "ENGLISH": "Total Points: Over / Under",
       "CHINESE": "总得分数大/小"
+    },
+    {
+      "_CMSKEY": "o_WINLOSS_FORECAST",
+      "ENGLISH": "Win / Loss Forecast",
+      "CHINESE": "赢输预测"
+    },
+    {
+      "_CMSKEY": "o_WINLOSS_FORECAST_NOTE",
+      "ENGLISH": "Note: The Win/Loss Forecast is only a guide on your total position and not all Bet Types are included in the displayed values. For the actual Win/Loss amount, please check your individual bets.",
+      "CHINESE": "注：赢输预测功能只能提供您当下所投注的部分玩法的总赢输额的预测而非包括全部的玩法且只能当做一个参考而已。 如欲查询切确的赢输额，请查看各玩法的单笔注单。"
+    },
+    {
+      "_CMSKEY": "o_CURRENT_BETS",
+      "ENGLISH": "Current Bets",
+      "CHINESE": "现有投注"
+    },
+    {
+      "_CMSKEY": "o_LEARN_MORE",
+      "ENGLISH": "Learn more",
+      "CHINESE": "了解更多"
+    },
+    {
+      "_CMSKEY": "o_WINLOSS_FORECAST_WHAT",
+      "ENGLISH": "What is Win / Loss Forecast",
+      "CHINESE": "什么是赢输预测？"
+    },
+    {
+      "_CMSKEY": "o_WINLOSS_FORECAST_MEANING",
+      "ENGLISH": "Win / Loss Forecast is a feature enabling you to see your potential or settled Win/Loss values, based on the period scoreline.",
+      "CHINESE": "赢输预测是一个能够让您以不同的比分组合预测所有潜在和已确定的赢输额的功能。"
+    },
+    {
+      "_CMSKEY": "o_BET_TYPES",
+      "ENGLISH": "Bet Types",
+      "CHINESE": "玩法"
+    },
+    {
+      "_CMSKEY": "o_WINLOSS_FORECAST_BETTYPES_INCLUDE",
+      "ENGLISH": "Win / Loss Forecast includes the following Bet Types:",
+      "CHINESE": "赢输预测包含以下的玩法："
+    },
+    {
+      "_CMSKEY": "o_WINLOSS_FORECAST_BETTYPES_OTHERS",
+      "ENGLISH": "Bets placed on other Bet Types will not be included in the Win/Loss Forecast. ",
+      "CHINESE": "其他玩法的投注将不包含在赢输预测功能的计算内。"
+    },
+    {
+      "_CMSKEY": "o_999_9",
+      "ENGLISH": "999.99",
+      "CHINESE": "999.99"
+    },
+    {
+      "_CMSKEY": "o_999_9K",
+      "ENGLISH": "999.9K",
+      "CHINESE": "99.9万"
+    },
+    {
+      "_CMSKEY": "o_NEG_9_9K",
+      "ENGLISH": "-9.9K",
+      "CHINESE": "-9.9千"
+    },
+    {
+      "_CMSKEY": "o_NEG_999_9M",
+      "ENGLISH": "-999.9M",
+      "CHINESE": "-9.9亿"
+    },
+    {
+      "_CMSKEY": "o_ROTATE_DEVICE_FORCAST",
+      "ENGLISH": "Please rotate your device to view forecast.",
+      "CHINESE": "请把您的设备转为直立以便使用赢输预测"
+    },
+    {
+      "_CMSKEY": "o_STAKE_COLON",
+      "ENGLISH": "Stake:",
+      "CHINESE": "下注金额"
+    },
+    {
+      "_CMSKEY": "o_EST_WIN_COLOn",
+      "ENGLISH": "Est. Win:",
+      "CHINESE": "可赢额"
     }
   ]
 }
