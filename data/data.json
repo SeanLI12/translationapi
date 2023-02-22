@@ -6739,6 +6739,76 @@
       "_CMSKEY": "o_EST_WIN_COLOn",
       "ENGLISH": "Est. Win:",
       "CHINESE": "可赢额"
+    },
+    {
+      "_CMSKEY": "o_1X2ANDOU",
+      "ENGLISH": "1 x 2 & O/U",
+      "CHINESE": "獨贏 & 大小"
+    },
+    {
+      "_CMSKEY": "o_1X2AND1POINT5GOALS",
+      "ENGLISH": "1 X 2 & 1.5 Goals",
+      "CHINESE": "独赢 & 进球 1.5"
+    },
+    {
+      "_CMSKEY": "o_1X2AND2POINT5GOALS",
+      "ENGLISH": "1 X 2 & 2.5 Goals",
+      "CHINESE": "独赢 & 进球 2.5"
+    },
+    {
+      "_CMSKEY": "o_1X2AND3POINT5GOALS",
+      "ENGLISH": "1 X 2 & 3.5 Goals",
+      "CHINESE": "独赢 & 进球 3.5"
+    },
+    {
+      "_CMSKEY": "o_DRAWANDOVER1POINT5",
+      "ENGLISH": "Draw & Over 1.5",
+      "CHINESE": "和&大1.5"
+    },
+    {
+      "_CMSKEY": "o_DRAWANDUNDER1POINT5",
+      "ENGLISH": "Draw & Under 1.5",
+      "CHINESE": "和&小1.5"
+    },
+    {
+      "_CMSKEY": "o_DRAWANDOVER2POINT5",
+      "ENGLISH": "Draw & Over 2.5",
+      "CHINESE": "和&大2.5"
+    },
+    {
+      "_CMSKEY": "o_DRAWANDUNDER2POINT5",
+      "ENGLISH": "Draw & Under 2.5",
+      "CHINESE": "和&小2.5"
+    },
+    {
+      "_CMSKEY": "o_DRAWANDOVER3POINT5",
+      "ENGLISH": "Draw & Over 3.5",
+      "CHINESE": "和&大3.5"
+    },
+    {
+      "_CMSKEY": "o_DRAWANDUNDER3POINT5",
+      "ENGLISH": "Draw & Under 3.5",
+      "CHINESE": "和&小3.5"
+    },
+    {
+      "_CMSKEY": "o_GOALSCORER",
+      "ENGLISH": "Goalscorer",
+      "CHINESE": "進球球員"
+    },
+    {
+      "_CMSKEY": "o_GOALS_OE",
+      "ENGLISH": "Goals O/E",
+      "CHINESE": "进球:单/双"
+    },
+    {
+      "_CMSKEY": "o_PENS_HDP",
+      "ENGLISH": "pens hdp",
+      "CHINESE": "点球 让球"
+    },
+    {
+      "_CMSKEY": "o_PENS_OU",
+      "ENGLISH": "Pens O/U",
+      "CHINESE": "点球 大小"
     }
   ]
 }
