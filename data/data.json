@@ -3011,9 +3011,9 @@
       "_CMSKEY": "o_NOGOAL"
     },
     {
-      "CHINESE": "得分大小",
+      "_CMSKEY": "o_GOALSOU",
       "ENGLISH": "Goals O/U",
-      "_CMSKEY": "o_GOALSOU"
+      "CHINESE": "得分大小"
     },
     {
       "CHINESE": "今日",
@@ -3351,9 +3351,9 @@
       "_CMSKEY": "o_TEAMLONGLONGNAME"
     },
     {
-      "CHINESE": "下一个进球",
       "ENGLISH": "Next Goal",
-      "_CMSKEY": "o_NEXTGOAL"
+      "_CMSKEY": "o_NEXTGOAL",
+      "CHINESE": "下个进球"
     },
     {
       "CHINESE": "角球",
@@ -3521,9 +3521,9 @@
       "_CMSKEY": "o_BOOKINGS1X2"
     },
     {
-      "CHINESE": "下一张罚牌",
+      "_CMSKEY": "o_NEXTBOOKING",
       "ENGLISH": "Next Booking",
-      "_CMSKEY": "o_NEXTBOOKING"
+      "CHINESE": "下个罚牌"
     },
     {
       "CHINESE": "罚牌 单/双",
