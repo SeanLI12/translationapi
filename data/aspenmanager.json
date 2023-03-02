@@ -1675,6 +1675,16 @@
       "_CMSKEY": "o_ALL",
       "ENGLISH": "All",
       "CHINESE": "全部"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE_NOTE3",
+      "ENGLISH": "Retrievable Credit computation does not exclude unsettled bets.",
+      "CHINESE": "可回收额度不包含未结果注单。"
+    },
+    {
+      "_CMSKEY": "o_RETRIEVE_CREDIT_FUNCTION_UNAVAILABLE",
+      "ENGLISH": "The account's status has been updated. The retrieve credit function is no longer available.",
+      "CHINESE": "帐户状态已改变，无法回收额度。"
     }
   ]
 }
