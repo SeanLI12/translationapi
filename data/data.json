@@ -6809,6 +6809,36 @@
       "_CMSKEY": "o_PENS_OU",
       "ENGLISH": "Pens O/U",
       "CHINESE": "点球 大小"
+    },
+    {
+      "_CMSKEY": "o_TO_BE_RELEGATED",
+      "ENGLISH": "To Be Relegated",
+      "CHINESE": "降級队伍"
+    },
+    {
+      "_CMSKEY": "o_TOP_2_FINISH",
+      "ENGLISH": "Top 2 Finish",
+      "CHINESE": "最終首两名"
+    },
+    {
+      "_CMSKEY": "o_TOP_GOALSCORER",
+      "ENGLISH": "Top Goalscorer",
+      "CHINESE": "最佳射手"
+    },
+    {
+      "_CMSKEY": "o_THU_9_MAR",
+      "ENGLISH": "thu 9 mar",
+      "CHINESE": "星期四 09 / 03"
+    },
+    {
+      "_CMSKEY": "o_FRI_10_MAR",
+      "ENGLISH": "fri 10 mar",
+      "CHINESE": "星期五 10 / 03"
+    },
+    {
+      "_CMSKEY": "o_ALL_TEAMS",
+      "ENGLISH": "All Teams",
+      "CHINESE": "所有隊伍"
     }
   ]
 }
