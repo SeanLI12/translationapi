@@ -6827,18 +6827,43 @@
     },
     {
       "_CMSKEY": "o_THU_9_MAR",
-      "ENGLISH": "thu 9 mar",
-      "CHINESE": "星期四 09 / 03"
+      "ENGLISH": "THU 9 MAR",
+      "CHINESE": "星期四 03/09"
     },
     {
       "_CMSKEY": "o_FRI_10_MAR",
-      "ENGLISH": "fri 10 mar",
-      "CHINESE": "星期五 10 / 03"
+      "ENGLISH": "FRI 10 MAR",
+      "CHINESE": "星期五 03/10"
     },
     {
       "_CMSKEY": "o_ALL_TEAMS",
       "ENGLISH": "All Teams",
       "CHINESE": "所有隊伍"
+    },
+    {
+      "_CMSKEY": "o_08_03",
+      "ENGLISH": "08/03",
+      "CHINESE": "03/08"
+    },
+    {
+      "_CMSKEY": "o_09_03",
+      "ENGLISH": "09/03",
+      "CHINESE": "03/09"
+    },
+    {
+      "_CMSKEY": "o_10_03",
+      "ENGLISH": "10/03",
+      "CHINESE": "03/10"
+    },
+    {
+      "_CMSKEY": "o_WED_8_MAR",
+      "ENGLISH": "WED 8 MAR",
+      "CHINESE": "星期三 03/08"
+    },
+    {
+      "_CMSKEY": "o_18_06_2018",
+      "ENGLISH": "18 / 06 / 2018",
+      "CHINESE": "06 / 18 / 2018"
     }
   ]
 }
