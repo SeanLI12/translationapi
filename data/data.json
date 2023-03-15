@@ -6858,12 +6858,333 @@
     {
       "_CMSKEY": "o_WED_8_MAR",
       "ENGLISH": "WED 8 MAR",
-      "CHINESE": "星期三 03/08"
+      "CHINESE": "3月8日 星期三"
     },
     {
       "_CMSKEY": "o_18_06_2018",
       "ENGLISH": "18 / 06 / 2018",
       "CHINESE": "06 / 18 / 2018"
+    },
+
+    {
+      "_CMSKEY": "o_TOTAL_POINTS_1H",
+      "ENGLISH": "Total Points 1H",
+      "CHINESE": "总分大小 上半场"
+    },
+    {
+      "_CMSKEY": "o_HANDICAP_1H",
+      "ENGLISH": "Handicap 1H",
+      "CHINESE": "让球 上半场"
+    },
+    {
+      "_CMSKEY": "o_POINTS_OE",
+      "ENGLISH": "Points O/E",
+      "CHINESE": "总分单双"
+    },
+    {
+      "_CMSKEY": "o_Q1_OR_1ST_QTR",
+      "ENGLISH": "Q1 or 1st Qtr",
+      "CHINESE": "第一节"
+    },
+    {
+      "_CMSKEY": "o_Q2_OR_2ND_QTR",
+      "ENGLISH": "Q2 or 2nd Qtr",
+      "CHINESE": "第二节"
+    },
+    {
+      "_CMSKEY": "o_Q3_OR_3RD_QTR",
+      "ENGLISH": "Q3 or 3rd Qtr",
+      "CHINESE": "第三节"
+    },
+    {
+      "_CMSKEY": "o_Q4_OR_4TH_QTR",
+      "ENGLISH": "Q4 or 4th Qtr",
+      "CHINESE": "第四节"
+    },
+    {
+      "_CMSKEY": "o_GAME_1",
+      "ENGLISH": "Game 1",
+      "CHINESE": "局一"
+    },
+    {
+      "_CMSKEY": "o_GAME_6",
+      "ENGLISH": "Game 6",
+      "CHINESE": "局六"
+    },
+    {
+      "_CMSKEY": "o_GAME_8",
+      "ENGLISH": "Game 8",
+      "CHINESE": "局八"
+    },
+    {
+      "_CMSKEY": "o_GAME_9",
+      "ENGLISH": "Game 9",
+      "CHINESE": "局九"
+    },
+    {
+      "_CMSKEY": "o_GAME_10",
+      "ENGLISH": "Game 10",
+      "CHINESE": "局十"
+    },
+    {
+      "_CMSKEY": "o_2ND_SET_3",
+      "ENGLISH": "2nd Set / 3",
+      "CHINESE": "第二盘/3"
+    },
+    {
+      "_CMSKEY": "o_3RD_SET_3",
+      "ENGLISH": "3rd Set / 3",
+      "CHINESE": "第三盘/3"
+    },
+    {
+      "_CMSKEY": "o_SET",
+      "ENGLISH": "Set",
+      "CHINESE": "盘"
+    },
+    {
+      "_CMSKEY": "o_GAME_HANDICAP",
+      "ENGLISH": "Game Handicap",
+      "CHINESE": "让局"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_POINTS_OU",
+      "ENGLISH": "Total Points O/U",
+      "CHINESE": "总分 大/小"
+    },
+    {
+      "_CMSKEY": "o_1ST_GAME_3",
+      "ENGLISH": "1st Game / 3",
+      "CHINESE": "第一局/3"
+    },
+    {
+      "_CMSKEY": "o_2ND_GAME_3",
+      "ENGLISH": "2nd Game / 3",
+      "CHINESE": "第二局/3"
+    },
+    {
+      "_CMSKEY": "o_3RD_GAME_3",
+      "ENGLISH": "3rd Game / 3",
+      "CHINESE": "第三局/3"
+    },
+    {
+      "_CMSKEY": "o_POINT_21",
+      "ENGLISH": "Point 21",
+      "CHINESE": "21分"
+    },
+    {
+      "_CMSKEY": "o_RACE_TO_15_POINTS",
+      "ENGLISH": "Race to 15 Points",
+      "CHINESE": "首先达到15分"
+    },
+    {
+      "_CMSKEY": "o_3RD_GAME_OR_GAME_3",
+      "ENGLISH": "3rd Game or Game 3",
+      "CHINESE": "第3局"
+    },
+    {
+      "_CMSKEY": "o_2ND_GAME",
+      "ENGLISH": "2nd Game",
+      "CHINESE": "第2局"
+    },
+    {
+      "_CMSKEY": "o_1ST_SET_5",
+      "ENGLISH": "1st Set / 5",
+      "CHINESE": "第一盘/5"
+    },
+    {
+      "_CMSKEY": "o_3RD_SET_5",
+      "ENGLISH": "3rd Set / 5",
+      "CHINESE": "第三盘/5"
+    },
+    {
+      "_CMSKEY": "o_5TH_SET",
+      "ENGLISH": "5th Set",
+      "CHINESE": "第五盘"
+    },
+    {
+      "_CMSKEY": "o_5TH_SET_5",
+      "ENGLISH": "5th Set / 5",
+      "CHINESE": "第五盘/5"
+    },
+    {
+      "_CMSKEY": "o_1ST_INNING",
+      "ENGLISH": "1st Inning",
+      "CHINESE": "第1局"
+    },
+    {
+      "_CMSKEY": "o_OUT_1",
+      "ENGLISH": "Out:1",
+      "CHINESE": "出局：1"
+    },
+    {
+      "_CMSKEY": "o_2ND_INNING",
+      "ENGLISH": "2nd Inning",
+      "CHINESE": "第2局"
+    },
+    {
+      "_CMSKEY": "o_FRAMES_1_TO_5",
+      "ENGLISH": "Frames 1-5",
+      "CHINESE": "1-5局"
+    },
+    {
+      "_CMSKEY": "o_BEST_OF_25",
+      "ENGLISH": "Best of 25",
+      "CHINESE": "最佳25"
+    },
+    {
+      "_CMSKEY": "o_FRAMES_21_TO_25",
+      "ENGLISH": "Frames 21-25",
+      "CHINESE": "21-25局"
+    },
+    {
+      "_CMSKEY": "o_21ST_FRAME",
+      "ENGLISH": "21st Frame",
+      "CHINESE": "第21局"
+    },
+    {
+      "_CMSKEY": "o_BASKETBALL_AND_AMERICAN_FOOTBALL",
+      "ENGLISH": "Basketball and American Football",
+      "CHINESE": "篮球 &amp; 美式足球"
+    },
+    {
+      "_CMSKEY": "o_NEXT_1_HOUR",
+      "ENGLISH": "Next 1 Hour",
+      "CHINESE": "下一小時"
+    },
+    {
+      "_CMSKEY": "o_NEXT_6_HOURS",
+      "ENGLISH": "Next 6 Hours",
+      "CHINESE": "下六小時"
+    },
+    {
+      "_CMSKEY": "o_NEXT_12_HOURS",
+      "ENGLISH": "Next 12 Hours",
+      "CHINESE": "下十二小時"
+    },
+    {
+      "_CMSKEY": "o_TODAYS_MATCHES_START",
+      "ENGLISH": "‘Today’s Matches’ start between 00:00:00 and 23:59:59 (GMT-4)",
+      "CHINESE": "‘今日赛事’在00:00:00和23:59:59 (GMT-4)之间开始"
+    },
+    {
+      "_CMSKEY": "o_IMAGINARY_OUTCOMES",
+      "ENGLISH": "These are events where two teams, from 2 separate matches, are paired together for predicting imaginary outcomes.",
+      "CHINESE": "在这些赛事中，来自两场不同比赛的两支队伍被组合在一起，以预测假象中的结果。"
+    },
+    {
+      "_CMSKEY": "o_TODAY_SLASH_SOCCER",
+      "ENGLISH": "today / soccer",
+      "CHINESE": "今日/足球"
+    },
+    {
+      "_CMSKEY": "o_TODAYS_MATCHES",
+      "ENGLISH": "today’s matches",
+      "CHINESE": "今日赛事"
+    },
+    {
+      "_CMSKEY": "o_MY_LIST",
+      "ENGLISH": "my list",
+      "CHINESE": "我的参赛表"
+    },
+    {
+      "_CMSKEY": "o_SORT",
+      "ENGLISH": "sort",
+      "CHINESE": "排序"
+    },
+    {
+      "_CMSKEY": "o_SORT_BY_COMPETITION",
+      "ENGLISH": "Sort by Competition",
+      "CHINESE": "联盟排序"
+    },
+    {
+      "_CMSKEY": "o_SORT_BY_TIME",
+      "ENGLISH": "Sort by Time",
+      "CHINESE": "时间排序"
+    },
+    {
+      "_CMSKEY": "o_EARLY_SOCCER",
+      "ENGLISH": "Early / soccer",
+      "CHINESE": "早盘/足球"
+    },
+    {
+      "_CMSKEY": "o_TV_STREAMING_AVAILABLE",
+      "ENGLISH": "TV streaming available when this event starts.",
+      "CHINESE": "开赛后方可观看"
+    },
+    {
+      "_CMSKEY": "o_MAR",
+      "ENGLISH": "mar",
+      "CHINESE": "3月"
+    },
+    {
+      "_CMSKEY": "o_PARTICIPANT_NAME",
+      "ENGLISH": "Participant Name",
+      "CHINESE": "隊伍名"
+    },
+    {
+      "_CMSKEY": "o_OUTRIGHTS_SOCCER",
+      "ENGLISH": "outrights / Soccer",
+      "CHINESE": "冠軍/足球"
+    },
+    {
+      "_CMSKEY": "o_PARLAY_SOCCER",
+      "ENGLISH": "parlay / soccer",
+      "CHINESE": "综合过关/足球"
+    },
+    {
+      "_CMSKEY": "o_TO_REACH_FINAL",
+      "ENGLISH": "to reach final",
+      "CHINESE": "入围总决赛"
+    },
+    {
+      "_CMSKEY": "o_TO_REACH_SEMI_FINAL",
+      "ENGLISH": "to reach semi final",
+      "CHINESE": "入围半决赛"
+    },
+    {
+      "_CMSKEY": "o_CLASSIFIER",
+      "ENGLISH": "classifier",
+      "CHINESE": "classifier"
+    },
+    {
+      "_CMSKEY": "o_TOP_MATCHES",
+      "ENGLISH": "Top matches",
+      "CHINESE": "顶级赛事"
+    },
+    {
+      "_CMSKEY": "o_MARKET_LINE_NAME",
+      "ENGLISH": "market line name",
+      "CHINESE": "Market line name"
+    },
+    {
+      "_CMSKEY": "o_POPULAR_MATCHES",
+      "ENGLISH": "popular matches",
+      "CHINESE": "热门赛事"
+    },
+    {
+      "_CMSKEY": "o_TOP_EURO_MATCHES",
+      "ENGLISH": "Top Euro Matches",
+      "CHINESE": "顶级欧洲赛事"
+    },
+    {
+      "_CMSKEY": "o_TOP_ASIA_PACIFIC_MATCHES",
+      "ENGLISH": "Top Asia-PACIFIC Matches",
+      "CHINESE": "亚太赛事"
+    },
+    {
+      "_CMSKEY": "o_JAPAN_MATCHES",
+      "ENGLISH": "JAPAN Matches",
+      "CHINESE": "日本赛事"
+    },
+    {
+      "_CMSKEY": "o_AUSTRALIAN_MATCHES",
+      "ENGLISH": "AUSTRALIAN Matches",
+      "CHINESE": "澳洲赛事"
+    },
+    {
+      "_CMSKEY": "o_UK_MATCHES",
+      "ENGLISH": "UK matches",
+      "CHINESE": "英国赛事"
     }
   ]
 }
