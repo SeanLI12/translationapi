@@ -1698,15 +1698,18 @@
     },
     {
       "_CMSKEY": "o_SELECT_ALL_0",
-      "ENGLISH": "Select All (0 Accounts)"
+      "ENGLISH": "Select All (0 Accounts)",
+      "CHINESE": "全选 (0帐号)"
     },
     {
       "_CMSKEY": "o_SELECT_ALL_9",
-      "ENGLISH": "Select All (9 Accounts)"
+      "ENGLISH": "Select All (9 Accounts)",
+      "CHINESE": "全选 (9帐号)"
     },
     {
       "_CMSKEY": "o_AUTO_APPLY_TO_FUTURE_AC",
-      "ENGLISH": "This will automatically apply to all future accounts created."
+      "ENGLISH": "This will automatically apply to all future accounts created.",
+      "CHINESE": "套用至所有新增的帐号。"
     },
     {
       "_CMSKEY": "o_SAFECODE",
@@ -1845,11 +1848,13 @@
     },
     {
       "_CMSKEY": "o_FROM",
-      "ENGLISH": "From"
+      "ENGLISH": "From",
+      "CHINESE": "从"
     },
     {
       "_CMSKEY": "o_TO",
-      "ENGLISH": "To"
+      "ENGLISH": "To",
+      "CHINESE": "到"
     },
     {
       "_CMSKEY": "o_NO_CHANGE",
@@ -1868,7 +1873,8 @@
     },
     {
       "_CMSKEY": "o_COPY_SETTINGS_TO_REST_OF_SPORTS",
-      "ENGLISH": "Copy these settings to the rest of the sports categories."
+      "ENGLISH": "Copy these settings to the rest of the sports categories.",
+      "CHINESE": "将此设套用至剩余所有的运动目录中。"
     },
     {
       "_CMSKEY": "o_CREDIT_LOGS",
