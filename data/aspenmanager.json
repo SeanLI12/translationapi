@@ -1685,6 +1685,363 @@
       "_CMSKEY": "o_RETRIEVE_CREDIT_FUNCTION_UNAVAILABLE",
       "ENGLISH": "The account's status has been updated. The retrieve credit function is no longer available.",
       "CHINESE": "帐户状态已改变，无法回收额度。"
+    },
+    {
+      "_CMSKEY": "o_NEW_SUB_AC",
+      "ENGLISH": "New Sub Account",
+      "CHINESE": "新增子帐号"
+    },
+    {
+      "_CMSKEY": "o_AG_AR",
+      "ENGLISH": "Agent (AR)",
+      "CHINESE": "代理商 (自动恢复)"
+    },
+    {
+      "_CMSKEY": "o_SELECT_ALL_0",
+      "ENGLISH": "Select All (0 Accounts)"
+    },
+    {
+      "_CMSKEY": "o_SELECT_ALL_9",
+      "ENGLISH": "Select All (9 Accounts)"
+    },
+    {
+      "_CMSKEY": "o_AUTO_APPLY_TO_FUTURE_AC",
+      "ENGLISH": "This will automatically apply to all future accounts created."
+    },
+    {
+      "_CMSKEY": "o_SAFECODE",
+      "ENGLISH": "Safe Code",
+      "CHINESE": "安全代码"
+    },
+    {
+      "_CMSKEY": "o_SAFECODE_RULE1",
+      "ENGLISH": "Safe Code must be between 8 - 16 alphanumeric characters with at least 1 upper (A-Z) or lowercase letters (a -z) and at least 1 numeric characters (0 - 9).",
+      "CHINESE": "密码必须至少要有一个大写, 一个小写英文字母和数字(0 - 9)组合, 字数最少8至16个。"
+    },
+    {
+      "_CMSKEY": "o_SAFECODE_RULE2",
+      "ENGLISH": "Safe Code must contain at least 3 different alphanumeric characters.",
+      "CHINESE": "密码必须三个不同的字母数字。"
+    },
+    {
+      "_CMSKEY": "o_SAFECODE_RULE3",
+      "ENGLISH": "Safe Code must NOT contain any spaces.",
+      "CHINESE": "密码不允许有空格。"
+    },
+    {
+      "_CMSKEY": "o_AC_MGMT_VIEW_ONLY",
+      "ENGLISH": "A/C Mgmt (View Only)",
+      "CHINESE": "管理帐户 (只观看)"
+    },
+    {
+      "_CMSKEY": "o_AC_MGMT_EDIT_VIEW",
+      "ENGLISH": "A/C Mgmt (Edit &amp; View)",
+      "CHINESE": "管理帐户 (更改和观看)"
+    },
+    {
+      "_CMSKEY": "o_AC_MGMT_EDIT_CREDIT",
+      "ENGLISH": "A/C Mgmt (Edit Credit)",
+      "CHINESE": "管理帐户 (更改额度)"
+    },
+    {
+      "_CMSKEY": "o_LOGIN_ID",
+      "ENGLISH": "Login ID",
+      "CHINESE": "登入帐号"
+    },
+    {
+      "_CMSKEY": "o_CREATED_DATE",
+      "ENGLISH": "Created Date",
+      "CHINESE": "新增日期"
+    },
+    {
+      "_CMSKEY": "o_ADD_ANOTHER_MA",
+      "ENGLISH": "Add Another MA",
+      "CHINESE": "再加新总代理"
+    },
+    {
+      "_CMSKEY": "o_ADD_ANOTHER_AG",
+      "ENGLISH": "Add Another Agent",
+      "CHINESE": "再加新代理商"
+    },
+    {
+      "_CMSKEY": "o_ADD_ANOTHER_SUB_AC",
+      "ENGLISH": "Add Another Sub Account",
+      "CHINESE": "再加新子帐号"
+    },
+    {
+      "_CMSKEY": "o_MA_LISTING",
+      "ENGLISH": "MA Listing",
+      "CHINESE": "总代理"
+    },
+    {
+      "_CMSKEY": "o_AG_LISTING",
+      "ENGLISH": "Agent Listing",
+      "CHINESE": "代理商"
+    },
+    {
+      "_CMSKEY": "o_SUB_AC_LISTING",
+      "ENGLISH": "Sub Account Listing",
+      "CHINESE": "子帐号"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_TYPE_CANT_EDIT_MESSAGE",
+      "ENGLISH": "“This can’t be changed or edited once created”",
+      "CHINESE": "&quot;额度模式一旦创建便无法更改或编辑。&quot;"
+    },
+    {
+      "_CMSKEY": "o_SMA_AVAIL_BALANCE",
+      "ENGLISH": "SMA Available Balance",
+      "CHINESE": "股东剩余额度"
+    },
+    {
+      "_CMSKEY": "o_MA_CREDIT_BALANCE",
+      "ENGLISH": "MA Credit Balance",
+      "CHINESE": "总代理可用额度"
+    },
+    {
+      "_CMSKEY": "o_AG_CREDIT_BALANCE",
+      "ENGLISH": "Agent Credit Balance",
+      "CHINESE": "代理可用额度"
+    },
+    {
+      "_CMSKEY": "o_MA_AVAIL_BALANCE",
+      "ENGLISH": "MA Available Balance",
+      "CHINESE": "总代理剩余额度"
+    },
+    {
+      "_CMSKEY": "o_AG_AVAIL_BALANCE",
+      "ENGLISH": "Agent Available Balance",
+      "CHINESE": "代理剩余额度"
+    },
+    {
+      "_CMSKEY": "o_SMA_POSSESS",
+      "ENGLISH": "SMA Possess",
+      "CHINESE": "股东占成数"
+    },
+    {
+      "_CMSKEY": "o_MA_POSSESS",
+      "ENGLISH": "MA Possess",
+      "CHINESE": "总代理占成数"
+    },
+    {
+      "_CMSKEY": "o_AG_POSSESS",
+      "ENGLISH": "Agent Possess",
+      "CHINESE": "代理商占成数"
+    },
+    {
+      "_CMSKEY": "o_MIN_ALLOWED_48",
+      "ENGLISH": "Min. Allowed: 48%",
+      "CHINESE": "最低可设: 48%  "
+    },
+    {
+      "_CMSKEY": "o_MAX_ALLOWED_78",
+      "ENGLISH": "Max. Allowed: 78%",
+      "CHINESE": "最高可设: 78%"
+    },
+    {
+      "_CMSKEY": "o_EFFECTIVE_AFTER",
+      "ENGLISH": "Effective after: 2022/03/10 07:00:00",
+      "CHINESE": "2022/03/10 07:00:00 后有效"
+    },
+    {
+      "_CMSKEY": "o_FROM",
+      "ENGLISH": "From"
+    },
+    {
+      "_CMSKEY": "o_TO",
+      "ENGLISH": "To"
+    },
+    {
+      "_CMSKEY": "o_NO_CHANGE",
+      "ENGLISH": "No Change",
+      "CHINESE": "保留"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_ SUMMARY",
+      "ENGLISH": "Account Summary",
+      "CHINESE": "概要"
+    },
+    {
+      "_CMSKEY": "o_PERMISSIONS",
+      "ENGLISH": "Permissions",
+      "CHINESE": "权限"
+    },
+    {
+      "_CMSKEY": "o_COPY_SETTINGS_TO_REST_OF_SPORTS",
+      "ENGLISH": "Copy these settings to the rest of the sports categories."
+    },
+    {
+      "_CMSKEY": "o_CREDIT_LOGS",
+      "ENGLISH": "Credit Logs",
+      "CHINESE": "额度修改记录"
+    },
+    {
+      "_CMSKEY": "o_EVENT_LOGS",
+      "ENGLISH": "Event Logs",
+      "CHINESE": "查看记录"
+    },
+    {
+      "_CMSKEY": "o_RESET_PASSWORD",
+      "ENGLISH": "Reset Password",
+      "CHINESE": "更改密码"
+    },
+    {
+      "_CMSKEY": "o_MANAGED_ACCOUNTS_0",
+      "ENGLISH": "Managed Accounts (0)",
+      "CHINESE": "可管理的帐户 (0)"
+    },
+    {
+      "_CMSKEY": "o_MANAGED_ACCOUNTS_2",
+      "ENGLISH": "Managed Accounts (2)",
+      "CHINESE": "可管理的帐户 (2)"
+    },
+    {
+      "_CMSKEY": "o_PERIOD",
+      "ENGLISH": "Period"
+    },
+    {
+      "_CMSKEY": "o_EFFECTIVE_DATE",
+      "ENGLISH": "Effective Date",
+      "CHINESE": "生效时间"
+    },
+    {
+      "_CMSKEY": "o_DATE_TIME",
+      "ENGLISH": "Date Time",
+      "CHINESE": "日期时间"
+    },
+    {
+      "_CMSKEY": "o_STAKE",
+      "ENGLISH": "Stake",
+      "CHINESE": "投注额"
+    },
+    {
+      "_CMSKEY": "o_VALID_STAKE",
+      "ENGLISH": "Valid Stake",
+      "CHINESE": "有效金额"
+    },
+    {
+      "_CMSKEY": "o_EST_WIN",
+      "ENGLISH": "Est. Win",
+      "CHINESE": "可赢金额"
+    },
+    {
+      "_CMSKEY": "o_CURRENT_BALANCE",
+      "ENGLISH": "Current Balance"
+    },
+    {
+      "_CMSKEY": "o_OLD_BALANCE",
+      "ENGLISH": "Old Balance",
+      "CHINESE": "旧额度"
+    },
+    {
+      "_CMSKEY": "o_NEW_BALANCE",
+      "ENGLISH": "New Balance",
+      "CHINESE": "新额度"
+    },
+    {
+      "_CMSKEY": "o_DEPOSIT",
+      "ENGLISH": "Deposit",
+      "CHINESE": "存入"
+    },
+    {
+      "_CMSKEY": "o_WITHDRAWAL",
+      "ENGLISH": "Withdrawal",
+      "CHINESE": "提出"
+    },
+    {
+      "_CMSKEY": "o_PARLAY_BET",
+      "ENGLISH": "Parlay Bet",
+      "CHINESE": "过关投注"
+    },
+    {
+      "_CMSKEY": "o_PARLAY_BET_MEANING",
+      "ENGLISH": "The Max per Event and Max per Bet should be at least 100 RMB",
+      "CHINESE": "单场最高和单注最高需设最低人民币100"
+    },
+    {
+      "_CMSKEY": "o_TOTAL",
+      "ENGLISH": "Total",
+      "CHINESE": "总计"
+    },
+    {
+      "_CMSKEY": "o_JUNE",
+      "ENGLISH": "June",
+      "CHINESE": "六月"
+    },
+    {
+      "_CMSKEY": "o_MAY",
+      "ENGLISH": "May",
+      "CHINESE": "五月"
+    },
+    {
+      "_CMSKEY": "o_OPEN_BETS",
+      "ENGLISH": "Open Bets",
+      "CHINESE": "交易状况"
+    },
+    {
+      "_CMSKEY": "o_STATEMENTS",
+      "ENGLISH": "Statement",
+      "CHINESE": "帐户历史"
+    },
+    {
+      "_CMSKEY": "o_SOCCER_OUTRIGHT",
+      "ENGLISH": "Soccer Outright",
+      "CHINESE": "足球 冠军"
+    },
+    {
+      "_CMSKEY": "o_SPORTS",
+      "ENGLISH": "Sports",
+      "CHINESE": "球类"
+    },
+    {
+      "_CMSKEY": "o_ALL_SPORTS",
+      "ENGLISH": "All Sports",
+      "CHINESE": "所有球类"
+    },
+    {
+      "_CMSKEY": "o_TUE",
+      "ENGLISH": "Tue",
+      "CHINESE": "星期二"
+    },
+    {
+      "_CMSKEY": "o_MON",
+      "ENGLISH": "Mon",
+      "CHINESE": "星期一"
+    },
+    {
+      "_CMSKEY": "o_SUN",
+      "ENGLISH": "Sun",
+      "CHINESE": "星期日"
+    },
+    {
+      "_CMSKEY": "o_SAT",
+      "ENGLISH": "Sat",
+      "CHINESE": "星期六"
+    },
+    {
+      "_CMSKEY": "o_FRI",
+      "ENGLISH": "Fri",
+      "CHINESE": "星期五"
+    },
+    {
+      "_CMSKEY": "o_THU",
+      "ENGLISH": "Thu",
+      "CHINESE": "星期四"
+    },
+    {
+      "_CMSKEY": "o_WED",
+      "ENGLISH": "Wed",
+      "CHINESE": "星期三"
+    },
+    {
+      "_CMSKEY": "o_RATE_HKD_RMB",
+      "ENGLISH": "Rate: 1 HKD = 0.81000 RMB",
+      "CHINESE": "汇率: 1 港币 = 0.81000 人民币"
+    },
+    {
+      "_CMSKEY": "o_AR",
+      "ENGLISH": "AR",
+      "CHINESE": "自动"
     }
   ]
 }
