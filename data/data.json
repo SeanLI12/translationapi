@@ -6969,7 +6969,7 @@
     {
       "_CMSKEY": "o_TOTAL_POINTS_OU",
       "ENGLISH": "Total Points O/U",
-      "CHINESE": "总分 大/小"
+      "CHINESE": "总分大小"
     },
     {
       "_CMSKEY": "o_1ST_GAME_3",
@@ -7205,6 +7205,31 @@
       "_CMSKEY": "o_UK_MATCHES",
       "ENGLISH": "UK matches",
       "CHINESE": "英国赛事"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_POINTS",
+      "ENGLISH": "Total Points",
+      "CHINESE": "总分大小"
+    },
+    {
+      "_CMSKEY": "o_WINNER_1ST_HALF",
+      "ENGLISH": "Winner 1st Half",
+      "CHINESE": "独赢 上半场"
+    },
+    {
+      "_CMSKEY": "o_WINNER_2ND_QTR",
+      "ENGLISH": "Winner 2nd Qtr",
+      "CHINESE": "独赢 第2节"
+    },
+    {
+      "_CMSKEY": "o_WINNER_3RD_QTR",
+      "ENGLISH": "Winner 3rd Qtr",
+      "CHINESE": "独赢 第3节"
+    },
+    {
+      "_CMSKEY": "o_WINNER_4TH_QTR",
+      "ENGLISH": "Winner 4th Qtr",
+      "CHINESE": "独赢 第4节"
     }
   ]
 }
