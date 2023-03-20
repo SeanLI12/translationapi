@@ -6882,23 +6882,43 @@
       "CHINESE": "总分单双"
     },
     {
-      "_CMSKEY": "o_Q1_OR_1ST_QTR",
-      "ENGLISH": "Q1 or 1st Qtr",
+      "_CMSKEY": "o_Q1",
+      "ENGLISH": "Q1",
       "CHINESE": "第一节"
     },
     {
-      "_CMSKEY": "o_Q2_OR_2ND_QTR",
-      "ENGLISH": "Q2 or 2nd Qtr",
+      "_CMSKEY": "o_Q2",
+      "ENGLISH": "Q2",
       "CHINESE": "第二节"
     },
     {
-      "_CMSKEY": "o_Q3_OR_3RD_QTR",
-      "ENGLISH": "Q3 or 3rd Qtr",
+      "_CMSKEY": "o_Q3",
+      "ENGLISH": "Q3",
       "CHINESE": "第三节"
     },
     {
-      "_CMSKEY": "o_Q4_OR_4TH_QTR",
-      "ENGLISH": "Q4 or 4th Qtr",
+      "_CMSKEY": "o_Q4",
+      "ENGLISH": "Q4",
+      "CHINESE": "第四节"
+    },
+    {
+      "_CMSKEY": "o_1ST_QTR",
+      "ENGLISH": "1st Qtr",
+      "CHINESE": "第一节"
+    },
+    {
+      "_CMSKEY": "o_2ND_QTR",
+      "ENGLISH": "2nd Qtr",
+      "CHINESE": "第二节"
+    },
+    {
+      "_CMSKEY": "o_3RD_QTR",
+      "ENGLISH": "3rd Qtr",
+      "CHINESE": "第三节"
+    },
+    {
+      "_CMSKEY": "o_4TH_QTR",
+      "ENGLISH": "4th Qtr",
       "CHINESE": "第四节"
     },
     {
