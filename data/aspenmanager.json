@@ -2049,6 +2049,26 @@
       "_CMSKEY": "o_AR",
       "ENGLISH": "AR",
       "CHINESE": "自动"
+    },
+    {
+      "_CMSKEY": "o_CREDIT_header",
+      "ENGLISH": "Credit",
+      "CHINESE": "金额"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT SUMMARY_HEADER",
+      "ENGLISH": "Account Summary",
+      "CHINESE": "帐户概况"
+    },
+    {
+      "_CMSKEY": "o_NEW_HEADER",
+      "ENGLISH": "New",
+      "CHINESE": "新值"
+    },
+    {
+      "_CMSKEY": "o_DATE",
+      "ENGLISH": "Date",
+      "CHINESE": "日期"
     }
   ]
 }
