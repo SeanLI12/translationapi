@@ -138,12 +138,12 @@
     {
       "_CMSKEY": "o_LAST_LOGIN",
       "ENGLISH": "Last Login",
-      "CHINESE": "最后登入时间"
+      "CHINESE": "最后登入日期"
     },
     {
       "_CMSKEY": "o_LAST_PASSWORD_CHANGE",
       "ENGLISH": "Last Password Change",
-      "CHINESE": "密码最后更新时间"
+      "CHINESE": "密码最后更新日期"
     },
     {
       "_CMSKEY": "o_MA",
@@ -743,7 +743,7 @@
     {
       "_CMSKEY": "o_TOTAL_STAKE",
       "ENGLISH": "Total Stake",
-      "CHINESE": "总计下注金额"
+      "CHINESE": "总投注额"
     },
     {
       "_CMSKEY": "o_TURNOVER_WINNING_PERCENTAGE",
@@ -788,17 +788,17 @@
     {
       "_CMSKEY": "o_NEW_MEMBER",
       "ENGLISH": "New Member",
-      "CHINESE": "新会员"
+      "CHINESE": "新增会员"
     },
     {
       "_CMSKEY": "o_NEW_AGENT",
       "ENGLISH": "New Agent",
-      "CHINESE": "新代理"
+      "CHINESE": "新增代理商"
     },
     {
       "_CMSKEY": "o_NEW_MA",
       "ENGLISH": "New MA",
-      "CHINESE": "新总代"
+      "CHINESE": "新增总代理"
     },
     {
       "_CMSKEY": "o_SEARCH",
@@ -1599,7 +1599,7 @@
     {
       "_CMSKEY": "o_ACTIVITIES",
       "ENGLISH": "Activities",
-      "CHINESE": "活动类别"
+      "CHINESE": "记录类别"
     },
     {
       "_CMSKEY": "o_PERIOD",
