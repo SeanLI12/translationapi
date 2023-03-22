@@ -2069,6 +2069,11 @@
       "_CMSKEY": "o_DATE",
       "ENGLISH": "Date",
       "CHINESE": "日期"
+    },
+    {
+      "_CMSKEY": "o_THIS_WEEK_2",
+      "ENGLISH": "This Week",
+      "CHINESE": "本周"
     }
   ]
 }
