@@ -1789,7 +1789,7 @@
     {
       "_CMSKEY": "o_ACCOUNT_TYPE_CANT_EDIT_MESSAGE",
       "ENGLISH": "This can’t be changed or edited once created",
-      "CHINESE": "&quot;额度模式一旦创建便无法更改或编辑。&quot;"
+      "CHINESE": "额度模式一旦创建便无法更改或编辑。"
     },
     {
       "_CMSKEY": "o_SMA_AVAIL_BALANCE",
