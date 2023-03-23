@@ -1238,7 +1238,7 @@
     {
       "_CMSKEY": "o_ADD_ANOTHER_MEMBER",
       "ENGLISH": "Add Another Member",
-      "CHINESE": "再加新会员"
+      "CHINESE": "继续新增会员"
     },
     {
       "_CMSKEY": "o_MEMBER_LISTING",
@@ -1759,17 +1759,17 @@
     {
       "_CMSKEY": "o_ADD_ANOTHER_MA",
       "ENGLISH": "Add Another MA",
-      "CHINESE": "再加新总代理"
+      "CHINESE": "继续新增总代理"
     },
     {
       "_CMSKEY": "o_ADD_ANOTHER_AG",
       "ENGLISH": "Add Another Agent",
-      "CHINESE": "再加新代理商"
+      "CHINESE": "继续新增代理商"
     },
     {
       "_CMSKEY": "o_ADD_ANOTHER_SUB_AC",
       "ENGLISH": "Add Another Sub Account",
-      "CHINESE": "再加新子帐号"
+      "CHINESE": "继续新增子帐号"
     },
     {
       "_CMSKEY": "o_MA_LISTING",
@@ -1874,7 +1874,7 @@
     {
       "_CMSKEY": "o_COPY_SETTINGS_TO_REST_OF_SPORTS",
       "ENGLISH": "Copy these settings to the rest of the sports categories.",
-      "CHINESE": "将此设套用至剩余所有的运动目录中。"
+      "CHINESE": "将此页设定套用到其他球类。"
     },
     {
       "_CMSKEY": "o_CREDIT_LOGS",
