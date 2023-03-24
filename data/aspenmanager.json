@@ -1804,7 +1804,7 @@
     {
       "_CMSKEY": "o_AG_CREDIT_BALANCE",
       "ENGLISH": "Agent Credit Balance",
-      "CHINESE": "代理可用额度"
+      "CHINESE": "代理商可用额度"
     },
     {
       "_CMSKEY": "o_MA_AVAIL_BALANCE",
@@ -1814,7 +1814,7 @@
     {
       "_CMSKEY": "o_AG_AVAIL_BALANCE",
       "ENGLISH": "Agent Available Balance",
-      "CHINESE": "代理剩余额度"
+      "CHINESE": "代理商剩余额度"
     },
     {
       "_CMSKEY": "o_SMA_POSSESS",
