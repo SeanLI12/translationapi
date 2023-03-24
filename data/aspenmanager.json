@@ -1142,7 +1142,7 @@
     {
       "_CMSKEY": "o_USERCODE_MEANING",
       "ENGLISH": "Create a user code for your member by clicking on the generate button.",
-      "CHINESE": "点击“产生”按钮自动生成可用的帐号名称 。"
+      "CHINESE": "点击“随机”按钮自动生成可用的帐号名称 。"
     },
     {
       "_CMSKEY": "o_WHATS_NEW",
@@ -1709,7 +1709,7 @@
     {
       "_CMSKEY": "o_AUTO_APPLY_TO_FUTURE_AC",
       "ENGLISH": "This will automatically apply to all future accounts created.",
-      "CHINESE": "套用至所有新增的帐号。"
+      "CHINESE": "勾選後新帳號將自動套用當前設定。"
     },
     {
       "_CMSKEY": "o_SAFECODE",
@@ -2079,6 +2079,11 @@
       "_CMSKEY": "o_ACCT_MGMT_HEADER",
       "ENGLISH": "Account Management",
       "CHINESE": "帐户管理"
+    },
+    {
+      "_CMSKEY": "o_CURRENCY_HEADER",
+      "ENGLISH": "Currency",
+      "CHINESE": "货币"
     }
   ]
 }
