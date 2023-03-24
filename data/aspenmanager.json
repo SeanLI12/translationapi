@@ -2074,6 +2074,11 @@
       "_CMSKEY": "o_THIS_WEEK_2",
       "ENGLISH": "This Week",
       "CHINESE": "本周"
+    },
+    {
+      "_CMSKEY": "o_ACCT_MGMT_HEADER",
+      "ENGLISH": "Account Management",
+      "CHINESE": "帐户管理"
     }
   ]
 }
