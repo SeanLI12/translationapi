@@ -1873,8 +1873,8 @@
     },
     {
       "_CMSKEY": "o_COPY_SETTINGS_TO_REST_OF_SPORTS",
-      "ENGLISH": "Copy these settings to the rest of the sports categories.",
-      "CHINESE": "将此页设定套用到其他球类。"
+      "ENGLISH": "\"SAVE & APPLY\" will copy these settings to the rest of the sports categories.",
+      "CHINESE": "储存并套用会将此页设定套用至其他运动。"
     },
     {
       "_CMSKEY": "o_CREDIT_LOGS",
@@ -2084,6 +2084,136 @@
       "_CMSKEY": "o_CURRENCY_HEADER",
       "ENGLISH": "Currency",
       "CHINESE": "货币"
+    },
+    {
+      "_CMSKEY": "o_SAVE_&_APPLY",
+      "ENGLISH": "Save & Apply",
+      "CHINESE": "储存并套用"
+    },
+    {
+      "_CMSKEY": "o_VIEW_REPORT",
+      "ENGLISH": "View Report",
+      "CHINESE": "查询"
+    },
+    {
+      "_CMSKEY": "o_CLEAR",
+      "ENGLISH": "Clear",
+      "CHINESE": "清除"
+    },
+    {
+      "_CMSKEY": "o_SETTLEMENT_SUM",
+      "ENGLISH": "Settlement Summary",
+      "CHINESE": "赛事结果概要"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNTING_PERIOD",
+      "ENGLISH": "Accounting Period",
+      "CHINESE": "月帐期数表"
+    },
+    {
+      "_CMSKEY": "o_EXCHANGE_RATE",
+      "ENGLISH": "Exchange Rate",
+      "CHINESE": "汇率"
+    },
+    {
+      "_CMSKEY": "o_SETTLED",
+      "ENGLISH": "Settled",
+      "CHINESE": "有结果"
+    },
+    {
+      "_CMSKEY": "o_UNSETTLED",
+      "ENGLISH": "Unsettled",
+      "CHINESE": "未有结果"
+    },
+    {
+      "_CMSKEY": "o_INCOMPLETE",
+      "ENGLISH": "Incomplete",
+      "CHINESE": "未完成"
+    },
+    {
+      "_CMSKEY": "o_COMPLETE",
+      "ENGLISH": "Complete",
+      "CHINESE": "完成"
+    },
+    {
+      "_CMSKEY": "o_BBALL_AMER_FOOTBALL",
+      "ENGLISH": "Basketball / American Football",
+      "CHINESE": "篮球 / 美式足球"
+    },
+    {
+      "_CMSKEY": "o_TENNIS",
+      "ENGLISH": "Tennis",
+      "CHINESE": "网球"
+    },
+    {
+      "_CMSKEY": "o_VOLLEYBALL",
+      "ENGLISH": "Volleyball",
+      "CHINESE": "排球"
+    },
+    {
+      "_CMSKEY": "o_BADMINTON",
+      "ENGLISH": "Badminton",
+      "CHINESE": "羽毛球"
+    },
+    {
+      "_CMSKEY": "o_TABLE_TENNIS",
+      "ENGLISH": "Table Tennis",
+      "CHINESE": "乒乓球"
+    },
+    {
+      "_CMSKEY": "o_BASEBALL",
+      "ENGLISH": "Baseball",
+      "CHINESE": "棒球"
+    },
+    {
+      "_CMSKEY": "o_SNOOKER",
+      "ENGLISH": "Snooker",
+      "CHINESE": "斯诺克 / 台球"
+    },
+    {
+      "_CMSKEY": "o_CURRENCY_NAME",
+      "ENGLISH": "Currency Name",
+      "CHINESE": "货币名称"
+    },
+    {
+      "_CMSKEY": "o_CURRENCY_CODE",
+      "ENGLISH": "Currency Code",
+      "CHINESE": "货币代码"
+    },
+    {
+      "_CMSKEY": "o_SETTLED_WAGER",
+      "ENGLISH": "Settled Wager",
+      "CHINESE": "有结果"
+    },
+    {
+      "_CMSKEY": "o_UNSETTLED_WAGER",
+      "ENGLISH": "Unsettled Wager",
+      "CHINESE": "未有结果"
+    },
+    {
+      "_CMSKEY": "o_CANCELLED_REPORT",
+      "ENGLISH": "Cancelled Report",
+      "CHINESE": "取消单"
+    },
+    {
+      "_CMSKEY": "o_ABNORMAL_BET",
+      "ENGLISH": "Abnormal Bets",
+      "CHINESE": "非正常投注单"
+    },
+    {
+      "_CMSKEY": "o_START_DATE",
+      "ENGLISH": "Start Date",
+      "CHINESE": "起始日期"
+    },
+    {
+      "_CMSKEY": "o_END DATE",
+      "ENGLISH": "End Date",
+      "CHINESE": "结束日期"
+    },
+    {
+      "_CMSKEY": "o_TOMORROW",
+      "ENGLISH": "Tomorrow",
+      "CHINESE": "明日"
     }
   ]
 }
