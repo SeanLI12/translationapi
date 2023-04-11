@@ -2294,6 +2294,11 @@
       "_CMSKEY": "o_SA",
       "ENGLISH": "SA",
       "CHINESE": "六"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_TOP10",
+      "ENGLISH": "Win / Loss",
+      "CHINESE": "输赢结果"
     }
   ]
 }
