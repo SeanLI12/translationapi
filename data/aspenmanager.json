@@ -2299,6 +2299,11 @@
       "_CMSKEY": "o_WIN_LOSS_TOP10",
       "ENGLISH": "Win / Loss",
       "CHINESE": "输赢结果"
+    },
+    {
+      "_CMSKEY": "o_EST_INACTIVE_ACCOUNT_CREDIT",
+      "ENGLISH": "Estimated Inactive Account Credit",
+      "CHINESE": "停用帐户额度预测"
     }
   ]
 }
