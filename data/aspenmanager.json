@@ -1479,7 +1479,7 @@
     {
       "_CMSKEY": "o_RETRIEVE_NOTE1",
       "ENGLISH": "Retrieval can only be actioned on Auto-Recovery accounts that are inactive.",
-      "CHINESE": "自动恢复模式帐户的额度才能被回收。"
+      "CHINESE": "只限于自动恢复模式的账号。"
     },
     {
       "_CMSKEY": "o_RETRIEVE_NOTE2",
@@ -1679,7 +1679,7 @@
     {
       "_CMSKEY": "o_RETRIEVE_NOTE3",
       "ENGLISH": "Retrievable Credit computation does not exclude unsettled bets.",
-      "CHINESE": "可回收额度不包含未结果注单。"
+      "CHINESE": "可回收额度不包含未结算注单的金额。"
     },
     {
       "_CMSKEY": "o_RETRIEVE_CREDIT_FUNCTION_UNAVAILABLE",
