@@ -2304,6 +2304,11 @@
       "_CMSKEY": "o_EST_INACTIVE_ACCOUNT_CREDIT",
       "ENGLISH": "Estimated Inactive Account Credit",
       "CHINESE": "停用帐户预估额度"
+    },
+    {
+      "_CMSKEY": "o_NONRETRIEVABLE_CREDIT",
+      "ENGLISH": "non-retrievable credit",
+      "CHINESE": "保留额度"
     }
   ]
 }
