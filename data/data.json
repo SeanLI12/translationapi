@@ -3121,7 +3121,7 @@
       "_CMSKEY": "o_SNOOKER"
     },
     {
-      "CHINESE": "其他运动",
+      "CHINESE": "其他",
       "ENGLISH": "OTHER SPORTS",
       "_CMSKEY": "o_OTHERSPORT"
     },
@@ -3336,7 +3336,7 @@
       "_CMSKEY": "o_VIEWINFORMATIONRELATINGTOCONTENT"
     },
     {
-      "CHINESE": "最火",
+      "CHINESE": "热门",
       "ENGLISH": "Popular",
       "_CMSKEY": "o_POPULAR"
     },
@@ -3616,7 +3616,7 @@
       "_CMSKEY": "o_VIEWLESS"
     },
     {
-      "CHINESE": "显示全部",
+      "CHINESE": "显示所有",
       "ENGLISH": "View All",
       "_CMSKEY": "o_VIEWALL"
     },
@@ -4146,7 +4146,7 @@
       "_CMSKEY": "o_SINGLEMATCH"
     },
     {
-      "CHINESE": "桌球",
+      "CHINESE": "乒乓球",
       "ENGLISH": "Table Tennis",
       "_CMSKEY": "o_TABLETENNIS"
     },
@@ -4166,7 +4166,7 @@
       "_CMSKEY": "o_ACCOUNTSETTINGS"
     },
     {
-      "CHINESE": "其他运动",
+      "CHINESE": "其他",
       "ENGLISH": "Other Sports",
       "_CMSKEY": "o_OTHERSPORTS"
     },
@@ -6463,7 +6463,7 @@
     {
       "_CMSKEY": "o_VIEW_ALL",
       "ENGLISH": "View All",
-      "CHINESE": "顯示所有"
+      "CHINESE": "显示所有"
     },
     {
       "_CMSKEY": "o_ROUND_OF_16",
@@ -7230,6 +7230,51 @@
       "_CMSKEY": "o_WINNER_4TH_QTR",
       "ENGLISH": "Winner 4th Qtr",
       "CHINESE": "独赢 第4节"
+    },
+    {
+      "_CMSKEY": "o_COPYRIGHT_2023",
+      "ENGLISH": "Copyright © 2023. All rights reserved.",
+      "CHINESE": "版权声明 (C) 2023 版权所有"
+    },
+    {
+      "_CMSKEY": "o_SORT_IN_PLAY_BY_COMPETITION",
+      "ENGLISH": "Now you can sort In-Play events by Competition or Time.",
+      "CHINESE": "如今您可在滚球赛事内选择以联盟或时间排序。"
+    },
+    {
+      "_CMSKEY": "o_TERMS_AND_CONDITIONS",
+      "ENGLISH": "Terms & Conditions",
+      "CHINESE": "规则与条款"
+    },
+    {
+      "_CMSKEY": "o_FILTERS",
+      "ENGLISH": "Filters",
+      "CHINESE": "过滤排序"
+    },
+    {
+      "_CMSKEY": "o_FILTER_COMPETITIONS",
+      "ENGLISH": "Filter Competitions",
+      "CHINESE": "多联盟页"
+    },
+    {
+      "_CMSKEY": "o_HANDICAPS_OVER_UNDER",
+      "ENGLISH": "Handicaps & Over / Under",
+      "CHINESE": "让球&大/小"
+    },
+    {
+      "_CMSKEY": "o_LIST_VIEW",
+      "ENGLISH": "List View",
+      "CHINESE": "全选项"
+    },
+    {
+      "_CMSKEY": "o_SCORE_VIEW",
+      "ENGLISH": "Score View",
+      "CHINESE": "自选比分"
+    },
+    {
+      "_CMSKEY": "o_ODDS_PRICE",
+      "ENGLISH": "Odds Price",
+      "CHINESE": "赔率"
     }
   ]
 }
