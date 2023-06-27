@@ -1588,7 +1588,7 @@
     {
       "_CMSKEY": "o_PENALTY_SHOOTOUT",
       "ENGLISH": "Penalty Shootout",
-      "CHINESE": "点球大战"
+      "CHINESE": "点球"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_NO_OF_CORNERS_",
@@ -3216,7 +3216,7 @@
       "_CMSKEY": "o_OPENBETS"
     },
     {
-      "CHINESE": "独赢",
+      "CHINESE": "冠军",
       "ENGLISH": "Winner",
       "_CMSKEY": "o_WINNER"
     },
@@ -3281,7 +3281,7 @@
       "_CMSKEY": "o_SUBMIT"
     },
     {
-      "CHINESE": "总分: 大 / 小",
+      "CHINESE": "进球: 大/小",
       "ENGLISH": "Goals: Over / Under",
       "_CMSKEY": "o_GOALSOVERUNDER"
     },
@@ -6443,7 +6443,7 @@
     {
       "_CMSKEY": "o_2ND",
       "ENGLISH": "2nd",
-      "CHINESE": "亚军"
+      "CHINESE": "第二个"
     },
     {
       "_CMSKEY": "o_3RD",
@@ -6743,7 +6743,7 @@
     {
       "_CMSKEY": "o_1X2ANDOU",
       "ENGLISH": "1 x 2 & O/U",
-      "CHINESE": "獨贏 & 大小"
+      "CHINESE": "獨贏&大小"
     },
     {
       "_CMSKEY": "o_1X2AND1POINT5GOALS",
@@ -7069,17 +7069,17 @@
     {
       "_CMSKEY": "o_NEXT_1_HOUR",
       "ENGLISH": "Next 1 Hour",
-      "CHINESE": "下一小時"
+      "CHINESE": "下一个小时"
     },
     {
       "_CMSKEY": "o_NEXT_6_HOURS",
       "ENGLISH": "Next 6 Hours",
-      "CHINESE": "下六小時"
+      "CHINESE": "下六个小时"
     },
     {
       "_CMSKEY": "o_NEXT_12_HOURS",
       "ENGLISH": "Next 12 Hours",
-      "CHINESE": "下十二小時"
+      "CHINESE": "下十二个小时"
     },
     {
       "_CMSKEY": "o_TODAYS_MATCHES_START",
@@ -7275,6 +7275,86 @@
       "_CMSKEY": "o_ODDS_PRICE",
       "ENGLISH": "Odds Price",
       "CHINESE": "赔率"
+    },
+    {
+      "_CMSKEY": "o_GOALS_NEXT_OU",
+      "ENGLISH": "Goals\nO/U",
+      "CHINESE": "得分大小"
+    },
+    {
+      "_CMSKEY": "o_THERE_ARE_NO_EVENTS_AVAILABLE",
+      "ENGLISH": "There are no events available.",
+      "CHINESE": "目前没有任何赛事。"
+    },
+    {
+      "_CMSKEY": "o_TODAYS_MATCHES",
+      "ENGLISH": "Today's Matches",
+      "CHINESE": "今日赛事"
+    },
+    {
+      "_CMSKEY": "ET_CORRECT_SCORE",
+      "ENGLISH": "ET Correct Score",
+      "CHINESE": "加时波胆"
+    },
+    {
+      "_CMSKEY": "o_N",
+      "ENGLISH": "N",
+      "CHINESE": "中"
+    },
+    {
+      "_CMSKEY": "o_SPECIAL_EVENT",
+      "ENGLISH": "Special Event",
+      "CHINESE": "特殊赛事"
+    },
+    {
+      "_CMSKEY": "o_THE_SCORE_STARTS_AT_0",
+      "ENGLISH": "The score starts at 0 – 0 for Penalty Shootouts. The ‘Handicap’ market include sudden death. The ‘1 X 2’ and ‘Goals – Over / Under’ markets applies to the 1st 10 penalties only.",
+      "CHINESE": "点球的分数从0  -  0开始。\n让分盘包含骤死赛，独赢与比分大小盘只适用于前10个点球。"
+    },
+    {
+      "_CMSKEY": "o_IN_PLAY_MATCHES",
+      "ENGLISH": "In-Play Matches",
+      "CHINESE": "滚球赛事"
+    },
+    {
+      "_CMSKEY": "o_ENGLISH",
+      "ENGLISH": "English",
+      "CHINESE": "简体"
+    },
+    {
+      "_CMSKEY": "o_GOALS_O",
+      "ENGLISH": "Goals O…",
+      "CHINESE": "得分大小"
+    },
+    {
+      "_CMSKEY": "o_NEXT_GOAL",
+      "ENGLISH": "Next\nGoal",
+      "CHINESE": "下个进球"
+    },
+    {
+      "_CMSKEY": "o_GOALS_BREAK_OE",
+      "ENGLISH": "Goals\nO/E",
+      "CHINESE": "进球:\n单/双"
+    },
+    {
+      "_CMSKEY": "o_COMPETITION",
+      "ENGLISH": "Competition",
+      "CHINESE": "联盟"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ALL_SETTINGS",
+      "ENGLISH": "View All Settings",
+      "CHINESE": "看全部设定"
+    },
+    {
+      "_CMSKEY": "o_SOCCER_COMPETITIONS",
+      "ENGLISH": "Soccer / Competitions",
+      "CHINESE": "足球/联盟"
+    },
+    {
+      "_CMSKEY": "o_PRESTART",
+      "ENGLISH": "Prestart",
+      "CHINESE": "单式"
     }
   ]
 }
