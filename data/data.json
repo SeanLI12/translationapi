@@ -7355,6 +7355,16 @@
       "_CMSKEY": "o_PRESTART",
       "ENGLISH": "Prestart",
       "CHINESE": "单式"
+    },
+    {
+      "_CMSKEY": "o_THU_09_MAR",
+      "ENGLISH": "Thu 09 Mar",
+      "CHINESE": "3月9日 星期四"
+    },
+    {
+      "_CMSKEY": "o_2018_06_18",
+      "ENGLISH": "18 / 06 / 2018  15:00",
+      "CHINESE": "2018 / 06 / 18  15:00"
     }
   ]
 }
