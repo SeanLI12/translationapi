@@ -6458,7 +6458,7 @@
     {
       "_CMSKEY": "o_VIEW_ALL_MATCHES",
       "ENGLISH": "View All Matches",
-      "CHINESE": "所有赛事"
+      "CHINESE": "观看所有赛事"
     },
     {
       "_CMSKEY": "o_VIEW_ALL",
@@ -7365,6 +7365,351 @@
       "_CMSKEY": "o_2018_06_18",
       "ENGLISH": "18 / 06 / 2018  15:00",
       "CHINESE": "2018 / 06 / 18  15:00"
+    },
+    {
+      "_CMSKEY": "o_NBA_WNBA_MATCHES",
+      "ENGLISH": "NBA | WNBA MATCHES",
+      "CHINESE": "NBA | WNBA 赛事"
+    },
+    {
+      "_CMSKEY": "o_NCAA_MATCHES",
+      "ENGLISH": "NCAA matches",
+      "CHINESE": "NCAA赛事"
+    },
+    {
+      "_CMSKEY": "o_ASIA_MATCHES",
+      "ENGLISH": "ASIA matches",
+      "CHINESE": "亚洲赛事"
+    },
+    {
+      "_CMSKEY": "o_EURO_MATCHES",
+      "ENGLISH": "EURO MATCHES",
+      "CHINESE": "欧洲赛事"
+    },
+    {
+      "_CMSKEY": "o_TENNIS_COMPETITIONS",
+      "ENGLISH": "Tennis / Competitions",
+      "CHINESE": "网球/联盟"
+    },
+    {
+      "_CMSKEY": "o_BASKETBALL…",
+      "ENGLISH": "Basketball…",
+      "CHINESE": "篮球&amp;美式…"
+    },
+    {
+      "_CMSKEY": "o_06_JUN",
+      "ENGLISH": "06 Jun",
+      "CHINESE": "六月六日"
+    },
+    {
+      "_CMSKEY": "o_3RD_SET",
+      "ENGLISH": "3rd Set",
+      "CHINESE": "第3盘"
+    },
+    {
+      "_CMSKEY": "o_3RD_SET_MATCH_END",
+      "ENGLISH": "3rd Set\nMatch End",
+      "CHINESE": "第3盘\n比賽結束"
+    },
+    {
+      "_CMSKEY": "o_5TH_SET_MATCH_END",
+      "ENGLISH": "5th Set\nMatch End",
+      "CHINESE": "第5盘\n比賽結束"
+    },
+    {
+      "_CMSKEY": "o_3RD_GAME_MATCH_END",
+      "ENGLISH": "3rd Game\nMatch End",
+      "CHINESE": "第3局\n比賽結束"
+    },
+    {
+      "_CMSKEY": "o_5TH_GAME_MATCH_END",
+      "ENGLISH": "5th Game\nMatch End",
+      "CHINESE": "第5局\n比賽結束"
+    },
+    {
+      "_CMSKEY": "o_SET_1_3",
+      "ENGLISH": "Set 1/3",
+      "CHINESE": "第一盘/3"
+    },
+    {
+      "_CMSKEY": "o_SET_2_3",
+      "ENGLISH": "Set 2/3",
+      "CHINESE": "第二盘/3"
+    },
+    {
+      "_CMSKEY": "o_SET_3_3",
+      "ENGLISH": "Set 3/3",
+      "CHINESE": "第三盘/3"
+    },
+    {
+      "_CMSKEY": "o_9TH_GAME",
+      "ENGLISH": "9th Game",
+      "CHINESE": "第九局"
+    },
+    {
+      "_CMSKEY": "o_10TH_GAME",
+      "ENGLISH": "10th Game",
+      "CHINESE": "第十局"
+    },
+    {
+      "_CMSKEY": "o_2ND_SET_PLAY_SUSPENDED",
+      "ENGLISH": "2nd Set\nPlay Suspended",
+      "CHINESE": "第二盘\n停盘"
+    },
+    {
+      "_CMSKEY": "o_EARLY_DOUBLES",
+      "ENGLISH": "Early\nDoubles",
+      "CHINESE": "早盘\n双打"
+    },
+    {
+      "_CMSKEY": "o_2ND_SET_DOUBLES",
+      "ENGLISH": "2nd Set\nDoubles",
+      "CHINESE": "第二盘\n双打"
+    },
+    {
+      "_CMSKEY": "o_1ST_GAME_DOUBLES",
+      "ENGLISH": "1st Game\nDoubles",
+      "CHINESE": "第一局\n双打"
+    },
+    {
+      "_CMSKEY": "o_SET_HDP",
+      "ENGLISH": "Set HDP",
+      "CHINESE": "让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME_HDP",
+      "ENGLISH": "Game HDP",
+      "CHINESE": "让局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_1ST_SET",
+      "ENGLISH": "Money Line\n1st Set",
+      "CHINESE": "独赢\n第1盘"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_2ND_SET",
+      "ENGLISH": "Money Line\n2nd Set",
+      "CHINESE": "独赢\n第2盘"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_3RD_SET",
+      "ENGLISH": "Money Line\n3rd Set",
+      "CHINESE": "独赢\n第3盘"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_5TH_SET",
+      "ENGLISH": "Money Line\n5th Set",
+      "CHINESE": "独赢\n第5盘"
+    },
+    {
+      "_CMSKEY": "o_GAME_HDP_1ST_SET",
+      "ENGLISH": "Game HDP\n1st Set",
+      "CHINESE": "让局\n第1盘"
+    },
+    {
+      "_CMSKEY": "o_GAME_HDP_2ND_SET",
+      "ENGLISH": "Game HDP\n2nd Set",
+      "CHINESE": "让局\n第2盘"
+    },
+    {
+      "_CMSKEY": "o_GAME_HDP_3RD_SET",
+      "ENGLISH": "Game HDP\n3rd Set",
+      "CHINESE": "让局\n第3盘"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_GAME_1",
+      "ENGLISH": "Money Line\nGame 1",
+      "CHINESE": "独赢\n局一"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_GAME_6",
+      "ENGLISH": "Money Line\nGame 6",
+      "CHINESE": "独赢\n局六"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_GAME_9",
+      "ENGLISH": "Money Line\nGame 9",
+      "CHINESE": "独赢\n局九"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_GAME_10",
+      "ENGLISH": "Money Line\nGame 10",
+      "CHINESE": "独赢\n局十"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_1ST_GAME",
+      "ENGLISH": "Money Line\n1st Game",
+      "CHINESE": "独赢\n第1局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_2ND_GAME",
+      "ENGLISH": "Money Line\n2nd Game",
+      "CHINESE": "独赢\n第2局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_3RD_GAME",
+      "ENGLISH": "Money Line\n3rd Game",
+      "CHINESE": "独赢\n第3局"
+    },
+    {
+      "_CMSKEY": "o_GAME_1_15_30",
+      "ENGLISH": "Game 1 @ 15/30",
+      "CHINESE": "pending~"
+    },
+    {
+      "_CMSKEY": "o_GAME_6_15_30",
+      "ENGLISH": "Game 6 @ 15/30",
+      "CHINESE": "pending~"
+    },
+    {
+      "_CMSKEY": "o_GAME_9_15_30",
+      "ENGLISH": "Game 9 @ 15/30",
+      "CHINESE": "pending~"
+    },
+    {
+      "_CMSKEY": "o_GAME_10_15_30",
+      "ENGLISH": "Game 10 @ 15/30",
+      "CHINESE": "pending~"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP",
+      "ENGLISH": "Point HDP",
+      "CHINESE": "让分"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_1ST_SET",
+      "ENGLISH": "Point HDP\n1st Set",
+      "CHINESE": "让分\n第1局"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_2ND_SET",
+      "ENGLISH": "Point HDP\n2nd Set",
+      "CHINESE": "让分\n第2局"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_3RD_SET",
+      "ENGLISH": "Point HDP\n3rd Set",
+      "CHINESE": "让分\n第3局"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_5TH_SET",
+      "ENGLISH": "Point HDP\n5th Set",
+      "CHINESE": "让分\n第5局"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_1ST_GAME",
+      "ENGLISH": "Point HDP\n1st Game",
+      "CHINESE": "让分\n第1局"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_2ND_GAME",
+      "ENGLISH": "Point HDP\n2nd Game",
+      "CHINESE": "让分\n第2局"
+    },
+    {
+      "_CMSKEY": "o_POINT_HDP_3RD_GAME",
+      "ENGLISH": "Point HDP\n3rd Game",
+      "CHINESE": "让分\n第3局"
+    },
+    {
+      "_CMSKEY": "o_2ND_SET_5",
+      "ENGLISH": "2nd Set / 5",
+      "CHINESE": "第二盘/5"
+    },
+    {
+      "_CMSKEY": "o_POINT_WINNER_POINT_10",
+      "ENGLISH": "Point Winner\nPoint 10",
+      "CHINESE": "得分获胜方\n第10分"
+    },
+    {
+      "_CMSKEY": "o_POINT_WINNER_POINT_20",
+      "ENGLISH": "Point Winner\nPoint 20",
+      "CHINESE": "得分获胜方\n第20分"
+    },
+    {
+      "_CMSKEY": "o_POINT_WINNER_POINT_21",
+      "ENGLISH": "Point Winner\nPoint 21",
+      "CHINESE": "得分获胜方\n第21分"
+    },
+    {
+      "_CMSKEY": "o_GAME_1_RACE_TO_15_POINTS",
+      "ENGLISH": "Game 1\nRace to 15 Points",
+      "CHINESE": "第1局\n首先达到15分"
+    },
+    {
+      "_CMSKEY": "o_GAME_2_RACE_TO_15_POINTS",
+      "ENGLISH": "Game 2\nRace to 15 Points",
+      "CHINESE": "第2局\n首先达到15分"
+    },
+    {
+      "_CMSKEY": "o_GAME_3_RACE_TO_15_POINTS",
+      "ENGLISH": "Game 3\nRace to 15 Points",
+      "CHINESE": "第3局\n首先达到15分"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_1ST_INNING",
+      "ENGLISH": "Money Line\n1st Inning",
+      "CHINESE": "独赢\n第1局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_2ND_INNING",
+      "ENGLISH": "Money Line\n2nd Inning",
+      "CHINESE": "独赢\n第2局"
+    },
+    {
+      "_CMSKEY": "o_HDP",
+      "ENGLISH": "HDP",
+      "CHINESE": "让球"
+    },
+    {
+      "_CMSKEY": "o_OUT_1",
+      "ENGLISH": "Out: 1",
+      "CHINESE": "出局: 1"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_1ST_FRAME",
+      "ENGLISH": "Money Line\n1st Frame",
+      "CHINESE": "独赢\n第1局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_21ST_FRAME",
+      "ENGLISH": "Money Line\n21st Frame",
+      "CHINESE": "独赢\n第21局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_FRAMES_1_TO_5",
+      "ENGLISH": "Money Line\nFrames 1-5",
+      "CHINESE": "独赢\n1-5局"
+    },
+    {
+      "_CMSKEY": "o_MONEY_LINE_FRAMES_21_TO_25",
+      "ENGLISH": "Money Line\nFrames 21-25",
+      "CHINESE": "独赢\n21-25局"
+    },
+    {
+      "_CMSKEY": "o_HDP_FRAMES_1_TO_5",
+      "ENGLISH": "HDP\nFrames 1-5",
+      "CHINESE": "让局\n1-5局"
+    },
+    {
+      "_CMSKEY": "o_HDP_FRAMES_21_TO_25",
+      "ENGLISH": "HDP\nFrames 21-25",
+      "CHINESE": "让局\n21-25局"
+    },
+    {
+      "_CMSKEY": "o_OU",
+      "ENGLISH": "O/U",
+      "CHINESE": "大/小"
+    },
+    {
+      "_CMSKEY": "o_OE",
+      "ENGLISH": "O/E",
+      "CHINESE": "单/双"
+    },
+    {
+      "_CMSKEY": "o_OTHER_SPORTS_1X2",
+      "ENGLISH": "Other Sports 1X2",
+      "CHINESE": "其他体育 1X2"
     }
   ]
 }
