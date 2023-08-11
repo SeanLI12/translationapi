@@ -7552,6 +7552,26 @@
       "CHINESE": "独赢\n第3局"
     },
     {
+      "_CMSKEY": "o_GAME_1_15_30",
+      "ENGLISH": "Game 1 @ 15/30",
+      "CHINESE": "以对手15/30赢局局一"
+    },
+    {
+      "_CMSKEY": "o_GAME_6_15_30",
+      "ENGLISH": "Game 6 @ 15/30",
+      "CHINESE": "以对手15/30赢局局六"
+    },
+    {
+      "_CMSKEY": "o_GAME_9_15_30",
+      "ENGLISH": "Game 9 @ 15/30",
+      "CHINESE": "以对手15/30赢局局九"
+    },
+    {
+      "_CMSKEY": "o_GAME_10_15_30",
+      "ENGLISH": "Game 10 @ 15/30",
+      "CHINESE": "以对手15/30赢局局十"
+    },
+    {
       "_CMSKEY": "o_POINT_HDP",
       "ENGLISH": "Point HDP",
       "CHINESE": "让分"
