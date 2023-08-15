@@ -2309,6 +2309,346 @@
       "_CMSKEY": "o_NONRETRIEVABLE_CREDIT",
       "ENGLISH": "non-retrievable credit",
       "CHINESE": "保留额度"
+    },
+    {
+      "_CMSKEY": "o_DIGITAL_ASSISTANT",
+      "ENGLISH": "My Digital Assistant",
+      "CHINESE": "数码助理"
+    },
+    {
+      "_CMSKEY": "o_SET_UP_DIGITAL_ASSISTANT",
+      "ENGLISH": "Set Up your Digital Assistant",
+      "CHINESE": "设置数码助理"
+    },
+    {
+      "_CMSKEY": "o_WHAT_DA",
+      "ENGLISH": "What is Digital Assistant?",
+      "CHINESE": "什么是数码助理？"
+    },
+    {
+      "_CMSKEY": "o_WHAT_DA_MEANING",
+      "ENGLISH": "My Digital Assistant is a feature that allows you receive key information via the Telegram Messenger App, without needing to access this website.",
+      "CHINESE": "数码助理是全新的辅助功能, 透过纸飞机 (电报) 应用, 无需登入管理平台也可以获取指定的账户信息。"
+    },
+    {
+      "_CMSKEY": "o_DA_ACCESS_REPORTS",
+      "ENGLISH": "Access Reports",
+      "CHINESE": "访问报表"
+    },
+    {
+      "_CMSKEY": "o_DA_ACCESS_REPORTS_MEANING",
+      "ENGLISH": "Daily and Weekly Win/Loss and Outstanding Bets data can be requested at any time.",
+      "CHINESE": "可随时查阅特定日期的输赢以及未结算注单的金额。"
+    },
+    {
+      "_CMSKEY": "o_DA_NOTIFS",
+      "ENGLISH": "Notifications",
+      "CHINESE": "通知"
+    },
+    {
+      "_CMSKEY": "o_DA_NOTIFS_MEANING",
+      "ENGLISH": "Configure your settings to get notifications based on your daily needs.",
+      "CHINESE": "根据您的需求，调整通知配置。"
+    },
+    {
+      "_CMSKEY": "o_DA_SECURITY",
+      "ENGLISH": "Security",
+      "CHINESE": "安全保障"
+    },
+    {
+      "_CMSKEY": "o_DA_SECURITY_MEANING",
+      "ENGLISH": "Telegram allows you automatically clear data to add security to your data. In addition, you or your upline can disable your Digital Assistant at anytime.",
+      "CHINESE": "纸飞机的数据可设置为自动删除模式. 此外, 您与您的上线随时可以把您的数码助理给禁用。"
+    },
+    {
+      "_CMSKEY": "o_PLS_ENTERPASSWORD_2CONTINUE",
+      "ENGLISH": "Please enter your password to continue.",
+      "CHINESE": "请输入密码以继续"
+    },
+    {
+      "_CMSKEY": "o_CONTINUE",
+      "ENGLISH": "Continue",
+      "CHINESE": "继续"
+    },
+    {
+      "_CMSKEY": "o_ERROR_PASSWORD_INVALID",
+      "ENGLISH": "Password entered is invalid.",
+      "CHINESE": "您输入的密码不正确，请再重试。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_ENTERPASSWORD",
+      "ENGLISH": "Please enter your Password.",
+      "CHINESE": "请务必输入密码"
+    },
+    {
+      "_CMSKEY": "o_SETUP_TELEGRAM",
+      "ENGLISH": "Set up Telegram",
+      "CHINESE": "设置纸飞机"
+    },
+    {
+      "_CMSKEY": "o_SETUP_DA",
+      "ENGLISH": "Set up Digital Assistant",
+      "CHINESE": "设置数码助理"
+    },
+    {
+      "_CMSKEY": "o_ENTER_UR_NICKNAME",
+      "ENGLISH": "Enter Your Nickname",
+      "CHINESE": "输入您的昵称"
+    },
+    {
+      "_CMSKEY": "o_SETUP",
+      "ENGLISH": "Set Up",
+      "CHINESE": "设置"
+    },
+    {
+      "_CMSKEY": "o_STEP1",
+      "ENGLISH": "Step 1",
+      "CHINESE": "第一步"
+    },
+    {
+      "_CMSKEY": "o_STEP2",
+      "ENGLISH": "Step 2",
+      "CHINESE": "第二步"
+    },
+    {
+      "_CMSKEY": "o_STEP3",
+      "ENGLISH": "Step 3",
+      "CHINESE": "第三步"
+    },
+    {
+      "_CMSKEY": "o_SETUP_TELEGRAM_CONTENT1",
+      "ENGLISH": "Download the Telegram App and create an account. Skip this step if you already have a Telegram account.",
+      "CHINESE": "下载纸飞机应用并创建帐号。如果您已经拥有纸飞机帐号，请跳过此步骤。"
+    },
+    {
+      "_CMSKEY": "o_SETUP_TELEGRAM_CONTENT2",
+      "ENGLISH": "Get the App on the Google Play Store and Apple App Store or through the links below:",
+      "CHINESE": "在Google Play 商店和 App Store 获取应用程序，或通过以下链接获取："
+    },
+    {
+      "_CMSKEY": "o_SETUP_TELEGRAM_CONTENT3",
+      "ENGLISH": "After installing Telegram, sign up using your mobile number and you’ll receive an activation code.",
+      "CHINESE": "安装纸飞机后，请使用您的手机号码注册，和您将收到一个激活码。"
+    },
+    {
+      "_CMSKEY": "o_SETUP_TELEGRAM_CONTENT4",
+      "ENGLISH": "Once you have successfully set up your Telegram account on the App, you can choose to continue to use the App or use the Web URL to access your Telegram account.",
+      "CHINESE": "成功安装与激活纸飞机后, 除了手机应用程序, 您还可以在以下的网页版链接访问您的纸飞机账号."
+    },
+    {
+      "_CMSKEY": "o_ANDROID_APP",
+      "ENGLISH": "Android App",
+      "CHINESE": "安卓App"
+    },
+    {
+      "_CMSKEY": "o_IOS_APP",
+      "ENGLISH": "iOS App",
+      "CHINESE": "iOS App"
+    },
+    {
+      "_CMSKEY": "o_WINDOWS_DESKAPP",
+      "ENGLISH": "Windows Desktop App",
+      "CHINESE": "Windows App"
+    },
+    {
+      "_CMSKEY": "o_MAC_APP",
+      "ENGLISH": "Mac OS App",
+      "CHINESE": "Mac OS App"
+    },
+    {
+      "_CMSKEY": "o_WEB_URL",
+      "ENGLISH": "Web URL",
+      "CHINESE": "网页"
+    },
+    {
+      "_CMSKEY": "o_SETUP_DA_CONTENT1",
+      "ENGLISH": "After signing up, scan this QR Code to open Telegram Digital Assistant.",
+      "CHINESE": "注册后，扫描此二维码以打开纸飞机数码助理。"
+    },
+    {
+      "_CMSKEY": "o_SETUP_DA_CONTENT2",
+      "ENGLISH": "After scanning the QR code or using the link, tap on START to receive an OTP on Telegram.",
+      "CHINESE": "扫描二维码或使用链结后，在纸飞机上点击“开始”以获取一次性密码（OTP）。"
+    },
+    {
+      "_CMSKEY": "o_OR_CLICK_THIS_LINK",
+      "ENGLISH": "or click this link:",
+      "CHINESE": "或点击此链结："
+    },
+    {
+      "_CMSKEY": "o_ENTER_OTP_VERIFY_ACCT",
+      "ENGLISH": "Enter the 6-digit OTP to verify your account.",
+      "CHINESE": "输入 6 位数一次性密码以验证您的帐号。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_OTP_EXPIRED",
+      "ENGLISH": "The OTP you entered has already expired. Please try again.",
+      "CHINESE": "您输入的一次性密码已过期，请重新获取。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_OTP_INVALID",
+      "ENGLISH": "The OTP you entered is invalid. Please enter the correct OTP.",
+      "CHINESE": "您输入的一次性密码不正确，请再次确认。"
+    },
+    {
+      "_CMSKEY": "o_RESEND_OTP",
+      "ENGLISH": "Resend OTP",
+      "CHINESE": "重新发送一次性密码"
+    },
+    {
+      "_CMSKEY": "o_OTP",
+      "ENGLISH": "OTP",
+      "CHINESE": "一次性密码"
+    },
+    {
+      "_CMSKEY": "o_ENTER_UR_NICKNAME_CONTENT1",
+      "ENGLISH": "The Nickname you enter is what your Digital Assistant will call you on Telegram.",
+      "CHINESE": "您输入的昵称将成为数码助理在纸飞机上对您的称呼。"
+    },
+    {
+      "_CMSKEY": "o_ENTER_UR_NICKNAME_CONTENT2",
+      "ENGLISH": "Note: You cannot use your User Code or your Name as your Nickname.",
+      "CHINESE": "注意：勿使用您的管理端帐号或真实姓名作为昵称。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_NICKNAME_CANT_SAME_USERCODE",
+      "ENGLISH": "Your Nickname cannot be the same as your User Code. Please try again.",
+      "CHINESE": "昵称与管理端账号不能设置相同, 请尝试其他昵称."
+    },
+    {
+      "_CMSKEY": "o_UR_NICKNAME",
+      "ENGLISH": "Your Nickname",
+      "CHINESE": "您的昵称"
+    },
+    {
+      "_CMSKEY": "o_NOTE_STOP_USING_DA",
+      "ENGLISH": "Note: You can disable your Digital Assistant anytime by pressing on the button below.",
+      "CHINESE": "注意：您随时可以通过按下下面的按钮来停用您的数码助理。"
+    },
+    {
+      "_CMSKEY": "o_STOP_USING_DA",
+      "ENGLISH": "Stop Using Digital Assistant",
+      "CHINESE": "停用数码助理"
+    },
+    {
+      "_CMSKEY": "o_CONFIRM_STOP_USING_DA",
+      "ENGLISH": "Are you sure you want to disable your Digital Assistant?",
+      "CHINESE": "确定禁用数码助理？"
+    },
+    {
+      "_CMSKEY": "o_DA_NOTIFS_CONTENT1",
+      "ENGLISH": "Choose which notifications you want to receive through Telegram:",
+      "CHINESE": "请选择您想通过纸飞机接收到的通知："
+    },
+    {
+      "_CMSKEY": "o_DA_NOTIFS_CONTENT_NOTE",
+      "ENGLISH": "Note: You can adjust the settings above to your preference on this page or via Settings in Telegram.",
+      "CHINESE": "注意：您可以根据您的需求, 在此页面或通过纸飞机的设定, 调整上述设置。"
+    },
+    {
+      "_CMSKEY": "o_GEN_ANNOUNCEMENT",
+      "ENGLISH": "General Announcement",
+      "CHINESE": "一般公告"
+    },
+    {
+      "_CMSKEY": "o_GEN_ANNOUNCEMENT_MEANING",
+      "ENGLISH": "Updates will prompt on your Telegram every time there is a new General Announcement.",
+      "CHINESE": "新的一般公告将在您的纸飞机上提示。"
+    },
+    {
+      "_CMSKEY": "o_IMPORT_ANNOUNCEMENT",
+      "ENGLISH": "Important Announcement",
+      "CHINESE": "重要公告"
+    },
+    {
+      "_CMSKEY": "o_IMPORT_ANNOUNCEMENT_MEANING",
+      "ENGLISH": "Get notified every time there is a new Important Announcement.",
+      "CHINESE": "每次有重要公告时都会收到通知。"
+    },
+    {
+      "_CMSKEY": "o_NOTIF_PROBLEM_ACCT_MEANING",
+      "ENGLISH": "Get notified every time there is a new problem account.",
+      "CHINESE": "每次出现新的问题帐号时都会收到通知。"
+    },
+    {
+      "_CMSKEY": "o_CHANGE_PASS_ALERT",
+      "ENGLISH": "Change Password Alert",
+      "CHINESE": "更改密码提示"
+    },
+    {
+      "_CMSKEY": "o_CHANGE_PASS_ALERT_MEANING",
+      "ENGLISH": "A notification will be sent to your Telegram when you change your password.",
+      "CHINESE": "当您修改密码时，将会向您的纸飞机发送通知。"
+    },
+    {
+      "_CMSKEY": "o_LOGIN_FAIL_ALERT",
+      "ENGLISH": "Log In Fail Alert",
+      "CHINESE": "登入失败提示"
+    },
+    {
+      "_CMSKEY": "o_LOGIN_FAIL_ALERT_MEANING",
+      "ENGLISH": "A notification will be sent to your Telegram when you enter the wrong credentials 3X in a row.",
+      "CHINESE": "连续3次输入错误密码后，将会向您的纸飞机发送通知。"
+    },
+    {
+      "_CMSKEY": "o_TYPES",
+      "ENGLISH": "Types",
+      "CHINESE": "类型"
+    },
+    {
+      "_CMSKEY": "o_DESCRIPTION",
+      "ENGLISH": "Description",
+      "CHINESE": "描述"
+    },
+    {
+      "_CMSKEY": "o_ENABLE_DISABLE",
+      "ENGLISH": "Enable / Disable",
+      "CHINESE": "启用 / 禁用"
+    },
+    {
+      "_CMSKEY": "o_DA_REPORTS_CONTENT1",
+      "ENGLISH": "Using your Digital Assistant, you can get the following reports on Telegram without having to access this site:",
+      "CHINESE": "通过数码助理，您可以在纸飞机上获取以下报表数据，无需访问管理网站："
+    },
+    {
+      "_CMSKEY": "o_DA_SETTLED_REPORTS_MEANING",
+      "ENGLISH": "You can get the specifics of the Win/Loss Reports based on specific periods. ",
+      "CHINESE": "您可以根据特定时段获取报表输赢结果的具体信息。"
+    },
+    {
+      "_CMSKEY": "o_DA_UNSETTLED_REPORTS_MEANING",
+      "ENGLISH": "You can get Reports relating to Unsettled Wagers based on specific periods.",
+      "CHINESE": "您可以根据特定时段获取未有结果报表的具体信息。"
+    },
+    {
+      "_CMSKEY": "o_TOP10_MEM",
+      "ENGLISH": "Top 10 Members",
+      "CHINESE": "前10名会员"
+    },
+    {
+      "_CMSKEY": "o_DA_TOP1_REPORTS_MEANING",
+      "ENGLISH": "You can get the information about your Top 10 Winning/Losing members.",
+      "CHINESE": "您可以获取关于前十名输/赢会员的信息。"
+    },
+    {
+      "_CMSKEY": "o_DA_SETTINGS_MEANING",
+      "ENGLISH": "You can set notifications you want to receive based on your needs.",
+      "CHINESE": "您可以根据您的需求设置想要接收到的通知。"
+    },
+    {
+      "_CMSKEY": "o_OTHERS",
+      "ENGLISH": "Others",
+      "CHINESE": "其它"
+    },
+    {
+      "_CMSKEY": "o_DA_OTHERS_MEANING",
+      "ENGLISH": "You can get more details outside reports through “Others”.",
+      "CHINESE": "您可以通过“其它”获取除了报表以外的更多详细信息。"
+    },
+    {
+      "_CMSKEY": "o_DA_REPORTS_NOTE",
+      "ENGLISH": "Note: The number format showing from Reports will be divided by 10,000.",
+      "CHINESE": "注意：从报表中显示的数字格式将以万为单位。"
     }
   ]
 }
