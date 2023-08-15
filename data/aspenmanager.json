@@ -2623,7 +2623,7 @@
     {
       "_CMSKEY": "o_TOP10_MEM",
       "ENGLISH": "Top 10 Members",
-      "CHINESE": "前10名会员"
+      "CHINESE": "前十名会员"
     },
     {
       "_CMSKEY": "o_DA_TOP1_REPORTS_MEANING",
@@ -2649,6 +2649,11 @@
       "_CMSKEY": "o_DA_REPORTS_NOTE",
       "ENGLISH": "Note: The number format showing from Reports will be divided by 10,000.",
       "CHINESE": "注意：从报表中显示的数字格式将以万为单位。"
+    },
+    {
+      "_CMSKEY": "o_NOTE_STOP_USING_DA_2",
+      "ENGLISH": "Note: You can disable this Digital Assistant anytime by pressing on the button below.",
+      "CHINESE": "注意：您随时可以通过按下下面的按钮来停用数码助理。"
     }
   ]
 }
