@@ -7710,6 +7710,16 @@
       "_CMSKEY": "o_OTHER_SPORTS_1X2",
       "ENGLISH": "Other Sports 1X2",
       "CHINESE": "其他体育 1X2"
+    },
+    {
+      "_CMSKEY": "o_ODDS_DISPLAY",
+      "ENGLISH": "Odds Display",
+      "CHINESE": "赔率显示模式"
+    },
+    {
+      "_CMSKEY": "o_ENABLE_ODDS_UPDATE_INDICATOR",
+      "ENGLISH": "Enable Odds Update Indicator",
+      "CHINESE": "启动赔率异动提醒功能"
     }
   ]
 }
