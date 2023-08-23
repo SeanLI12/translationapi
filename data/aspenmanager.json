@@ -2467,8 +2467,8 @@
     },
     {
       "_CMSKEY": "o_SETUP_DA_CONTENT2",
-      "ENGLISH": "After scanning the QR code or using the link, tap on START to receive an OTP on Telegram.",
-      "CHINESE": "扫描二维码或使用链结后，在纸飞机上点击“开始”以获取一次性密码（OTP）。"
+      "ENGLISH": "After scanning the QR Code or using the link, tap on START to receive your Telegram ID.",
+      "CHINESE": "扫描二维码或使用链结后，在纸飞机上点击“开始”以获取辨识码。"
     },
     {
       "_CMSKEY": "o_OR_CLICK_THIS_LINK",
