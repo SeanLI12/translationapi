@@ -2468,7 +2468,7 @@
     {
       "_CMSKEY": "o_SETUP_DA_CONTENT2",
       "ENGLISH": "After scanning the QR Code or using the link, tap on START to receive your Telegram ID.",
-      "CHINESE": "扫描二维码或使用链结后，在纸飞机上点击“开始”以获取辨识码。"
+      "CHINESE": "扫描二维码或使用链接后，在纸飞机上点击“开始”以获取纸飞机识别码。"
     },
     {
       "_CMSKEY": "o_OR_CLICK_THIS_LINK",
@@ -2658,17 +2658,17 @@
     {
       "_CMSKEY": "o_TELEGRAM_ID",
       "ENGLISH": "Telegram ID",
-      "CHINESE": "辨识码"
+      "CHINESE": "纸飞机识别码"
     },
     {
       "_CMSKEY": "o_ERROR_TG_ID_INVALID",
       "ENGLISH": "The Telegram ID you entered is invalid. Please enter the correct Telegram ID.",
-      "CHINESE": "您输入的辨识码不正确，请再次确认。"
+      "CHINESE": "您输入的纸飞机识别码不正确，请再次确认。"
     },
     {
       "_CMSKEY": "o_ENTER_TG_ID_VERIFY_ACCT",
       "ENGLISH": "Enter the Telegram ID to verify your account.",
-      "CHINESE": "输入 辨识码以验证您的帐号。"
+      "CHINESE": "输入此识别码以验证您的帐号。"
     }
   ]
 }
