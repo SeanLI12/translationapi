@@ -1709,7 +1709,7 @@
     {
       "_CMSKEY": "o_AUTO_APPLY_TO_FUTURE_AC",
       "ENGLISH": "This will automatically apply to all future accounts created.",
-      "CHINESE": "勾選後新帳號將自動套用當前設定。"
+      "CHINESE": "勾选后新帐号将自动套用当前设定。"
     },
     {
       "_CMSKEY": "o_SAFECODE",
