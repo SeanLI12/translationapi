@@ -2728,7 +2728,8 @@
     },
     {
       "_CMSKEY": "o_AGENT_STOCK",
-      "ENGLISH": "AG Stock"
+      "ENGLISH": "AG Stock",
+      "CHINESE": "代理商实货量"
     },
     {
       "_CMSKEY": "o_AGENT_CURRENCY",
@@ -2923,6 +2924,26 @@
       "_CMSKEY": "o_TOTAL_STRAKES",
       "ENGLISH": "Total Stakes",
       "CHINESE": "总投注额"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_W_COM",
+      "ENGLISH": "Win / Loss with Commission",
+      "CHINESE": "佣金结果"
+    },
+    {
+      "_CMSKEY": "o_VIEW_MA",
+      "ENGLISH": "View Master Agent",
+      "CHINESE": "观看总代理"
+    },
+    {
+      "_CMSKEY": "o_VIEW_AG",
+      "ENGLISH": "View Agent",
+      "CHINESE": "观看代理"
+    },
+    {
+      "_CMSKEY": "o_VIEW_MEM",
+      "ENGLISH": "View Member",
+      "CHINESE": "观看会员"
     }
   ]
 }
