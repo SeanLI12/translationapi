@@ -86,11 +86,6 @@
       "CHINESE": "上期"
     },
     {
-      "_CMSKEY": "o_PROFIT_MARGIN",
-      "ENGLISH": "ProfitMargin",
-      "CHINESE": "获利率"
-    },
-    {
       "_CMSKEY": "o_INCREASE_PREVIOUS_DAY",
       "ENGLISH": "increasefrom previous day",
       "CHINESE": "比前一天增加"
@@ -2661,14 +2656,344 @@
       "CHINESE": "总计"
     },
     {
+      "_CMSKEY": "o_USERCODE",
+      "ENGLISH": "User Code",
+      "CHINESE": "帐号"
+    },
+    {
+      "_CMSKEY": "o_DATES",
+      "ENGLISH": "Dates",
+      "CHINESE": "日期"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNTS",
+      "ENGLISH": "Accounts",
+      "CHINESE": "帐号"
+    },
+    {
+      "_CMSKEY": "o_MAIN_ACCOUNT",
+      "ENGLISH": "Main Account",
+      "CHINESE": "主帐号"
+    },
+    {
+      "_CMSKEY": "o_MY_SUMMARY",
+      "ENGLISH": "My Summary",
+      "CHINESE": "我的总结"
+    },
+    {
+      "_CMSKEY": "o_FILTERS",
+      "ENGLISH": "Filters",
+      "CHINESE": "过滤器"
+    },
+    {
+      "_CMSKEY": "o_COPY",
+      "ENGLISH": "Copy",
+      "CHINESE": "复制资料"
+    },
+    {
+      "_CMSKEY": "o_EXPORT_TO_EXCEL",
+      "ENGLISH": "Export to Excel",
+      "CHINESE": "导出Excel"
+    },
+    {
       "_CMSKEY": "o_SMA",
       "ENGLISH": "SMA",
       "CHINESE": "股东"
     },
     {
-      "_CMSKEY": "o_USERCODE",
-      "ENGLISH": "User Code",
-      "CHINESE": "帐号"
+      "_CMSKEY": "o_SMA_RESULT",
+      "ENGLISH": "SMA Result",
+      "CHINESE": "股东结果"
+    },
+    {
+      "_CMSKEY": "o_SMA_STOCK%",
+      "ENGLISH": "SMA Stock %",
+      "CHINESE": "股东百分比"
+    },
+    {
+      "_CMSKEY": "o_SMA_POSSESS_INREPORTS",
+      "ENGLISH": "SMA Poss.",
+      "CHINESE": "股东占成"
+    },
+    {
+      "_CMSKEY": "o_SMA_STOCK",
+      "ENGLISH": "SMA Stock",
+      "CHINESE": "股东实货量"
+    },
+    {
+      "_CMSKEY": "o_MA_RESULT",
+      "ENGLISH": "MA Result",
+      "CHINESE": "总代理结果"
+    },
+    {
+      "_CMSKEY": "o_MA_STOCK",
+      "ENGLISH": "MA Stock",
+      "CHINESE": "总代理实货量"
+    },
+    {
+      "_CMSKEY": "o_MA_STOCK%",
+      "ENGLISH": "MA Stock %",
+      "CHINESE": "总代理百分比"
+    },
+    {
+      "_CMSKEY": "o_MA_POSSESS_INREPORTS",
+      "ENGLISH": "MA Poss.",
+      "CHINESE": "总代理占成"
+    },
+    {
+      "_CMSKEY": "o_AGENT_POSSESS",
+      "ENGLISH": "AG Poss.",
+      "CHINESE": "代理商占成"
+    },
+    {
+      "_CMSKEY": "o_AGENT_RESULT",
+      "ENGLISH": "AG Result",
+      "CHINESE": "代理商结果"
+    },
+    {
+      "_CMSKEY": "o_AGENT_RESULT_A",
+      "ENGLISH": "AG Result A",
+      "CHINESE": "代理商结果A"
+    },
+    {
+      "_CMSKEY": "o_AGENT_STOCK",
+      "ENGLISH": "AG Stock",
+      "CHINESE": "代理商实货量"
+    },
+    {
+      "_CMSKEY": "o_AGENT_CURRENCY",
+      "ENGLISH": "AG Currency",
+      "CHINESE": "代理商币值"
+    },
+    {
+      "_CMSKEY": "o_MEMBER_CURRENCY",
+      "ENGLISH": "Member Currency",
+      "CHINESE": "会员币值"
+    },
+    {
+      "_CMSKEY": "o_SUB_RESULT",
+      "ENGLISH": "Sub Acct. Result",
+      "CHINESE": "子帐号结果"
+    },
+    {
+      "_CMSKEY": "o_SUB_STOCK",
+      "ENGLISH": "Sub Acct. Stock",
+      "CHINESE": "子帐号实货量"
+    },
+    {
+      "_CMSKEY": "o_SUB_POSSESS",
+      "ENGLISH": "Sub Acct. Poss.",
+      "CHINESE": "子帐号占成"
+    },
+    {
+      "_CMSKEY": "o_SUB_STOCK%",
+      "ENGLISH": "Sub Acct. Stock %",
+      "CHINESE": "子帐号百分比"
+    },
+    {
+      "_CMSKEY": "o_SUB_CURRENCY",
+      "ENGLISH": "Sub Acct. Currency",
+      "CHINESE": "子帐号币值"
+    },
+    {
+      "_CMSKEY": "o_SUB_RESULT_A",
+      "ENGLISH": "Sub Acct. Result A",
+      "CHINESE": "子帐号结果A"
+    },
+    {
+      "_CMSKEY": "o_WAGERS",
+      "ENGLISH": "Wagers",
+      "CHINESE": "笔数"
+    },
+    {
+      "_CMSKEY": "o_STAKE_INREPORTS",
+      "ENGLISH": "Stake",
+      "CHINESE": "下注金额"
+    },
+    {
+      "_CMSKEY": "o_PROFIT_MARGIN",
+      "ENGLISH": "Profit Margin",
+      "CHINESE": "获利率"
+    },
+    {
+      "_CMSKEY": "o_SETTLEMENT",
+      "ENGLISH": "Settlement",
+      "CHINESE": "交收"
+    },
+    {
+      "_CMSKEY": "o_ALL_REPORTS_TAB",
+      "ENGLISH": "All",
+      "CHINESE": "所有"
+    },
+    {
+      "_CMSKEY": "o_TIME",
+      "ENGLISH": "Time",
+      "CHINESE": "时间"
+    },
+    {
+      "_CMSKEY": "o_BET_ID_TYPE",
+      "ENGLISH": "Bet ID / Bet Type",
+      "CHINESE": "注单号 / 玩法"
+    },
+    {
+      "_CMSKEY": "o_BET_DETAILS",
+      "ENGLISH": "Bet Details",
+      "CHINESE": "内容"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_COMMISSION",
+      "ENGLISH": "Win / Loss with Commission",
+      "CHINESE": "佣金结果"
+    },
+    {
+      "_CMSKEY": "o_AG%",
+      "ENGLISH": "AG%",
+      "CHINESE": "代理商佔成"
+    },
+    {
+      "_CMSKEY": "o_MA%",
+      "ENGLISH": "MA %",
+      "CHINESE": "总代理佔成"
+    },
+    {
+      "_CMSKEY": "o_SMA%",
+      "ENGLISH": "SMA %",
+      "CHINESE": "股东佔成"
+    },
+    {
+      "_CMSKEY": "o_CO%",
+      "ENGLISH": "Co %",
+      "CHINESE": "公司佔成"
+    },
+    {
+      "_CMSKEY": "o_SUBMIT",
+      "ENGLISH": "Submit",
+      "CHINESE": "查询"
+    },
+    {
+      "_CMSKEY": "o_CLOSE",
+      "ENGLISH": "Close",
+      "CHINESE": "关闭"
+    },
+    {
+      "_CMSKEY": "o_EDIT_FILTERS",
+      "ENGLISH": "Edit Filters",
+      "CHINESE": "更改过滤器"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_W_COM",
+      "ENGLISH": "Win / Loss with Commission",
+      "CHINESE": "佣金结果"
+    },
+    {
+      "_CMSKEY": "o_VIEW_MA",
+      "ENGLISH": "View Master Agent",
+      "CHINESE": "观看总代理"
+    },
+    {
+      "_CMSKEY": "o_VIEW_AG",
+      "ENGLISH": "View Agent",
+      "CHINESE": "观看代理"
+    },
+    {
+      "_CMSKEY": "o_VIEW_MEM",
+      "ENGLISH": "View Member",
+      "CHINESE": "观看会员"
+    },
+    {
+      "_CMSKEY": "o_MORE_DETAILS",
+      "ENGLISH": "More Details:",
+      "CHINESE": "更多细节:"
+    },
+    {
+      "_CMSKEY": "o_ALL_SUB_ACCT",
+      "ENGLISH": "All Sub Accounts",
+      "CHINESE": "所有子帐号"
+    },
+    {
+      "_CMSKEY": "o_VIEW_ALL",
+      "ENGLISH": "View All",
+      "CHINESE": "显示所有"
+    },
+    {
+      "_CMSKEY": "o_WIN",
+      "ENGLISH": "Win",
+      "CHINESE": "赢"
+    },
+    {
+      "_CMSKEY": "o_LOSE",
+      "ENGLISH": "Lose",
+      "CHINESE": "输"
+    },
+    {
+      "_CMSKEY": "o_FT",
+      "ENGLISH": "FT",
+      "CHINESE": "全场"
+    },
+    {
+      "_CMSKEY": "o_REJECTED",
+      "ENGLISH": "Rejected",
+      "CHINESE": "投注失败"
+    },
+    {
+      "_CMSKEY": "o_HK_CODE14336331809",
+      "ENGLISH": "HK 14336331809",
+      "CHINESE": "香港盘 14336331809"
+    },
+    {
+      "_CMSKEY": "o_WRONG_ODDS_HCAP",
+      "ENGLISH": "Wrong Odds/Hcap",
+      "CHINESE": "盘口/赔率错误"
+    },
+    {
+      "_CMSKEY": "o_COMPETITIONNAME",
+      "ENGLISH": "Competition Name",
+      "CHINESE": "赛事名称"
+    },
+    {
+      "_CMSKEY": "o_TEAM1LONGLONGNAME",
+      "ENGLISH": "Team 1 Long Long Name",
+      "CHINESE": "超长长长长长队名"
+    },
+    {
+      "_CMSKEY": "o_TEAM2NAME",
+      "ENGLISH": "Team 2 Name",
+      "CHINESE": "队名"
+    },
+    {
+      "_CMSKEY": "o_BETTYPE",
+      "ENGLISH": "Bet Type",
+      "CHINESE": "玩法"
+    },
+    {
+      "_CMSKEY": "o_PLAYER1LONGLONGNAME",
+      "ENGLISH": "Player 1 Long Long Name",
+      "CHINESE": "超长长长运动员姓名"
+    },
+    {
+      "_CMSKEY": "o_PLAYER2NAME",
+      "ENGLISH": "Player 2 Name",
+      "CHINESE": "运动员姓名"
+    },
+    {
+      "_CMSKEY": "o_AG%_INMODAL",
+      "ENGLISH": "AG%",
+      "CHINESE": "代理商%"
+    },
+    {
+      "_CMSKEY": "o_MA%_INMODAL",
+      "ENGLISH": "MA %",
+      "CHINESE": "总代理%"
+    },
+    {
+      "_CMSKEY": "o_SMA%_INMODAL",
+      "ENGLISH": "SMA %",
+      "CHINESE": "股东%"
+    },
+    {
+      "_CMSKEY": "o_CO%_INMODAL",
+      "ENGLISH": "Co %",
+      "CHINESE": "公司%"
     }
   ]
 }
