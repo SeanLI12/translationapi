@@ -2994,6 +2994,11 @@
       "_CMSKEY": "o_CO%_INMODAL",
       "ENGLISH": "Co %",
       "CHINESE": "公司%"
+    },
+    {
+      "_CMSKEY": "o_WIN_LOSS_INREPORTS",
+      "ENGLISH": "Win / Loss",
+      "CHINESE": "结果"
     }
   ]
 }
