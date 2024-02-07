@@ -2848,22 +2848,22 @@
     {
       "_CMSKEY": "o_AG%",
       "ENGLISH": "AG%",
-      "CHINESE": "代理商（佔成）"
+      "CHINESE": "代理商(佔成)"
     },
     {
       "_CMSKEY": "o_MA%",
       "ENGLISH": "MA %",
-      "CHINESE": "总代理（佔成）"
+      "CHINESE": "总代理(佔成)"
     },
     {
       "_CMSKEY": "o_SMA%",
       "ENGLISH": "SMA %",
-      "CHINESE": "股东（佔成）"
+      "CHINESE": "股东(佔成)"
     },
     {
       "_CMSKEY": "o_CO%",
       "ENGLISH": "Co %",
-      "CHINESE": "公司（佔成）"
+      "CHINESE": "公司(佔成)"
     },
     {
       "_CMSKEY": "o_SUBMIT",
