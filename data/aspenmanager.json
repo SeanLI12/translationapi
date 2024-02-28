@@ -2999,6 +2999,46 @@
       "_CMSKEY": "o_WIN_LOSS_INREPORTS",
       "ENGLISH": "Win / Loss",
       "CHINESE": "结果"
+    },
+    {
+      "_CMSKEY": "o_PERSONAL_ANNOUNCEMENT",
+      "ENGLISH": "Personal Announcement",
+      "CHINESE": "个人公告"
+    },
+    {
+      "_CMSKEY": "o_DATES_NEW_OLDEST",
+      "ENGLISH": "Date: Newest - Oldest",
+      "CHINESE": "通知日期：最新 - 最旧"
+    },
+    {
+      "_CMSKEY": "o_SORT_BY",
+      "ENGLISH": "Sort by",
+      "CHINESE": "排序"
+    },
+    {
+      "_CMSKEY": "o_SYNDICATE_OTHERS_OK",
+      "ENGLISH": "Syndicate, others OK",
+      "CHINESE": "集团投注，其他暂时没问题"
+    },
+    {
+      "_CMSKEY": "o_SYNDICATE",
+      "ENGLISH": "Syndicate",
+      "CHINESE": "集团投注"
+    },
+    {
+      "_CMSKEY": "o_TEMP_NOPROB",
+      "ENGLISH": "Temp No Prob",
+      "CHINESE": "暂时没问题"
+    },
+    {
+      "_CMSKEY": "o_NO_BET",
+      "ENGLISH": "No Bet",
+      "CHINESE": "近7天没有投注"
+    },
+    {
+      "_CMSKEY": "o_GENERAL_SEARCH",
+      "ENGLISH": "Search",
+      "CHINESE": "搜索"
     }
   ]
 }
