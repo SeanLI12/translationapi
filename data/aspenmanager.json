@@ -3049,6 +3049,36 @@
       "_CMSKEY": "o_NEW_AG_HEADERLINK",
       "ENGLISH": "New Agent",
       "CHINESE": "新会员"
+    },
+    {
+      "_CMSKEY": "o_TOP_WIN_MEM",
+      "ENGLISH": "Top Winning Members",
+      "CHINESE": "赢最多的会员排名"
+    },
+    {
+      "_CMSKEY": "o_TOP_LOSE_MEM",
+      "ENGLISH": "Top Losing Members",
+      "CHINESE": "輸最多的会员排名"
+    },
+    {
+      "_CMSKEY": "o_DATE_NOTIFIED",
+      "ENGLISH": "Date Notified",
+      "CHINESE": "通知日期"
+    },
+    {
+      "_CMSKEY": "o_REVIEW_PROB_ACCOUNTS",
+      "ENGLISH": "Review Problem Accounts",
+      "CHINESE": "检视问题帐号"
+    },
+    {
+      "_CMSKEY": "o_POPULAR",
+      "ENGLISH": "Popular",
+      "CHINESE": "常用"
+    },
+    {
+      "_CMSKEY": "o_ESPORTS",
+      "ENGLISH": "Esports",
+      "CHINESE": "电子竞技"
     }
   ]
 }
