@@ -3079,6 +3079,11 @@
       "_CMSKEY": "o_ESPORTS",
       "ENGLISH": "Esports",
       "CHINESE": "电子竞技"
+    },
+    {
+      "_CMSKEY": "o_YESTERDAY_REPORTS",
+      "ENGLISH": "Yesterday",
+      "CHINESE": "昨日"
     }
   ]
 }
