@@ -3084,6 +3084,891 @@
       "_CMSKEY": "o_YESTERDAY_REPORTS",
       "ENGLISH": "Yesterday",
       "CHINESE": "昨日"
+    },
+    {
+      "_CMSKEY": "o_LEAGUE",
+      "ENGLISH": "League",
+      "CHINESE": "联盟"
+    },
+    {
+      "_CMSKEY": "o_ALL_LEAGUE",
+      "ENGLISH": "All League",
+      "CHINESE": "所有联盟"
+    },
+    {
+      "_CMSKEY": "o_LESSTHAN0",
+      "ENGLISH": "&gt; 0",
+      "CHINESE": "大于 0"
+    },
+    {
+      "_CMSKEY": "o_DOWNLINE",
+      "ENGLISH": "Downline",
+      "CHINESE": "下线"
+    },
+    {
+      "_CMSKEY": "o_FULL_PERCENTAGE",
+      "ENGLISH": "Full Percentage",
+      "CHINESE": "显示所有"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_WAGER_TOTALBET",
+      "ENGLISH": "Total Wagers",
+      "CHINESE": "总投注笔数"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_STAKE_TOTALBET",
+      "ENGLISH": "Total Stake",
+      "CHINESE": "总下注金额"
+    },
+    {
+      "_CMSKEY": "o_STARTED",
+      "ENGLISH": "Started",
+      "CHINESE": "已开赛"
+    },
+    {
+      "_CMSKEY": "o_VIEW",
+      "ENGLISH": "View",
+      "CHINESE": "观看"
+    },
+    {
+      "_CMSKEY": "o_TOTAL_EST_PAYOUT",
+      "ENGLISH": "Total Est. Payout",
+      "CHINESE": "总可赢金额"
+    },
+    {
+      "_CMSKEY": "o_ALL_DATES",
+      "ENGLISH": "All Dates",
+      "CHINESE": "所有日期"
+    },
+    {
+      "_CMSKEY": "o_WINNER",
+      "ENGLISH": "Winner",
+      "CHINESE": "独赢"
+    },
+    {
+      "_CMSKEY": "o_CORRECT_SCORE",
+      "ENGLISH": "Correct Score",
+      "CHINESE": "波胆"
+    },
+    {
+      "_CMSKEY": "o_GAME1_WINNER",
+      "ENGLISH": "Game 1 - Winner",
+      "CHINESE": "第1局 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_HDP",
+      "ENGLISH": "Game 1 - Handicap",
+      "CHINESE": "第1局 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_OU",
+      "ENGLISH": "Game 1 - Over / Under",
+      "CHINESE": "第1局 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_OE",
+      "ENGLISH": "Game 1 - Odd / Even",
+      "CHINESE": "第1局 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_DURATION_OU",
+      "ENGLISH": "Game 1 - DURATION - Over / Under",
+      "CHINESE": "第1局 - 比赛时间 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_KILLS_WINNER",
+      "ENGLISH": "Game 1 - Kills - Winner",
+      "CHINESE": "第1局 - 击杀数 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_KILLS_HDP",
+      "ENGLISH": "Game 1 - Kills - Handicap",
+      "CHINESE": "第1局 - 击杀数 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_KILLS_OU",
+      "ENGLISH": "Game 1 - Kills - Over / Under",
+      "CHINESE": "第1局 - 击杀数 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_KILLS_OE",
+      "ENGLISH": "Game 1 - Kills - Odd / Even",
+      "CHINESE": "第1局 - 击杀数 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ DRAFT_09:59_KILLS_WINNER",
+      "ENGLISH": "Game 1 Draft - 09:59 - Kills - Winner",
+      "CHINESE": "第1局 选阵容 - 第9分59秒 - 击杀数 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ DRAFT_09:59_KILLS_HDP",
+      "ENGLISH": "Game 1 Draft - 09:59 - Kills - Handicap",
+      "CHINESE": "第1局 选阵容 - 第9分59秒 - 击杀数 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ DRAFT_09:59_KILLS_OU",
+      "ENGLISH": "Game 1 Draft -  09:59 - Kills - Over / Under",
+      "CHINESE": "第1局 选阵容 - 第9分59秒 - 击杀数 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ DRAFT_09:59_KILLS_OE",
+      "ENGLISH": "Game 1 Draft - 09:59 - Kills - Odd / Even",
+      "CHINESE": "第1局 选阵容 - 第9分59秒 - 击杀数 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ 10:00_19:59_KILLS_WINNER",
+      "ENGLISH": "Game 1 10:00 - 19:59 - Kills - Winner",
+      "CHINESE": "第1局 第10分 - 第19分59秒 - 击杀数 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ 10:00_19:59_KILLS_HDP",
+      "ENGLISH": "Game 1 10:00 - 19:59 - Kills - Handicap",
+      "CHINESE": "第1局 第10分 - 第19分59秒 - 击杀数 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ 10:00_19:59_KILLS_OU",
+      "ENGLISH": "Game 1 10:00 - 19:59 - Kills - Over / Under",
+      "CHINESE": "第1局 第10分 - 第19分59秒 - 击杀数 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ 10:00_19:59_KILLS_OE",
+      "ENGLISH": "Game 1 10:00 - 19:59 - Kills - Odd / Even",
+      "CHINESE": "第1局 第10分 - 第19分59秒 - 击杀数 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMA_ KILLS_OU",
+      "ENGLISH": "Game 1 - [Team 1 Name] Kills - Over / Under",
+      "CHINESE": "第1局 - [Team A Name] 击杀数 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMA_ KILLS_OE",
+      "ENGLISH": "Game 1 - [Team 1 Name] Kills - Odd / Even",
+      "CHINESE": "第1局 - [Team A Name] 击杀数 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMB_ KILLS_OU",
+      "ENGLISH": "Game 1 - [Team 2 Name] Kills - Over / Under",
+      "CHINESE": "第1局 - [Team B Name] 击杀数 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMB_ KILLS_OE",
+      "ENGLISH": "Game 1 - [Team 2 Name] Kills - Odd / Even",
+      "CHINESE": "第1局 - [Team B Name] 击杀数 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1STBLOOD",
+      "ENGLISH": "Game 1 - First Blood",
+      "CHINESE": "第1局 - 第1血"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1STREACH_5KILLS",
+      "ENGLISH": "Game 1 - First to Reach 5 Kills",
+      "CHINESE": "第1局 - 首队先到达5杀"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1STREACH_10KILLS",
+      "ENGLISH": "Game 1 - First to Reach 10 Kills",
+      "CHINESE": "第1局 - 首队先到达10杀"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1STREACH_15KILLS",
+      "ENGLISH": "Game 1 - First to Reach 15 Kills",
+      "CHINESE": "第1局 - 首队先到达15杀"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1STREACH_20KILLS",
+      "ENGLISH": "Game 1 - First to Reach 20 Kills",
+      "CHINESE": "第1局 - 首队先到达20杀"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TOWERS_WINNER",
+      "ENGLISH": "Game 1 - Towers - Winner",
+      "CHINESE": "第1局 - 防御塔 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TOWERS_HDP",
+      "ENGLISH": "Game 1 - Towers - Handicap",
+      "CHINESE": "第1局 - 防御塔 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TOWERS_OU",
+      "ENGLISH": "Game 1 - Towers - Over / Under",
+      "CHINESE": "第1局 - 防御塔 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TOWERS_OE",
+      "ENGLISH": "Game 1 - Towers - Odd / Even",
+      "CHINESE": "第1局 - 防御塔 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMA_TOWERS_OU",
+      "ENGLISH": "Game 1 - [Team 1 Name] Towers - Over / Under",
+      "CHINESE": "第1局 - [Team 1 Name] 防御塔 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMA_TOWERS_OE",
+      "ENGLISH": "Game 1 - [Team 1 Name] Towers - Odd / Even",
+      "CHINESE": "第1局 - [Team 1 Name] 防御塔 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMB_TOWERS_OU",
+      "ENGLISH": "Game 1 - [Team 2 Name] Towers - Over / Under",
+      "CHINESE": "第1局 - [Team 2 Name] 防御塔 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMB_TOWERS_OE",
+      "ENGLISH": "Game 1 - [Team 2 Name] Towers - Odd / Even",
+      "CHINESE": "第1局 - [Team 2 Name] 防御塔 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_TOWER",
+      "ENGLISH": "Game 1 - 1st Tower",
+      "CHINESE": "第1局 - 第1座塔"
+    },
+    {
+      "_CMSKEY": "o_GAME1_DRAGONS_WINNER",
+      "ENGLISH": "Game 1 - Dragons - Winner",
+      "CHINESE": "第1局 - 元素巨龙 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_DRAGONS_HDP",
+      "ENGLISH": "Game 1 - Dragons - Handicap",
+      "CHINESE": "第1局 - 元素巨龙 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_DRAGONS_OU",
+      "ENGLISH": "Game 1 - Dragons - Over / Under",
+      "CHINESE": "第1局 - 元素巨龙 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_DRAGONS_OE",
+      "ENGLISH": "Game 1 - Dragons - Odd / Even",
+      "CHINESE": "第1局 - 元素巨龙 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_FIRST_ELEMENTAL_DRAKETYPE",
+      "ENGLISH": "Game 1 - First Elemental Drake Type",
+      "CHINESE": "第1局 - 第1只元素小龙类型"
+    },
+    {
+      "_CMSKEY": "o_GAME1_SECOND_ELEMENTAL_DRAKETYPE",
+      "ENGLISH": "Game 1 - Second Elemental Drake Type",
+      "CHINESE": "第1局 - 第2只元素小龙类型"
+    },
+    {
+      "_CMSKEY": "o_GAME1_THIRD_ELEMENTAL_DRAKETYPE",
+      "ENGLISH": "Game 1 - Third Elemental Drake Type",
+      "CHINESE": "第1局 - 第3只元素小龙类型"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARONS_WINNER",
+      "ENGLISH": "Game 1 - Barons - Winner",
+      "CHINESE": "第1局 - 纳什男爵 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARONS_HDP",
+      "ENGLISH": "Game 1 - Barons - Handicap",
+      "CHINESE": "第1局 - 纳什男爵 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARONS_OU",
+      "ENGLISH": "Game 1 - Barons - Over / Under",
+      "CHINESE": "第1局 - 纳什男爵 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARONS_OE",
+      "ENGLISH": "Game 1 - Barons - Odd / Even",
+      "CHINESE": "第1局 - 纳什男爵 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_BARON",
+      "ENGLISH": "Game 1 - 1st Baron",
+      "CHINESE": "第1局 - 第1条纳什男爵"
+    },
+    {
+      "_CMSKEY": "o_GAME1_INHIBITORS_WINNER",
+      "ENGLISH": "Game 1 - Inhibitors - Winner",
+      "CHINESE": "第1局 - 水晶兵营 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ INHIBITORS_HDP",
+      "ENGLISH": "Game 1 - Inhibitors - Handicap",
+      "CHINESE": "第1局 - 水晶兵营 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_INHIBITORS_OU",
+      "ENGLISH": "Game 1 - Inhibitors - Over / Under",
+      "CHINESE": "第1局 - 水晶兵营 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_INHIBITORS_OE",
+      "ENGLISH": "Game 1 - Inhibitors - Odd / Even",
+      "CHINESE": "第1局 - 水晶兵营 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_INHIBITOR",
+      "ENGLISH": "Game 1 - 1st Inhibitor",
+      "CHINESE": "第1局 - 第1个水晶兵营"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_TORMENTOR",
+      "ENGLISH": "Game 1 - 1st Tormentor",
+      "CHINESE": "第1局 - 第1个痛苦魔方"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ROSHANS_WINNER",
+      "ENGLISH": "Game 1 - Roshans - Winner",
+      "CHINESE": "第1局 - 肉山 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ROSHANS_HDP",
+      "ENGLISH": "Game 1 - Roshans - Handicap",
+      "CHINESE": "第1局 - 肉山 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ROSHANS_OU",
+      "ENGLISH": "Game 1 - Roshans - Over / Under",
+      "CHINESE": "第1局 - 肉山 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ROSHANS_OE",
+      "ENGLISH": "Game 1 - Roshans - Odd / Even",
+      "CHINESE": "第1局 - 肉山 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_ROSHAN",
+      "ENGLISH": "Game 1 - 1st Roshan",
+      "CHINESE": "第1局 - 第1个肉山"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARRACKS_WINNER",
+      "ENGLISH": "Game 1 - Barracks - Winner",
+      "CHINESE": "第1局 - 兵营 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARRACKS_HDP",
+      "ENGLISH": "Game 1 - Barracks - Handicap",
+      "CHINESE": "第1局 - 兵营 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARRACKS_OU",
+      "ENGLISH": "Game 1 - Barracks - Over / Under",
+      "CHINESE": "第1局 - 兵营 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_BARRACKS_OE",
+      "ENGLISH": "Game 1 - Barracks - Odd / Even",
+      "CHINESE": "第1局 - 兵营 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_BARRACK",
+      "ENGLISH": "Game 1 - 1st Barrack",
+      "CHINESE": "第1局 - 第1座兵营"
+    },
+    {
+      "_CMSKEY": "o_GAME1_GODLIKE_STREAK",
+      "ENGLISH": "Game 1 - Godlike Streak",
+      "CHINESE": "第1局 - 如同神般"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_TYRANT",
+      "ENGLISH": "Game 1 - 1st Tyrant",
+      "CHINESE": "第1局 - 第1暴君"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_SHADOW_OVERLORD",
+      "ENGLISH": "Game 1 - 1st Shadow Overload",
+      "CHINESE": "第1局 - 第1影王"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_TURTLE",
+      "ENGLISH": "Game 1 - 1st Turtle",
+      "CHINESE": "第1局 - 第1龙龟"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1ST_LORD",
+      "ENGLISH": "Game 1 - 1st Lord",
+      "CHINESE": "第1局 - 第1领主"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1H_WINNER",
+      "ENGLISH": "Game 1 1st Half - Winner",
+      "CHINESE": "第1局上半场 - 独赢"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1H_HDP",
+      "ENGLISH": "Game 1 1st Half - Handicap",
+      "CHINESE": "第1局上半场 - 让盘"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1H_OU",
+      "ENGLISH": "Game 1 1st Half - Over / Under",
+      "CHINESE": "第1局上半场 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_1H_OE",
+      "ENGLISH": "Game 1 1st Half - Odd / Even",
+      "CHINESE": "第1局上半场 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMA_ROUNDS_OU",
+      "ENGLISH": "GAME 1 - [Team 1 Name] Rounds - Over / Under",
+      "CHINESE": "第1局 - [Team 1 Name] 回合 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMA_ROUNDS_OE",
+      "ENGLISH": "GAME 1 - [Team 1 Name] Rounds - Odd / Even",
+      "CHINESE": "第1局 - [Team 1 Name] 回合 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMB_ROUNDS_OU",
+      "ENGLISH": "GAME 1 - [Team 2 Name] Rounds - Over / Under",
+      "CHINESE": "第1局 - [Team 2 Name] 回合 - 大/小"
+    },
+    {
+      "_CMSKEY": "o_GAME1_TEAMB_ROUNDS_OE",
+      "ENGLISH": "GAME 1 - [Team 2 Name] Rounds - Odd / Even",
+      "CHINESE": "第1局 - [Team 2 Name] 回合 - 单/双"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ FIRST_5_POINTS",
+      "ENGLISH": "GAME 1 - FIRST 5 POINTS",
+      "CHINESE": "第1局 - 首队先得5分"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R1",
+      "ENGLISH": "GAME 1 - R1",
+      "CHINESE": "第1局 - 第1回合"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R1_TOTALKILLS7.5",
+      "ENGLISH": "GAME 1 - R1 TOTAL KILLS 7.5",
+      "CHINESE": "第1局 - 第1回合总击杀数7.5"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R1_BOMBPLANTED",
+      "ENGLISH": "GAME 1 - R1 BOMB PLANTED",
+      "CHINESE": "第1局 - 第1回合放置炸弹"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R12",
+      "ENGLISH": "GAME 1 - R12",
+      "CHINESE": "第1局 - 第12回合"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R12_TOTALKILLS7.5",
+      "ENGLISH": "GAME 1 - R12 TOTAL KILLS 7.5",
+      "CHINESE": "第1局 - 第12回合总击杀数7.5"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R12_BOMBPLANTED",
+      "ENGLISH": "GAME 1 - R12 BOMB PLANTED",
+      "CHINESE": "第1局 - 第12回合放置炸弹"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R13",
+      "ENGLISH": "GAME 1 - R13",
+      "CHINESE": "第1局 - 第13回合"
+    },
+    {
+      "_CMSKEY": "o_GAME1_ R13_TOTALKILLS7.5",
+      "ENGLISH": "GAME 1 - R13 TOTAL KILLS 7.5",
+      "CHINESE": "第1局 - 第13回合总击杀数7.5"
+    },
+    {
+      "_CMSKEY": "o_GAME1_R13_BOMBPLANTED",
+      "ENGLISH": "GAME 1 - R13 BOMB PLANTED",
+      "CHINESE": "第1局 - 第13回合放置炸弹"
+    },
+    {
+      "_CMSKEY": "o_ODD_OE",
+      "ENGLISH": "Odd",
+      "CHINESE": "单"
+    },
+    {
+      "_CMSKEY": "o_EVEN_OE",
+      "ENGLISH": "Even",
+      "CHINESE": "双"
+    },
+    {
+      "_CMSKEY": "o_OVER_OU",
+      "ENGLISH": "Over",
+      "CHINESE": "大"
+    },
+    {
+      "_CMSKEY": "o_UNDER_OU",
+      "ENGLISH": "Under",
+      "CHINESE": "小"
+    },
+    {
+      "_CMSKEY": "o_ELEMENTAL_DRAKETYPE_OCEAN",
+      "ENGLISH": "Ocean / Mountain / Hextech",
+      "CHINESE": "海洋/山/海克斯科"
+    },
+    {
+      "_CMSKEY": "o_ELEMENTAL_DRAKETYPE_INFERNAL",
+      "ENGLISH": "Infernal / Cloud / Chemtech",
+      "CHINESE": "地狱烈焰/云/金迪"
+    },
+    {
+      "_CMSKEY": "o_MATCHES",
+      "ENGLISH": "Matches",
+      "CHINESE": "赛果"
+    },
+    {
+      "_CMSKEY": "o_DURATION",
+      "ENGLISH": "Duration",
+      "CHINESE": "比赛时间"
+    },
+    {
+      "_CMSKEY": "o_WED_19JUN",
+      "ENGLISH": "WED 19 JUN",
+      "CHINESE": "六月 19日(三)"
+    },
+    {
+      "_CMSKEY": "o_TUE_18JUN",
+      "ENGLISH": "TUE 18 JUN",
+      "CHINESE": "六月 18日(二)"
+    },
+    {
+      "_CMSKEY": "o_MON_17JUN",
+      "ENGLISH": "MON 17 JUN",
+      "CHINESE": "六月 17日(一)"
+    },
+    {
+      "_CMSKEY": "o_SUN_16JUN",
+      "ENGLISH": "SUN 16 JUN",
+      "CHINESE": "六月 16日(日)"
+    },
+    {
+      "_CMSKEY": "o_SAT_15JUN",
+      "ENGLISH": "SAT 15 JUN",
+      "CHINESE": "六月 15日(六)"
+    },
+    {
+      "_CMSKEY": "o_FRI_14JUN",
+      "ENGLISH": "FRI 14 JUN",
+      "CHINESE": "六月 14日(五)"
+    },
+    {
+      "_CMSKEY": "o_OVERALL_RESULT",
+      "ENGLISH": "Overall Result",
+      "CHINESE": "总赛果"
+    },
+    {
+      "_CMSKEY": "o_GAME1",
+      "ENGLISH": "Game 1",
+      "CHINESE": "第一盘"
+    },
+    {
+      "_CMSKEY": "o_GAME2",
+      "ENGLISH": "Game 2",
+      "CHINESE": "第二盘"
+    },
+    {
+      "_CMSKEY": "o_GAME3",
+      "ENGLISH": "Game 3",
+      "CHINESE": "第三盘"
+    },
+    {
+      "_CMSKEY": "o_GAME4",
+      "ENGLISH": "Game 4",
+      "CHINESE": "第四盘"
+    },
+    {
+      "_CMSKEY": "o_GAME5",
+      "ENGLISH": "Game 5",
+      "CHINESE": "第五盘"
+    },
+    {
+      "_CMSKEY": "o_GAME6",
+      "ENGLISH": "Game 6",
+      "CHINESE": "第六盘"
+    },
+    {
+      "_CMSKEY": "o_GAME7",
+      "ENGLISH": "Game 7",
+      "CHINESE": "第七盘"
+    },
+    {
+      "_CMSKEY": "o_KILLS",
+      "ENGLISH": "Kills",
+      "CHINESE": "击杀数"
+    },
+    {
+      "_CMSKEY": "o_TEAMA_ KILLS",
+      "ENGLISH": "[Team 1 Name] Kills",
+      "CHINESE": "[Team 1 Name] 击杀数"
+    },
+    {
+      "_CMSKEY": "o_TEAMB_ KILLS",
+      "ENGLISH": "[Team 2 Name] Kills",
+      "CHINESE": "[Team 2 Name] 击杀数"
+    },
+    {
+      "_CMSKEY": "o_TOWERS",
+      "ENGLISH": "Towers",
+      "CHINESE": "防御塔"
+    },
+    {
+      "_CMSKEY": "o_TEAMA_TOWERS",
+      "ENGLISH": "[Team 1 Name] Towers",
+      "CHINESE": "[Team 1 Name] 防御塔"
+    },
+    {
+      "_CMSKEY": "o_TEAMB_TOWERS",
+      "ENGLISH": "[Team 2 Name] Towers",
+      "CHINESE": "[Team 2 Name] 防御塔"
+    },
+    {
+      "_CMSKEY": "o_DRAGONS",
+      "ENGLISH": "Dragons",
+      "CHINESE": "元素巨龙"
+    },
+    {
+      "_CMSKEY": "o_BARON",
+      "ENGLISH": "Barons",
+      "CHINESE": "纳什男爵"
+    },
+    {
+      "_CMSKEY": "o_INHIBITORS",
+      "ENGLISH": "Inhibitors",
+      "CHINESE": "水晶兵营"
+    },
+    {
+      "_CMSKEY": "o_ROSHANS",
+      "ENGLISH": "Roshans",
+      "CHINESE": "肉山"
+    },
+    {
+      "_CMSKEY": "o_TEAMA_ ROSHANS",
+      "ENGLISH": "[Team 1 Name] Roshans",
+      "CHINESE": "[Team 1 Name] 肉山"
+    },
+    {
+      "_CMSKEY": "o_TEAMB_ ROSHANS",
+      "ENGLISH": "[Team 2 Name] Roshans",
+      "CHINESE": "[Team 2 Name] 肉山"
+    },
+    {
+      "_CMSKEY": "o_1ST_BLOOD",
+      "ENGLISH": "1st Blood",
+      "CHINESE": "第1血"
+    },
+    {
+      "_CMSKEY": "o_1STREACH_5KILLS",
+      "ENGLISH": "First to Reach 5 Kills",
+      "CHINESE": "首队先到达5杀"
+    },
+    {
+      "_CMSKEY": "o_1STREACH_10KILLS",
+      "ENGLISH": "First to Reach 10 Kills",
+      "CHINESE": "首队先到达10杀"
+    },
+    {
+      "_CMSKEY": "o_1STREACH_15KILLS",
+      "ENGLISH": "First to Reach 15 Kills",
+      "CHINESE": "首队先到达15杀"
+    },
+    {
+      "_CMSKEY": "o_1STREACH_20KILLS",
+      "ENGLISH": "First to Reach 20 Kills",
+      "CHINESE": "首队先到达20杀"
+    },
+    {
+      "_CMSKEY": "o_1ST_TOWER",
+      "ENGLISH": "1st Tower",
+      "CHINESE": "第1座塔"
+    },
+    {
+      "_CMSKEY": "o_FIRST_ELEMENTAL_DRAKE",
+      "ENGLISH": "First Elemental Drake",
+      "CHINESE": "第1只元素小龙类型"
+    },
+    {
+      "_CMSKEY": "o_FIRST_ELEMENTAL_DRAKE",
+      "ENGLISH": "Second Elemental Drake",
+      "CHINESE": "第2只元素小龙类型"
+    },
+    {
+      "_CMSKEY": "o_FIRST_ELEMENTAL_DRAKE",
+      "ENGLISH": "Third Elemental Drake",
+      "CHINESE": "第3只元素小龙类型"
+    },
+    {
+      "_CMSKEY": "o_1ST_BARON",
+      "ENGLISH": "1st Baron",
+      "CHINESE": "第1条纳什男爵"
+    },
+    {
+      "_CMSKEY": "o_1ST_INHIBITORS",
+      "ENGLISH": "1st Inhibitors",
+      "CHINESE": "第1个水晶兵营"
+    },
+    {
+      "_CMSKEY": "o_1ST_TORMENTOR",
+      "ENGLISH": "1st Tormentor",
+      "CHINESE": "第1个痛苦魔方"
+    },
+    {
+      "_CMSKEY": "o_1ST_ROSHAN",
+      "ENGLISH": "1st Roshan",
+      "CHINESE": "第1个肉山"
+    },
+    {
+      "_CMSKEY": "o_1ST_BARRACK",
+      "ENGLISH": "1st Barrack",
+      "CHINESE": "第1座兵营"
+    },
+    {
+      "_CMSKEY": "o_GODLIKE_STREAK",
+      "ENGLISH": "GODLIKE Streak",
+      "CHINESE": "如同神般"
+    },
+    {
+      "_CMSKEY": "o_1ST_5PTS",
+      "ENGLISH": "First 5 Points",
+      "CHINESE": "首队先得5分"
+    },
+    {
+      "_CMSKEY": "o_R1",
+      "ENGLISH": "R1",
+      "CHINESE": "第1回合"
+    },
+    {
+      "_CMSKEY": "o_R1_TOTALKILLS7.5",
+      "ENGLISH": "R1 Total Kills 7.5",
+      "CHINESE": "第1回合总击杀数7.5"
+    },
+    {
+      "_CMSKEY": "o_R1_BOMBPLANTED",
+      "ENGLISH": "R1 Bomb Planted",
+      "CHINESE": "第1回合放置炸弹"
+    },
+    {
+      "_CMSKEY": "o_R12",
+      "ENGLISH": "R12",
+      "CHINESE": "第12回合"
+    },
+    {
+      "_CMSKEY": "o_R12_TOTALKILLS7.5",
+      "ENGLISH": "R12 Total Kills 7.5",
+      "CHINESE": "第12回合总击杀数7.5"
+    },
+    {
+      "_CMSKEY": "o_R12_BOMBPLANTED",
+      "ENGLISH": "R12 Bomb Planted",
+      "CHINESE": "第12回合放置炸弹"
+    },
+    {
+      "_CMSKEY": "o_R13",
+      "ENGLISH": "R13",
+      "CHINESE": "第13回合"
+    },
+    {
+      "_CMSKEY": "o_R13_TOTALKILLS7.5",
+      "ENGLISH": "R13 Total Kills 7.5",
+      "CHINESE": "第13回合总击杀数7.5"
+    },
+    {
+      "_CMSKEY": "o_R13_BOMBPLANTED",
+      "ENGLISH": "R13 Bomb Planted",
+      "CHINESE": "第13回合放置炸弹"
+    },
+    {
+      "_CMSKEY": "o_1ST_TYRANT",
+      "ENGLISH": "1st Tyrant",
+      "CHINESE": "第1暴君"
+    },
+    {
+      "_CMSKEY": "o_1ST_SHADOW_OVERLOAD",
+      "ENGLISH": "1st Shadow Overload",
+      "CHINESE": "第1影王"
+    },
+    {
+      "_CMSKEY": "o_1ST_TURTLE",
+      "ENGLISH": "1st Turtle",
+      "CHINESE": "第1龙龟"
+    },
+    {
+      "_CMSKEY": "o_1ST_LORD",
+      "ENGLISH": "1st Lord",
+      "CHINESE": "第1领主"
+    },
+    {
+      "_CMSKEY": "o_MIX_PARLAY_3IN1",
+      "ENGLISH": "Mix Parlay (3 in 1)",
+      "CHINESE": "单式过关 (3 串 1 )"
+    },
+    {
+      "_CMSKEY": "o_EST_PAYOUT",
+      "ENGLISH": "Est. Payout:",
+      "CHINESE": "可赢金额"
+    },
+    {
+      "_CMSKEY": "o_BET_ID",
+      "ENGLISH": "Bet ID",
+      "CHINESE": "注单号"
+    },
+    {
+      "_CMSKEY": "o_BET_TYPE",
+      "ENGLISH": "Bet Type",
+      "CHINESE": "玩法"
+    },
+    {
+      "_CMSKEY": "o_MEM_COM",
+      "ENGLISH": "Member / Commission",
+      "CHINESE": "会员 / 退水"
+    },
+    {
+      "_CMSKEY": "o_CONFIRMED",
+      "ENGLISH": "Confirmed",
+      "CHINESE": "确认"
+    },
+    {
+      "_CMSKEY": "o_PS",
+      "ENGLISH": "PS",
+      "CHINESE": "单式"
+    },
+    {
+      "_CMSKEY": "o_IP",
+      "ENGLISH": "IP",
+      "CHINESE": "滚球"
+    },
+    {
+      "_CMSKEY": "o_ALL_WAGERS",
+      "ENGLISH": "All wagers",
+      "CHINESE": "所有笔数"
+    },
+    {
+      "_CMSKEY": "o_IP_WINNER",
+      "ENGLISH": "(In-Play) Winner",
+      "CHINESE": "(滚球) 独赢"
+    },
+    {
+      "_CMSKEY": "o_REMEMBER_MY_SETTINGS",
+      "ENGLISH": "Remember my Settings",
+      "CHINESE": "记住我的设定"
+    },
+    {
+      "_CMSKEY": "o_PAUSE",
+      "ENGLISH": "Pause",
+      "CHINESE": "暂停"
+    },
+    {
+      "_CMSKEY": "o_MARKETS",
+      "ENGLISH": "Market",
+      "CHINESE": "盘口类型"
+    },
+    {
+      "_CMSKEY": "o_EVENTS",
+      "ENGLISH": "Events",
+      "CHINESE": "赛事"
+    },
+    {
+      "_CMSKEY": "o_LIVE",
+      "ENGLISH": "LIVE",
+      "CHINESE": "滚球"
     }
   ]
 }
