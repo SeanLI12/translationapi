@@ -3969,6 +3969,16 @@
       "_CMSKEY": "o_LIVE",
       "ENGLISH": "LIVE",
       "CHINESE": "滚球"
+    },
+    {
+      "_CMSKEY": "o_DETAILS",
+      "ENGLISH": "Details",
+      "CHINESE": "内容"
+    },
+    {
+      "_CMSKEY": "o_BARRACKS",
+      "ENGLISH": "Barracks",
+      "CHINESE": "兵营"
     }
   ]
 }
