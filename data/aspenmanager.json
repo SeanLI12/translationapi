@@ -3979,6 +3979,86 @@
       "_CMSKEY": "o_BARRACKS",
       "ENGLISH": "Barracks",
       "CHINESE": "兵营"
+    },
+    {
+      "_CMSKEY": "o_WATCHLIST",
+      "ENGLISH": "Watchlist",
+      "CHINESE": "观察名单"
+    },
+    {
+      "_CMSKEY": "o_LEVEL",
+      "ENGLISH": "Level",
+      "CHINESE": "阶层"
+    },
+    {
+      "_CMSKEY": "o_ADDED_TO_WATCHLIST",
+      "ENGLISH": "Added to Watchlist",
+      "CHINESE": "已加到观察名单"
+    },
+    {
+      "_CMSKEY": "o_REMOVED_FROM_WATCHLIST",
+      "ENGLISH": "Removed from Watchlist",
+      "CHINESE": "从观察名单中移除"
+    },
+    {
+      "_CMSKEY": "o_MYWATCHLIST_EXCEEDED_MESSAGE",
+      "ENGLISH": "You have exceeded the maximum number of members added to My Watchlist. You can deselect your current members from My Watchlist and replace them with new ones.",
+      "CHINESE": "您已超出添加到“观察名单”中的最大會员数。您可以从“观察名单”中取消选择当前會员并用新會员替换。"
+    },
+    {
+      "_CMSKEY": "o_MYWATCHLIST_EMPTYPAGE_MESSAGE",
+      "ENGLISH": "Tap on the Binocular Icon beside any member&apos;s usercode to add that member to your Watchlist. Here, you can easily monitor specific member’s Win/Loss.",
+      "CHINESE": "点击双目图标都会将该會员添加到“观察名單”中。在这里，您可以监控会员的赢/输。"
+    },
+    {
+      "_CMSKEY": "o_WHATS_MYWATCHLIST",
+      "ENGLISH": "What is Watchlist?",
+      "CHINESE": "观察名单是什么？"
+    },
+    {
+      "_CMSKEY": "o_WHATS_MYWATCHLIST_MESSAGE1",
+      "ENGLISH": "Watchlist is a feature where you can pick specific members to monitor both their Win / Loss and their general account behavior.",
+      "CHINESE": "我的观察名单是一个功能，您可以选择特定的会员来监控他们的盈利/亏损及其一般账户行为。"
+    },
+    {
+      "_CMSKEY": "o_WHATS_MYWATCHLIST_MESSAGE2",
+      "ENGLISH": "You can add members to your Watchlist by tapping on the binocular icon.",
+      "CHINESE": "您可以通过点击图标将会员添加到您的观察名单中。"
+    },
+    {
+      "_CMSKEY": "o_WHATS_MYWATCHLIST_MESSAGE3",
+      "ENGLISH": "All members selected will appear on the &apos;Watchlist’ page.",
+      "CHINESE": "所有选定的會员都会显示在“观察名单”页面上。"
+    },
+    {
+      "_CMSKEY": "o_WHATS_MYWATCHLIST_MESSAGE4",
+      "ENGLISH": "If members have been added to your Watchlist, the top 5 winning / losing members will show on the dashboard.",
+      "CHINESE": "如果会员已添加到您的观察名单，则前 5 名盈利/亏损会员将显示在首页上。"
+    },
+    {
+      "_CMSKEY": "o_WHATS_MYWATCHLIST_MESSAGE5",
+      "ENGLISH": "To remove any member from your Watchlist, just tap on the binocular icon again.",
+      "CHINESE": "要从观察名单中删除该會员，只需再次点目图标即可。"
+    },
+    {
+      "_CMSKEY": "o_ADD_MEMBERS_NOW",
+      "ENGLISH": "Add Members Now",
+      "CHINESE": "添加会员"
+    },
+    {
+      "_CMSKEY": "o_WINNING_MEM",
+      "ENGLISH": "Winning Members",
+      "CHINESE": "盈利会员排名"
+    },
+    {
+      "_CMSKEY": "o_LOSING_MEM",
+      "ENGLISH": "Losing Members",
+      "CHINESE": "亏损会员排名"
+    },
+    {
+      "_CMSKEY": "o_U_SURE_REMOVE_FROM_WATCHLIST",
+      "ENGLISH": "Are you sure you want to remove this member from your Watchlist?",
+      "CHINESE": "您确定要从您的观察名单中删除该会员吗？"
     }
   ]
 }
