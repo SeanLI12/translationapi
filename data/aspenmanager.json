@@ -4059,6 +4059,262 @@
       "_CMSKEY": "o_U_SURE_REMOVE_FROM_WATCHLIST",
       "ENGLISH": "Are you sure you want to remove this member from your Watchlist?",
       "CHINESE": "您确定要从您的观察名单中删除该会员吗？"
+    },
+    {
+      "_CMSKEY": "o_ACCT_INQUIRY",
+      "ENGLISH": "Account Inquiry",
+      "CHINESE": "帐号查询"
+    },
+    {
+      "_CMSKEY": "o_LOGIN_ID_SAFECODE",
+      "ENGLISH": "Login ID / Safe Code",
+      "CHINESE": "登入帐号/安全代码"
+    },
+    {
+      "_CMSKEY": "o_UPLINE_AG",
+      "ENGLISH": "Upline Agent",
+      "CHINESE": "代理商"
+    },
+    {
+      "_CMSKEY": "o_UPLINE_MA",
+      "ENGLISH": "Upline MA",
+      "CHINESE": "总代理"
+    },
+    {
+      "_CMSKEY": "o_REVIEW",
+      "ENGLISH": "Review",
+      "CHINESE": "设为已检视"
+    },
+    {
+      "_CMSKEY": "o_REVIEW_STAT",
+      "ENGLISH": "Review Status",
+      "CHINESE": "检视状态"
+    },
+    {
+      "_CMSKEY": "o_THIS_PERIOD",
+      "ENGLISH": "This Period",
+      "CHINESE": "本期"
+    },
+    {
+      "_CMSKEY": "o_MOBILE_MEM_SITE",
+      "ENGLISH": "Mobile Member Site",
+      "CHINESE": "手机会员端"
+    },
+    {
+      "_CMSKEY": "o_MEM_SITE",
+      "ENGLISH": "Member Site",
+      "CHINESE": "会员端"
+    },
+    {
+      "_CMSKEY": "o_NEW_MANAGER_SITE",
+      "ENGLISH": "New Manager Site",
+      "CHINESE": "管理端"
+    },
+    {
+      "_CMSKEY": "o_HK",
+      "ENGLISH": "Hong Kong",
+      "CHINESE": "香港"
+    },
+    {
+      "_CMSKEY": "o_PH",
+      "ENGLISH": "Philippines",
+      "CHINESE": "菲律宾"
+    },
+    {
+      "_CMSKEY": "o_LIVECHAT_MESSAGE",
+      "ENGLISH": "Click on the         Live Chat  button to start Chatting with our Customer Service Agents.",
+      "CHINESE": "点击      图标开始和客服聊天。"
+    },
+    {
+      "_CMSKEY": "o_MEM_COMM",
+      "ENGLISH": "Member / Comm.",
+      "CHINESE": "会员 / 退水"
+    },
+    {
+      "_CMSKEY": "o_PENDING",
+      "ENGLISH": "Pending",
+      "CHINESE": "待确认"
+    },
+    {
+      "_CMSKEY": "o_MIX_PARLAY",
+      "ENGLISH": "Mix Parlay",
+      "CHINESE": "单式过关"
+    },
+    {
+      "_CMSKEY": "o_CURRENT_PASSWORD",
+      "ENGLISH": "Current Password",
+      "CHINESE": "现用密码"
+    },
+    {
+      "_CMSKEY": "o_NEW_PASSWORD",
+      "ENGLISH": "New Password",
+      "CHINESE": "新密码"
+    },
+    {
+      "_CMSKEY": "o_CONFIRM_PASSWORD",
+      "ENGLISH": "Confirm Password",
+      "CHINESE": "确认密码"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_SUCESS_CHANGE",
+      "ENGLISH": "Password successfully changed!",
+      "CHINESE": "您已成功更换密码。"
+    },
+    {
+      "_CMSKEY": "o_CHANGE_PASSWORD_MESSAGE",
+      "ENGLISH": "For security reasons, you are required to change our password.",
+      "CHINESE": "为了您的帐户安全, 我们强烈建议修改密码。"
+    },
+    {
+      "_CMSKEY": "o_CREATE_SAFECODE",
+      "ENGLISH": "Create Safe Code",
+      "CHINESE": "创建安全代码"
+    },
+    {
+      "_CMSKEY": "o_CREATE_SAFECODE_MESSAGE",
+      "ENGLISH": "To enhance the security of your account, Safe Code is required during login. Please create your preferred Code.",
+      "CHINESE": "为了加强管理者帐号的安全性, 管理端新增一组安全代码以供登入使用, 请管理者自行设定您的专属安全代码。"
+    },
+    {
+      "_CMSKEY": "o_CREATE_SAFECODE_NOTE",
+      "ENGLISH": "Please remember the Safe Code you created you will need to enter this on your next login.",
+      "CHINESE": "请管理者自行设定您的专属安全代码, 并牢记此代码,否则将无法正常登入。请务必确认清楚后再设定。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_MIN_3_CHARACTERS",
+      "ENGLISH": "Minimum 3 characters are required.",
+      "CHINESE": "请至少输入3个字元。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_NEWPASS_CANT_SAME_CURRENTPASS",
+      "ENGLISH": "Your new Password cannot be the same as your Current Password. Please try again.",
+      "CHINESE": "您的新密码不能和现用密码相同,请重新輸入。"
+    },
+    {
+      "_CMSKEY": "o_LAST_6_MONTHS",
+      "ENGLISH": "Last 6 Months",
+      "CHINESE": "最近6个月"
+    },
+    {
+      "_CMSKEY": "o_PROBACCT_DATE_NEWEST_OLD",
+      "ENGLISH": "Date Notified: Newest - Oldest",
+      "CHINESE": "通知日期：最新 - 最旧"
+    },
+    {
+      "_CMSKEY": "o_PROBACCT_DATE_OLDEST_NEW",
+      "ENGLISH": "Date Notified: OIdest - Newest",
+      "CHINESE": "通知日期：最旧 - 最新"
+    },
+    {
+      "_CMSKEY": "o_PROBACCT_USERCODE_AZ_09",
+      "ENGLISH": "User Code : A - Z, 0 - 9",
+      "CHINESE": "帐号：A - Z, 0 - 9"
+    },
+    {
+      "_CMSKEY": "o_PROBACCT_USERCODE_ZA_90",
+      "ENGLISH": "User Code: Z - A, 9 - 0",
+      "CHINESE": "帐号：Z - A, 9 - 0"
+    },
+    {
+      "_CMSKEY": "o_PROBACCT_STATUS_AZ",
+      "ENGLISH": "Status: A - Z",
+      "CHINESE": "帐户状态：A - Z"
+    },
+    {
+      "_CMSKEY": "o_PROBACCT_STATUS_ZA",
+      "ENGLISH": "Status: Z - A",
+      "CHINESE": "帐户状态：Z - A"
+    },
+    {
+      "_CMSKEY": "o_ERROR_ENTER_VALID_EMAIL",
+      "ENGLISH": "Please enter a valid email address.",
+      "CHINESE": "请输入有效的电子邮件。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_INVALID_VERIFICATION CODE",
+      "ENGLISH": "Invalid verification code.",
+      "CHINESE": "验证码不正确。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_SAFECODE_NOTSAME_PASS_USERCODE",
+      "ENGLISH": "Your Safe Code can not be the same as your Password or User Code.",
+      "CHINESE": "您的安全代码请勿和帐号或密码相同。"
+    },
+    {
+      "_CMSKEY": "o_CONTACTUS_MESSAGE",
+      "ENGLISH": "Our Customer Service Agents are available via Phone, Email or Chat 24 hours a day, 7 days a week.",
+      "CHINESE": "客服中心将会全天候的为您服务。"
+    },
+    {
+      "_CMSKEY": "o_PLS_ENTER_EMAIL_USE_PASS_RECOVERY",
+      "ENGLISH": "Please enter the email address you want to use for Password Recovery.",
+      "CHINESE": "请输入您要使用于密码恢复的电子邮件地址。"
+    },
+    {
+      "_CMSKEY": "o_CANCEL_PASS_RECOVERY",
+      "ENGLISH": "Cancel Password Recovery?",
+      "CHINESE": "删除密码恢复电邮？"
+    },
+    {
+      "_CMSKEY": "o_VERIFICATION_CODE_SENT_TO_EMAIL",
+      "ENGLISH": "Verification Code has been sent to your email.",
+      "CHINESE": "验证码已发送到您的电子邮件。"
+    },
+    {
+      "_CMSKEY": "o_PLS_ENTER_VERIFICATION_CODE",
+      "ENGLISH": "Please enter the verification code here",
+      "CHINESE": "请输入验证码。"
+    },
+    {
+      "_CMSKEY": "o_RESEND_CODE",
+      "ENGLISH": "Resend Code",
+      "CHINESE": "重发验证码"
+    },
+    {
+      "_CMSKEY": "o_VERIFICATION_SENT_TO_EMAIL_MESSAGE",
+      "ENGLISH": "Verification will be sent to this email address when you use the Forgot Password function.",
+      "CHINESE": "当您使用‘忘记密码‘功能，验证码将发送到此电子邮件。"
+    },
+    {
+      "_CMSKEY": "o_DELETE_EMAIL_PASS_RECOVERY",
+      "ENGLISH": "Delete Password Recovery Email?",
+      "CHINESE": "删除密码恢复电邮？"
+    },
+    {
+      "_CMSKEY": "o_DELETE_EMAIL_PASS_RECOVERY_SUCCESS",
+      "ENGLISH": "You have deleted your Password Recovery Email.",
+      "CHINESE": "密码恢复电子邮件已被删除。"
+    },
+    {
+      "_CMSKEY": "o_PASS_RECOVERY_DISABLED_MESSAGE",
+      "ENGLISH": "Password Recovery is currently",
+      "CHINESE": "此功能暂时已被禁用，请联系您的上线。",
+      "o_ACCT_INQUIRY": "disabled. Please contact your upline."
+    },
+    {
+      "_CMSKEY": "o_ERROR_USERCODE_LOGINID_EMAIL_NOTMATCH",
+      "ENGLISH": "The User Code or Login ID and Email Address does not match. Please try again.",
+      "CHINESE": "您输入的帐户或登入帐号跟电子邮件不匹配, 请再尝试输入。"
+    },
+    {
+      "_CMSKEY": "o_USERCODE_OR_LOGINID",
+      "ENGLISH": "User Code or Login ID",
+      "CHINESE": "帐号或登入帐号"
+    },
+    {
+      "_CMSKEY": "o_PASSWORD_RECOVERY_NOTE",
+      "ENGLISH": "You must already register your Password Recovery Email to use this function.   Please contact your upline if you have not yet registered a Password Recovery Email.",
+      "CHINESE": "您必须已注册密码恢复才能使用此功能。如果您尚未注册电子邮件，请联系您的上线。"
+    },
+    {
+      "_CMSKEY": "o_PLS_ENTER_NEWPASS",
+      "ENGLISH": "Please enter your new password.",
+      "CHINESE": "请输入新密码。"
+    },
+    {
+      "_CMSKEY": "o_PLS_LOGIN_USING_NEWPASS",
+      "ENGLISH": "Please login using your new password.",
+      "CHINESE": "请使用新密码登入。"
     }
   ]
 }
