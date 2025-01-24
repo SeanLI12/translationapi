@@ -4315,6 +4315,61 @@
       "_CMSKEY": "o_PLS_LOGIN_USING_NEWPASS",
       "ENGLISH": "Please login using your new password.",
       "CHINESE": "请使用新密码登入。"
+    },
+    {
+      "_CMSKEY": "o_FORGOT_PASSWORD_MESSAGE",
+      "ENGLISH": "Please enter the following information and we'll help you reset your password.",
+      "CHINESE": "请输入以下信息，我们会帮您重置密码。"
+    },
+    {
+      "_CMSKEY": "o_CREDIT_RETRIEVED",
+      "ENGLISH": "Credit Retrieved",
+      "CHINESE": "回收信用额度"
+    },
+    {
+      "_CMSKEY": "o_AFFECTED_DOWNLINE",
+      "ENGLISH": "Affected Downline",
+      "CHINESE": "被影响下线"
+    },
+    {
+      "_CMSKEY": "o_SUCCESSFUL_REGISTERED",
+      "ENGLISH": "Successfully Registered.",
+      "CHINESE": "已成功注册"
+    },
+    {
+      "_CMSKEY": "o_VERIFICATION_CODE",
+      "ENGLISH": "Verification Code",
+      "CHINESE": "验证码"
+    },
+    {
+      "_CMSKEY": "o_DOWNLINE_MODAL_CONTENT",
+      "ENGLISH": "You can only select 5 individual accounts at a time.",
+      "CHINESE": "您最多可选5个帐号"
+    },
+    {
+      "_CMSKEY": "o_POPULAR_LEAGUE",
+      "ENGLISH": "Popular League",
+      "CHINESE": "热门联盟"
+    },
+    {
+      "_CMSKEY": "o_AZ_LEAGUE",
+      "ENGLISH": "A-Z League",
+      "CHINESE": "A - Z联盟"
+    },
+    {
+      "_CMSKEY": "o_PER_SPORTS",
+      "ENGLISH": "Per Sports",
+      "CHINESE": "各别体育"
+    },
+    {
+      "_CMSKEY": "o_REM EMBER_ME",
+      "ENGLISH": "Remember me",
+      "CHINESE": "记住我的帐号"
+    },
+    {
+      "_CMSKEY": "o_FORGOT_PASSWORD",
+      "ENGLISH": "Forgot Password?",
+      "CHINESE": "忘记密码?"
     }
   ]
 }
