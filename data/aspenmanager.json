@@ -4178,7 +4178,7 @@
     {
       "_CMSKEY": "o_CREATE_SAFECODE_NOTE",
       "ENGLISH": "Please remember the Safe Code you created you will need to enter this on your next login.",
-      "CHINESE": "请管理者自行设定您的专属安全代码, 并牢记此代码,否则将无法正常登入。请务必确认清楚后再设定。"
+      "CHINESE": "提交之前，请记住您创建的安全代码。您下次登入时需要输入此安全代码。"
     },
     {
       "_CMSKEY": "o_ERROR_MIN_3_CHARACTERS",
@@ -4370,6 +4370,36 @@
       "_CMSKEY": "o_FORGOT_PASSWORD",
       "ENGLISH": "Forgot Password?",
       "CHINESE": "忘记密码?"
+    },
+    {
+      "_CMSKEY": "o_LOGIN1",
+      "ENGLISH": "Login 1",
+      "CHINESE": "登入 2"
+    },
+    {
+      "_CMSKEY": "o_LOGIN2",
+      "ENGLISH": "Login 2",
+      "CHINESE": "登入 2"
+    },
+    {
+      "_CMSKEY": "o_LOGIN3",
+      "ENGLISH": "Login 3",
+      "CHINESE": "登入 3"
+    },
+    {
+      "_CMSKEY": "o_LOG_IN",
+      "ENGLISH": "Log In",
+      "CHINESE": "登入"
+    },
+    {
+      "_CMSKEY": "o_CREDIT_BALANCE",
+      "ENGLISH": "Credit Balance",
+      "CHINESE": "剩余额度"
+    },
+    {
+      "_CMSKEY": "o_SUBMIT_CHECK",
+      "ENGLISH": "Submit",
+      "CHINESE": "提交"
     }
   ]
 }
