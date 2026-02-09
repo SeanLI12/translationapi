@@ -4400,6 +4400,91 @@
       "_CMSKEY": "o_SUBMIT_CHECK",
       "ENGLISH": "Submit",
       "CHINESE": "提交"
+    },
+    {
+      "_CMSKEY": "o_NEW_FEATURE",
+      "ENGLISH": "New Feature",
+      "CHINESE": "新功能"
+    },
+    {
+      "_CMSKEY": "o_VERICATION_CODE_NOTE",
+      "ENGLISH": "Verification Code refreshes every 30 seconds. Please input the latest one.",
+      "CHINESE": "验证码每 30 秒刷新一次，请输入最新的验证码。"
+    },
+    {
+      "_CMSKEY": "o_ERROR_VER_CODE_INCORRECT",
+      "ENGLISH": "Verification Code is incorrect.",
+      "CHINESE": "验证码错误"
+    },
+    {
+      "_CMSKEY": "o_DOWNLOAD",
+      "ENGLISH": "Download",
+      "CHINESE": "下载"
+    },
+    {
+      "_CMSKEY": "o_ENABLE_2FA_LOGIN",
+      "ENGLISH": "Enable 2FA LOGIN",
+      "CHINESE": "启用双重验证"
+    },
+    {
+      "_CMSKEY": "o_DISABLE_2FA_LOGIN",
+      "ENGLISH": "Disable 2FA LOGIN",
+      "CHINESE": "禁用双重验证"
+    },
+    {
+      "_CMSKEY": "o_TWO_FACTOR",
+      "ENGLISH": "Two-Factor Authentication",
+      "CHINESE": "双重验证"
+    },
+    {
+      "_CMSKEY": "o_TWO_FACTOR_LONG",
+      "ENGLISH": "Two-Factor Authentication (2FA)",
+      "CHINESE": "双重验证（2FA)"
+    },
+    {
+      "_CMSKEY": "o_ACCOUNT_SECURITY",
+      "ENGLISH": "Account Security",
+      "CHINESE": "帳户安全"
+    },
+    {
+      "_CMSKEY": "o_2FA_LOGIN",
+      "ENGLISH": "2FA Login",
+      "CHINESE": "双重验证"
+    },
+    {
+      "_CMSKEY": "o_LOGIN0",
+      "ENGLISH": "Login 0",
+      "CHINESE": "登0"
+    },
+    {
+      "_CMSKEY": "o_LOGIN0_SUB",
+      "ENGLISH": "Login 0 Sub",
+      "CHINESE": "登0 子帐号"
+    },
+    {
+      "_CMSKEY": "o_SMA_SUB",
+      "ENGLISH": "SMA Sub",
+      "CHINESE": "股东 子帐号"
+    },
+    {
+      "_CMSKEY": "o_ERROR_MULTIPLE_INCORRECT_VERIFICATION",
+      "ENGLISH": "Multiple incorrect verification. Please try again.",
+      "CHINESE": "验证码多次输入错误，请稍后重试。"
+    },
+    {
+      "_CMSKEY": "o_2FA_NOW_ENABLED",
+      "ENGLISH": "Two-Factor Authentication (2FA) is enabled.",
+      "CHINESE": "已启用双重验证 (2FA)。"
+    },
+    {
+      "_CMSKEY": "o_2FA_NOW_DISABLED",
+      "ENGLISH": "Two-Factor Authentication (2FA) is now disabled.",
+      "CHINESE": "双重验证 (2FA) 现已禁用。"
+    },
+    {
+      "_CMSKEY": "o_COPY_SECRET_KEY",
+      "ENGLISH": "Copy Secret Key",
+      "CHINESE": "复制密钥"
     }
   ]
 }
