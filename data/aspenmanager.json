@@ -4479,7 +4479,7 @@
     {
       "_CMSKEY": "o_2FA_NOW_DISABLED",
       "ENGLISH": "Two-Factor Authentication (2FA) is now disabled.",
-      "CHINESE": "双重验证 (2FA) 现已禁用。"
+      "CHINESE": "双重验证 (2FA) 现已停用。"
     },
     {
       "_CMSKEY": "o_COPY_SECRET_KEY",
