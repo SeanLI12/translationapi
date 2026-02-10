@@ -4429,7 +4429,7 @@
     {
       "_CMSKEY": "o_DISABLE_2FA_LOGIN",
       "ENGLISH": "Disable 2FA LOGIN",
-      "CHINESE": "禁用双重验证"
+      "CHINESE": "停用双重验证"
     },
     {
       "_CMSKEY": "o_TWO_FACTOR",
