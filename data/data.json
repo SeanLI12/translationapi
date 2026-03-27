@@ -448,87 +448,87 @@
     {
       "_CMSKEY": "o__MARKET_LINE_GROUP_NAME_",
       "ENGLISH": "‘Market Line Group Name'",
-      "CHINESE": null
+      "CHINESE": ""
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_HANDICAP",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - Handicap",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 让球"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_HANDICAP_1ST_HALF",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 让球 - 上半场"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_OVER_UNDER",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - Over / Under",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 大/小"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_1_X_2",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - 1 X 2",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 独赢"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_1_X_2_1ST_HALF",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_ODD_EVEN",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - Odd / Even",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 单/双"
     },
     {
       "_CMSKEY": "o_PLAYER_SPECIALS_GOALS_PLAYER_1_NAME_V_PLAYER_2_NAME_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Player Specials (Goals): 'Player 1 Name' v  'Player 2 Name' - Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球员特殊投注 (进球数):  'Player 1 Name' v  'Player 2 Name' - 单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_HANDICAP",
       "ENGLISH": "Substitutions: Handicap",
-      "CHINESE": null
+      "CHINESE": "换人:  让球"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_HANDICAP_1ST_HALF",
       "ENGLISH": "Substitutions: Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "换人:  让球 - 上半场"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_OVER_UNDER",
       "ENGLISH": "Substitutions: Over / Under",
-      "CHINESE": null
+      "CHINESE": "换人:  大/小"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Substitutions: Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "换人:  大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_1_X_2",
       "ENGLISH": "Substitutions: 1 X 2",
-      "CHINESE": null
+      "CHINESE": "换人:  独赢"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_1_X_2_1ST_HALF",
       "ENGLISH": "Substitutions: 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "换人:  独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_ODD_EVEN",
       "ENGLISH": "Substitutions: Odd / Even",
-      "CHINESE": null
+      "CHINESE": "换人:  单/双"
     },
     {
       "_CMSKEY": "o_SUBSTITUTIONS_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Substitutions: Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "换人:  单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_FIRST_SUBSTITUTION",
@@ -543,42 +543,42 @@
     {
       "_CMSKEY": "o_FREE_KICKS_HANDICAP",
       "ENGLISH": "Free Kicks: Handicap",
-      "CHINESE": null
+      "CHINESE": "任意球:  让球"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_HANDICAP_1ST_HALF",
       "ENGLISH": "Free Kicks: Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "任意球:  让球 - 上半场"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_OVER_UNDER",
       "ENGLISH": "Free Kicks: Over / Under",
-      "CHINESE": null
+      "CHINESE": "任意球:  大/小"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Free Kicks: Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "任意球:  大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_1_X_2",
       "ENGLISH": "Free Kicks: 1 X 2",
-      "CHINESE": null
+      "CHINESE": "任意球:  独赢"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_1_X_2_1ST_HALF",
       "ENGLISH": "Free Kicks: 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "任意球:  独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_ODD_EVEN",
       "ENGLISH": "Free Kicks: Odd / Even",
-      "CHINESE": null
+      "CHINESE": "任意球:  单/双"
     },
     {
       "_CMSKEY": "o_FREE_KICKS_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Free Kicks: Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "任意球:  单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_FIRST_FREE_KICK",
@@ -593,42 +593,42 @@
     {
       "_CMSKEY": "o_THROW_INS_HANDICAP",
       "ENGLISH": "Throw Ins: Handicap",
-      "CHINESE": null
+      "CHINESE": "界外球:  让球"
     },
     {
       "_CMSKEY": "o_THROW_INS_HANDICAP_1ST_HALF",
       "ENGLISH": "Throw Ins: Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "界外球:  让球 - 上半场"
     },
     {
       "_CMSKEY": "o_THROW_INS_OVER_UNDER",
       "ENGLISH": "Throw Ins: Over / Under",
-      "CHINESE": null
+      "CHINESE": "界外球:  大/小"
     },
     {
       "_CMSKEY": "o_THROW_INS_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Throw Ins: Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "界外球:  大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_THROW_INS_1_X_2",
       "ENGLISH": "Throw Ins: 1 X 2",
-      "CHINESE": null
+      "CHINESE": "界外球:  独赢"
     },
     {
       "_CMSKEY": "o_THROW_INS_1_X_2_1ST_HALF",
       "ENGLISH": "Throw Ins: 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "界外球:  独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_THROW_INS_ODD_EVEN",
       "ENGLISH": "Throw Ins: Odd / Even",
-      "CHINESE": null
+      "CHINESE": "界外球:  单/双"
     },
     {
       "_CMSKEY": "o_THROW_INS_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Throw Ins: Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "界外球:  单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_FIRST_THROW_IN",
@@ -643,42 +643,42 @@
     {
       "_CMSKEY": "o_GOAL_KICKS_HANDICAP",
       "ENGLISH": "Goal Kicks: Handicap",
-      "CHINESE": null
+      "CHINESE": "球门球:  让球"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_HANDICAP_1ST_HALF",
       "ENGLISH": "Goal Kicks: Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球门球:  让球 - 上半场"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_OVER_UNDER",
       "ENGLISH": "Goal Kicks: Over / Under",
-      "CHINESE": null
+      "CHINESE": "球门球:  大/小"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Goal Kicks: Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球门球:  大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_1_X_2",
       "ENGLISH": "Goal Kicks: 1 X 2",
-      "CHINESE": null
+      "CHINESE": "球门球:  独赢"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_1_X_2_1ST_HALF",
       "ENGLISH": "Goal Kicks: 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球门球:  独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_ODD_EVEN",
       "ENGLISH": "Goal Kicks: Odd / Even",
-      "CHINESE": null
+      "CHINESE": "球门球:  单/双"
     },
     {
       "_CMSKEY": "o_GOAL_KICKS_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Goal Kicks: Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "球门球:  单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_FIRST_GOAL_KICK",
@@ -693,42 +693,42 @@
     {
       "_CMSKEY": "o_OFFSIDES_HANDICAP",
       "ENGLISH": "Offsides: Handicap",
-      "CHINESE": null
+      "CHINESE": "越位:  让球"
     },
     {
       "_CMSKEY": "o_OFFSIDES_HANDICAP_1ST_HALF",
       "ENGLISH": "Offsides: Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "越位:  让球 - 上半场"
     },
     {
       "_CMSKEY": "o_OFFSIDES_OVER_UNDER",
       "ENGLISH": "Offsides: Over / Under",
-      "CHINESE": null
+      "CHINESE": "越位:  大/小"
     },
     {
       "_CMSKEY": "o_OFFSIDES_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Offsides: Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "越位:  大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_OFFSIDES_1_X_2",
       "ENGLISH": "Offsides: 1 X 2",
-      "CHINESE": null
+      "CHINESE": "越位:  独赢"
     },
     {
       "_CMSKEY": "o_OFFSIDES_1_X_2_1ST_HALF",
       "ENGLISH": "Offsides: 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "越位:  独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_OFFSIDES_ODD_EVEN",
       "ENGLISH": "Offsides: Odd / Even",
-      "CHINESE": null
+      "CHINESE": "越位:  单/双"
     },
     {
       "_CMSKEY": "o_OFFSIDES_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Offsides: Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "越位:  单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_FIRST_OFFSIDE",
@@ -818,197 +818,197 @@
     {
       "_CMSKEY": "o_EXTRA_TIME_HANDICAP",
       "ENGLISH": "Extra Time - Handicap",
-      "CHINESE": null
+      "CHINESE": "加时 - 让球"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_HANDICAP_1ST_HALF",
       "ENGLISH": "Extra Time - Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 让球 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_GOALS_OVER_UNDER",
       "ENGLISH": "Extra Time - Goals: Over / Under",
-      "CHINESE": null
+      "CHINESE": "加时 - 大/小"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_GOALS_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Extra Time - Goals: Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_1_X_2",
       "ENGLISH": "Extra Time - 1 X 2",
-      "CHINESE": null
+      "CHINESE": "加时 - 独赢"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_1_X_2_1ST_HALF",
       "ENGLISH": "Extra Time - 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_CORRECT_SCORE",
       "ENGLISH": "Extra Time - Correct Score",
-      "CHINESE": null
+      "CHINESE": "加时 - 波胆"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_CORRECT_SCORE_1ST_HALF",
       "ENGLISH": "Extra Time - Correct Score - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 波胆 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TOTAL_GOALS",
       "ENGLISH": "Extra Time - Total Goals",
-      "CHINESE": null
+      "CHINESE": "总进球数"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TOTAL_GOALS_1ST_HALF",
       "ENGLISH": "Extra Time - Total Goals - 1st Half",
-      "CHINESE": null
+      "CHINESE": "总进球数 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_1_NAME_OVER_UNDER",
       "ENGLISH": "Extra Time - Team Goals: 'Team 1 Name' -  Over / Under",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 1 Name' - 大/小"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_2_NAME_OVER_UNDER",
       "ENGLISH": "Extra Time - Team Goals: 'Team 2 Name' -  Over / Under",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 2 Name' - 大/小"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_1_NAME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Extra Time - Team Goals: 'Team 1 Name' -  Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 1 Name' - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_2_NAME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Extra Time - Team Goals: 'Team 2 Name' -  Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 2 Name' - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_GOALS_ODD_EVEN",
       "ENGLISH": "Extra Time - Goals: Odd / Even",
-      "CHINESE": null
+      "CHINESE": "加时 - 单/双"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_GOALS_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Extra Time - Goals: Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_1_NAME_ODD_EVEN",
       "ENGLISH": "Extra Time - Team Goals: 'Team 1 Name' -  Odd / Even",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 1 Name' - 单/双"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_2_NAME_ODD_EVEN",
       "ENGLISH": "Extra Time - Team Goals: 'Team 2 Name' -  Odd / Even",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 2 Name' - 单/双"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_1_NAME_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Extra Time - Team Goals: 'Team 1 Name' -  Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 1 Name' - 单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_EXTRA_TIME_TEAM_GOALS_TEAM_2_NAME_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Extra Time - Team Goals: 'Team 2 Name' -  Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "加时 - 队伍进球: 'Team 2 Name' - 单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_HANDICAP",
       "ENGLISH": "Corners: Extra Time - Handicap",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 让球"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_HANDICAP_1ST_HALF",
       "ENGLISH": "Corners: Extra Time - Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 让球 - 上半场"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_OVER_UNDER",
       "ENGLISH": "Corners: Extra Time - Over / Under",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 大/小"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Corners: Extra Time - Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_1_X_2",
       "ENGLISH": "Corners: Extra Time - 1 X 2",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 独赢"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_1_X_2_1ST_HALF",
       "ENGLISH": "Corners: Extra Time - 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_ODD_EVEN",
       "ENGLISH": "Corners: Extra Time - Odd / Even",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 单/双"
     },
     {
       "_CMSKEY": "o_CORNERS_EXTRA_TIME_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Corners: Extra Time - Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "角球: 加时赛 - 单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_HANDICAP",
       "ENGLISH": "Bookings: Extra Time - Handicap",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 让球"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_HANDICAP_1ST_HALF",
       "ENGLISH": "Bookings: Extra Time - Handicap - 1st Half",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 让球 - 上半场"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_OVER_UNDER",
       "ENGLISH": "Bookings: Extra Time - Over / Under",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 大/小"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "Bookings: Extra Time - Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_1_X_2",
       "ENGLISH": "Bookings: Extra Time - 1 X 2",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 独赢"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_1_X_2_1ST_HALF",
       "ENGLISH": "Bookings: Extra Time - 1 X 2 - 1st Half",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 独赢 - 上半场"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_ODD_EVEN",
       "ENGLISH": "Bookings: Extra Time - Odd / Even",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 单/双"
     },
     {
       "_CMSKEY": "o_BOOKINGS_EXTRA_TIME_ODD_EVEN_1ST_HALF",
       "ENGLISH": "Bookings: Extra Time - Odd / Even - 1st Half",
-      "CHINESE": null
+      "CHINESE": "罚牌: 加时赛 - 单/双 - 上半场"
     },
     {
       "_CMSKEY": "o_PENALTY_SHOOTOUT_HANDICAP",
       "ENGLISH": "Penalty Shootout - Handicap",
-      "CHINESE": null
+      "CHINESE": "点球 - 让球"
     },
     {
       "_CMSKEY": "o_PENALTY_SHOOTOUT_GOALS_OVER_UNDER",
       "ENGLISH": "Penalty Shootout - Goals: Over / Under",
-      "CHINESE": null
+      "CHINESE": "点球 - 大/小"
     },
     {
       "_CMSKEY": "o_PENALTY_SHOOTOUT_1_X_2",
       "ENGLISH": "Penalty Shootout - 1 X 2",
-      "CHINESE": null
+      "CHINESE": "点球 - 独赢"
     },
     {
       "_CMSKEY": "o_PRE_TERM",
@@ -2053,7 +2053,7 @@
     {
       "_CMSKEY": "o_MATCH_CORRECT_SCORE",
       "ENGLISH": "Match Correct Score",
-      "CHINESE": null
+      "CHINESE": "波胆"
     },
     {
       "_CMSKEY": "o_MONEY_LINE_SET_1_GAME_1_GAME_1_13_",
@@ -2917,13 +2917,13 @@
     },
     {
       "_CMSKEY": "o__TEAM_1_NAME_OVER_UNDER",
-      "ENGLISH": "'Team 1 Name' -  Over / Under",
-      "CHINESE": null
+      "ENGLISH": "Team 1 Name' -  Over / Under",
+      "CHINESE": "'Team 1 Name' - 大/小"
     },
     {
       "_CMSKEY": "o_TEAM_2_NAME_OVER_UNDER",
       "ENGLISH": "Team 2 Name' -  Over / Under",
-      "CHINESE": null
+      "CHINESE": "'Team 2 Name' - 大/小"
     },
     {
       "_CMSKEY": "o_HDP_1ST_HALF",
@@ -2938,12 +2938,12 @@
     {
       "_CMSKEY": "o__TEAM_1_NAME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "'Team 1 Name' -  Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "'Team 1 Name' - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o__TEAM_2_NAME_OVER_UNDER_1ST_HALF",
       "ENGLISH": "'Team 2 Name' -  Over / Under - 1st Half",
-      "CHINESE": null
+      "CHINESE": "'Team 2 Name' - 大/小 - 上半场"
     },
     {
       "_CMSKEY": "o_O_E_1ST_HALF",
@@ -2953,62 +2953,62 @@
     {
       "_CMSKEY": "o_OVER_UNDER_2ND_HALF",
       "ENGLISH": "Over / Under - 2nd Half",
-      "CHINESE": null
+      "CHINESE": "大/小 - 下半场"
     },
     {
       "_CMSKEY": "o__TEAM_1_NAME_OVER_UNDER_2ND_HALF",
       "ENGLISH": "'Team 1 Name' -  Over / Under - 2nd Half",
-      "CHINESE": null
+      "CHINESE": "'Team 1 Name' - 大/小 - 下半场"
     },
     {
       "_CMSKEY": "o__TEAM_2_NAME_OVER_UNDER_2ND_HALF",
       "ENGLISH": "'Team 2 Name' -  Over / Under - 2nd Half",
-      "CHINESE": null
+      "CHINESE": "‘Team 2 Name' - 大/小 - 下半场"
     },
     {
       "_CMSKEY": "o_1_X_2_2ND_HALF",
       "ENGLISH": "1 X 2 - 2nd Half",
-      "CHINESE": null
+      "CHINESE": "独赢 - 下半场"
     },
     {
       "_CMSKEY": "o_ODD_EVEN_2ND_HALF",
       "ENGLISH": "Odd / Even - 2nd Half",
-      "CHINESE": null
+      "CHINESE": "单/双 - 下半场"
     },
     {
       "_CMSKEY": "o__TEAM_2_NAME_OVER_UNDER",
       "ENGLISH": "'Team 2 Name' -  Over / Under",
-      "CHINESE": null
+      "CHINESE": "Team 2 Name' - 大/小"
     },
     {
-      "CHINESE": "停止下注",
+      "_CMSKEY": "o_BETTINGCLOSED",
       "ENGLISH": "Betting Close",
-      "_CMSKEY": "o_BETTINGCLOSED"
+      "CHINESE": "停止下注"
     },
     {
-      "CHINESE": "让分",
+      "_CMSKEY": "o_HANDICAP_SCORE",
       "ENGLISH": "Handicap",
-      "_CMSKEY": "o_HANDICAP_SCORE"
+      "CHINESE": "让分"
     },
     {
-      "CHINESE": "让局",
+      "_CMSKEY": "o_HANDICAP_FRAME",
       "ENGLISH": "Handicap",
-      "_CMSKEY": "o_HANDICAP_FRAME"
+      "CHINESE": "让局"
     },
     {
-      "CHINESE": "进球数",
+      "_CMSKEY": "o_GOALSMARKETLINE",
       "ENGLISH": "Goals",
-      "_CMSKEY": "o_GOALSMARKETLINE"
+      "CHINESE": "进球数"
     },
     {
-      "CHINESE": "得分",
+      "_CMSKEY": "o_GOAL",
       "ENGLISH": "Goal",
-      "_CMSKEY": "o_GOAL"
+      "CHINESE": "得分"
     },
     {
-      "CHINESE": "没得分",
+      "_CMSKEY": "o_NOGOAL",
       "ENGLISH": "No Goal",
-      "_CMSKEY": "o_NOGOAL"
+      "CHINESE": "没得分"
     },
     {
       "_CMSKEY": "o_GOALSOU",
@@ -3016,509 +3016,509 @@
       "CHINESE": "得分大小"
     },
     {
-      "CHINESE": "今日",
+      "_CMSKEY": "o_TODAY",
       "ENGLISH": "Today",
-      "_CMSKEY": "o_TODAY"
+      "CHINESE": "今日"
     },
     {
-      "CHINESE": "星期一",
+      "_CMSKEY": "o_MON",
       "ENGLISH": "MON",
-      "_CMSKEY": "o_MON"
+      "CHINESE": "星期一"
     },
     {
-      "CHINESE": "星期二",
+      "_CMSKEY": "o_TUE",
       "ENGLISH": "TUE",
-      "_CMSKEY": "o_TUE"
+      "CHINESE": "星期二"
     },
     {
-      "CHINESE": "星期三",
+      "_CMSKEY": "o_WED",
       "ENGLISH": "WED",
-      "_CMSKEY": "o_WED"
+      "CHINESE": "星期三"
     },
     {
-      "CHINESE": "星期四",
+      "_CMSKEY": "o_THU",
       "ENGLISH": "THU",
-      "_CMSKEY": "o_THU"
+      "CHINESE": "星期四"
     },
     {
-      "CHINESE": "星期五",
+      "_CMSKEY": "o_FRI",
       "ENGLISH": "FRI",
-      "_CMSKEY": "o_FRI"
+      "CHINESE": "星期五"
     },
     {
-      "CHINESE": "星期六",
+      "_CMSKEY": "o_SAT",
       "ENGLISH": "SAT",
-      "_CMSKEY": "o_SAT"
+      "CHINESE": "星期六"
     },
     {
-      "CHINESE": "星期日",
+      "_CMSKEY": "o_SUN",
       "ENGLISH": "SUN",
-      "_CMSKEY": "o_SUN"
+      "CHINESE": "星期日"
     },
     {
-      "CHINESE": "滚球",
+      "_CMSKEY": "o_INPLAY",
       "ENGLISH": "INPLAY",
-      "_CMSKEY": "o_INPLAY"
+      "CHINESE": "滚球"
     },
     {
-      "CHINESE": "滚球",
+      "_CMSKEY": "o_IN_PLAY",
       "ENGLISH": "IN-PLAY",
-      "_CMSKEY": "o_IN_PLAY"
+      "CHINESE": "滚球"
     },
     {
-      "CHINESE": "即将开赛",
+      "_CMSKEY": "o_UPCOMING",
       "ENGLISH": "UPCOMING",
-      "_CMSKEY": "o_UPCOMING"
+      "CHINESE": "即将开赛"
     },
     {
-      "CHINESE": "早盘",
+      "_CMSKEY": "o_EARLY",
       "ENGLISH": "EARLY",
-      "_CMSKEY": "o_EARLY"
+      "CHINESE": "早盘"
     },
     {
-      "CHINESE": "综合过关",
+      "_CMSKEY": "o_PARLAY",
       "ENGLISH": "PARLAY",
-      "_CMSKEY": "o_PARLAY"
+      "CHINESE": "综合过关"
     },
     {
-      "CHINESE": "连串过关 / 复式过关",
+      "_CMSKEY": "o_PARLAYMULTIPLES",
       "ENGLISH": "PARLAY/MULTIPLES",
-      "_CMSKEY": "o_PARLAYMULTIPLES"
+      "CHINESE": "连串过关 / 复式过关"
     },
     {
-      "CHINESE": "足球",
+      "_CMSKEY": "o_SOCCER",
       "ENGLISH": "SOCCER",
-      "_CMSKEY": "o_SOCCER"
+      "CHINESE": "足球"
     },
     {
-      "CHINESE": "篮球 & 美式足球",
+      "_CMSKEY": "o_BASKETBALLANDAMERICANFOOTBALL",
       "ENGLISH": "Basketball & American Football",
-      "_CMSKEY": "o_BASKETBALLANDAMERICANFOOTBALL"
+      "CHINESE": "篮球 & 美式足球"
     },
     {
-      "CHINESE": "网球",
+      "_CMSKEY": "o_TENNIS",
       "ENGLISH": "TENNIS",
-      "_CMSKEY": "o_TENNIS"
+      "CHINESE": "网球"
     },
     {
-      "CHINESE": "羽毛球",
+      "_CMSKEY": "o_BADMINTON",
       "ENGLISH": "BADMINTON",
-      "_CMSKEY": "o_BADMINTON"
+      "CHINESE": "羽毛球"
     },
     {
-      "CHINESE": "排球",
+      "_CMSKEY": "o_VOLLEYBALL",
       "ENGLISH": "VOLLEYBALL",
-      "_CMSKEY": "o_VOLLEYBALL"
+      "CHINESE": "排球"
     },
     {
-      "CHINESE": "棒球",
+      "_CMSKEY": "o_BASEBALL",
       "ENGLISH": "BASEBALL",
-      "_CMSKEY": "o_BASEBALL"
+      "CHINESE": "棒球"
     },
     {
-      "CHINESE": "斯诺克 / 台球",
+      "_CMSKEY": "o_SNOOKER",
       "ENGLISH": "SNOOKER",
-      "_CMSKEY": "o_SNOOKER"
+      "CHINESE": "斯诺克 / 台球"
     },
     {
-      "CHINESE": "其他",
+      "_CMSKEY": "o_OTHERSPORT",
       "ENGLISH": "OTHER SPORTS",
-      "_CMSKEY": "o_OTHERSPORT"
+      "CHINESE": "其他"
     },
     {
-      "CHINESE": "比赛",
+      "_CMSKEY": "o_GAME",
       "ENGLISH": "GAME",
-      "_CMSKEY": "o_GAME"
+      "CHINESE": "比赛"
     },
     {
-      "CHINESE": "赛事名称",
+      "_CMSKEY": "o_COMPETITIONNAME",
       "ENGLISH": "COMPETITION NAME",
-      "_CMSKEY": "o_COMPETITIONNAME"
+      "CHINESE": "赛事名称"
     },
     {
-      "CHINESE": "独赢",
+      "_CMSKEY": "o_MONEYLINE",
       "ENGLISH": "Money Line",
-      "_CMSKEY": "o_MONEYLINE"
+      "CHINESE": "独赢"
     },
     {
-      "CHINESE": "让局",
+      "_CMSKEY": "o_GAMEHANDICAP",
       "ENGLISH": "Game Handicap",
-      "_CMSKEY": "o_GAMEHANDICAP"
+      "CHINESE": "让局"
     },
     {
-      "CHINESE": "分钟",
+      "_CMSKEY": "o_MINS",
       "ENGLISH": "Mins",
-      "_CMSKEY": "o_MINS"
+      "CHINESE": "分钟"
     },
     {
-      "CHINESE": "赛事",
+      "_CMSKEY": "o_MATCHES",
       "ENGLISH": "Matches",
-      "_CMSKEY": "o_MATCHES"
+      "CHINESE": "赛事"
     },
     {
-      "CHINESE": "赛事盘口",
+      "_CMSKEY": "o_MATCHMARKETS",
       "ENGLISH": "Match Markets",
-      "_CMSKEY": "o_MATCHMARKETS"
+      "CHINESE": "赛事盘口"
     },
     {
-      "CHINESE": "冠军",
+      "_CMSKEY": "o_OUTRIGHTS",
       "ENGLISH": "Outrights",
-      "_CMSKEY": "o_OUTRIGHTS"
+      "CHINESE": "冠军"
     },
     {
-      "CHINESE": "显示所有赛事",
+      "_CMSKEY": "o_VIEWALLMATCHES",
       "ENGLISH": "View All Matches",
-      "_CMSKEY": "o_VIEWALLMATCHES"
+      "CHINESE": "显示所有赛事"
     },
     {
-      "CHINESE": "目前我们暂时不收滚球单，此情况将很快回复，谢谢您的耐心。",
+      "_CMSKEY": "o_WEARETEMPERALY",
       "ENGLISH": "We are currently undergoing system optimization. We will resume trading as soon as possible. Thank you for your patience.",
-      "_CMSKEY": "o_WEARETEMPERALY"
+      "CHINESE": "目前我们暂时不收滚球单，此情况将很快回复，谢谢您的耐心。"
     },
     {
-      "CHINESE": "所有日期",
+      "_CMSKEY": "o_ALLDATES",
       "ENGLISH": "All DAtes",
-      "_CMSKEY": "o_ALLDATES"
+      "CHINESE": "所有日期"
     },
     {
-      "CHINESE": "未來",
+      "_CMSKEY": "o_FUTURE",
       "ENGLISH": "Future",
-      "_CMSKEY": "o_FUTURE"
+      "CHINESE": "未來"
     },
     {
-      "CHINESE": "体育",
+      "_CMSKEY": "o_SPORTS",
       "ENGLISH": "Sports",
-      "_CMSKEY": "o_SPORTS"
+      "CHINESE": "体育"
     },
     {
-      "CHINESE": "赛程",
+      "_CMSKEY": "o_SCHEDULE",
       "ENGLISH": "Schedule",
-      "_CMSKEY": "o_SCHEDULE"
+      "CHINESE": "赛程"
     },
     {
-      "CHINESE": "注单",
+      "_CMSKEY": "o_BETSLIP",
       "ENGLISH": "Bet Slip",
-      "_CMSKEY": "o_BETSLIP"
+      "CHINESE": "注单"
     },
     {
-      "CHINESE": "投注单设定",
+      "_CMSKEY": "o_BETSLIPSETTINGS",
       "ENGLISH": "Bet Slip Settings",
-      "_CMSKEY": "o_BETSLIPSETTINGS"
+      "CHINESE": "投注单设定"
     },
     {
-      "CHINESE": "帐户历史",
+      "_CMSKEY": "o_STATEMENTS",
       "ENGLISH": "Statements",
-      "_CMSKEY": "o_STATEMENTS"
+      "CHINESE": "帐户历史"
     },
     {
-      "CHINESE": "交易状况",
+      "_CMSKEY": "o_OPENBETS",
       "ENGLISH": "Open Bets",
-      "_CMSKEY": "o_OPENBETS"
+      "CHINESE": "交易状况"
     },
     {
-      "CHINESE": "冠军",
+      "_CMSKEY": "o_WINNER",
       "ENGLISH": "Winner",
-      "_CMSKEY": "o_WINNER"
+      "CHINESE": "冠军"
     },
     {
-      "CHINESE": "冠军盘口",
+      "_CMSKEY": "o_OUTRIGHTMARKETS",
       "ENGLISH": "Outright Markets",
-      "_CMSKEY": "o_OUTRIGHTMARKETS"
+      "CHINESE": "冠军盘口"
     },
     {
-      "CHINESE": "赛事名称",
+      "_CMSKEY": "o_COMPETITIONEVENTNAME",
       "ENGLISH": "Competition Event Name",
-      "_CMSKEY": "o_COMPETITIONEVENTNAME"
+      "CHINESE": "赛事名称"
     },
     {
-      "CHINESE": "显示更多",
+      "_CMSKEY": "o_VIEWMORE",
       "ENGLISH": "View More",
-      "_CMSKEY": "o_VIEWMORE"
+      "CHINESE": "显示更多"
     },
     {
-      "CHINESE": "被委派",
+      "_CMSKEY": "o_TOBEDELEGATED",
       "ENGLISH": "To Be Delegated",
-      "_CMSKEY": "o_TOBEDELEGATED"
+      "CHINESE": "被委派"
     },
     {
-      "CHINESE": "最低点",
+      "_CMSKEY": "o_ROCKBOTTOM",
       "ENGLISH": "Rock Bottom",
-      "_CMSKEY": "o_ROCKBOTTOM"
+      "CHINESE": "最低点"
     },
     {
-      "CHINESE": "前四名完成",
+      "_CMSKEY": "o_TOP4FINISH",
       "ENGLISH": "Top 4 Finish",
-      "_CMSKEY": "o_TOP4FINISH"
+      "CHINESE": "前四名完成"
     },
     {
-      "CHINESE": "没有巴塞罗那和皇家马德里的冠军",
+      "_CMSKEY": "o_WINNERWITHOUTBARCELONAANDREALMADRID",
       "ENGLISH": "Winner Without Barcelona and Real Madrid",
-      "_CMSKEY": "o_WINNERWITHOUTBARCELONAANDREALMADRID"
+      "CHINESE": "没有巴塞罗那和皇家马德里的冠军"
     },
     {
-      "CHINESE": "联赛 A - Z",
+      "_CMSKEY": "o_COMPETITIONSAZ",
       "ENGLISH": "Competitions A-Z",
-      "_CMSKEY": "o_COMPETITIONSAZ"
+      "CHINESE": "联赛 A - Z"
     },
     {
-      "CHINESE": "Coupon 名",
+      "_CMSKEY": "o_MYCOUPON",
       "ENGLISH": "MY COUPON",
-      "_CMSKEY": "o_MYCOUPON"
+      "CHINESE": "Coupon 名"
     },
     {
-      "CHINESE": "用日期区分的参赛表",
+      "_CMSKEY": "o_DATEDEFINEDCOUPON",
       "ENGLISH": "Date Defined Coupon 1",
-      "_CMSKEY": "o_DATEDEFINEDCOUPON"
+      "CHINESE": "用日期区分的参赛表"
     },
     {
-      "CHINESE": "已选择1赛事",
+      "_CMSKEY": "o_1COMPETITIONSELECTED",
       "ENGLISH": "1 Competition Selected",
-      "_CMSKEY": "o_1COMPETITIONSELECTED"
+      "CHINESE": "已选择1赛事"
     },
     {
-      "CHINESE": "提交",
+      "_CMSKEY": "o_SUBMIT",
       "ENGLISH": "SUBMIT",
-      "_CMSKEY": "o_SUBMIT"
+      "CHINESE": "提交"
     },
     {
-      "CHINESE": "进球: 大/小",
+      "_CMSKEY": "o_GOALSOVERUNDER",
       "ENGLISH": "Goals: Over / Under",
-      "_CMSKEY": "o_GOALSOVERUNDER"
+      "CHINESE": "进球: 大/小"
     },
     {
-      "CHINESE": "总分: 单 / 双",
+      "_CMSKEY": "o_TOTALPOINTSOODEVEN",
       "ENGLISH": "Goals: Over / Under",
-      "_CMSKEY": "o_TOTALPOINTSOODEVEN"
+      "CHINESE": "总分: 单 / 双"
     },
     {
-      "CHINESE": "独赢",
+      "_CMSKEY": "o_1X2",
       "ENGLISH": "1 X 2",
-      "_CMSKEY": "o_1X2"
+      "CHINESE": "独赢"
     },
     {
-      "CHINESE": "独赢且赢了2.5分",
+      "_CMSKEY": "o_1X2ANDOVER2.5GOALS",
       "ENGLISH": "1 X 2 & Over 2.5 Goals",
-      "_CMSKEY": "o_1X2ANDOVER2.5GOALS"
+      "CHINESE": "独赢且赢了2.5分"
     },
     {
-      "CHINESE": "独赢且两队皆得分",
+      "_CMSKEY": "o_1X2ANDBOTHTEAMTOSCORE",
       "ENGLISH": "1 X 2 & Both Team to Score",
-      "_CMSKEY": "o_1X2ANDBOTHTEAMTOSCORE"
+      "CHINESE": "独赢且两队皆得分"
     },
     {
-      "CHINESE": "双方球队进球",
+      "_CMSKEY": "o_BOTHTEAMSTOSCORE",
       "ENGLISH": "Both Teams to Score",
-      "_CMSKEY": "o_BOTHTEAMSTOSCORE"
+      "CHINESE": "双方球队进球"
     },
     {
-      "CHINESE": "波胆",
+      "_CMSKEY": "o_CORRECTSCORE",
       "ENGLISH": "Correct Score",
-      "_CMSKEY": "o_CORRECTSCORE"
+      "CHINESE": "波胆"
     },
     {
-      "CHINESE": "双胜彩",
+      "_CMSKEY": "o_DOUBLECHANCE",
       "ENGLISH": "Double Chance",
-      "_CMSKEY": "o_DOUBLECHANCE"
+      "CHINESE": "双胜彩"
     },
     {
-      "CHINESE": "上半场",
+      "_CMSKEY": "o_1STHALF",
       "ENGLISH": "1st Half",
-      "_CMSKEY": "o_1STHALF"
+      "CHINESE": "上半场"
     },
     {
-      "CHINESE": "半场",
+      "_CMSKEY": "o_HALVES",
       "ENGLISH": "Halves",
-      "_CMSKEY": "o_HALVES"
+      "CHINESE": "半场"
     },
     {
-      "CHINESE": "相关信息",
+      "_CMSKEY": "o_VIEWINFORMATIONRELATINGTOCONTENT",
       "ENGLISH": "View Information Relating to Content",
-      "_CMSKEY": "o_VIEWINFORMATIONRELATINGTOCONTENT"
+      "CHINESE": "相关信息"
     },
     {
-      "CHINESE": "热门",
+      "_CMSKEY": "o_POPULAR",
       "ENGLISH": "Popular",
-      "_CMSKEY": "o_POPULAR"
+      "CHINESE": "热门"
     },
     {
-      "CHINESE": "队名",
+      "_CMSKEY": "o_TEAMNAME",
       "ENGLISH": "Team Name",
-      "_CMSKEY": "o_TEAMNAME"
+      "CHINESE": "队名"
     },
     {
-      "CHINESE": "超长长长长长长长长长长长长长长长队名",
+      "_CMSKEY": "o_TEAMLONGLONGNAME",
       "ENGLISH": "Team Long Long Name",
-      "_CMSKEY": "o_TEAMLONGLONGNAME"
+      "CHINESE": "超长长长长长长长长长长长长长长长队名"
     },
     {
-      "ENGLISH": "Next Goal",
       "_CMSKEY": "o_NEXTGOAL",
+      "ENGLISH": "Next Goal",
       "CHINESE": "下个进球"
     },
     {
-      "CHINESE": "角球",
+      "_CMSKEY": "o_CORNERS",
       "ENGLISH": "Corners",
-      "_CMSKEY": "o_CORNERS"
+      "CHINESE": "角球"
     },
     {
-      "CHINESE": "罚牌数",
+      "_CMSKEY": "o_BOOKINGS",
       "ENGLISH": "Bookings",
-      "_CMSKEY": "o_BOOKINGS"
+      "CHINESE": "罚牌数"
     },
     {
-      "CHINESE": "罚牌",
+      "_CMSKEY": "o_BOOKINGANDCARDS",
       "ENGLISH": "Bookings / Cards",
-      "_CMSKEY": "o_BOOKINGANDCARDS"
+      "CHINESE": "罚牌"
     },
     {
-      "CHINESE": "罚牌盘口以分数为结算依据。 红牌等于2分，黄牌等于1分。 每个球员最高罚牌分数为3分。",
+      "_CMSKEY": "o_BOOKINGMSG",
       "ENGLISH": "Booking markets are settled on a points system. Red Cards equal 2 points, while Yellow Cards equal 1 point. The maximum points any player can accumulate is 3.",
-      "_CMSKEY": "o_BOOKINGMSG"
+      "CHINESE": "罚牌盘口以分数为结算依据。 红牌等于2分，黄牌等于1分。 每个球员最高罚牌分数为3分。"
     },
     {
-      "CHINESE": "进球:单 / 双",
+      "_CMSKEY": "o_GOALSODDEVEN",
       "ENGLISH": "Goals Odd / Even",
-      "_CMSKEY": "o_GOALSODDEVEN"
+      "CHINESE": "进球:单 / 双"
     },
     {
-      "CHINESE": "第1队进球",
+      "_CMSKEY": "o_TEAM1GOALS",
       "ENGLISH": "Team 1 Goals",
-      "_CMSKEY": "o_TEAM1GOALS"
+      "CHINESE": "第1队进球"
     },
     {
-      "CHINESE": "第2队进球",
+      "_CMSKEY": "o_TEAM2GOALS",
       "ENGLISH": "Team 2 Goals",
-      "_CMSKEY": "o_TEAM2GOALS"
+      "CHINESE": "第2队进球"
     },
     {
-      "CHINESE": "加时",
+      "_CMSKEY": "o_EXTRATIME",
       "ENGLISH": "Extra Time",
-      "_CMSKEY": "o_EXTRATIME"
+      "CHINESE": "加时"
     },
     {
-      "CHINESE": "点球",
+      "_CMSKEY": "o_PENALTYSHOOTOUT",
       "ENGLISH": "Penalty Shootout",
-      "_CMSKEY": "o_PENALTYSHOOTOUT"
+      "CHINESE": "点球"
     },
     {
-      "CHINESE": "加时",
+      "_CMSKEY": "o_ET",
       "ENGLISH": "ET",
-      "_CMSKEY": "o_ET"
+      "CHINESE": "加时"
     },
     {
-      "CHINESE": "加时上半场",
+      "_CMSKEY": "o_ET1STHALF",
       "ENGLISH": "ET 1st Half",
-      "_CMSKEY": "o_ET1STHALF"
+      "CHINESE": "加时上半场"
     },
     {
-      "CHINESE": "加时角球",
+      "_CMSKEY": "o_ETCORNERS",
       "ENGLISH": "ET Corners",
-      "_CMSKEY": "o_ETCORNERS"
+      "CHINESE": "加时角球"
     },
     {
-      "CHINESE": "加时罚牌数",
+      "_CMSKEY": "o_ETBOOKINGS",
       "ENGLISH": "ET Bookings",
-      "_CMSKEY": "o_ETBOOKINGS"
+      "CHINESE": "加时罚牌数"
     },
     {
-      "CHINESE": "点球",
+      "_CMSKEY": "o_PENS",
       "ENGLISH": "Pens",
-      "_CMSKEY": "o_PENS"
+      "CHINESE": "点球"
     },
     {
-      "CHINESE": "第五局",
+      "_CMSKEY": "o_5THROUND",
       "ENGLISH": "5th Round",
-      "_CMSKEY": "o_5THROUND"
+      "CHINESE": "第五局"
     },
     {
-      "CHINESE": "第五球",
+      "_CMSKEY": "o_5TH",
       "ENGLISH": "5th",
-      "_CMSKEY": "o_5TH"
+      "CHINESE": "第五球"
     },
     {
-      "CHINESE": "下个罚球",
+      "_CMSKEY": "o_NEXTPENALTY",
       "ENGLISH": "Next Penalty",
-      "_CMSKEY": "o_NEXTPENALTY"
+      "CHINESE": "下个罚球"
     },
     {
-      "CHINESE": "进球",
+      "_CMSKEY": "o_SCORE",
       "ENGLISH": "Score",
-      "_CMSKEY": "o_SCORE"
+      "CHINESE": "进球"
     },
     {
-      "CHINESE": "没进",
+      "_CMSKEY": "o_MISS",
       "ENGLISH": "Miss",
-      "_CMSKEY": "o_MISS"
+      "CHINESE": "没进"
     },
     {
-      "CHINESE": "无",
+      "_CMSKEY": "o_NONE",
       "ENGLISH": "None",
-      "_CMSKEY": "o_NONE"
+      "CHINESE": "无"
     },
     {
-      "CHINESE": "单",
+      "_CMSKEY": "o_ODD",
       "ENGLISH": "Odd",
-      "_CMSKEY": "o_ODD"
+      "CHINESE": "单"
     },
     {
-      "CHINESE": "双",
+      "_CMSKEY": "o_EVEN",
       "ENGLISH": "Even",
-      "_CMSKEY": "o_EVEN"
+      "CHINESE": "双"
     },
     {
-      "CHINESE": "全场",
+      "_CMSKEY": "o_FULLTIME",
       "ENGLISH": "Full Time",
-      "_CMSKEY": "o_FULLTIME"
+      "CHINESE": "全场"
     },
     {
-      "CHINESE": "角球数 让分",
+      "_CMSKEY": "o_CORNERSHANDICAP",
       "ENGLISH": "Corners Handicap",
-      "_CMSKEY": "o_CORNERSHANDICAP"
+      "CHINESE": "角球数 让分"
     },
     {
-      "CHINESE": "角球数 大/小",
+      "_CMSKEY": "o_CORNERSOU",
       "ENGLISH": "Corners O/U",
-      "_CMSKEY": "o_CORNERSOU"
+      "CHINESE": "角球数 大/小"
     },
     {
-      "CHINESE": "免责声明和责任限制",
+      "_CMSKEY": "o_DISCLAIM",
       "ENGLISH": "Disclaimers and limitation of liability",
-      "_CMSKEY": "o_DISCLAIM"
+      "CHINESE": "免责声明和责任限制"
     },
     {
-      "CHINESE": "角球 独赢",
+      "_CMSKEY": "o_CORNERS1X2",
       "ENGLISH": "Corners 1 X 2",
-      "_CMSKEY": "o_CORNERS1X2"
+      "CHINESE": "角球 独赢"
     },
     {
-      "CHINESE": "提示：在使用此功能前，您应该先设定回复密码用电子信箱位置。如果您尚未设定此信箱，请联络您的上线完成设定。",
+      "_CMSKEY": "o_YOUMOST",
       "ENGLISH": "Note: You must already register your Password Recovery Email to use this function. Please contact your upline if you have not yet registered a Password Recovery Email.",
-      "_CMSKEY": "o_YOUMOST"
+      "CHINESE": "提示：在使用此功能前，您应该先设定回复密码用电子信箱位置。如果您尚未设定此信箱，请联络您的上线完成设定。"
     },
     {
-      "CHINESE": "下个角球",
+      "_CMSKEY": "o_NEXTCORNER",
       "ENGLISH": "Next Corner",
-      "_CMSKEY": "o_NEXTCORNER"
+      "CHINESE": "下个角球"
     },
     {
-      "CHINESE": "角球数 单/双",
+      "_CMSKEY": "o_CORNERSOE",
       "ENGLISH": "Corners O/E",
-      "_CMSKEY": "o_CORNERSOE"
+      "CHINESE": "角球数 单/双"
     },
     {
-      "CHINESE": "罚牌数 让分",
+      "_CMSKEY": "o_BOOKINGSHANDICAP",
       "ENGLISH": "Bookings: Handicap",
-      "_CMSKEY": "o_BOOKINGSHANDICAP"
+      "CHINESE": "罚牌数 让分"
     },
     {
-      "CHINESE": "罚牌 大/小",
+      "_CMSKEY": "o_BOOKINGSOU",
       "ENGLISH": "Bookings O/U",
-      "_CMSKEY": "o_BOOKINGSOU"
+      "CHINESE": "罚牌 大/小"
     },
     {
-      "CHINESE": "罚牌数 独赢",
+      "_CMSKEY": "o_BOOKINGS1X2",
       "ENGLISH": "Bookings O/U",
-      "_CMSKEY": "o_BOOKINGS1X2"
+      "CHINESE": "罚牌数 独赢"
     },
     {
       "_CMSKEY": "o_NEXTBOOKING",
@@ -3526,2759 +3526,2759 @@
       "CHINESE": "下个罚牌"
     },
     {
-      "CHINESE": "罚牌 单/双",
+      "_CMSKEY": "o_BOOKINGSOE",
       "ENGLISH": "Bookings O/E",
-      "_CMSKEY": "o_BOOKINGSOE"
+      "CHINESE": "罚牌 单/双"
     },
     {
-      "CHINESE": "第一局",
+      "_CMSKEY": "o_1STROUND",
       "ENGLISH": "1st Round",
-      "_CMSKEY": "o_1STROUND"
+      "CHINESE": "第一局"
     },
     {
-      "CHINESE": "更好的赔率",
+      "_CMSKEY": "o_PRICEBOOSTS",
       "ENGLISH": "Price Boosts",
-      "_CMSKEY": "o_PRICEBOOSTS"
+      "CHINESE": "更好的赔率"
     },
     {
-      "CHINESE": "大/小",
+      "_CMSKEY": "o_OVERUNDER",
       "ENGLISH": "Over / Under",
-      "_CMSKEY": "o_OVERUNDER"
+      "CHINESE": "大/小"
     },
     {
-      "CHINESE": "让盘",
+      "_CMSKEY": "o_SETHANDICAP",
       "ENGLISH": "Set Handicap",
-      "_CMSKEY": "o_SETHANDICAP"
+      "CHINESE": "让盘"
     },
     {
-      "CHINESE": "优胜者（盘）",
+      "_CMSKEY": "o_SETWINNER",
       "ENGLISH": "Set Winner",
-      "_CMSKEY": "o_SETWINNER"
+      "CHINESE": "优胜者（盘）"
     },
     {
-      "CHINESE": "下一局优胜者",
+      "_CMSKEY": "o_NEXTGAMEWINNER",
       "ENGLISH": "Next Game Winner",
-      "_CMSKEY": "o_NEXTGAMEWINNER"
+      "CHINESE": "下一局优胜者"
     },
     {
-      "CHINESE": "停盘",
+      "_CMSKEY": "o_PLAYSUSPENDED",
       "ENGLISH": "Play Suspended",
-      "_CMSKEY": "o_PLAYSUSPENDED"
+      "CHINESE": "停盘"
     },
     {
-      "CHINESE": "上半场",
+      "_CMSKEY": "o_1H",
       "ENGLISH": "1H",
-      "_CMSKEY": "o_1H"
+      "CHINESE": "上半场"
     },
     {
-      "CHINESE": "半场",
+      "_CMSKEY": "o_HT",
       "ENGLISH": "HT",
-      "_CMSKEY": "o_HT"
+      "CHINESE": "半场"
     },
     {
-      "CHINESE": "下半场",
+      "_CMSKEY": "o_2H",
       "ENGLISH": "2H",
-      "_CMSKEY": "o_2H"
+      "CHINESE": "下半场"
     },
     {
-      "CHINESE": "加时 下半场",
+      "_CMSKEY": "o_ET2H",
       "ENGLISH": "ET 2H",
-      "_CMSKEY": "o_ET2H"
+      "CHINESE": "加时 下半场"
     },
     {
-      "CHINESE": "第六个",
+      "_CMSKEY": "o_6TH",
       "ENGLISH": "6TH",
-      "_CMSKEY": "o_6TH"
+      "CHINESE": "第六个"
     },
     {
-      "CHINESE": "第四轮",
+      "_CMSKEY": "o_4THROUND",
       "ENGLISH": "4th Round",
-      "_CMSKEY": "o_4THROUND"
+      "CHINESE": "第四轮"
     },
     {
-      "CHINESE": "5分钟",
+      "_CMSKEY": "o_5MINS",
       "ENGLISH": "5 Mins",
-      "_CMSKEY": "o_5MINS"
+      "CHINESE": "5分钟"
     },
     {
-      "CHINESE": "抢先得分",
+      "_CMSKEY": "o_FIRSTGOAL",
       "ENGLISH": "First Goal",
-      "_CMSKEY": "o_FIRSTGOAL"
+      "CHINESE": "抢先得分"
     },
     {
-      "CHINESE": "其它比分",
+      "_CMSKEY": "o_ANYOTHERSCORE",
       "ENGLISH": "Any Other Result",
-      "_CMSKEY": "o_ANYOTHERSCORE"
+      "CHINESE": "其它比分"
     },
     {
-      "CHINESE": "少量显示",
+      "_CMSKEY": "o_VIEWLESS",
       "ENGLISH": "View Less",
-      "_CMSKEY": "o_VIEWLESS"
+      "CHINESE": "少量显示"
     },
     {
-      "CHINESE": "显示所有",
+      "_CMSKEY": "o_VIEWALL",
       "ENGLISH": "View All",
-      "_CMSKEY": "o_VIEWALL"
+      "CHINESE": "显示所有"
     },
     {
-      "CHINESE": "重新整理",
+      "_CMSKEY": "o_RELOADCONTENT",
       "ENGLISH": "RELOAD CONTENT",
-      "_CMSKEY": "o_RELOADCONTENT"
+      "CHINESE": "重新整理"
     },
     {
-      "CHINESE": "已选",
+      "_CMSKEY": "o_CHECK",
       "ENGLISH": "CHECK",
-      "_CMSKEY": "o_CHECK"
+      "CHINESE": "已选"
     },
     {
-      "CHINESE": "登出",
+      "_CMSKEY": "o_LOGOUT",
       "ENGLISH": "LOG OUT",
-      "_CMSKEY": "o_LOGOUT"
+      "CHINESE": "登出"
     },
     {
-      "CHINESE": "所有冠军盘",
+      "_CMSKEY": "o_ALLOUTRIGHTS",
       "ENGLISH": "ALL OUTRIGHTS",
-      "_CMSKEY": "o_ALLOUTRIGHTS"
+      "CHINESE": "所有冠军盘"
     },
     {
-      "CHINESE": "完成",
+      "_CMSKEY": "o_OK",
       "ENGLISH": "OK",
-      "_CMSKEY": "o_OK"
+      "CHINESE": "完成"
     },
     {
-      "CHINESE": "继续",
+      "_CMSKEY": "o_CONTINNUE",
       "ENGLISH": "OK",
-      "_CMSKEY": "o_CONTINNUE"
+      "CHINESE": "继续"
     },
     {
-      "CHINESE": "所有赛事",
+      "_CMSKEY": "o_ALLMATCHES",
       "ENGLISH": "ALL MATCHES",
-      "_CMSKEY": "o_ALLMATCHES"
+      "CHINESE": "所有赛事"
     },
     {
-      "CHINESE": "我的赛事",
+      "_CMSKEY": "o_MYEVENTS",
       "ENGLISH": "My Events",
-      "_CMSKEY": "o_MYEVENTS"
+      "CHINESE": "我的赛事"
     },
     {
-      "CHINESE": "投注记录",
+      "_CMSKEY": "o_MYBETS",
       "ENGLISH": "My Bets",
-      "_CMSKEY": "o_MYBETS"
+      "CHINESE": "投注记录"
     },
     {
-      "CHINESE": "和",
+      "_CMSKEY": "o_DRAW",
       "ENGLISH": "Draw",
-      "_CMSKEY": "o_DRAW"
+      "CHINESE": "和"
     },
     {
-      "CHINESE": "是",
+      "_CMSKEY": "o_YES",
       "ENGLISH": "Yes",
-      "_CMSKEY": "o_YES"
+      "CHINESE": "是"
     },
     {
-      "CHINESE": "否",
+      "_CMSKEY": "o_NO",
       "ENGLISH": "No",
-      "_CMSKEY": "o_NO"
+      "CHINESE": "否"
     },
     {
-      "CHINESE": "地区",
+      "_CMSKEY": "o_REGION",
       "ENGLISH": "Region",
-      "_CMSKEY": "o_REGION"
+      "CHINESE": "地区"
     },
     {
-      "CHINESE": "十月",
+      "_CMSKEY": "o_OCT",
       "ENGLISH": "OCT",
-      "_CMSKEY": "o_OCT"
+      "CHINESE": "十月"
     },
     {
-      "CHINESE": "六月",
+      "_CMSKEY": "o_JUNE",
       "ENGLISH": "JUN",
-      "_CMSKEY": "o_JUNE"
+      "CHINESE": "六月"
     },
     {
-      "CHINESE": "注单收据",
+      "_CMSKEY": "o_BETRECEIPT",
       "ENGLISH": "Bet Receipt",
-      "_CMSKEY": "o_BETRECEIPT"
+      "CHINESE": "注单收据"
     },
     {
-      "CHINESE": "全删除",
+      "_CMSKEY": "o_REMOVEALL",
       "ENGLISH": "REMOVE ALL",
-      "_CMSKEY": "o_REMOVEALL"
+      "CHINESE": "全删除"
     },
     {
-      "CHINESE": "目前没有任何选择。",
+      "_CMSKEY": "o_YOURBETSLIPISEMPTY",
       "ENGLISH": "Your bet slip is currently empty.",
-      "_CMSKEY": "o_YOURBETSLIPISEMPTY"
+      "CHINESE": "目前没有任何选择。"
     },
     {
-      "CHINESE": "再多加几个选择就可以玩综合过关了。",
+      "_CMSKEY": "o_ADDMORESELECTIONSTOPLACEAPARLAY",
       "ENGLISH": "Add more selections to place a parlay.",
-      "_CMSKEY": "o_ADDMORESELECTIONSTOPLACEAPARLAY"
+      "CHINESE": "再多加几个选择就可以玩综合过关了。"
     },
     {
-      "CHINESE": "是否接受更好的赔率",
+      "_CMSKEY": "o_ACCEPTBETTERODDS",
       "ENGLISH": "Accept better odds",
-      "_CMSKEY": "o_ACCEPTBETTERODDS"
+      "CHINESE": "是否接受更好的赔率"
     },
     {
-      "CHINESE": "赔率偏好设定",
+      "_CMSKEY": "o_ODDSCHANGEPREFERENCE",
       "ENGLISH": "ODDS CHANGE PREFERENCE",
-      "_CMSKEY": "o_ODDSCHANGEPREFERENCE"
+      "CHINESE": "赔率偏好设定"
     },
     {
-      "CHINESE": "赔率",
+      "_CMSKEY": "o_ODDS",
       "ENGLISH": "Odds",
-      "_CMSKEY": "o_ODDS"
+      "CHINESE": "赔率"
     },
     {
-      "CHINESE": "输入下注金额",
+      "_CMSKEY": "o_ENTERSTAKE",
       "ENGLISH": "Enter Stake",
-      "_CMSKEY": "o_ENTERSTAKE"
+      "CHINESE": "输入下注金额"
     },
     {
-      "CHINESE": "下注总额",
+      "_CMSKEY": "o_TOTALBETS",
       "ENGLISH": "Total Bets",
-      "_CMSKEY": "o_TOTALBETS"
+      "CHINESE": "下注总额"
     },
     {
-      "CHINESE": "预估可赢",
+      "_CMSKEY": "o_ESTWIN",
       "ENGLISH": "Est. Winnings",
-      "_CMSKEY": "o_ESTWIN"
+      "CHINESE": "预估可赢"
     },
     {
-      "CHINESE": "可赢金额:",
+      "_CMSKEY": "o_ESTWINNINGS",
       "ENGLISH": "Est. Winnings",
-      "_CMSKEY": "o_ESTWINNINGS"
+      "CHINESE": "可赢金额:"
     },
     {
-      "CHINESE": "为了完整呈现您的注单收据，请将您的装置转为垂直方向。",
+      "_CMSKEY": "o_PLEASEROTATEYOURDEVICETOSEEYOURBETRECEIPT",
       "ENGLISH": "Please rotate your device to see your Bet Receipt.",
-      "_CMSKEY": "o_PLEASEROTATEYOURDEVICETOSEEYOURBETRECEIPT"
+      "CHINESE": "为了完整呈现您的注单收据，请将您的装置转为垂直方向。"
     },
     {
-      "CHINESE": "为了完整呈现注单，请将您的装置转为垂直方向以方便投注。",
+      "_CMSKEY": "o_PLEASEROTATEYOURDEVICETOPLACEABET",
       "ENGLISH": "Please rotate your device to place a bet",
-      "_CMSKEY": "o_PLEASEROTATEYOURDEVICETOPLACEABET"
+      "CHINESE": "为了完整呈现注单，请将您的装置转为垂直方向以方便投注。"
     },
     {
-      "CHINESE": "移除所有选项",
+      "_CMSKEY": "o_REMOVEALLSELECTIONS",
       "ENGLISH": "Remove All Selections",
-      "_CMSKEY": "o_REMOVEALLSELECTIONS"
+      "CHINESE": "移除所有选项"
     },
     {
-      "CHINESE": "完成",
+      "_CMSKEY": "o_DONE",
       "ENGLISH": "DONE",
-      "_CMSKEY": "o_DONE"
+      "CHINESE": "完成"
     },
     {
-      "CHINESE": "加时",
+      "_CMSKEY": "o_OT",
       "ENGLISH": "OT",
-      "_CMSKEY": "o_OT"
+      "CHINESE": "加时"
     },
     {
-      "CHINESE": "可赢额",
+      "_CMSKEY": "o_TOWIN",
       "ENGLISH": "To Win",
-      "_CMSKEY": "o_TOWIN"
+      "CHINESE": "可赢额"
     },
     {
-      "CHINESE": "最大投注金额",
+      "_CMSKEY": "o_MAXBET",
       "ENGLISH": "MAX BET",
-      "_CMSKEY": "o_MAXBET"
+      "CHINESE": "最大投注金额"
     },
     {
-      "CHINESE": "最多可添加10个选项在此注单。",
+      "_CMSKEY": "o_MAXSELECTIONS",
       "ENGLISH": "Max of 10 selections can be added to the Bet Slip.",
-      "_CMSKEY": "o_MAXSELECTIONS"
+      "CHINESE": "最多可添加10个选项在此注单。"
     },
     {
-      "CHINESE": "投注额",
+      "_CMSKEY": "o_SETSTAKE",
       "ENGLISH": "SET STAKE",
-      "_CMSKEY": "o_SETSTAKE"
+      "CHINESE": "投注额"
     },
     {
-      "CHINESE": "第一局/3",
+      "_CMSKEY": "o_1STSETOF3",
       "ENGLISH": "1st Set / 3",
-      "_CMSKEY": "o_1STSETOF3"
+      "CHINESE": "第一局/3"
     },
     {
-      "CHINESE": "您选择的日期没有赛事。",
+      "_CMSKEY": "o_NOCOMPETITIONS",
       "ENGLISH": "There are no competitions avalaible for your selected data.",
-      "_CMSKEY": "o_NOCOMPETITIONS"
+      "CHINESE": "您选择的日期没有赛事。"
     },
     {
-      "CHINESE": "最多只能选择八场赛事。",
+      "_CMSKEY": "o_MAX8COMPETITIONS",
       "ENGLISH": "Max of 8 competitions can be selected.",
-      "_CMSKEY": "o_MAX8COMPETITIONS"
+      "CHINESE": "最多只能选择八场赛事。"
     },
     {
-      "CHINESE": "已达到最高投注金额，妳得最高投注金额为10USD。",
+      "_CMSKEY": "o_MAXBETLIMITEXCEED",
       "ENGLISH": "Max Bet Limit exceeded. Your Max Bet is 10 USD.",
-      "_CMSKEY": "o_MAXBETLIMITEXCEED"
+      "CHINESE": "已达到最高投注金额，妳得最高投注金额为10USD。"
     },
     {
-      "CHINESE": "待确认",
+      "_CMSKEY": "o_PENDING",
       "ENGLISH": "Pending",
-      "_CMSKEY": "o_PENDING"
+      "CHINESE": "待确认"
     },
     {
-      "CHINESE": "已确认",
+      "_CMSKEY": "o_CONFIRMED",
       "ENGLISH": "Confirmed",
-      "_CMSKEY": "o_CONFIRMED"
+      "CHINESE": "已确认"
     },
     {
-      "CHINESE": "已确认",
+      "_CMSKEY": "o_CONFIRMED_STATEMENT",
       "ENGLISH": "Confirmed",
-      "_CMSKEY": "o_CONFIRMED_STATEMENT"
+      "CHINESE": "已确认"
     },
     {
-      "CHINESE": "已确认",
+      "_CMSKEY": "o_CONFIRMED_BETRECEIPT",
       "ENGLISH": "Confirmed",
-      "_CMSKEY": "o_CONFIRMED_BETRECEIPT"
+      "CHINESE": "已确认"
     },
     {
-      "CHINESE": "2串1",
+      "_CMSKEY": "o_DOUBLE",
       "ENGLISH": "Double",
-      "_CMSKEY": "o_DOUBLE"
+      "CHINESE": "2串1"
     },
     {
-      "CHINESE": "单注",
+      "_CMSKEY": "o_SINGLE",
       "ENGLISH": "Single",
-      "_CMSKEY": "o_SINGLE"
+      "CHINESE": "单注"
     },
     {
-      "CHINESE": "3串1",
+      "_CMSKEY": "o_TRIXIE",
       "ENGLISH": "Trixie",
-      "_CMSKEY": "o_TRIXIE"
+      "CHINESE": "3串1"
     },
     {
-      "CHINESE": "有些选择已关闭投注。",
+      "_CMSKEY": "o_ERROR_ONEORMORESELECTIONSCLOSED",
       "ENGLISH": "One or more of your selections are closed for betting",
-      "_CMSKEY": "o_ERROR_ONEORMORESELECTIONSCLOSED"
+      "CHINESE": "有些选择已关闭投注。"
     },
     {
-      "CHINESE": "您有至少一个选择已关闭投注。",
+      "_CMSKEY": "o_ERROR_ONEORMORESELECTIONSCLOS",
       "ENGLISH": "One or more of your selections are closed.",
-      "_CMSKEY": "o_ERROR_ONEORMORESELECTIONSCLOS"
+      "CHINESE": "您有至少一个选择已关闭投注。"
     },
     {
-      "CHINESE": "删除已关闭的选择",
+      "_CMSKEY": "o_REMOVECLOSEDSELECTIONS",
       "ENGLISH": "Remove Closed Selections",
-      "_CMSKEY": "o_REMOVECLOSEDSELECTIONS"
+      "CHINESE": "删除已关闭的选择"
     },
     {
-      "CHINESE": "让球数，赔率，比分已改变。",
+      "_CMSKEY": "o_LINEODDSSCORECHANGED",
       "ENGLISH": "The Line, Odds or Score has changed.",
-      "_CMSKEY": "o_LINEODDSSCORECHANGED"
+      "CHINESE": "让球数，赔率，比分已改变。"
     },
     {
-      "CHINESE": "下注失败．",
+      "_CMSKEY": "o_FAILEDTOPLACEBETS",
       "ENGLISH": "Failed to Place Bet(s).",
-      "_CMSKEY": "o_FAILEDTOPLACEBETS"
+      "CHINESE": "下注失败．"
     },
     {
-      "CHINESE": "您的总下注金额已超过您的帐户余额",
+      "_CMSKEY": "o_TOTALSTAKEEXCEEDSBALANCE",
       "ENGLISH": "Your total stake exceeds your available balance.",
-      "_CMSKEY": "o_TOTALSTAKEEXCEEDSBALANCE"
+      "CHINESE": "您的总下注金额已超过您的帐户余额"
     },
     {
-      "CHINESE": "，请重新编辑下注金额．",
+      "_CMSKEY": "o_PLEASEEDITYOURSTAKE",
       "ENGLISH": "Please edit your bet(s).",
-      "_CMSKEY": "o_PLEASEEDITYOURSTAKE"
+      "CHINESE": "，请重新编辑下注金额．"
     },
     {
-      "CHINESE": "最小下注金额为XXX.",
+      "_CMSKEY": "o_MINSTAKEISD",
       "ENGLISH": "The minimum stake is",
-      "_CMSKEY": "o_MINSTAKEISD"
+      "CHINESE": "最小下注金额为XXX."
     },
     {
-      "CHINESE": "最小投注金额为10USD",
+      "_CMSKEY": "o_MINSTAKEIS10USD",
       "ENGLISH": "The minimum stake is 1.00 USD",
-      "_CMSKEY": "o_MINSTAKEIS10USD"
+      "CHINESE": "最小投注金额为10USD"
     },
     {
-      "CHINESE": "我们暂时不接受滚球注单。我们会尽快恢复操作。感谢您的耐心等候。",
+      "_CMSKEY": "o_WEARENOTACCEPTINGINPLAYBETS",
       "ENGLISH": "We are temporarily not accepting In-Play Bets. We will resume trading as soon as possible. Thank you for your patience.",
-      "_CMSKEY": "o_WEARENOTACCEPTINGINPLAYBETS"
+      "CHINESE": "我们暂时不接受滚球注单。我们会尽快恢复操作。感谢您的耐心等候。"
     },
     {
-      "CHINESE": "突出显示的选项不能合并多个投注。",
+      "_CMSKEY": "o_SELECTIONHIGHLIGHTEDCANNOTCOMBINED",
       "ENGLISH": "Selections highlighted cannot be combined for multiple bets.",
-      "_CMSKEY": "o_SELECTIONHIGHLIGHTEDCANNOTCOMBINED"
+      "CHINESE": "突出显示的选项不能合并多个投注。"
     },
     {
-      "CHINESE": "下注",
+      "_CMSKEY": "o_PLACEBET",
       "ENGLISH": "PLACE BET",
-      "_CMSKEY": "o_PLACEBET"
+      "CHINESE": "下注"
     },
     {
-      "CHINESE": "加入投注单",
+      "_CMSKEY": "o_ADDTOBETSLIP",
       "ENGLISH": "Add to Bet Slip",
-      "_CMSKEY": "o_ADDTOBETSLIP"
+      "CHINESE": "加入投注单"
     },
     {
-      "CHINESE": "登录",
+      "_CMSKEY": "o_LOGIN",
       "ENGLISH": "LOG IN",
-      "_CMSKEY": "o_LOGIN"
+      "CHINESE": "登录"
     },
     {
-      "CHINESE": "接受更改",
+      "_CMSKEY": "o_ACCEPTCHANGES",
       "ENGLISH": "Accept Changes",
-      "_CMSKEY": "o_ACCEPTCHANGES"
+      "CHINESE": "接受更改"
     },
     {
-      "CHINESE": "第一局/5",
+      "_CMSKEY": "o_1STGAMEOF5",
       "ENGLISH": "1st Game / 5",
-      "_CMSKEY": "o_1STGAMEOF5"
+      "CHINESE": "第一局/5"
     },
     {
-      "CHINESE": "五盘三胜",
+      "_CMSKEY": "o_BESTOF5",
       "ENGLISH": "Best of 5",
-      "_CMSKEY": "o_BESTOF5"
+      "CHINESE": "五盘三胜"
     },
     {
-      "CHINESE": "保留选项",
+      "_CMSKEY": "o_RETAINSELECTION",
       "ENGLISH": "Retain Selection",
-      "_CMSKEY": "o_RETAINSELECTION"
+      "CHINESE": "保留选项"
     },
     {
-      "CHINESE": "保留选项",
+      "_CMSKEY": "o_RETAINSELECTIONS",
       "ENGLISH": "Retain Selections",
-      "_CMSKEY": "o_RETAINSELECTIONS"
+      "CHINESE": "保留选项"
     },
     {
-      "CHINESE": "下注金额",
+      "_CMSKEY": "o_STAKE",
       "ENGLISH": "Stake",
-      "_CMSKEY": "o_STAKE"
+      "CHINESE": "下注金额"
     },
     {
-      "CHINESE": "投注失败",
+      "_CMSKEY": "o_REJECTED",
       "ENGLISH": "Rejected",
-      "_CMSKEY": "o_REJECTED"
+      "CHINESE": "投注失败"
     },
     {
-      "CHINESE": "投注失败",
+      "_CMSKEY": "o_BETFAILED",
       "ENGLISH": "Bet Failed",
-      "_CMSKEY": "o_BETFAILED"
+      "CHINESE": "投注失败"
     },
     {
-      "CHINESE": "过关投注",
+      "_CMSKEY": "o_MULTIPLEBETS",
       "ENGLISH": "Multiple Bets",
-      "_CMSKEY": "o_MULTIPLEBETS"
+      "CHINESE": "过关投注"
     },
     {
-      "CHINESE": "我们正在处理您的投注单，请稍候。",
+      "_CMSKEY": "o_YOURBETISPENDING",
       "ENGLISH": "YOUR BET IS PENDING. PLEASE WAIT.",
-      "_CMSKEY": "o_YOURBETISPENDING"
+      "CHINESE": "我们正在处理您的投注单，请稍候。"
     },
     {
-      "CHINESE": "您的投注被拒绝",
+      "_CMSKEY": "o_YOURBETHASBEENREJECTED",
       "ENGLISH": "YOUR BET HAS BEEN REJECTED.",
-      "_CMSKEY": "o_YOURBETHASBEENREJECTED"
+      "CHINESE": "您的投注被拒绝"
     },
     {
-      "CHINESE": "您的投注已成功！",
+      "_CMSKEY": "o_YOURBETHASBEENSUCESSFULLY",
       "ENGLISH": "Your bet has been successfully placed!",
-      "_CMSKEY": "o_YOURBETHASBEENSUCESSFULLY"
+      "CHINESE": "您的投注已成功！"
     },
     {
-      "CHINESE": "总得分",
+      "_CMSKEY": "o_TOTALRUNS",
       "ENGLISH": "Total Runs",
-      "_CMSKEY": "o_TOTALRUNS"
+      "CHINESE": "总得分"
     },
     {
-      "CHINESE": "出局",
+      "_CMSKEY": "o_OUT",
       "ENGLISH": "Out",
-      "_CMSKEY": "o_OUT"
+      "CHINESE": "出局"
     },
     {
-      "CHINESE": "因为某些选项中的细节已改变导致一或多张注单投注失败。",
+      "_CMSKEY": "o_1ORMOREBETSFAILEDTOPLACEDUETOCAHNGES",
       "ENGLISH": "1 or more bets failed to place due to a change in selection details.",
-      "_CMSKEY": "o_1ORMOREBETSFAILEDTOPLACEDUETOCAHNGES"
+      "CHINESE": "因为某些选项中的细节已改变导致一或多张注单投注失败。"
     },
     {
-      "CHINESE": "一或多张注单投注失败，已将这些选项加回注单。",
+      "_CMSKEY": "o_1ORMOREBETSFAILEDTOPLACERETAINSELECTIONS",
       "ENGLISH": "1 or More bets has failed to place. Retain Selections to return to bet slip.",
-      "_CMSKEY": "o_1ORMOREBETSFAILEDTOPLACERETAINSELECTIONS"
+      "CHINESE": "一或多张注单投注失败，已将这些选项加回注单。"
     },
     {
-      "CHINESE": "1（或多）笔投注确认中",
+      "_CMSKEY": "o_1ORMOREBETSAREPENDING",
       "ENGLISH": "1 or More bets are pending.",
-      "_CMSKEY": "o_1ORMOREBETSAREPENDING"
+      "CHINESE": "1（或多）笔投注确认中"
     },
     {
-      "CHINESE": "1（或多）笔投注可能无法下注",
+      "_CMSKEY": "o_1ORMOREBETSFAILEDTOPLACERET",
       "ENGLISH": "1 or More bets cannot place bet.",
-      "_CMSKEY": "o_1ORMOREBETSFAILEDTOPLACERET"
+      "CHINESE": "1（或多）笔投注可能无法下注"
     },
     {
-      "CHINESE": "1（或多）笔投注已被拒绝",
+      "_CMSKEY": "",
       "ENGLISH": "1 or More bets are rejected.",
-      "_CMSKEY": " "
+      "CHINESE": "1（或多）笔投注已被拒绝"
     },
     {
-      "CHINESE": "记住本金",
+      "_CMSKEY": "o_REMEMBERSTAKE",
       "ENGLISH": "Remember Stake",
-      "_CMSKEY": "o_REMEMBERSTAKE"
+      "CHINESE": "记住本金"
     },
     {
-      "CHINESE": "已結算注單",
+      "_CMSKEY": "o_SETTLED",
       "ENGLISH": "STATEMENT",
-      "_CMSKEY": "o_SETTLED"
+      "CHINESE": "已結算注單"
     },
     {
-      "CHINESE": "未結算注單",
+      "_CMSKEY": "o_UNSETTLED",
       "ENGLISH": "OPEN BETS",
-      "_CMSKEY": "o_UNSETTLED"
+      "CHINESE": "未結算注單"
     },
     {
-      "CHINESE": "电视直播",
+      "_CMSKEY": "o_TV",
       "ENGLISH": "TV",
-      "_CMSKEY": "o_TV"
+      "CHINESE": "电视直播"
     },
     {
-      "CHINESE": "即时转播",
+      "_CMSKEY": "o_MATCHTRACKER",
       "ENGLISH": "MATCH TRACKER",
-      "_CMSKEY": "o_MATCHTRACKER"
+      "CHINESE": "即时转播"
     },
     {
-      "CHINESE": "篮球",
+      "_CMSKEY": "o_BASKETBALL",
       "ENGLISH": "BASKETBALL",
-      "_CMSKEY": "o_BASKETBALL"
+      "CHINESE": "篮球"
     },
     {
-      "CHINESE": "注单号 / 投注日期",
+      "_CMSKEY": "o_STATEMENTSUMMARY",
       "ENGLISH": "STATEMENT SUMMARY",
-      "_CMSKEY": "o_STATEMENTSUMMARY"
+      "CHINESE": "注单号 / 投注日期"
     },
     {
-      "CHINESE": "所有体育",
+      "_CMSKEY": "o_ALLSPORTS",
       "ENGLISH": "ALL SPORTS",
-      "_CMSKEY": "o_ALLSPORTS"
+      "CHINESE": "所有体育"
     },
     {
-      "CHINESE": "回到顶部",
+      "_CMSKEY": "o_BACKTOTOP",
       "ENGLISH": "BACK TO TOP",
-      "_CMSKEY": "o_BACKTOTOP"
+      "CHINESE": "回到顶部"
     },
     {
-      "CHINESE": "星期二",
+      "_CMSKEY": "o_TUESDAY",
       "ENGLISH": "TUESDAY",
-      "_CMSKEY": "o_TUESDAY"
+      "CHINESE": "星期二"
     },
     {
-      "CHINESE": "日期",
+      "_CMSKEY": "o_DATE",
       "ENGLISH": "Date",
-      "_CMSKEY": "o_DATE"
+      "CHINESE": "日期"
     },
     {
-      "CHINESE": "投注金额",
+      "_CMSKEY": "o_STAKEAMOUNT",
       "ENGLISH": "Stake Amount",
-      "_CMSKEY": "o_STAKEAMOUNT"
+      "CHINESE": "投注金额"
     },
     {
-      "CHINESE": "有效金额",
+      "_CMSKEY": "o_EFFECTIVESTAKE",
       "ENGLISH": "Effective Stake",
-      "_CMSKEY": "o_EFFECTIVESTAKE"
+      "CHINESE": "有效金额"
     },
     {
-      "CHINESE": "赢/输",
+      "_CMSKEY": "o_WINLOSS",
       "ENGLISH": "Win/ Loss",
-      "_CMSKEY": "o_WINLOSS"
+      "CHINESE": "赢/输"
     },
     {
-      "CHINESE": "投注类型",
+      "_CMSKEY": "o_BETTYPE",
       "ENGLISH": "Bet Type",
-      "_CMSKEY": "o_BETTYPE"
+      "CHINESE": "投注类型"
     },
     {
-      "CHINESE": "总共：",
+      "_CMSKEY": "o_TOTAL",
       "ENGLISH": "Total:",
-      "_CMSKEY": "o_TOTAL"
+      "CHINESE": "总共："
     },
     {
-      "CHINESE": "香港",
+      "_CMSKEY": "o_HONGKONG",
       "ENGLISH": "HongKong",
-      "_CMSKEY": "o_HONGKONG"
+      "CHINESE": "香港"
     },
     {
-      "CHINESE": "香港盘",
+      "_CMSKEY": "o_HONGKONGODDS",
       "ENGLISH": "HongKong",
-      "_CMSKEY": "o_HONGKONGODDS"
+      "CHINESE": "香港盘"
     },
     {
-      "CHINESE": "投注金额",
+      "_CMSKEY": "o_BETAMOUNT",
       "ENGLISH": "Bet Amount",
-      "_CMSKEY": "o_BETAMOUNT"
+      "CHINESE": "投注金额"
     },
     {
-      "CHINESE": "冠军",
+      "_CMSKEY": "o_WIN",
       "ENGLISH": "Win",
-      "_CMSKEY": "o_WIN"
+      "CHINESE": "冠军"
     },
     {
-      "CHINESE": "输",
+      "_CMSKEY": "o_LOSE",
       "ENGLISH": "Lose",
-      "_CMSKEY": "o_LOSE"
+      "CHINESE": "输"
     },
     {
-      "CHINESE": "滾球",
+      "_CMSKEY": "o_LIVE",
       "ENGLISH": "Live",
-      "_CMSKEY": "o_LIVE"
+      "CHINESE": "滾球"
     },
     {
-      "CHINESE": "三盘二胜",
+      "_CMSKEY": "o_BESTOF25",
       "ENGLISH": "Best of 3",
-      "_CMSKEY": "o_BESTOF25"
+      "CHINESE": "三盘二胜"
     },
     {
-      "CHINESE": "第一盘/5",
+      "_CMSKEY": "o_1STSETOF5",
       "ENGLISH": "1st Set/5",
-      "_CMSKEY": "o_1STSETOF5"
+      "CHINESE": "第一盘/5"
     },
     {
-      "CHINESE": "单注最高",
+      "_CMSKEY": "o_SINGLEBET",
       "ENGLISH": "Single Bet",
-      "_CMSKEY": "o_SINGLEBET"
+      "CHINESE": "单注最高"
     },
     {
-      "CHINESE": "单场最高",
+      "_CMSKEY": "o_SINGLEMATCH",
       "ENGLISH": "Single Match",
-      "_CMSKEY": "o_SINGLEMATCH"
+      "CHINESE": "单场最高"
     },
     {
-      "CHINESE": "乒乓球",
+      "_CMSKEY": "o_TABLETENNIS",
       "ENGLISH": "Table Tennis",
-      "_CMSKEY": "o_TABLETENNIS"
+      "CHINESE": "乒乓球"
     },
     {
-      "CHINESE": "注单号 / 投注日期",
+      "_CMSKEY": "o_BETDETAILS",
       "ENGLISH": "Bet Details",
-      "_CMSKEY": "o_BETDETAILS"
+      "CHINESE": "注单号 / 投注日期"
     },
     {
-      "CHINESE": "星期四",
+      "_CMSKEY": "o_THURSDAY",
       "ENGLISH": "Thursday",
-      "_CMSKEY": "o_THURSDAY"
+      "CHINESE": "星期四"
     },
     {
-      "CHINESE": "详细设定",
+      "_CMSKEY": "o_ACCOUNTSETTINGS",
       "ENGLISH": "ACCOUNT SETTING",
-      "_CMSKEY": "o_ACCOUNTSETTINGS"
+      "CHINESE": "详细设定"
     },
     {
-      "CHINESE": "其他",
+      "_CMSKEY": "o_OTHERSPORTS",
       "ENGLISH": "Other Sports",
-      "_CMSKEY": "o_OTHERSPORTS"
+      "CHINESE": "其他"
     },
     {
-      "CHINESE": "注单详细资料",
+      "_CMSKEY": "o_BETDETAILSHEADER",
       "ENGLISH": "Bet Details",
-      "_CMSKEY": "o_BETDETAILSHEADER"
+      "CHINESE": "注单详细资料"
     },
     {
-      "CHINESE": "滚球中赛事",
+      "_CMSKEY": "o_INPLAYEVENTS",
       "ENGLISH": "INPLAY EVENTS",
-      "_CMSKEY": "o_INPLAYEVENTS"
+      "CHINESE": "滚球中赛事"
     },
     {
-      "CHINESE": "今日赛事",
+      "_CMSKEY": "o_TODAYEVENTS",
       "ENGLISH": "TODAY EVENTS",
-      "_CMSKEY": "o_TODAYEVENTS"
+      "CHINESE": "今日赛事"
     },
     {
-      "CHINESE": "早盘赛事",
+      "_CMSKEY": "o_EARLYEVENTS",
       "ENGLISH": "EARLY EVENTS",
-      "_CMSKEY": "o_EARLYEVENTS"
+      "CHINESE": "早盘赛事"
     },
     {
-      "CHINESE": "目前没有任何赛事",
+      "_CMSKEY": "o_THEREARENOEVENTS",
       "ENGLISH": "There are no events available",
-      "_CMSKEY": "o_THEREARENOEVENTS"
+      "CHINESE": "目前没有任何赛事"
     },
     {
-      "CHINESE": "您选择的日期没有任何赛事",
+      "_CMSKEY": "o_THEREARENOEVENTSSCHDULE",
       "ENGLISH": "There are no events available for your selected date",
-      "_CMSKEY": "o_THEREARENOEVENTSSCHDULE"
+      "CHINESE": "您选择的日期没有任何赛事"
     },
     {
-      "CHINESE": "目前沒有任何賽事",
+      "_CMSKEY": "o_THEREARENOMARKETS",
       "ENGLISH": "Markets are temporarily unavailable.",
-      "_CMSKEY": "o_THEREARENOMARKETS"
+      "CHINESE": "目前沒有任何賽事"
     },
     {
-      "CHINESE": "登录账号",
+      "_CMSKEY": "o_LOGINID",
       "ENGLISH": "Login ID",
-      "_CMSKEY": "o_LOGINID"
+      "CHINESE": "登录账号"
     },
     {
-      "CHINESE": "密码",
+      "_CMSKEY": "o_PASSWORD",
       "ENGLISH": "Password",
-      "_CMSKEY": "o_PASSWORD"
+      "CHINESE": "密码"
     },
     {
-      "CHINESE": "忘记密码",
+      "_CMSKEY": "o_FORGOTPASSWORD",
       "ENGLISH": "Forgot Passoword",
-      "_CMSKEY": "o_FORGOTPASSWORD"
+      "CHINESE": "忘记密码"
     },
     {
-      "CHINESE": "帐户历史",
+      "_CMSKEY": "o_STATEMENT",
       "ENGLISH": "Statement",
-      "_CMSKEY": "o_STATEMENT"
+      "CHINESE": "帐户历史"
     },
     {
-      "CHINESE": "讯息",
+      "_CMSKEY": "o_MESSAGES",
       "ENGLISH": "Messages",
-      "_CMSKEY": "o_MESSAGES"
+      "CHINESE": "讯息"
     },
     {
-      "CHINESE": "设定",
+      "_CMSKEY": "o_SETTINGS",
       "ENGLISH": "Settings",
-      "_CMSKEY": "o_SETTINGS"
+      "CHINESE": "设定"
     },
     {
-      "CHINESE": "语言",
+      "_CMSKEY": "o_LANGUAGE",
       "ENGLISH": "Language",
-      "_CMSKEY": "o_LANGUAGE"
+      "CHINESE": "语言"
     },
     {
-      "CHINESE": "盘口类型",
+      "_CMSKEY": "o_ODDSTYPE",
       "ENGLISH": "Odds Type",
-      "_CMSKEY": "o_ODDSTYPE"
+      "CHINESE": "盘口类型"
     },
     {
-      "CHINESE": "修改密码",
+      "_CMSKEY": "o_CHANGEPASSWORD",
       "ENGLISH": "Change Password",
-      "_CMSKEY": "o_CHANGEPASSWORD"
+      "CHINESE": "修改密码"
     },
     {
-      "CHINESE": "简易密码登入",
+      "_CMSKEY": "o_PASSCODELOGIN",
       "ENGLISH": "Pass code login",
-      "_CMSKEY": "o_PASSCODELOGIN"
+      "CHINESE": "简易密码登入"
     },
     {
-      "CHINESE": "密码恢复",
+      "_CMSKEY": "o_PASSWORDRECOVERY",
       "ENGLISH": "Password Recovery",
-      "_CMSKEY": "o_PASSWORDRECOVERY"
+      "CHINESE": "密码恢复"
     },
     {
-      "CHINESE": "点球战",
+      "_CMSKEY": "o_PENMARKET",
       "ENGLISH": "Penalty Markets",
-      "_CMSKEY": "o_PENMARKET"
+      "CHINESE": "点球战"
     },
     {
-      "CHINESE": "支援",
+      "_CMSKEY": "o_SUPPORT",
       "ENGLISH": "Support",
-      "_CMSKEY": "o_SUPPORT"
+      "CHINESE": "支援"
     },
     {
-      "CHINESE": "新功能",
+      "_CMSKEY": "o_FEATURES",
       "ENGLISH": "Features",
-      "_CMSKEY": "o_FEATURES"
+      "CHINESE": "新功能"
     },
     {
-      "CHINESE": "新功能列表",
+      "_CMSKEY": "o_FEATURESOVERVIEW",
       "ENGLISH": "Features Overview",
-      "_CMSKEY": "o_FEATURESOVERVIEW"
+      "CHINESE": "新功能列表"
     },
     {
-      "CHINESE": "一般",
+      "_CMSKEY": "o_GENERAL",
       "ENGLISH": "General",
-      "_CMSKEY": "o_GENERAL"
+      "CHINESE": "一般"
     },
     {
-      "CHINESE": "重要",
+      "_CMSKEY": "o_IMPORTANT",
       "ENGLISH": "Important",
-      "_CMSKEY": "o_IMPORTANT"
+      "CHINESE": "重要"
     },
     {
-      "CHINESE": "个人",
+      "_CMSKEY": "o_PERSONAL",
       "ENGLISH": "Personal",
-      "_CMSKEY": "o_PERSONAL"
+      "CHINESE": "个人"
     },
     {
-      "CHINESE": "一般体育说明",
+      "_CMSKEY": "o_SPORTSRULEOVERVIEW",
       "ENGLISH": "General Overview",
-      "_CMSKEY": "o_SPORTSRULEOVERVIEW"
+      "CHINESE": "一般体育说明"
     },
     {
-      "CHINESE": "选择体育项目",
+      "_CMSKEY": "o_SELECTSPORTSRULES",
       "ENGLISH": "SELECT SPORTS RULES",
-      "_CMSKEY": "o_SELECTSPORTSRULES"
+      "CHINESE": "选择体育项目"
     },
     {
-      "CHINESE": "赔率转换",
+      "_CMSKEY": "o_ODDSCONVERSION",
       "ENGLISH": "Odds Conversion",
-      "_CMSKEY": "o_ODDSCONVERSION"
+      "CHINESE": "赔率转换"
     },
     {
-      "CHINESE": "概述",
+      "_CMSKEY": "o_OVERVIEW",
       "ENGLISH": "Overview",
-      "_CMSKEY": "o_OVERVIEW"
+      "CHINESE": "概述"
     },
     {
-      "CHINESE": "赔率转换表格",
+      "_CMSKEY": "o_ODDSCONVERSIONTABLE",
       "ENGLISH": "Odds Conversion Table",
-      "_CMSKEY": "o_ODDSCONVERSIONTABLE"
+      "CHINESE": "赔率转换表格"
     },
     {
-      "CHINESE": "体育玩法规则",
+      "_CMSKEY": "o_SPORTSRULES",
       "ENGLISH": "Sports Rules",
-      "_CMSKEY": "o_SPORTSRULES"
+      "CHINESE": "体育玩法规则"
     },
     {
-      "CHINESE": "规则与条款",
+      "_CMSKEY": "o_TERMSANDCONDITIONS",
       "ENGLISH": "Terms and Conditions",
-      "_CMSKEY": "o_TERMSANDCONDITIONS"
+      "CHINESE": "规则与条款"
     },
     {
-      "CHINESE": "故障疑难排解",
+      "_CMSKEY": "o_TROUBLESHOOTING",
       "ENGLISH": "Trouble Shooting",
-      "_CMSKEY": "o_TROUBLESHOOTING"
+      "CHINESE": "故障疑难排解"
     },
     {
-      "CHINESE": "联系我们",
+      "_CMSKEY": "o_CONTACT_US",
       "ENGLISH": "Contact Us",
-      "_CMSKEY": "o_CONTACT_US"
+      "CHINESE": "联系我们"
     },
     {
-      "CHINESE": "联系我们",
+      "_CMSKEY": "o_CONTACTUS",
       "ENGLISH": "Contact us",
-      "_CMSKEY": "o_CONTACTUS"
+      "CHINESE": "联系我们"
     },
     {
-      "CHINESE": "全部",
+      "_CMSKEY": "o_ALL",
       "ENGLISH": "All",
-      "_CMSKEY": "o_ALL"
+      "CHINESE": "全部"
     },
     {
-      "CHINESE": "昨日",
+      "_CMSKEY": "o_YESTERDAY",
       "ENGLISH": "Yesterday",
-      "_CMSKEY": "o_YESTERDAY"
+      "CHINESE": "昨日"
     },
     {
-      "CHINESE": "马来盘",
+      "_CMSKEY": "o_MALAYODDS",
       "ENGLISH": "Malay Odds",
-      "_CMSKEY": "o_MALAYODDS"
+      "CHINESE": "马来盘"
     },
     {
-      "CHINESE": "印尼盘",
+      "_CMSKEY": "o_INDOODDS",
       "ENGLISH": "Indo Odds",
-      "_CMSKEY": "o_INDOODDS"
+      "CHINESE": "印尼盘"
     },
     {
-      "CHINESE": "欧洲盘",
+      "_CMSKEY": "o_EURODECIMALODDS",
       "ENGLISH": "Euro Odds",
-      "_CMSKEY": "o_EURODECIMALODDS"
+      "CHINESE": "欧洲盘"
     },
     {
-      "CHINESE": "期间",
+      "_CMSKEY": "o_PERIOD",
       "ENGLISH": "Period",
-      "_CMSKEY": "o_PERIOD"
+      "CHINESE": "期间"
     },
     {
-      "CHINESE": "记住我",
+      "_CMSKEY": "o_REMEMBERME",
       "ENGLISH": "Remember me",
-      "_CMSKEY": "o_REMEMBERME"
+      "CHINESE": "记住我"
     },
     {
-      "CHINESE": "用简易密码登入",
+      "_CMSKEY": "o_LOGINUSINGPASSCODE",
       "ENGLISH": "Login Using Passcode",
-      "_CMSKEY": "o_LOGINUSINGPASSCODE"
+      "CHINESE": "用简易密码登入"
     },
     {
-      "CHINESE": "输入您的简易密码",
+      "_CMSKEY": "o_ENTERYOURPASSCODE",
       "ENGLISH": "Enter Your Passcode",
-      "_CMSKEY": "o_ENTERYOURPASSCODE"
+      "CHINESE": "输入您的简易密码"
     },
     {
-      "CHINESE": "简易密码错误，请再试一次",
+      "_CMSKEY": "o_INCORRECTPASSCODE",
       "ENGLISH": "incorrect passcode, please try again",
-      "_CMSKEY": "o_INCORRECTPASSCODE"
+      "CHINESE": "简易密码错误，请再试一次"
     },
     {
-      "CHINESE": "您好 使用者",
+      "_CMSKEY": "o_HIALL",
       "ENGLISH": "Hi All",
-      "_CMSKEY": "o_HIALL"
+      "CHINESE": "您好 使用者"
     },
     {
-      "CHINESE": "普通登入",
+      "_CMSKEY": "o_NORMALLOGIN",
       "ENGLISH": "Normal Login",
-      "_CMSKEY": "o_NORMALLOGIN"
+      "CHINESE": "普通登入"
     },
     {
-      "CHINESE": "删除",
+      "_CMSKEY": "o_DELETE",
       "ENGLISH": "Delete",
-      "_CMSKEY": "o_DELETE"
+      "CHINESE": "删除"
     },
     {
-      "CHINESE": "确认简易密码",
+      "_CMSKEY": "o_CONFIRMPASSCODE",
       "ENGLISH": "Confirm Passcode",
-      "_CMSKEY": "o_CONFIRMPASSCODE"
+      "CHINESE": "确认简易密码"
     },
     {
-      "CHINESE": "设定您的简易密码以便快速登入。",
+      "_CMSKEY": "o_SETUP4DIGITPASSCODE",
       "ENGLISH": "Set up your Passcode Login for quicker log in.",
-      "_CMSKEY": "o_SETUP4DIGITPASSCODE"
+      "CHINESE": "设定您的简易密码以便快速登入。"
     },
     {
-      "CHINESE": "最后更新",
+      "_CMSKEY": "o_LASTUPDATE",
       "ENGLISH": "Last Update",
-      "_CMSKEY": "o_LASTUPDATE"
+      "CHINESE": "最后更新"
     },
     {
-      "CHINESE": "重新输入您的简易密码或是",
+      "_CMSKEY": "o_REENTER4DIGITPASSCODE",
       "ENGLISH": "Re enter your 4-digit passcode or",
-      "_CMSKEY": "o_REENTER4DIGITPASSCODE"
+      "CHINESE": "重新输入您的简易密码或是"
     },
     {
-      "CHINESE": "重新设定简易密码",
+      "_CMSKEY": "o_RESETPASSCODE",
       "ENGLISH": "Reset Passcode",
-      "_CMSKEY": "o_RESETPASSCODE"
+      "CHINESE": "重新设定简易密码"
     },
     {
-      "CHINESE": "恭喜",
+      "_CMSKEY": "o_CONGRATULATIONS",
       "ENGLISH": "Congratulations",
-      "_CMSKEY": "o_CONGRATULATIONS"
+      "CHINESE": "恭喜"
     },
     {
-      "CHINESE": "你已经成功设定了简易密码。",
+      "_CMSKEY": "o_SUCCESS4DIGIT",
       "ENGLISH": "You have successfully set up your 4-digit passcode.",
-      "_CMSKEY": "o_SUCCESS4DIGIT"
+      "CHINESE": "你已经成功设定了简易密码。"
     },
     {
-      "CHINESE": "关闭",
+      "_CMSKEY": "o_CLOSE",
       "ENGLISH": "Close",
-      "_CMSKEY": "o_CLOSE"
+      "CHINESE": "关闭"
     },
     {
-      "CHINESE": "移除简易密码",
+      "_CMSKEY": "o_REMOVEPASSCODE",
       "ENGLISH": "Remove Passcode",
-      "_CMSKEY": "o_REMOVEPASSCODE"
+      "CHINESE": "移除简易密码"
     },
     {
-      "CHINESE": "确认登入",
+      "_CMSKEY": "o_CONFIRMLOGIN",
       "ENGLISH": "Confirm Login",
-      "_CMSKEY": "o_CONFIRMLOGIN"
+      "CHINESE": "确认登入"
     },
     {
-      "CHINESE": "移除简易密码登入。",
+      "_CMSKEY": "o_REMOVE4DIGITPASSCODELOGIN",
       "ENGLISH": "Remove 4-digit passcode login.",
-      "_CMSKEY": "o_REMOVE4DIGITPASSCODELOGIN"
+      "CHINESE": "移除简易密码登入。"
     },
     {
-      "CHINESE": "移除",
+      "_CMSKEY": "o_REMOVE",
       "ENGLISH": "Remove",
-      "_CMSKEY": "o_REMOVE"
+      "CHINESE": "移除"
     },
     {
-      "CHINESE": "更改",
+      "_CMSKEY": "o_CHANGE",
       "ENGLISH": "Change",
-      "_CMSKEY": "o_CHANGE"
+      "CHINESE": "更改"
     },
     {
-      "CHINESE": "返回原网站",
+      "_CMSKEY": "o_RETURNTOCURRENTSITE",
       "ENGLISH": "Return to Current Site",
-      "_CMSKEY": "o_RETURNTOCURRENTSITE"
+      "CHINESE": "返回原网站"
     },
     {
-      "CHINESE": "建立帐号",
+      "_CMSKEY": "o_CREATELOGINID",
       "ENGLISH": "Create Login ID",
-      "_CMSKEY": "o_CREATELOGINID"
+      "CHINESE": "建立帐号"
     },
     {
-      "CHINESE": "取消",
+      "_CMSKEY": "o_CANCEL",
       "ENGLISH": "Cancel",
-      "_CMSKEY": "o_CANCEL"
+      "CHINESE": "取消"
     },
     {
-      "CHINESE": "请输入您的登录帐号",
+      "_CMSKEY": "o_PLEASEENTERYOURLOGINID",
       "ENGLISH": "Please enter your Login ID.",
-      "_CMSKEY": "o_PLEASEENTERYOURLOGINID"
+      "CHINESE": "请输入您的登录帐号"
     },
     {
-      "CHINESE": "请输入您的密码",
+      "_CMSKEY": "o_PLEASEENTERYOURPASSWORD",
       "ENGLISH": "Please enter your password.",
-      "_CMSKEY": "o_PLEASEENTERYOURPASSWORD"
+      "CHINESE": "请输入您的密码"
     },
     {
-      "CHINESE": "错误的帐号或密码，请重新尝试。",
+      "_CMSKEY": "o_INVALIDLOGINIDORPASSWORDPLEASETRYAGAIN",
       "ENGLISH": "Invalid Login ID or password. Please try again.",
-      "_CMSKEY": "o_INVALIDLOGINIDORPASSWORDPLEASETRYAGAIN"
+      "CHINESE": "错误的帐号或密码，请重新尝试。"
     },
     {
-      "CHINESE": "错误的简易密码，请重新尝试。",
+      "_CMSKEY": "o_INCORRECTPASSCODEPLEASETRYAGAIN",
       "ENGLISH": "Incorrect passcode. Please try again.",
-      "_CMSKEY": "o_INCORRECTPASSCODEPLEASETRYAGAIN"
+      "CHINESE": "错误的简易密码，请重新尝试。"
     },
     {
-      "CHINESE": "您輸入的帳號或密碼不正確。 請重新登入。",
+      "_CMSKEY": "o_INCORRECTUSERNAME",
       "ENGLISH": "Invalid username or password. Please try again.",
-      "_CMSKEY": "o_INCORRECTUSERNAME"
+      "CHINESE": "您輸入的帳號或密碼不正確。 請重新登入。"
     },
     {
-      "CHINESE": "你已经尝试两次错误的简易密码。请用您的帐号密码登入。",
+      "_CMSKEY": "o_YOUHAVEINPUTANINCORRECTPASSCODETWOTIMES",
       "ENGLISH": "You have input an incorrect passcode two times. Please log in using your account password.",
-      "_CMSKEY": "o_YOUHAVEINPUTANINCORRECTPASSCODETWOTIMES"
+      "CHINESE": "你已经尝试两次错误的简易密码。请用您的帐号密码登入。"
     },
     {
-      "CHINESE": "你的帐号已成功建立",
+      "_CMSKEY": "o_YOURLOGINIDHASBEENCREATEDSUCESSFULLY",
       "ENGLISH": "Your Login ID has been created successfully!",
-      "_CMSKEY": "o_YOURLOGINIDHASBEENCREATEDSUCESSFULLY"
+      "CHINESE": "你的帐号已成功建立"
     },
     {
-      "CHINESE": "你輸入的帳號不存在.",
+      "_CMSKEY": "o_THELOGINIDISNOTAVAILABLE",
       "ENGLISH": "This Login ID is not available.",
-      "_CMSKEY": "o_THELOGINIDISNOTAVAILABLE"
+      "CHINESE": "你輸入的帳號不存在."
     },
     {
-      "CHINESE": "这个帐号可以用。",
+      "_CMSKEY": "o_THELOGINIDISAVAILABLE",
       "ENGLISH": "This login ID is available.",
-      "_CMSKEY": "o_THELOGINIDISAVAILABLE"
+      "CHINESE": "这个帐号可以用。"
     },
     {
-      "CHINESE": "不要再显示。",
+      "_CMSKEY": "o_DONTSHOWMEAGAIN",
       "ENGLISH": "Don’t show me again.",
-      "_CMSKEY": "o_DONTSHOWMEAGAIN"
+      "CHINESE": "不要再显示。"
     },
     {
-      "CHINESE": "你要设定一个简易密码以便快速登入吗？",
+      "_CMSKEY": "o_DOYOUWANTTOSETUPAPASSCODEFORQUICKERLOGIN",
       "ENGLISH": "Do you want to set up a passcode for quicker log in?",
-      "_CMSKEY": "o_DOYOUWANTTOSETUPAPASSCODEFORQUICKERLOGIN"
+      "CHINESE": "你要设定一个简易密码以便快速登入吗？"
     },
     {
-      "CHINESE": "重新输入你的简易密码来登入或是",
+      "_CMSKEY": "o_REENGERYOURPASSCODELOGINOR",
       "ENGLISH": "Re-enter your Passcode Login or",
-      "_CMSKEY": "o_REENGERYOURPASSCODELOGINOR"
+      "CHINESE": "重新输入你的简易密码来登入或是"
     },
     {
-      "CHINESE": "你已经成功设置简易密码登入。",
+      "_CMSKEY": "o_YOUHAVESUCCESSFULLYSETUPYOURPASSCODELOGIN",
       "ENGLISH": "You have successfully set up your Passcode Login.",
-      "_CMSKEY": "o_YOUHAVESUCCESSFULLYSETUPYOURPASSCODELOGIN"
+      "CHINESE": "你已经成功设置简易密码登入。"
     },
     {
-      "CHINESE": "将此简易密码设为你下次登入的密码",
+      "_CMSKEY": "o_USETHISPASSCODENEXTTIME",
       "ENGLISH": "Use this passcode next time you log in.",
-      "_CMSKEY": "o_USETHISPASSCODENEXTTIME"
+      "CHINESE": "将此简易密码设为你下次登入的密码"
     },
     {
-      "CHINESE": "请确认此简易密码是您设置的简易密码。",
+      "_CMSKEY": "o_CONFIRMPASSCODEMUSTBETHESAME",
       "ENGLISH": "Confirm Passcode must be the same with Setup Passcode.",
-      "_CMSKEY": "o_CONFIRMPASSCODEMUSTBETHESAME"
+      "CHINESE": "请确认此简易密码是您设置的简易密码。"
     },
     {
-      "CHINESE": "公告",
+      "_CMSKEY": "o_ANNOUNCEMENT",
       "ENGLISH": "Announcement",
-      "_CMSKEY": "o_ANNOUNCEMENT"
+      "CHINESE": "公告"
     },
     {
-      "CHINESE": "确认密码",
+      "_CMSKEY": "o_CONFIRMPASSWORD",
       "ENGLISH": "Confirm Password",
-      "_CMSKEY": "o_CONFIRMPASSWORD"
+      "CHINESE": "确认密码"
     },
     {
-      "CHINESE": "新密码",
+      "_CMSKEY": "o_NEWPASSWORD",
       "ENGLISH": "New Password",
-      "_CMSKEY": "o_NEWPASSWORD"
+      "CHINESE": "新密码"
     },
     {
-      "CHINESE": "当前密码",
+      "_CMSKEY": "o_CURRENTPASSWORD",
       "ENGLISH": "Current Password",
-      "_CMSKEY": "o_CURRENTPASSWORD"
+      "CHINESE": "当前密码"
     },
     {
-      "CHINESE": "其他玩法",
+      "_CMSKEY": "o_OTHERBETTYPES",
       "ENGLISH": "Other Bet Types",
-      "_CMSKEY": "o_OTHERBETTYPES"
+      "CHINESE": "其他玩法"
     },
     {
-      "CHINESE": "停止修改密码?",
+      "_CMSKEY": "o_CANCELCHANGEPASSWORD",
       "ENGLISH": "Cancel Change Password?",
-      "_CMSKEY": "o_CANCELCHANGEPASSWORD"
+      "CHINESE": "停止修改密码?"
     },
     {
-      "CHINESE": "请输入您的当前密码。",
+      "_CMSKEY": "o_ENTERYOURCURRENTPASSWORD",
       "ENGLISH": "Please enter your current password.",
-      "_CMSKEY": "o_ENTERYOURCURRENTPASSWORD"
+      "CHINESE": "请输入您的当前密码。"
     },
     {
-      "CHINESE": "请确认您密码。",
+      "_CMSKEY": "o_PLEASECONFIRMYOURPASSWORD",
       "ENGLISH": "Please confirm your password.",
-      "_CMSKEY": "o_PLEASECONFIRMYOURPASSWORD"
+      "CHINESE": "请确认您密码。"
     },
     {
-      "CHINESE": "设定您的简易密码以便快速登入。",
+      "_CMSKEY": "o_SETUPYOURPASSCODELOGINFORQUICKERLOGIN",
       "ENGLISH": "Set up your Passcode Login for quicker log in.",
-      "_CMSKEY": "o_SETUPYOURPASSCODELOGINFORQUICKERLOGIN"
+      "CHINESE": "设定您的简易密码以便快速登入。"
     },
     {
-      "CHINESE": "您已成功取消简易登入功能。",
+      "_CMSKEY": "o_YOUHAVESUCESSFULLYREMOVEDPASSCODELOGIN",
       "ENGLISH": "You have successfully removed Passcode Login.",
-      "_CMSKEY": "o_YOUHAVESUCESSFULLYREMOVEDPASSCODELOGIN"
+      "CHINESE": "您已成功取消简易登入功能。"
     },
     {
-      "CHINESE": "输入的当前密码不正确，请重新输入一遍。",
+      "_CMSKEY": "o_PASSWORDENTEREDISINCORRECT",
       "ENGLISH": "The password entered is incorrect. Please try again.",
-      "_CMSKEY": "o_PASSWORDENTEREDISINCORRECT"
+      "CHINESE": "输入的当前密码不正确，请重新输入一遍。"
     },
     {
-      "CHINESE": "两次输入的新密码不符合，请重新输入一遍。",
+      "_CMSKEY": "o_PASSWORDSENTEREDDONTMATCH",
       "ENGLISH": "Your passwords don’t match. Please try again.",
-      "_CMSKEY": "o_PASSWORDSENTEREDDONTMATCH"
+      "CHINESE": "两次输入的新密码不符合，请重新输入一遍。"
     },
     {
-      "CHINESE": "电子信箱地址",
+      "_CMSKEY": "o_EMAILADDRESS",
       "ENGLISH": "Email Address",
-      "_CMSKEY": "o_EMAILADDRESS"
+      "CHINESE": "电子信箱地址"
     },
     {
-      "CHINESE": "登入账号",
+      "_CMSKEY": "o_USERCODELOGINID",
       "ENGLISH": "User code and login in ID",
-      "_CMSKEY": "o_USERCODELOGINID"
+      "CHINESE": "登入账号"
     },
     {
-      "CHINESE": "重新寄送认证码",
+      "_CMSKEY": "o_RESENDCODE",
       "ENGLISH": "Resend Code",
-      "_CMSKEY": "o_RESENDCODE"
+      "CHINESE": "重新寄送认证码"
     },
     {
-      "CHINESE": "下一步",
+      "_CMSKEY": "o_NEXT",
       "ENGLISH": "Next",
-      "_CMSKEY": "o_NEXT"
+      "CHINESE": "下一步"
     },
     {
-      "CHINESE": "认证码",
+      "_CMSKEY": "o_VERIFICATIONCODE",
       "ENGLISH": "Verfication Code",
-      "_CMSKEY": "o_VERIFICATIONCODE"
+      "CHINESE": "认证码"
     },
     {
-      "CHINESE": "去登入",
+      "_CMSKEY": "o_GOTOLOGIN",
       "ENGLISH": "Go to login",
-      "_CMSKEY": "o_GOTOLOGIN"
+      "CHINESE": "去登入"
     },
     {
-      "CHINESE": "重新输入密码",
+      "_CMSKEY": "o_REENTERPASSWORD",
       "ENGLISH": "Re-enter Password",
-      "_CMSKEY": "o_REENTERPASSWORD"
+      "CHINESE": "重新输入密码"
     },
     {
-      "CHINESE": "加入",
+      "_CMSKEY": "o_ADD",
       "ENGLISH": "Add",
-      "_CMSKEY": "o_ADD"
+      "CHINESE": "加入"
     },
     {
-      "CHINESE": "取消注册",
+      "_CMSKEY": "o_CANCELREGISTRATION",
       "ENGLISH": "Cancel Registration",
-      "_CMSKEY": "o_CANCELREGISTRATION"
+      "CHINESE": "取消注册"
     },
     {
-      "CHINESE": "请在此输入您的认证码。",
+      "_CMSKEY": "o_PLEASEENTERTHEVERFICICATIONCODEHERE",
       "ENGLISH": "Please enter the verification code here.",
-      "_CMSKEY": "o_PLEASEENTERTHEVERFICICATIONCODEHERE"
+      "CHINESE": "请在此输入您的认证码。"
     },
     {
-      "CHINESE": "密码已更新，请用新密码重新登入。",
+      "_CMSKEY": "o_PASSWORDHASBEENCHANGED",
       "ENGLISH": "Password has been changed. Please log in using your new password",
-      "_CMSKEY": "o_PASSWORDHASBEENCHANGED"
+      "CHINESE": "密码已更新，请用新密码重新登入。"
     },
     {
-      "CHINESE": "请输入您的新密码。",
+      "_CMSKEY": "o_PLEASEENTERYOURNEWPASSWORD",
       "ENGLISH": "Please enter your new password.",
-      "_CMSKEY": "o_PLEASEENTERYOURNEWPASSWORD"
+      "CHINESE": "请输入您的新密码。"
     },
     {
-      "CHINESE": "请输入有效的电子信箱地址。",
+      "_CMSKEY": "o_PLEASEENTERVALIDEMAILADDRESS",
       "ENGLISH": "Please enter a valid email address.",
-      "_CMSKEY": "o_PLEASEENTERVALIDEMAILADDRESS"
+      "CHINESE": "请输入有效的电子信箱地址。"
     },
     {
-      "CHINESE": "请输入帐号或登录帐号。",
+      "_CMSKEY": "o_PLEASEENTERUSERCODEORLOGINID",
       "ENGLISH": "Please enter User Code or Login ID.",
-      "_CMSKEY": "o_PLEASEENTERUSERCODEORLOGINID"
+      "CHINESE": "请输入帐号或登录帐号。"
     },
     {
-      "CHINESE": "登入帐号或是帐号与电子信箱地址不匹配，请重新尝试。",
+      "_CMSKEY": "o_THEUSERCODEORLOGINIDANDEMAILADDRESSDONTMATCH'",
       "ENGLISH": "The User Code or Login ID and Email Address don’t match. Please try again.",
-      "_CMSKEY": "o_THEUSERCODEORLOGINIDANDEMAILADDRESSDONTMATCH'"
+      "CHINESE": "登入帐号或是帐号与电子信箱地址不匹配，请重新尝试。"
     },
     {
-      "CHINESE": "请提供下列资讯以便我们帮助您重置密码。",
+      "_CMSKEY": "o_PLEASEENTERTHEFOLLOWINGINFOANDWEWILLHELPYOURESET",
       "ENGLISH": "Please enter the following information and we’ll help you reset your password.",
-      "_CMSKEY": "o_PLEASEENTERTHEFOLLOWINGINFOANDWEWILLHELPYOURESET"
+      "CHINESE": "请提供下列资讯以便我们帮助您重置密码。"
     },
     {
-      "CHINESE": "认证码不正确，请重新尝试。",
+      "_CMSKEY": "o_VERICICATIONCODEENTERISINVALID",
       "ENGLISH": "Verification Code entered is invalid. Please try again.",
-      "_CMSKEY": "o_VERICICATIONCODEENTERISINVALID"
+      "CHINESE": "认证码不正确，请重新尝试。"
     },
     {
-      "CHINESE": "认证码已经送到您的电子信箱",
+      "_CMSKEY": "o_VERIFICATIONCODEHASBEENSENT",
       "ENGLISH": "Verification code has been sent to your email.",
-      "_CMSKEY": "o_VERIFICATIONCODEHASBEENSENT"
+      "CHINESE": "认证码已经送到您的电子信箱"
     },
     {
-      "CHINESE": "您已删除回复用电子信箱。",
+      "_CMSKEY": "o_YOUHAVEDELETEDYOURPASSWORDRECOVERYEMAIL",
       "ENGLISH": "You have deleted your Password Recovery Email.",
-      "_CMSKEY": "o_YOUHAVEDELETEDYOURPASSWORDRECOVERYEMAIL"
+      "CHINESE": "您已删除回复用电子信箱。"
     },
     {
-      "CHINESE": "已成功注册。",
+      "_CMSKEY": "o_SUCESSFULLYREGISTERED",
       "ENGLISH": "Successfully registered.",
-      "_CMSKEY": "o_SUCESSFULLYREGISTERED"
+      "CHINESE": "已成功注册。"
     },
     {
-      "CHINESE": "资料分析",
+      "_CMSKEY": "o_STATISTICS",
       "ENGLISH": "STATISTICS",
-      "_CMSKEY": "o_STATISTICS"
+      "CHINESE": "资料分析"
     },
     {
-      "CHINESE": "时间线",
+      "_CMSKEY": "o_TIMELINE",
       "ENGLISH": "TIMELINE",
-      "_CMSKEY": "o_TIMELINE"
+      "CHINESE": "时间线"
     },
     {
-      "CHINESE": "一对一",
+      "_CMSKEY": "o_HEAD_TO_HEAD",
       "ENGLISH": "HEAD TO HEAD",
-      "_CMSKEY": "o_HEAD_TO_HEAD"
+      "CHINESE": "一对一"
     },
     {
-      "CHINESE": "排名",
+      "_CMSKEY": "o_STANDINGS",
       "ENGLISH": "STANDINGS",
-      "_CMSKEY": "o_STANDINGS"
+      "CHINESE": "排名"
     },
     {
-      "CHINESE": "你的密码已成功修改完成。",
+      "_CMSKEY": "o_YOURPASSWORDHASBEENCHANGEDSUCCESSFULLY",
       "ENGLISH": "Your password has been changed successfully.",
-      "_CMSKEY": "o_YOURPASSWORDHASBEENCHANGEDSUCCESSFULLY"
+      "CHINESE": "你的密码已成功修改完成。"
     },
     {
-      "CHINESE": "删除密码回复用的电子信箱？",
+      "_CMSKEY": "o_DELETEPASSWORDRECOVERYEMAIL",
       "ENGLISH": "Delete Password Recovery Email?",
-      "_CMSKEY": "o_DELETEPASSWORDRECOVERYEMAIL"
+      "CHINESE": "删除密码回复用的电子信箱？"
     },
     {
-      "CHINESE": "请输入您用于恢复密码的电子信箱地址。",
+      "_CMSKEY": "o_PLEASEENTERTHEEMAILADDRESSYOUWANTTOUSEFORPASSWORDRECOVERY",
       "ENGLISH": "Please enter the email address you want to use for Password Recovery.",
-      "_CMSKEY": "o_PLEASEENTERTHEEMAILADDRESSYOUWANTTOUSEFORPASSWORDRECOVERY"
+      "CHINESE": "请输入您用于恢复密码的电子信箱地址。"
     },
     {
-      "CHINESE": "密码已改变。请用您的新密码重新登入。",
+      "_CMSKEY": "o_PASSWORDHASBEENCHANGEDPLEASELOGINUSINGYOURNEWPASSWORD",
       "ENGLISH": "Password has been changed. Please log in using your new password.",
-      "_CMSKEY": "o_PASSWORDHASBEENCHANGEDPLEASELOGINUSINGYOURNEWPASSWORD"
+      "CHINESE": "密码已改变。请用您的新密码重新登入。"
     },
     {
-      "CHINESE": "取消密码回复用电子信箱？",
+      "_CMSKEY": "o_CHANCELPASSWORDRECOVERYEMAIL",
       "ENGLISH": "Cancel Password Recovery Email?",
-      "_CMSKEY": "o_CHANCELPASSWORDRECOVERYEMAIL"
+      "CHINESE": "取消密码回复用电子信箱？"
     },
     {
-      "CHINESE": "请修改您的新帐号密码以确保安全。",
+      "_CMSKEY": "o_WITHTHECREATIONOFYOURLOGINIDFORACCOUNTSECURITYPLEASECHANGEYOURPASSWORD",
       "ENGLISH": "With the creation of your Login ID, for account security, please change your password.",
-      "_CMSKEY": "o_WITHTHECREATIONOFYOURLOGINIDFORACCOUNTSECURITYPLEASECHANGEYOURPASSWORD"
+      "CHINESE": "请修改您的新帐号密码以确保安全。"
     },
     {
-      "CHINESE": "您的密码有一阵子没换了，为了保障您的帐号安全，请先修改您的密码。",
+      "_CMSKEY": "o_YOURPASSWORDHASNOTBEENCHANGEFORSOMETIME",
       "ENGLISH": "Your password has not been changed for some time. Please change your password before proceeding.",
-      "_CMSKEY": "o_YOURPASSWORDHASNOTBEENCHANGEFORSOMETIME"
+      "CHINESE": "您的密码有一阵子没换了，为了保障您的帐号安全，请先修改您的密码。"
     },
     {
-      "CHINESE": "密码回复功能目前已关闭。请联络您的上线。",
+      "_CMSKEY": "o_PASSWORDRECOVERYISCURRENTDISABLED",
       "ENGLISH": "Password Recovery is currently disabled. Please contact your upline.",
-      "_CMSKEY": "o_PASSWORDRECOVERYISCURRENTDISABLED"
+      "CHINESE": "密码回复功能目前已关闭。请联络您的上线。"
     },
     {
-      "CHINESE": "今日赛事",
+      "_CMSKEY": "o_TODAYSMATCHES",
       "ENGLISH": "Todays Matches",
-      "_CMSKEY": "o_TODAYSMATCHES"
+      "CHINESE": "今日赛事"
     },
     {
-      "CHINESE": "赛事日期：10月1日 星期一",
+      "_CMSKEY": "o_MATCHESDATE",
       "ENGLISH": "Matches - Mon 1 October",
-      "_CMSKEY": "o_MATCHESDATE"
+      "CHINESE": "赛事日期：10月1日 星期一"
     },
     {
-      "CHINESE": "滚球中赛事",
+      "_CMSKEY": "o_INPLAYMATCHES",
       "ENGLISH": "Inplay Matches",
-      "_CMSKEY": "o_INPLAYMATCHES"
+      "CHINESE": "滚球中赛事"
     },
     {
-      "CHINESE": "今日赛事显示时区为GMT-4。",
+      "_CMSKEY": "o_TODAYSEVENTSAREBASEDONGMT",
       "ENGLISH": "Today's events are based on GMT -4",
-      "_CMSKEY": "o_TODAYSEVENTSAREBASEDONGMT"
+      "CHINESE": "今日赛事显示时区为GMT-4。"
     },
     {
-      "CHINESE": "目前没有任何交易单。",
+      "_CMSKEY": "o_THEREARENOTRANCTIONS",
       "ENGLISH": "There are no transactions available",
-      "_CMSKEY": "o_THEREARENOTRANCTIONS"
+      "CHINESE": "目前没有任何交易单。"
     },
     {
-      "CHINESE": "危险",
+      "_CMSKEY": "o_DANGER",
       "ENGLISH": "Danger",
-      "_CMSKEY": "o_DANGER"
+      "CHINESE": "危险"
     },
     {
-      "CHINESE": "比分错误",
+      "_CMSKEY": "o_WRONGSCORE",
       "ENGLISH": "Wrong Score",
-      "_CMSKEY": "o_WRONGSCORE"
+      "CHINESE": "比分错误"
     },
     {
-      "CHINESE": "已取消",
+      "_CMSKEY": "o_CANCELED",
       "ENGLISH": "Danger",
-      "_CMSKEY": "o_CANCELED"
+      "CHINESE": "已取消"
     },
     {
-      "CHINESE": "已取消 - 比分错误",
+      "_CMSKEY": "o_CANCELEDWRONGSCORE",
       "ENGLISH": "Cancelled - Wrong Score",
-      "_CMSKEY": "o_CANCELEDWRONGSCORE"
+      "CHINESE": "已取消 - 比分错误"
     },
     {
-      "CHINESE": "搜寻",
+      "_CMSKEY": "o_SEARCH",
       "ENGLISH": "Search",
-      "_CMSKEY": "o_SEARCH"
+      "CHINESE": "搜寻"
     },
     {
-      "CHINESE": "目前没有任何讯息。",
+      "_CMSKEY": "o_THEREARENOMESSAGE",
       "ENGLISH": "THERE ARE CURRENTLY NO MESSAGES AVAILABLE.",
-      "_CMSKEY": "o_THEREARENOMESSAGE"
+      "CHINESE": "目前没有任何讯息。"
     },
     {
-      "CHINESE": "您选择的日期尚未开设任何联赛。",
+      "_CMSKEY": "o_NOCOMPEITION",
       "ENGLISH": "There are no competitions available for your selected date.",
-      "_CMSKEY": "o_NOCOMPEITION"
+      "CHINESE": "您选择的日期尚未开设任何联赛。"
     },
     {
-      "CHINESE": "简体",
+      "_CMSKEY": "o_CHINESE",
       "ENGLISH": "Simple Chinese",
-      "_CMSKEY": "o_CHINESE"
+      "CHINESE": "简体"
     },
     {
-      "CHINESE": "一般体育规则",
+      "_CMSKEY": "o_GENERALSPORTSRULE",
       "ENGLISH": "General Sports Rule",
-      "_CMSKEY": "o_GENERALSPORTSRULE"
+      "CHINESE": "一般体育规则"
     },
     {
-      "CHINESE": "一般规则",
+      "_CMSKEY": "o_GENERALRULE",
       "ENGLISH": "General Rule",
-      "_CMSKEY": "o_GENERALRULE"
+      "CHINESE": "一般规则"
     },
     {
-      "CHINESE": "主要玩法",
+      "_CMSKEY": "o_MAINMARKETS",
       "ENGLISH": "Main Markets",
-      "_CMSKEY": "o_MAINMARKETS"
+      "CHINESE": "主要玩法"
     },
     {
-      "CHINESE": "进球数",
+      "_CMSKEY": "o_GOALMARKETS",
       "ENGLISH": "Goal Markets",
-      "_CMSKEY": "o_GOALMARKETS"
+      "CHINESE": "进球数"
     },
     {
-      "CHINESE": "球员相关",
+      "_CMSKEY": "o_PLAYERMARKETS",
       "ENGLISH": "Player Markets",
-      "_CMSKEY": "o_PLAYERMARKETS"
+      "CHINESE": "球员相关"
     },
     {
-      "CHINESE": "特殊",
+      "_CMSKEY": "o_SPECITALSMARKETS",
       "ENGLISH": "Specials",
-      "_CMSKEY": "o_SPECITALSMARKETS"
+      "CHINESE": "特殊"
     },
     {
-      "CHINESE": "角球",
+      "_CMSKEY": "o_CORNERSMARKETS",
       "ENGLISH": "Specials",
-      "_CMSKEY": "o_CORNERSMARKETS"
+      "CHINESE": "角球"
     },
     {
-      "CHINESE": "罚牌",
+      "_CMSKEY": "o_BOOKINGSMARKETS",
       "ENGLISH": "Bookings / Card",
-      "_CMSKEY": "o_BOOKINGSMARKETS"
+      "CHINESE": "罚牌"
     },
     {
-      "CHINESE": "任意球",
+      "_CMSKEY": "o_FREEKICKSMARKETS",
       "ENGLISH": "Free Kicks",
-      "_CMSKEY": "o_FREEKICKSMARKETS"
+      "CHINESE": "任意球"
     },
     {
-      "CHINESE": "任意球",
+      "_CMSKEY": "o_GOALKICKSMARKETS",
       "ENGLISH": "Free Kicks",
-      "_CMSKEY": "o_GOALKICKSMARKETS"
+      "CHINESE": "任意球"
     },
     {
-      "CHINESE": "界外球",
+      "_CMSKEY": "o_THROWINMARKETS",
       "ENGLISH": "Thros-Ins",
-      "_CMSKEY": "o_THROWINMARKETS"
+      "CHINESE": "界外球"
     },
     {
-      "CHINESE": "替换球员",
+      "_CMSKEY": "o_SUBSTITUTIONSMARKETS",
       "ENGLISH": "Substitutions",
-      "_CMSKEY": "o_SUBSTITUTIONSMARKETS"
+      "CHINESE": "替换球员"
     },
     {
-      "CHINESE": "越位",
+      "_CMSKEY": "o_OFFSIDESMARKETS",
       "ENGLISH": "Offsides",
-      "_CMSKEY": "o_OFFSIDESMARKETS"
+      "CHINESE": "越位"
     },
     {
-      "CHINESE": "点球战",
+      "_CMSKEY": "o_PENALTYMARKETS",
       "ENGLISH": "Offsides",
-      "_CMSKEY": "o_PENALTYMARKETS"
+      "CHINESE": "点球战"
     },
     {
-      "CHINESE": "联赛",
+      "_CMSKEY": "o_COMPETITIONMARKETS",
       "ENGLISH": "Competition Markets",
-      "_CMSKEY": "o_COMPETITIONMARKETS"
+      "CHINESE": "联赛"
     },
     {
-      "CHINESE": "综合",
+      "_CMSKEY": "o_COMBINEDMARKETS",
       "ENGLISH": "Combined Markets",
-      "_CMSKEY": "o_COMBINEDMARKETS"
+      "CHINESE": "综合"
     },
     {
-      "CHINESE": "其他",
+      "_CMSKEY": "o_OTHERMARKETS",
       "ENGLISH": "Other Markets",
-      "_CMSKEY": "o_OTHERMARKETS"
+      "CHINESE": "其他"
     },
     {
-      "CHINESE": "梦幻赛",
+      "_CMSKEY": "o_FANTANSYMARKETS",
       "ENGLISH": "Fantasy Matches",
-      "_CMSKEY": "o_FANTANSYMARKETS"
+      "CHINESE": "梦幻赛"
     },
     {
-      "CHINESE": "让球数，赔率或是分数其中之一已改变。",
+      "_CMSKEY": "o_THELINEODDSSCOREHASCHANGED",
       "ENGLISH": "The Line, Odds or Score has changed.",
-      "_CMSKEY": "o_THELINEODDSSCOREHASCHANGED"
+      "CHINESE": "让球数，赔率或是分数其中之一已改变。"
     },
     {
-      "CHINESE": "有1至多个投注单投注失败。",
+      "_CMSKEY": "o_ONEORMOREBETSHAVEFAILED",
       "ENGLISH": "1 or More bets have failed.",
-      "_CMSKEY": "o_ONEORMOREBETSHAVEFAILED"
+      "CHINESE": "有1至多个投注单投注失败。"
     },
     {
-      "CHINESE": "下载应用程式",
+      "_CMSKEY": "o_DOWNLOADAPP",
       "ENGLISH": "Download APP",
-      "_CMSKEY": "o_DOWNLOADAPP"
+      "CHINESE": "下载应用程式"
     },
     {
-      "CHINESE": "立即下载我们的应用程式",
+      "_CMSKEY": "o_DOWNLOADOURAPPTODAY",
       "ENGLISH": "Download our APP Today",
-      "_CMSKEY": "o_DOWNLOADOURAPPTODAY"
+      "CHINESE": "立即下载我们的应用程式"
     },
     {
-      "CHINESE": "直接下载",
+      "_CMSKEY": "o_DIRECTDOWNLOAD",
       "ENGLISH": "Directly Download",
-      "_CMSKEY": "o_DIRECTDOWNLOAD"
+      "CHINESE": "直接下载"
     },
     {
-      "CHINESE": "网站维护中",
+      "_CMSKEY": "o_SITEMAINTENANCE",
       "ENGLISH": "Site Maintenance",
-      "_CMSKEY": "o_SITEMAINTENANCE"
+      "CHINESE": "网站维护中"
     },
     {
-      "CHINESE": "投注页面正在维护中。预计上线时间为",
+      "_CMSKEY": "o_EMERGENCYMESSAGE_P1",
       "ENGLISH": "The betting pages are currently undergoing maintenance. This is due to be completed by",
-      "_CMSKEY": "o_EMERGENCYMESSAGE_P1"
+      "CHINESE": "投注页面正在维护中。预计上线时间为"
     },
     {
-      "CHINESE": "你可继续浏览帐户历史与交易状况。",
+      "_CMSKEY": "o_EMERGENCYMESSAGE_P2",
       "ENGLISH": "You can continue to view the Open Bets and Statement pages. Thank you for your patience.",
-      "_CMSKEY": "o_EMERGENCYMESSAGE_P2"
+      "CHINESE": "你可继续浏览帐户历史与交易状况。"
     },
     {
-      "CHINESE": "您正使用私密浏览器",
+      "_CMSKEY": "o_PRIVATEBROWSINGISON",
       "ENGLISH": "Private Browsering is ON",
-      "_CMSKEY": "o_PRIVATEBROWSINGISON"
+      "CHINESE": "您正使用私密浏览器"
     },
     {
-      "CHINESE": "为了确保您能正常使用网站，请勿使用私密浏览器开启此网站。",
+      "_CMSKEY": "o_PRIVATEBROWSINGISONMESSAGE",
       "ENGLISH": "In order to use this website, please turn Private Browsing off.",
-      "_CMSKEY": "o_PRIVATEBROWSINGISONMESSAGE"
+      "CHINESE": "为了确保您能正常使用网站，请勿使用私密浏览器开启此网站。"
     },
     {
-      "CHINESE": "您的浏览器版本太旧了",
+      "_CMSKEY": "o_OUTDATEDBROWSER",
       "ENGLISH": "Outdated Browser",
-      "_CMSKEY": "o_OUTDATEDBROWSER"
+      "CHINESE": "您的浏览器版本太旧了"
     },
     {
-      "CHINESE": "您的浏览器不支持访问本网站，请下载最新的浏览器并进行最佳浏览体验。",
+      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P1",
       "ENGLISH": "Your browser doesn't support our website. Download a newer web browser to get the best possible experience using our website",
-      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P1"
+      "CHINESE": "您的浏览器不支持访问本网站，请下载最新的浏览器并进行最佳浏览体验。"
     },
     {
-      "CHINESE": "一旦浏览器不在被支援。保护您的保护您的网路安全模式将不是最新的，这也会增这也会增加您被盗取的可能性。",
+      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P2",
       "ENGLISH": "Once a browser is no longer supported, the security features that protect you are not up to date and you are more likely to be hacked or have information stolen.",
-      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P2"
+      "CHINESE": "一旦浏览器不在被支援。保护您的保护您的网路安全模式将不是最新的，这也会增这也会增加您被盗取的可能性。"
     },
     {
-      "CHINESE": "我们强烈建议您下载以下最新的浏览器以便有更好的体验和保持目前最高的网路安全级别。",
+      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P3",
       "ENGLISH": "We strongly suggest you download one of the browsers below to enjoy a better experience and to maintain maximum security levels.",
-      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P3"
+      "CHINESE": "我们强烈建议您下载以下最新的浏览器以便有更好的体验和保持目前最高的网路安全级别。"
     },
     {
-      "CHINESE": "点选这里",
+      "_CMSKEY": "o_CLICKHERE",
       "ENGLISH": "click here",
-      "_CMSKEY": "o_CLICKHERE"
+      "CHINESE": "点选这里"
     },
     {
-      "CHINESE": "以继续使用当前浏览器。",
+      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P3_2",
       "ENGLISH": "to continue on your current browser.",
-      "_CMSKEY": "o_OUTDATEDBROWSERMESSAGE_P3_2"
+      "CHINESE": "以继续使用当前浏览器。"
     },
     {
-      "CHINESE": "下载",
+      "_CMSKEY": "o_DOWNLOAD",
       "ENGLISH": "Download",
-      "_CMSKEY": "o_DOWNLOAD"
+      "CHINESE": "下载"
     },
     {
-      "CHINESE": "为什么我需要最新的浏览器？",
+      "_CMSKEY": "o_WHYDOINEEDUPDATEDBORWSER",
       "ENGLISH": "Why do I need an up-to-date browser?",
-      "_CMSKEY": "o_WHYDOINEEDUPDATEDBORWSER"
+      "CHINESE": "为什么我需要最新的浏览器？"
     },
     {
-      "CHINESE": "安全性",
+      "_CMSKEY": "o_SECURITY",
       "ENGLISH": "Security",
-      "_CMSKEY": "o_SECURITY"
+      "CHINESE": "安全性"
     },
     {
-      "CHINESE": "最新的浏览器能更有效的对抗诈骗、病毒、木马、钓鱼等威胁。他们也乐于修复您的浏览器漏洞。",
+      "_CMSKEY": "o_SECURITYMESSAGE",
       "ENGLISH": "Modern browsers protect you better against scams, viruses, trojans, phishing and other threats. They also fix security holes in your current browser.",
-      "_CMSKEY": "o_SECURITYMESSAGE"
+      "CHINESE": "最新的浏览器能更有效的对抗诈骗、病毒、木马、钓鱼等威胁。他们也乐于修复您的浏览器漏洞。"
     },
     {
-      "CHINESE": "速度快",
+      "_CMSKEY": "o_SPEED",
       "ENGLISH": "Speed",
-      "_CMSKEY": "o_SPEED"
+      "CHINESE": "速度快"
     },
     {
-      "CHINESE": "最新的浏览器速度一定比较快。",
+      "_CMSKEY": "o_SPEEDMESSAGE",
       "ENGLISH": "Every new browser generation improves speed.",
-      "_CMSKEY": "o_SPEEDMESSAGE"
+      "CHINESE": "最新的浏览器速度一定比较快。"
     },
     {
-      "CHINESE": "优化功能",
+      "_CMSKEY": "o_COMPATILIBITY",
       "ENGLISH": "COMPATILIBITY",
-      "_CMSKEY": "o_COMPATILIBITY"
+      "CHINESE": "优化功能"
     },
     {
-      "CHINESE": "我们的网站可以使用新型浏览器的功能来优化网站效能。",
+      "_CMSKEY": "o_COMPATILIBITYMESSAGE",
       "ENGLISH": "Websites, using new browser technology, will be optimized in appearance and performance.",
-      "_CMSKEY": "o_COMPATILIBITYMESSAGE"
+      "CHINESE": "我们的网站可以使用新型浏览器的功能来优化网站效能。"
     },
     {
-      "CHINESE": "更好的使用体验",
+      "_CMSKEY": "o_BETTEREXPERIENCE",
       "ENGLISH": "BETTER EXPERIENCE",
-      "_CMSKEY": "o_BETTEREXPERIENCE"
+      "CHINESE": "更好的使用体验"
     },
     {
-      "CHINESE": "当具备以上更好更新的功能，您将获得更棒更方便的使用体验。",
+      "_CMSKEY": "o_BETTEREXPERIENCEMESSAGE",
       "ENGLISH": "With new features and extensions, you will have a more ?rounded and enjoyable web-experience.",
-      "_CMSKEY": "o_BETTEREXPERIENCEMESSAGE"
+      "CHINESE": "当具备以上更好更新的功能，您将获得更棒更方便的使用体验。"
     },
     {
-      "CHINESE": "系统讯息",
+      "_CMSKEY": "o_SYSTEMMESSAGE",
       "ENGLISH": "System Message",
-      "_CMSKEY": "o_SYSTEMMESSAGE"
+      "CHINESE": "系统讯息"
     },
     {
-      "CHINESE": "连线没有回应，请重新尝试。",
+      "_CMSKEY": "o_CONNECTIONTIMEONT",
       "ENGLISH": "Sorry, the connection has timed out. Please try again",
-      "_CMSKEY": "o_CONNECTIONTIMEONT"
+      "CHINESE": "连线没有回应，请重新尝试。"
     },
     {
-      "CHINESE": "由于您的帐户目前只“允许浏览“，因此您只能查看帐户历史以及交易状况。",
+      "_CMSKEY": "o_VIEWONLYMESSAGE",
       "ENGLISH": "Your account has been changed to  “View Only” access. You may only access Open Bets and Statements.",
-      "_CMSKEY": "o_VIEWONLYMESSAGE"
+      "CHINESE": "由于您的帐户目前只“允许浏览“，因此您只能查看帐户历史以及交易状况。"
     },
     {
-      "CHINESE": "预览新版",
+      "_CMSKEY": "o_NEWVERSIONPREVIEW",
       "ENGLISH": "Preview New Site",
-      "_CMSKEY": "o_NEWVERSIONPREVIEW"
+      "CHINESE": "预览新版"
     },
     {
-      "CHINESE": "回到旧版网站",
+      "_CMSKEY": "o_RETURNTOOLDSITE",
       "ENGLISH": "Return to old website",
-      "_CMSKEY": "o_RETURNTOOLDSITE"
+      "CHINESE": "回到旧版网站"
     },
     {
-      "CHINESE": "切换去新版",
+      "_CMSKEY": "o_SWITCHTONEWVERSION",
       "ENGLISH": "Switch To New Website.",
-      "_CMSKEY": "o_SWITCHTONEWVERSION"
+      "CHINESE": "切换去新版"
     },
     {
-      "CHINESE": "我们的新版网站已上线。在新网站我们推出了各式各样的新功能，快点选绿色按钮立即得到更棒的体验。",
+      "_CMSKEY": "o_SWITCHTONEWVERSIONMESSAGE",
       "ENGLISH": "Our new site has officially launched. With plenty of new features, please use the link below to check it out.",
-      "_CMSKEY": "o_SWITCHTONEWVERSIONMESSAGE"
+      "CHINESE": "我们的新版网站已上线。在新网站我们推出了各式各样的新功能，快点选绿色按钮立即得到更棒的体验。"
     },
     {
-      "CHINESE": "切换去旧版",
+      "_CMSKEY": "o_SWITCHTOOLDVERSION",
       "ENGLISH": "Switch To Old Version.",
-      "_CMSKEY": "o_SWITCHTOOLDVERSION"
+      "CHINESE": "切换去旧版"
     },
     {
-      "CHINESE": "您输入的帐号不符合规范",
+      "_CMSKEY": "o_THELOGINIDYOUENTEREDDDOESTNOTMEETTHEREQUIREMENTS",
       "ENGLISH": "This Login ID you entered does not meet the requirements",
-      "_CMSKEY": "o_THELOGINIDYOUENTEREDDDOESTNOTMEETTHEREQUIREMENTS"
+      "CHINESE": "您输入的帐号不符合规范"
     },
     {
-      "CHINESE": "有些选择已关闭下注．",
+      "_CMSKEY": "o_THISSELECTIONISCURRENTLYCLOSEDFORBETTING",
       "ENGLISH": "This selection is currently closed for betting.",
-      "_CMSKEY": "o_THISSELECTIONISCURRENTLYCLOSEDFORBETTING"
+      "CHINESE": "有些选择已关闭下注．"
     },
     {
-      "CHINESE": "此项选择不再开放投注。请从投注单中移除。",
+      "_CMSKEY": "o_SELECTIONNOLONGERAVALIABLE",
       "ENGLISH": "Selection no longer available. Please remove from bet slip.",
-      "_CMSKEY": "o_SELECTIONNOLONGERAVALIABLE"
+      "CHINESE": "此项选择不再开放投注。请从投注单中移除。"
     },
     {
-      "CHINESE": "登入失败，请重新尝试。",
+      "_CMSKEY": "o_LOGINFAILEDPLEASELOGINAGAIN",
       "ENGLISH": "Login Failed. Please log in again.",
-      "_CMSKEY": "o_LOGINFAILEDPLEASELOGINAGAIN"
+      "CHINESE": "登入失败，请重新尝试。"
     },
     {
-      "CHINESE": "为了完整呈现注单，请将您的装置转为垂直方向以方便下注",
+      "_CMSKEY": "o_PLEASEROTATEYOURDEVICE",
       "ENGLISH": "Please rotate your device to place a bet.",
-      "_CMSKEY": "o_PLEASEROTATEYOURDEVICE"
+      "CHINESE": "为了完整呈现注单，请将您的装置转为垂直方向以方便下注"
     },
     {
-      "CHINESE": "您有至少一个注单投注失败。",
+      "_CMSKEY": "o_ERROR_ONEORMORESELECTIONSFAILEDTOPLACE",
       "ENGLISH": "1 or more bets have failed to place.",
-      "_CMSKEY": "o_ERROR_ONEORMORESELECTIONSFAILEDTOPLACE"
+      "CHINESE": "您有至少一个注单投注失败。"
     },
     {
-      "CHINESE": "您有至少一个注单无法投注。",
+      "_CMSKEY": "o_ERROR_ONEORMORBETCAONNOTBEPLACED",
       "ENGLISH": "1 or more bets cannot be placed.",
-      "_CMSKEY": "o_ERROR_ONEORMORBETCAONNOTBEPLACED"
+      "CHINESE": "您有至少一个注单无法投注。"
     },
     {
-      "CHINESE": "有一或多张注单目前正在处理中。",
+      "_CMSKEY": "o_ERROR_ONEORMORBETAREPENDING",
       "ENGLISH": "1 or bets are pending.",
-      "_CMSKEY": "o_ERROR_ONEORMORBETAREPENDING"
+      "CHINESE": "有一或多张注单目前正在处理中。"
     },
     {
-      "CHINESE": "您的投注目前正在等待中，请稍候。",
+      "_CMSKEY": "o_ERROR_YOURBETISPENDINGPLEASEWAIT",
       "ENGLISH": "Your bet is pending. Please wait.",
-      "_CMSKEY": "o_ERROR_YOURBETISPENDINGPLEASEWAIT"
+      "CHINESE": "您的投注目前正在等待中，请稍候。"
     },
     {
-      "CHINESE": "请把您的设备转为直立以便查看注单收据",
+      "_CMSKEY": "o_PLEASEROTATEYOURDEVICEFORBETSLIP",
       "ENGLISH": "Please rotate your device to see your Bet Receipt.",
-      "_CMSKEY": "o_PLEASEROTATEYOURDEVICEFORBETSLIP"
+      "CHINESE": "请把您的设备转为直立以便查看注单收据"
     },
     {
-      "CHINESE": "安装教学",
+      "_CMSKEY": "o_INSTALLATIONGUIDE",
       "ENGLISH": "Installation Guide",
-      "_CMSKEY": "o_INSTALLATIONGUIDE"
+      "CHINESE": "安装教学"
     },
     {
-      "CHINESE": "您已完成安装APP，现在已可以使用。谢谢",
+      "_CMSKEY": "o_APPISREADY",
       "ENGLISH": "Your APP is now set up and ready for use. Thank you",
-      "_CMSKEY": "o_APPISREADY"
+      "CHINESE": "您已完成安装APP，现在已可以使用。谢谢"
     },
     {
-      "CHINESE": "让球",
+      "_CMSKEY": "o_ASIANHANDICAP",
       "ENGLISH": "Asian Handicap",
-      "_CMSKEY": "o_ASIANHANDICAP"
+      "CHINESE": "让球"
     },
     {
-      "CHINESE": "此功能暂时关闭。",
+      "_CMSKEY": "o_FUNCTIONTEMPORARILYCLOSED",
       "ENGLISH": "This function is closed temporarily",
-      "_CMSKEY": "o_FUNCTIONTEMPORARILYCLOSED"
+      "CHINESE": "此功能暂时关闭。"
     },
     {
-      "CHINESE": "显示余额",
+      "_CMSKEY": "o_SHOWBALANCE",
       "ENGLISH": "Show Balance",
-      "_CMSKEY": "o_SHOWBALANCE"
+      "CHINESE": "显示余额"
     },
     {
-      "CHINESE": "重新尝试连线",
+      "_CMSKEY": "o_RECONNECT",
       "ENGLISH": "Reconnect",
-      "_CMSKEY": "o_RECONNECT"
+      "CHINESE": "重新尝试连线"
     },
     {
-      "CHINESE": "确认",
+      "_CMSKEY": "o_CONFIRM",
       "ENGLISH": "Confirm",
-      "_CMSKEY": "o_CONFIRM"
+      "CHINESE": "确认"
     },
     {
-      "CHINESE": "确认",
+      "_CMSKEY": "o_CONFIRMREFRESH",
       "ENGLISH": "Confirm",
-      "_CMSKEY": "o_CONFIRMREFRESH"
+      "CHINESE": "确认"
     },
     {
-      "CHINESE": "系统公告",
+      "_CMSKEY": "o_SYSTEMANNOUNCEMENT",
       "ENGLISH": "System Accouncement",
-      "_CMSKEY": "o_SYSTEMANNOUNCEMENT"
+      "CHINESE": "系统公告"
     },
     {
-      "CHINESE": "网路极度不稳定，请检查你的网路。",
+      "_CMSKEY": "o_REFRESHMSG",
       "ENGLISH": "Your internet connection is unstable.Please check your connection and try again.",
-      "_CMSKEY": "o_REFRESHMSG"
+      "CHINESE": "网路极度不稳定，请检查你的网路。"
     },
     {
-      "CHINESE": "網路不穩，請至交易狀況確認注單是否成功。",
+      "_CMSKEY": "o_INTERNET_UNSTABLE_OPEN_BET",
       "ENGLISH": "The Internet is unstable at the moment, please goto open bet to confirm if the bet has been successfully placed or not.",
-      "_CMSKEY": "o_INTERNET_UNSTABLE_OPEN_BET"
+      "CHINESE": "網路不穩，請至交易狀況確認注單是否成功。"
     },
     {
-      "CHINESE": "总分",
+      "_CMSKEY": "o_TOTALPOINTS",
       "ENGLISH": "Total Points",
-      "_CMSKEY": "o_TOTALPOINTS"
+      "CHINESE": "总分"
     },
     {
-      "CHINESE": "第1队得分",
+      "_CMSKEY": "o_TEAM1POINTS",
       "ENGLISH": "Team 1 Points",
-      "_CMSKEY": "o_TEAM1POINTS"
+      "CHINESE": "第1队得分"
     },
     {
-      "CHINESE": "第2队得分",
+      "_CMSKEY": "o_TEAM2POINTS",
       "ENGLISH": "Team 2 Points",
-      "_CMSKEY": "o_TEAM2POINTS"
+      "CHINESE": "第2队得分"
     },
     {
-      "CHINESE": "第四节",
+      "_CMSKEY": "o_4THQUARTER",
       "ENGLISH": "Q4",
-      "_CMSKEY": "o_4THQUARTER "
+      "CHINESE": "第四节"
     },
     {
-      "CHINESE": "第一节",
+      "_CMSKEY": "o_1STQUARTER",
       "ENGLISH": "Q1",
-      "_CMSKEY": "o_1STQUARTER "
+      "CHINESE": "第一节"
     },
     {
-      "CHINESE": "第三节",
+      "_CMSKEY": "o_3RDQUARTER",
       "ENGLISH": "Q3",
-      "_CMSKEY": "o_3RDQUARTER "
+      "CHINESE": "第三节"
     },
     {
-      "CHINESE": "下半场",
+      "_CMSKEY": "o_2NDHALF",
       "ENGLISH": "2nd half",
-      "_CMSKEY": "o_2NDHALF"
+      "CHINESE": "下半场"
     },
     {
-      "CHINESE": "第四节",
+      "_CMSKEY": "o_4THQUARTER",
       "ENGLISH": "4th Quarter",
-      "_CMSKEY": "o_4THQUARTER"
+      "CHINESE": "第四节"
     },
     {
-      "CHINESE": "第4盘",
+      "_CMSKEY": "o_SET1",
       "ENGLISH": "Set 1",
-      "_CMSKEY": "o_SET1"
+      "CHINESE": "第4盘"
     },
     {
-      "CHINESE": "第五局",
+      "_CMSKEY": "o_GAME5",
       "ENGLISH": "Game 5",
-      "_CMSKEY": "o_GAME5"
+      "CHINESE": "第五局"
     },
     {
-      "CHINESE": "总局数",
+      "_CMSKEY": "o_TOTALGAMES",
       "ENGLISH": "Total Games",
-      "_CMSKEY": "o_TOTALGAMES"
+      "CHINESE": "总局数"
     },
     {
-      "CHINESE": "第1盘",
+      "_CMSKEY": "o_1STSET",
       "ENGLISH": "1st Set",
-      "_CMSKEY": "o_1STSET"
+      "CHINESE": "第1盘"
     },
     {
-      "CHINESE": "第一个",
+      "_CMSKEY": "o_1ST",
       "ENGLISH": "1st",
-      "_CMSKEY": "o_1ST"
+      "CHINESE": "第一个"
     },
     {
-      "CHINESE": "让分",
+      "_CMSKEY": "o_POINTHANDICAP",
       "ENGLISH": "Point Handicap",
-      "_CMSKEY": "o_POINTHANDICAP"
+      "CHINESE": "让分"
     },
     {
-      "CHINESE": "第一局",
+      "_CMSKEY": "o_1STGAME",
       "ENGLISH": "1st Game",
-      "_CMSKEY": "o_1STGAME"
+      "CHINESE": "第一局"
     },
     {
-      "CHINESE": "第1队得分",
+      "_CMSKEY": "o_TEAM1RUNS",
       "ENGLISH": "Team 1 runs",
-      "_CMSKEY": "o_TEAM1RUNS"
+      "CHINESE": "第1队得分"
     },
     {
-      "CHINESE": "第2队得分",
+      "_CMSKEY": "o_TEAM2RUNS",
       "ENGLISH": "Team 2 runs",
-      "_CMSKEY": "o_TEAM2RUNS"
+      "CHINESE": "第2队得分"
     },
     {
-      "CHINESE": "第1局",
+      "_CMSKEY": "o_3RDINNING",
       "ENGLISH": "3 inning",
-      "_CMSKEY": "o_3RDINNING"
+      "CHINESE": "第1局"
     },
     {
-      "CHINESE": "第1局",
+      "_CMSKEY": "o_1STINNING",
       "ENGLISH": "1 inning",
-      "_CMSKEY": "o_1STINNING"
+      "CHINESE": "第1局"
     },
     {
-      "CHINESE": "总局数",
+      "_CMSKEY": "o_TOTALFRAMES",
       "ENGLISH": "Total Frames",
-      "_CMSKEY": "o_TOTALFRAMES"
+      "CHINESE": "总局数"
     },
     {
-      "CHINESE": "第三局",
+      "_CMSKEY": "o_NEXTFRAME",
       "ENGLISH": "Next Frames",
-      "_CMSKEY": "o_NEXTFRAME"
+      "CHINESE": "第三局"
     },
     {
-      "CHINESE": "1-5局",
+      "_CMSKEY": "o_FRAMES1TO5",
       "ENGLISH": "Frames 1 to 5",
-      "_CMSKEY": "o_FRAMES1TO5"
+      "CHINESE": "1-5局"
     },
     {
-      "CHINESE": "第一局",
+      "_CMSKEY": "o_1STFRAME",
       "ENGLISH": "1st frame",
-      "_CMSKEY": "o_1STFRAME"
+      "CHINESE": "第一局"
     },
     {
-      "CHINESE": "网路诊断",
+      "_CMSKEY": "o_NETWORKANALYSIS",
       "ENGLISH": "Network Analysis",
-      "_CMSKEY": "o_NETWORKANALYSIS"
+      "CHINESE": "网路诊断"
     },
     {
-      "CHINESE": "第五局",
+      "_CMSKEY": "o_5THGAME",
       "ENGLISH": "5th Game",
-      "_CMSKEY": "o_5THGAME"
+      "CHINESE": "第五局"
     },
     {
-      "CHINESE": "第六局",
+      "_CMSKEY": "o_6THGAME",
       "ENGLISH": "6th Game",
-      "_CMSKEY": "o_6THGAME"
+      "CHINESE": "第六局"
     },
     {
-      "CHINESE": "总局数/单双",
+      "_CMSKEY": "o_TOTALGAMESOE",
       "ENGLISH": "Total Games OE",
-      "_CMSKEY": "o_TOTALGAMESOE"
+      "CHINESE": "总局数/单双"
     },
     {
-      "CHINESE": "单/双",
+      "_CMSKEY": "o_ODDEVEN",
       "ENGLISH": "ODD/ EVEN",
-      "_CMSKEY": "o_ODDEVEN"
+      "CHINESE": "单/双"
     },
     {
-      "CHINESE": "注单处理中",
+      "_CMSKEY": "o_BETPROCESSING",
       "ENGLISH": "Bet Processing",
-      "_CMSKEY": "o_BETPROCESSING"
+      "CHINESE": "注单处理中"
     },
     {
-      "CHINESE": "啊．．．我們找不到這頁．請回上頁或是回 首頁.",
+      "_CMSKEY": "o_404MESSAGE",
       "ENGLISH": "Oops...it seems the page can't be found.",
-      "_CMSKEY": "o_404MESSAGE"
+      "CHINESE": "啊．．．我們找不到這頁．請回上頁或是回 首頁."
     },
     {
-      "CHINESE": "请回上页或回到首页。",
+      "_CMSKEY": "o_PLEASEGOBACK",
       "ENGLISH": "Please go back or return home.",
-      "_CMSKEY": "o_PLEASEGOBACK"
+      "CHINESE": "请回上页或回到首页。"
     },
     {
-      "CHINESE": "平局",
+      "_CMSKEY": "o_PUSH",
       "ENGLISH": "Push",
-      "_CMSKEY": "o_PUSH"
+      "CHINESE": "平局"
     },
     {
-      "CHINESE": "公告标题",
+      "_CMSKEY": "o_ANNOUNCEMENTTITLE",
       "ENGLISH": "Announcement Title",
-      "_CMSKEY": "o_ANNOUNCEMENTTITLE"
+      "CHINESE": "公告标题"
     },
     {
-      "CHINESE": "点球资讯",
+      "_CMSKEY": "o_PENALTYINFORMATIONSHOOTOUT",
       "ENGLISH": "Penalty Shoot Out Information",
-      "_CMSKEY": "o_PENALTYINFORMATIONSHOOTOUT"
+      "CHINESE": "点球资讯"
     },
     {
-      "CHINESE": "加时赛资讯",
+      "_CMSKEY": "o_EXTRATIMEINFORMATION",
       "ENGLISH": "Extra Time Information",
-      "_CMSKEY": "o_EXTRATIMEINFORMATION"
+      "CHINESE": "加时赛资讯"
     },
     {
-      "CHINESE": "罚牌资讯",
+      "_CMSKEY": "o_BOOKINGSINFORMATION",
       "ENGLISH": "Bookings Information",
-      "_CMSKEY": "o_BOOKINGSINFORMATION"
+      "CHINESE": "罚牌资讯"
     },
     {
-      "CHINESE": "玩法",
+      "_CMSKEY": "o_MARKETLINE",
       "ENGLISH": "MarketLine",
-      "_CMSKEY": "o_MARKETLINE"
+      "CHINESE": "玩法"
     },
     {
-      "CHINESE": "最后进球",
+      "_CMSKEY": "o_LASTGOAL",
       "ENGLISH": "Last Goal",
-      "_CMSKEY": "o_LASTGOAL"
+      "CHINESE": "最后进球"
     },
     {
-      "CHINESE": "双方球队进球",
+      "_CMSKEY": "o_BOTHTEAMSNOTTOSCORE",
       "ENGLISH": "Both Teams Not to Score",
-      "_CMSKEY": "o_BOTHTEAMSNOTTOSCORE"
+      "CHINESE": "双方球队进球"
     },
     {
-      "CHINESE": "盘",
+      "_CMSKEY": "o_SETS",
       "ENGLISH": "Sets",
-      "_CMSKEY": "o_SETS"
+      "CHINESE": "盘"
     },
     {
-      "CHINESE": "分",
+      "_CMSKEY": "o_POINTS",
       "ENGLISH": "Points",
-      "_CMSKEY": "o_POINTS"
+      "CHINESE": "分"
     },
     {
-      "CHINESE": "局",
+      "_CMSKEY": "o_GAMES",
       "ENGLISH": "Games",
-      "_CMSKEY": "o_GAMES"
+      "CHINESE": "局"
     },
     {
-      "CHINESE": "第六局",
+      "_CMSKEY": "o_GAME6",
       "ENGLISH": "Game6",
-      "_CMSKEY": "o_GAME6"
+      "CHINESE": "第六局"
     },
     {
-      "CHINESE": "单注",
+      "_CMSKEY": "o_SINGLES",
       "ENGLISH": "Singles",
-      "_CMSKEY": "o_SINGLES"
+      "CHINESE": "单注"
     },
     {
-      "CHINESE": "您已成功投注。",
+      "_CMSKEY": "o_YOURBETSHAVEBEENSUCCESFULLYPLACED",
       "ENGLISH": "YOUR BETS HAVE BEEN SUCCESSFULLY PLACED.",
-      "_CMSKEY": "o_YOURBETSHAVEBEENSUCCESFULLYPLACED"
+      "CHINESE": "您已成功投注。"
     },
     {
-      "CHINESE": "请创建一个容易记住的登录帐号。",
+      "_CMSKEY": "o_PLEASECREATELODINGIDTHATYOUCANEASILYREMEMBER",
       "ENGLISH": "Please create a Login ID that you can easily remember.",
-      "_CMSKEY": "o_PLEASECREATELODINGIDTHATYOUCANEASILYREMEMBER"
+      "CHINESE": "请创建一个容易记住的登录帐号。"
     },
     {
-      "CHINESE": "规则：",
+      "_CMSKEY": "o_RULES",
       "ENGLISH": "Rules:",
-      "_CMSKEY": "o_RULES"
+      "CHINESE": "规则："
     },
     {
-      "CHINESE": "1. 您的登录帳號必须介于6到12个字母数字字符之间，且至少包含2个大写字母（A-Z）或小写字母（a-z）以及至少1个数字字符（0-9）。",
+      "_CMSKEY": "o_ACCOUNTCREATIONFIRSTRULE",
       "ENGLISH": "1. Your Login ID must be between 6 to 12 alphanumeric characters with at least 2 capital (A-Z) or lowercase letters (a-z) and at least 1 numeric character (0-9).",
-      "_CMSKEY": "o_ACCOUNTCREATIONFIRSTRULE"
+      "CHINESE": "1. 您的登录帳號必须介于6到12个字母数字字符之间，且至少包含2个大写字母（A-Z）或小写字母（a-z）以及至少1个数字字符（0-9）。"
     },
     {
-      "CHINESE": "2. 您的登录帳號不得包含任何空格。",
+      "_CMSKEY": "o_ACCOUNTCREATIONSECONDRULE",
       "ENGLISH": "2. Your Login ID must not contain any spaces.",
-      "_CMSKEY": "o_ACCOUNTCREATIONSECONDRULE"
+      "CHINESE": "2. 您的登录帳號不得包含任何空格。"
     },
     {
-      "CHINESE": "帐号成功创建后将无法修改登录帐号。请在下次登录时使用新创建的登录帐号。原始成员用户代码仅用于识别目的。",
+      "_CMSKEY": "o_ACCOUNTCREATIONSSUMMARY",
       "ENGLISH": "Once succesfully created, the Login ID cannot be modified. Please use the new created Login ID on your next log in. The original member user code will only be used for identification purposes.",
-      "_CMSKEY": "o_ACCOUNTCREATIONSSUMMARY"
+      "CHINESE": "帐号成功创建后将无法修改登录帐号。请在下次登录时使用新创建的登录帐号。原始成员用户代码仅用于识别目的。"
     },
     {
-      "CHINESE": "帮助",
+      "_CMSKEY": "o_HELP",
       "ENGLISH": "Help",
-      "_CMSKEY": "o_HELP"
+      "CHINESE": "帮助"
     },
     {
-      "CHINESE": "您输入的帐号不符合规范.",
+      "_CMSKEY": "o_THISLOGINIDYOUENTEREDDOESNOTMEETTHEREQUIREMENTS",
       "ENGLISH": "This Login ID you entered does not meet the requirements.",
-      "_CMSKEY": "o_THISLOGINIDYOUENTEREDDOESNOTMEETTHEREQUIREMENTS"
+      "CHINESE": "您输入的帐号不符合规范."
     },
     {
-      "CHINESE": "您使用的浏览器/装置尚未开启简易登入。是否现在就开启？",
+      "_CMSKEY": "o_YOUAREUSINGADEVICEDOESNOTENABLEPASSCODELOGIN",
       "ENGLISH": "You are using a device / browser that has not been enabled for Passcode Login. Do you want to enable it now?",
-      "_CMSKEY": "o_YOUAREUSINGADEVICEDOESNOTENABLEPASSCODELOGIN"
+      "CHINESE": "您使用的浏览器/装置尚未开启简易登入。是否现在就开启？"
     },
     {
-      "CHINESE": "注意：使用其他帐户登录将暂时关闭此设备/浏览器上的简易登入功能。",
+      "_CMSKEY": "o_LOGGINGUSINGDIFFERENTACCOUNTWILLTEMPORARYDISABLEYOURPASSCODELOGIN",
       "ENGLISH": "Note: Logging in using different accounts will temporary disable your Passcode Login on this device / browser.",
-      "_CMSKEY": "o_LOGGINGUSINGDIFFERENTACCOUNTWILLTEMPORARYDISABLEYOURPASSCODELOGIN"
+      "CHINESE": "注意：使用其他帐户登录将暂时关闭此设备/浏览器上的简易登入功能。"
     },
     {
-      "CHINESE": "我们的新网站已正式推出。我们加入了许多新功能，请使用以下链接查看。",
+      "_CMSKEY": "o_OURNEWSITEHASOFFICIALLYLAUNCHED",
       "ENGLISH": "Our New Site has officially launched. With plenty of new features, please use the link below to check it out.",
-      "_CMSKEY": "o_OURNEWSITEHASOFFICIALLYLAUNCHED"
+      "CHINESE": "我们的新网站已正式推出。我们加入了许多新功能，请使用以下链接查看。"
     },
     {
-      "CHINESE": "欢迎来到抢先预展版网站。我们仍在积极修复并改进产品体验，但我们希望在正式推出之前让您有机会看到它。",
+      "_CMSKEY": "o_WELCOMEMESSAGEFOREARLYPREVIEW",
       "ENGLISH": "Welcome to an early preview of our new site. We are continuing to fix issues and improving the product but we wanted to give you the chance to see it before we officially launch.",
-      "_CMSKEY": "o_WELCOMEMESSAGEFOREARLYPREVIEW"
+      "CHINESE": "欢迎来到抢先预展版网站。我们仍在积极修复并改进产品体验，但我们希望在正式推出之前让您有机会看到它。"
     },
     {
-      "CHINESE": "谢谢",
+      "_CMSKEY": "o_THANKYOU",
       "ENGLISH": "Thank you",
-      "_CMSKEY": "o_THANKYOU"
+      "CHINESE": "谢谢"
     },
     {
-      "CHINESE": "出于安全原因，您必需每30天更改一次密码。",
+      "_CMSKEY": "o_FORSECURITYREASONS",
       "ENGLISH": "For security reasons, you are required to change password every 30 days.",
-      "_CMSKEY": "o_FORSECURITYREASONS"
+      "CHINESE": "出于安全原因，您必需每30天更改一次密码。"
     },
     {
-      "CHINESE": "1. 您的密码必须是6到12个字母数字（A-Z和0-9）之间。",
+      "_CMSKEY": "o_CREATEPASSWORDFIRSTRULE",
       "ENGLISH": "1. Your password must be between 6 to 12 alphanumeric (A-Z & 0-9) characters.",
-      "_CMSKEY": "o_CREATEPASSWORDFIRSTRULE"
+      "CHINESE": "1. 您的密码必须是6到12个字母数字（A-Z和0-9）之间。"
     },
     {
-      "CHINESE": "2. 您的新密码不能与当前密码相同。",
+      "_CMSKEY": "o_CREATEPASSWORDSECONDRULE",
       "ENGLISH": "2. Your new password cannot be the same as your current password.",
-      "_CMSKEY": "o_CREATEPASSWORDSECONDRULE"
+      "CHINESE": "2. 您的新密码不能与当前密码相同。"
     },
     {
-      "CHINESE": "注意",
+      "_CMSKEY": "o_NOTE",
       "ENGLISH": "NOTE",
-      "_CMSKEY": "o_NOTE"
+      "CHINESE": "注意"
     },
     {
-      "CHINESE": "美式足球",
+      "_CMSKEY": "o_AMERICANFOOTBALL",
       "ENGLISH": "American Football",
-      "_CMSKEY": "o_AMERICANFOOTBALL"
+      "CHINESE": "美式足球"
     },
     {
-      "CHINESE": "射箭和射击",
+      "_CMSKEY": "o_ARCHERYANDSHOOTING",
       "ENGLISH": "Archery and Shooting",
-      "_CMSKEY": "o_ARCHERYANDSHOOTING"
+      "CHINESE": "射箭和射击"
     },
     {
-      "CHINESE": "田径",
+      "_CMSKEY": "o_ATHLETIC",
       "ENGLISH": "Athletic",
-      "_CMSKEY": "o_ATHLETIC"
+      "CHINESE": "田径"
     },
     {
-      "CHINESE": "澳式足球",
+      "_CMSKEY": "o_AUSSIE",
       "ENGLISH": "Aussie",
-      "_CMSKEY": "o_AUSSIE"
+      "CHINESE": "澳式足球"
     },
     {
-      "CHINESE": "提示：在使用此功能前，您应该先设定回复密码用电子信箱位置。如果您尚未设定此信箱，请联络您的上线完成设定。",
+      "_CMSKEY": "o_MUSTALREADYREGISTEREDMESSAGE",
       "ENGLISH": "You must already register your Password Recovery Email to use this function. Please contact your upline if you have not yet registered a Password Recovery Email.",
-      "_CMSKEY": "o_MUSTALREADYREGISTEREDMESSAGE"
+      "CHINESE": "提示：在使用此功能前，您应该先设定回复密码用电子信箱位置。如果您尚未设定此信箱，请联络您的上线完成设定。"
     },
     {
-      "CHINESE": "使用“忘记密码”功能时，验证码将发送到此电子邮件。",
+      "_CMSKEY": "o_FORGOTPASSWORDMESSAGE",
       "ENGLISH": "Verification code will be sent to this email when you use the 'Forgot Password' function.",
-      "_CMSKEY": "o_FORGOTPASSWORDMESSAGE"
+      "CHINESE": "使用“忘记密码”功能时，验证码将发送到此电子邮件。"
     },
     {
-      "CHINESE": "我们正在处理您的投注单，请稍候。",
-      "ENGLISH": "YOUR BET IS PENDING. PLEASE WAIT. ",
-      "_CMSKEY": "o_YOURBETISPENDINGPLEASEWAIT"
+      "_CMSKEY": "o_YOURBETISPENDINGPLEASEWAIT",
+      "ENGLISH": "YOUR BET IS PENDING. PLEASE WAIT.",
+      "CHINESE": "我们正在处理您的投注单，请稍候。"
     },
     {
-      "CHINESE": "罚牌玩法以分数为计算单位：一张红牌等于2分，而一张黄牌等于1分。",
+      "_CMSKEY": "o_BOOKINGRULE",
       "ENGLISH": "Booking is based in a point system: Red Card is equal 2 points and Yellow Card is equal 1 point.",
-      "_CMSKEY": "o_BOOKINGRULE"
+      "CHINESE": "罚牌玩法以分数为计算单位：一张红牌等于2分，而一张黄牌等于1分。"
     },
     {
-      "CHINESE": "加时开始于 0 - 0",
+      "_CMSKEY": "o_EXTRATIMESTARTAT",
       "ENGLISH": "Extra Time starts at 0 - 0.",
-      "_CMSKEY": "o_EXTRATIMESTARTAT"
+      "CHINESE": "加时开始于 0 - 0"
     },
     {
-      "CHINESE": "全场比分为 X - X",
+      "_CMSKEY": "o_FULLTIMESCOREIS",
       "ENGLISH": "Full Time Score is X - X.",
-      "_CMSKEY": "o_FULLTIMESCOREIS"
+      "CHINESE": "全场比分为 X - X"
     },
     {
-      "CHINESE": "此实况转播内容仅供参考，本公司会尽量确保转播内容正确，但不对此转播内容之正确性负责。所有依据分数的赌盘，像是让分盘，波胆等等的判定皆以下注的那一刻在下注单里显示的资讯为主。",
+      "_CMSKEY": "o_CCDISCLAIMERS",
       "ENGLISH": "All live content displayed in this panel is for information purposes only and members are advised to only use this as a guide. While we make every effort to ensure the content displayed is correct, our company will assume no liability for incorrect information. For markets that are based on the live score, e.g. In-Play Asian Handicaps, the correct score that the market is based off will be displayed in the Bet Slip at time of bet placement.",
-      "_CMSKEY": "o_CCDISCLAIMERS"
+      "CHINESE": "此实况转播内容仅供参考，本公司会尽量确保转播内容正确，但不对此转播内容之正确性负责。所有依据分数的赌盘，像是让分盘，波胆等等的判定皆以下注的那一刻在下注单里显示的资讯为主。"
     },
     {
-      "CHINESE": "点球大战的分数从0  -  0开始.  ",
+      "_CMSKEY": "o_SCORESTARTATPENALTY",
       "ENGLISH": "The score starts at 0 - 0 Penalty Shootouts.",
-      "_CMSKEY": "o_SCORESTARTATPENALTY"
+      "CHINESE": "点球大战的分数从0  -  0开始."
     },
     {
-      "CHINESE": "让分盘包含骤死赛，独赢与比分大小盘只适用于前10个点球。",
+      "_CMSKEY": "o_HANDICAPMARKETINCLUDEDSUDDENDEATH",
       "ENGLISH": "The ‘Handicap’ market include sudden death",
-      "_CMSKEY": "o_HANDICAPMARKETINCLUDEDSUDDENDEATH"
+      "CHINESE": "让分盘包含骤死赛，独赢与比分大小盘只适用于前10个点球。"
     },
     {
-      "CHINESE": "独赢跟比分大小只会计入点球大战中前1-10球。",
+      "_CMSKEY": "o_1X2ANDGOALSOVERUNDERAPPLIES",
       "ENGLISH": "The ‘1 X 2’ and ‘Goals - Over/Under’ markets applies the 1st 10 penalties only.",
-      "_CMSKEY": "o_1X2ANDGOALSOVERUNDERAPPLIES"
+      "CHINESE": "独赢跟比分大小只会计入点球大战中前1-10球。"
     },
     {
-      "CHINESE": "队伍1总得分",
+      "_CMSKEY": "o_TEAM1TOTALPOINTS",
       "ENGLISH": "Team 1 total points",
-      "_CMSKEY": "o_TEAM1TOTALPOINTS"
+      "CHINESE": "队伍1总得分"
     },
     {
-      "CHINESE": "队伍2总得分",
+      "_CMSKEY": "o_TEAM2TOTALPOINTS",
       "ENGLISH": "Team 2 total points",
-      "_CMSKEY": "o_TEAM2TOTALPOINTS"
+      "CHINESE": "队伍2总得分"
     },
     {
-      "CHINESE": "队伍1总跑位得分",
+      "_CMSKEY": "o_TEAM1TOTALRUNS",
       "ENGLISH": "Team 1 total runs",
-      "_CMSKEY": "o_TEAM1TOTALRUNS"
+      "CHINESE": "队伍1总跑位得分"
     },
     {
-      "CHINESE": "队伍2总跑位得分",
+      "_CMSKEY": "o_TEAM2TOTALRUNS",
       "ENGLISH": "Team 2 total runs",
-      "_CMSKEY": "o_TEAM2TOTALRUNS"
+      "CHINESE": "队伍2总跑位得分"
     },
     {
-      "CHINESE": "独赢且赢2.5分",
+      "_CMSKEY": "o_1X2ANDOVER2POINT5GOALS",
       "ENGLISH": "1 X 2 & Over 2.5 Goals",
-      "_CMSKEY": "o_1X2ANDOVER2POINT5GOALS"
+      "CHINESE": "独赢且赢2.5分"
     },
     {
-      "CHINESE": "独赢且两队皆得分",
+      "_CMSKEY": "o_1X2BTTS",
       "ENGLISH": "1 X 2 & Both Teams to Score",
-      "_CMSKEY": "o_1X2BTTS"
+      "CHINESE": "独赢且两队皆得分"
     },
     {
-      "CHINESE": "新功能",
+      "_CMSKEY": "o_NEWFEATUREITEM",
       "ENGLISH": "New Feature Item",
-      "_CMSKEY": "o_NEWFEATUREITEM"
+      "CHINESE": "新功能"
     },
     {
-      "CHINESE": "队伍总分",
+      "_CMSKEY": "o_TEAMTOTALS",
       "ENGLISH": "Team Totals",
-      "_CMSKEY": "o_TEAMTOTALS"
+      "CHINESE": "队伍总分"
     },
     {
-      "CHINESE": "第一节",
+      "_CMSKEY": "o_1STQUARTER",
       "ENGLISH": "1st Quarter",
-      "_CMSKEY": "o_1STQUARTER"
+      "CHINESE": "第一节"
     },
     {
-      "CHINESE": "比赛",
+      "_CMSKEY": "o_MATCH",
       "ENGLISH": "Match",
-      "_CMSKEY": "o_MATCH"
+      "CHINESE": "比赛"
     },
     {
-      "CHINESE": "球员特殊投注",
+      "_CMSKEY": "o_PLAYERSPECIALS",
       "ENGLISH": "Player Specials",
-      "_CMSKEY": "o_PLAYERSPECIALS"
+      "CHINESE": "球员特殊投注"
     },
     {
-      "CHINESE": "组合玩法",
+      "_CMSKEY": "o_COMBOMARKETS",
       "ENGLISH": "Combo Markets",
-      "_CMSKEY": "o_COMBOMARKETS"
+      "CHINESE": "组合玩法"
     },
     {
-      "CHINESE": "当盘胜出",
+      "_CMSKEY": "o_SETGAMEWINNER",
       "ENGLISH": "Set Game Winner",
-      "_CMSKEY": "o_SETGAMEWINNER"
+      "CHINESE": "当盘胜出"
     },
     {
-      "CHINESE": "让分  |  比分大小",
+      "_CMSKEY": "o_HANDICAPGOALSOU",
       "ENGLISH": "Handicap  |  Goals O/U",
-      "_CMSKEY": "o_HANDICAPGOALSOU"
+      "CHINESE": "让分  |  比分大小"
     },
     {
-      "CHINESE": "独赢  |  让盘",
+      "_CMSKEY": "o_WINNERSETHANDICAP",
       "ENGLISH": "Winner  |  Set Handicap",
-      "_CMSKEY": "o_WINNERSETHANDICAP"
+      "CHINESE": "独赢  |  让盘"
     },
     {
-      "CHINESE": "独赢  |  让分",
+      "_CMSKEY": "o_WINNERHANDICAP",
       "ENGLISH": "Winner  |  Handicap",
-      "_CMSKEY": "o_WINNERHANDICAP"
+      "CHINESE": "独赢  |  让分"
     },
     {
-      "CHINESE": "独赢 | 让局",
+      "_CMSKEY": "o_WINNERGAMEHANDICAP",
       "ENGLISH": "Winner | Game Handicap",
-      "_CMSKEY": "o_WINNERGAMEHANDICAP"
+      "CHINESE": "独赢 | 让局"
     },
     {
-      "CHINESE": "让得分 | 总得分",
+      "_CMSKEY": "o_POINTSHANDICAPTOTALPOINTS",
       "ENGLISH": "Points Handicap | Total Points",
-      "_CMSKEY": "o_POINTSHANDICAPTOTALPOINTS"
+      "CHINESE": "让得分 | 总得分"
     },
     {
-      "CHINESE": "让分 | 大小",
+      "_CMSKEY": "o_HANDICAPOVERUNDER",
       "ENGLISH": "Handicap | Over / Under",
-      "_CMSKEY": "o_HANDICAPOVERUNDER"
+      "CHINESE": "让分 | 大小"
     },
     {
-      "CHINESE": "让球 & 大 / 小",
+      "_CMSKEY": "o_HANDICAPANDOVERUNDER",
       "ENGLISH": "Handicap & Over / Under",
-      "_CMSKEY": "o_HANDICAPANDOVERUNDER"
+      "CHINESE": "让球 & 大 / 小"
     },
     {
-      "CHINESE": "区间",
+      "_CMSKEY": "o_INTERVALS",
       "ENGLISH": "Intervals",
-      "_CMSKEY": "o_INTERVALS"
+      "CHINESE": "区间"
     },
     {
-      "CHINESE": "让分 | 总得分",
+      "_CMSKEY": "o_HANDICAPTOTALPOINTS",
       "ENGLISH": "Handicap | Total Points",
-      "_CMSKEY": "o_HANDICAPTOTALPOINTS"
+      "CHINESE": "让分 | 总得分"
     },
     {
-      "CHINESE": "运彩设定",
+      "_CMSKEY": "o_SPORTSBOOKSETTINGS",
       "ENGLISH": "Sports Book Settings",
-      "_CMSKEY": "o_SPORTSBOOKSETTINGS"
+      "CHINESE": "运彩设定"
     },
     {
-      "CHINESE": "热门",
+      "_CMSKEY": "o_HIGHLIGHTS",
       "ENGLISH": "Highlights",
-      "_CMSKEY": "o_HIGHLIGHTS"
+      "CHINESE": "热门"
     },
     {
-      "CHINESE": "隊伍",
+      "_CMSKEY": "o_TEAMS",
       "ENGLISH": "TEAMS",
-      "_CMSKEY": "o_TEAMS"
+      "CHINESE": "隊伍"
     },
     {
-      "CHINESE": "特殊赛事名称",
+      "_CMSKEY": "o_SPECIALEVENTNAME",
       "ENGLISH": "Special Event Name",
-      "_CMSKEY": "o_SPECIALEVENTNAME"
+      "CHINESE": "特殊赛事名称"
     },
     {
-      "CHINESE": "特殊投注",
+      "_CMSKEY": "o_SPECIALS",
       "ENGLISH": "Specials",
-      "_CMSKEY": "o_SPECIALS"
+      "CHINESE": "特殊投注"
     },
     {
-      "CHINESE": "其他",
+      "_CMSKEY": "o_OTHERS",
       "ENGLISH": "Others",
-      "_CMSKEY": "o_OTHERS"
+      "CHINESE": "其他"
     },
     {
-      "CHINESE": "所有盘口",
+      "_CMSKEY": "o_ALLMARKETS",
       "ENGLISH": "All Markets",
-      "_CMSKEY": "o_ALLMARKETS"
+      "CHINESE": "所有盘口"
     },
     {
-      "CHINESE": "节",
+      "_CMSKEY": "o_QUARTERS",
       "ENGLISH": "Quarters",
-      "_CMSKEY": "o_QUARTERS"
+      "CHINESE": "节"
     },
     {
-      "CHINESE": "局",
+      "_CMSKEY": "o_INNINGS",
       "ENGLISH": "Innings",
-      "_CMSKEY": "o_INNINGS"
+      "CHINESE": "局"
     },
     {
-      "CHINESE": "盘",
+      "_CMSKEY": "o_SETMARKETS",
       "ENGLISH": "Set Markets",
-      "_CMSKEY": "o_SETMARKETS"
+      "CHINESE": "盘"
     },
     {
-      "CHINESE": "第七局/7",
+      "_CMSKEY": "o_7THGAME7",
       "ENGLISH": "7th Game/ 7",
-      "_CMSKEY": "o_7THGAME7"
+      "CHINESE": "第七局/7"
     },
     {
-      "CHINESE": "第五局/5",
+      "_CMSKEY": "o_5THGAME5",
       "ENGLISH": "5th Game/ 5",
-      "_CMSKEY": "o_5THGAME5"
+      "CHINESE": "第五局/5"
     },
     {
-      "CHINESE": "第一局/3",
+      "_CMSKEY": "o_1STGAME3",
       "ENGLISH": "1st Game/ 3",
-      "_CMSKEY": "o_1STGAME3"
+      "CHINESE": "第一局/3"
     },
     {
-      "CHINESE": "第五盘/5",
+      "_CMSKEY": "o_5THSET5",
       "ENGLISH": "5th Set/5",
-      "_CMSKEY": "o_5THSET5"
+      "CHINESE": "第五盘/5"
     },
     {
-      "CHINESE": "第一盘/3",
+      "_CMSKEY": "o_1STSET3",
       "ENGLISH": "1st Set/ 3",
-      "_CMSKEY": "o_1STSET3"
+      "CHINESE": "第一盘/3"
     },
     {
-      "CHINESE": "第七局",
+      "_CMSKEY": "o_GAME7",
       "ENGLISH": "Game 7",
-      "_CMSKEY": "o_GAME7"
+      "CHINESE": "第七局"
     },
     {
-      "CHINESE": "额度修改记录",
+      "_CMSKEY": "o_CREDITLOGS",
       "ENGLISH": "Credit Logs",
-      "_CMSKEY": "o_CREDITLOGS"
+      "CHINESE": "额度修改记录"
     },
     {
-      "CHINESE": "最近7天",
+      "_CMSKEY": "o_LAST7DAYS",
       "ENGLISH": "Last 7 days",
-      "_CMSKEY": "o_LAST7DAYS"
+      "CHINESE": "最近7天"
     },
     {
-      "CHINESE": "最近14天",
+      "_CMSKEY": "o_LAST14DAYS",
       "ENGLISH": "Last 14 days",
-      "_CMSKEY": "o_LAST14DAYS"
+      "CHINESE": "最近14天"
     },
     {
-      "CHINESE": "最近21天",
+      "_CMSKEY": "o_LAST21DAYS",
       "ENGLISH": "Last 21 days",
-      "_CMSKEY": "o_LAST21DAYS"
+      "CHINESE": "最近21天"
     },
     {
-      "CHINESE": "最近28天",
+      "_CMSKEY": "o_LAST28DAYS",
       "ENGLISH": "Last 28 days",
-      "_CMSKEY": "o_LAST28DAYS"
+      "CHINESE": "最近28天"
     },
     {
-      "CHINESE": "日期時間",
+      "_CMSKEY": "o_DATETIME",
       "ENGLISH": "Date Time",
-      "_CMSKEY": "o_DATETIME"
+      "CHINESE": "日期時間"
     },
     {
-      "CHINESE": "額度",
+      "_CMSKEY": "o_BALANCE",
       "ENGLISH": "Balance",
-      "_CMSKEY": "o_BALANCE"
+      "CHINESE": "額度"
     },
     {
-      "CHINESE": "存入",
+      "_CMSKEY": "o_DEPOSITE",
       "ENGLISH": "Deposite",
-      "_CMSKEY": "o_DEPOSITE"
+      "CHINESE": "存入"
     },
     {
-      "CHINESE": "提出",
+      "_CMSKEY": "o_WITHDRAWAL",
       "ENGLISH": "Withdrawal",
-      "_CMSKEY": "o_WITHDRAWAL"
+      "CHINESE": "提出"
     },
     {
-      "CHINESE": "存入/提出",
+      "_CMSKEY": "o_DEPOSITEWITHDRAWAL",
       "ENGLISH": "Deposite/Withdrawal",
-      "_CMSKEY": "o_DEPOSITEWITHDRAWAL"
+      "CHINESE": "存入/提出"
     },
     {
-      "CHINESE": "新額度",
+      "_CMSKEY": "o_NEWBALANCE",
       "ENGLISH": "New Balance",
-      "_CMSKEY": "o_NEWBALANCE"
+      "CHINESE": "新額度"
     },
     {
-      "CHINESE": "比赛开始时会有电视直播。",
+      "_CMSKEY": "o_TVSTREAMINGAVAIL",
       "ENGLISH": "TV Streaming available when the event starts.",
-      "_CMSKEY": "o_TVSTREAMINGAVAIL"
+      "CHINESE": "比赛开始时会有电视直播。"
     },
     {
-      "CHINESE": "您的密碼必須根据以下规则:",
+      "_CMSKEY": "o_YOURPASSOWRDSHOULDFOLLOWRULE",
       "ENGLISH": "Your Password must:",
-      "_CMSKEY": "o_YOURPASSOWRDSHOULDFOLLOWRULE"
+      "CHINESE": "您的密碼必須根据以下规则:"
     },
     {
-      "CHINESE": "1. 至少要有兩個大或小寫英文字母和數字(0-9)組合, 字數最少6至12個。",
+      "_CMSKEY": "o_PASSWORDRULE1",
       "ENGLISH": "1.Be between 6 - 12 alphanumeric characters with at least 2 upper (A-Z) or lowercase letters (a-z) and at least 1 numeric characters (0-9).",
-      "_CMSKEY": "o_PASSWORDRULE1"
+      "CHINESE": "1. 至少要有兩個大或小寫英文字母和數字(0-9)組合, 字數最少6至12個。"
     },
     {
-      "CHINESE": "2. 三個不同的字母數字。",
+      "_CMSKEY": "o_PASSWORDRULE2",
       "ENGLISH": "2.Contain at least 3 different alphanumeric characters.",
-      "_CMSKEY": "o_PASSWORDRULE2"
+      "CHINESE": "2. 三個不同的字母數字。"
     },
     {
-      "CHINESE": "3. 不准許有空格。",
+      "_CMSKEY": "o_PASSWORDRULE3",
       "ENGLISH": "3.Not contain any spaces.",
-      "_CMSKEY": "o_PASSWORDRULE3"
+      "CHINESE": "3. 不准許有空格。"
     },
     {
-      "CHINESE": "最先進球",
+      "_CMSKEY": "o_FIRST",
       "ENGLISH": "First",
-      "_CMSKEY": "o_FIRST"
+      "CHINESE": "最先進球"
     },
     {
-      "CHINESE": "任何時間",
+      "_CMSKEY": "o_ANYTIME",
       "ENGLISH": "Anytime",
-      "_CMSKEY": "o_ANYTIME"
+      "CHINESE": "任何時間"
     },
     {
-      "CHINESE": "殿军",
+      "_CMSKEY": "o_LAST",
       "ENGLISH": "Last",
-      "_CMSKEY": "o_LAST"
+      "CHINESE": "殿军"
     },
     {
-      "CHINESE": "1. 请使用您現有的登录帐号完成初始登录。",
+      "_CMSKEY": "o_PlEASEUSETHEMEMBERUSERCODEMESSAG",
       "ENGLISH": "1. Please use the member user code on your initial log in.",
-      "_CMSKEY": "o_PlEASEUSETHEMEMBERUSERCODEMESSAG"
+      "CHINESE": "1. 请使用您現有的登录帐号完成初始登录。"
     },
     {
-      "CHINESE": "2. 之后系统会提醒您建立一个正式登录帐号，请在此输入匡中输入您首选的登录帐号，我们将为您验证此帐号是否可以使用。完成以上动作后您将需要要求重新使用新帐号登录 。",
+      "_CMSKEY": "o_CREATENEWLOGINIDMESSAGE",
       "ENGLISH": "2. You will be prompted to create a new Login ID. Please enter your preferred Login ID on the ‘Login ID’ field. There will be a message confirming that the Login ID you entered is available or not available. After successfully creating your Login ID, you will be required to log in again.",
-      "_CMSKEY": "o_CREATENEWLOGINIDMESSAGE"
+      "CHINESE": "2. 之后系统会提醒您建立一个正式登录帐号，请在此输入匡中输入您首选的登录帐号，我们将为您验证此帐号是否可以使用。完成以上动作后您将需要要求重新使用新帐号登录 。"
     },
     {
-      "CHINESE": "3. 之后请用您新创的正式帐号作为登录帐号。",
+      "_CMSKEY": "o_PLEASEUSENEWLODINGIDMESSAGE",
       "ENGLISH": "3. Please use the newly created Login ID on your next log in.",
-      "_CMSKEY": "o_PLEASEUSENEWLODINGIDMESSAGE"
+      "CHINESE": "3. 之后请用您新创的正式帐号作为登录帐号。"
     },
     {
-      "CHINESE": "ABAB形式",
+      "_CMSKEY": "o_ABABFORMAT",
       "ENGLISH": "ABAB Format",
-      "_CMSKEY": "o_ABABFORMAT"
+      "CHINESE": "ABAB形式"
     },
     {
-      "CHINESE": "第1局, 首先达到5分",
+      "_CMSKEY": "o_GAME1RACETO5POINTS",
       "ENGLISH": "Game 1, Race to 5 Points",
-      "_CMSKEY": "o_GAME1RACETO5POINTS"
+      "CHINESE": "第1局, 首先达到5分"
     },
     {
-      "CHINESE": "第2局, 首先达到5分",
+      "_CMSKEY": "o_GAME2RACETO5POINTS",
       "ENGLISH": "Game 2, Race to 5 Points",
-      "_CMSKEY": "o_GAME2RACETO5POINTS"
+      "CHINESE": "第2局, 首先达到5分"
     },
     {
-      "CHINESE": "第3局, 首先达到5分",
+      "_CMSKEY": "o_GAME3RACETO5POINTS",
       "ENGLISH": "Game 3, Race to 5 Points",
-      "_CMSKEY": "o_GAME3RACETO5POINTS"
+      "CHINESE": "第3局, 首先达到5分"
     },
     {
-      "CHINESE": "第4局, 首先达到5分",
+      "_CMSKEY": "o_GAME4RACETO5POINTS",
       "ENGLISH": "Game 4, Race to 5 Points",
-      "_CMSKEY": "o_GAME4RACETO5POINTS"
+      "CHINESE": "第4局, 首先达到5分"
     },
     {
-      "CHINESE": "第5局, 首先达到5分",
+      "_CMSKEY": "o_GAME5RACETO5POINTS",
       "ENGLISH": "Game 5, Race to 5 Points",
-      "_CMSKEY": "o_GAME5RACETO5POINTS"
+      "CHINESE": "第5局, 首先达到5分"
     },
     {
-      "CHINESE": "得分获胜方 - 第1局, 第1分",
+      "_CMSKEY": "o_POINTWINNERGAME1POINT1",
       "ENGLISH": "Point Winner - Game 1, Point 1",
-      "_CMSKEY": "o_POINTWINNERGAME1POINT1"
+      "CHINESE": "得分获胜方 - 第1局, 第1分"
     },
     {
-      "CHINESE": "得分获胜方 - 第2局, 第1分",
+      "_CMSKEY": "o_POINTWINNERGAME2POINT1",
       "ENGLISH": "Point Winner - Game 2, Point 1",
-      "_CMSKEY": "o_POINTWINNERGAME2POINT1"
+      "CHINESE": "得分获胜方 - 第2局, 第1分"
     },
     {
-      "CHINESE": "得分获胜方 - 第3局, 第1分",
+      "_CMSKEY": "o_POINTWINNERGAME3POINT1",
       "ENGLISH": "Point Winner - Game 3, Point 1",
-      "_CMSKEY": "o_POINTWINNERGAME3POINT1"
+      "CHINESE": "得分获胜方 - 第3局, 第1分"
     },
     {
-      "CHINESE": "得分获胜方 - 第4局, 第1分",
+      "_CMSKEY": "o_POINTWINNERGAME4POINT1",
       "ENGLISH": "Point Winner - Game 4, Point 1",
-      "_CMSKEY": "o_POINTWINNERGAME4POINT1"
+      "CHINESE": "得分获胜方 - 第4局, 第1分"
     },
     {
-      "CHINESE": "得分获胜方 - 第5局, 第1分",
+      "_CMSKEY": "o_POINTWINNERGAME5POINT1",
       "ENGLISH": "Point Winner - Game 5, Point 1",
-      "_CMSKEY": "o_POINTWINNERGAME5POINT1"
+      "CHINESE": "得分获胜方 - 第5局, 第1分"
     },
     {
-      "CHINESE": "胜方 - 第1局",
+      "_CMSKEY": "o_WINNER1STINNING",
       "ENGLISH": "Winner - First inning",
-      "_CMSKEY": "o_WINNER1STINNING"
+      "CHINESE": "胜方 - 第1局"
     },
     {
-      "CHINESE": "球队 - 总得分",
+      "_CMSKEY": "o_TEAMTOTALRUNS",
       "ENGLISH": "Team - Total Runs",
-      "_CMSKEY": "o_TEAMTOTALRUNS"
+      "CHINESE": "球队 - 总得分"
     },
     {
-      "CHINESE": "让球 | 总得分",
+      "_CMSKEY": "o_HANDICAPTOTALRUNS",
       "ENGLISH": "Handicap | Total Runs",
-      "_CMSKEY": "o_HANDICAPTOTALRUNS"
+      "CHINESE": "让球 | 总得分"
     },
     {
-      "CHINESE": "精选冠军",
+      "_CMSKEY": "o_FEATUREDOUTRIGHTS",
       "ENGLISH": "Featured Outrights",
-      "_CMSKEY": "o_FEATUREDOUTRIGHTS"
+      "CHINESE": "精选冠军"
     },
     {
-      "CHINESE": "精选比赛",
+      "_CMSKEY": "o_FEATUREDMATCHES",
       "ENGLISH": "Featured Matches",
-      "_CMSKEY": "o_FEATUREDMATCHES"
+      "CHINESE": "精选比赛"
     },
     {
-      "CHINESE": "大",
+      "_CMSKEY": "o_O",
       "ENGLISH": "O",
-      "_CMSKEY": "o_O"
+      "CHINESE": "大"
     },
     {
-      "CHINESE": "小",
+      "_CMSKEY": "o_U",
       "ENGLISH": "U",
-      "_CMSKEY": "o_U"
+      "CHINESE": "小"
     },
     {
-      "CHINESE": "球队得分： 'Team Name 1' - 最后一位数字",
+      "_CMSKEY": "o_TEAM_POINTS_TEAM_1_NAME_LAST_DIGIT",
       "ENGLISH": "TEAM POINTS: TEAM NAME 1- LAST DIGIT",
-      "_CMSKEY": "o_TEAM_POINTS_TEAM_1_NAME_LAST_DIGIT"
+      "CHINESE": "球队得分： 'Team Name 1' - 最后一位数字"
     },
     {
-      "CHINESE": "Team 1 Long Name & Team 1 Long Name (第一个得分)",
+      "_CMSKEY": "o_TEAM_1_LONG_NAME_FIRST_GOAL",
       "ENGLISH": "Team 1 Long Name & Team 1 Long Name (1st to Score)",
-      "_CMSKEY": "o_TEAM_1_LONG_NAME_FIRST_GOAL"
+      "CHINESE": "Team 1 Long Name & Team 1 Long Name (第一个得分)"
     },
     {
-      "CHINESE": "平手 & Team 1 Long Name & Team 1 Long Name (第一个得分)",
+      "_CMSKEY": "o_DRAW_TEAM_1_LONG_NAME_FIRST_GOAL",
       "ENGLISH": "Draw & Team 1 Long Name (1st to Score)",
-      "_CMSKEY": "o_DRAW_TEAM_1_LONG_NAME_FIRST_GOAL"
+      "CHINESE": "平手 & Team 1 Long Name & Team 1 Long Name (第一个得分)"
     },
     {
-      "CHINESE": "15 分钟",
+      "_CMSKEY": "o_15_MINS",
       "ENGLISH": "15 Mins",
-      "_CMSKEY": "o_15_MINS"
+      "CHINESE": "15 分钟"
     },
     {
-      "CHINESE": "第1分",
+      "_CMSKEY": "o_POINT1",
       "ENGLISH": "Point 1",
-      "_CMSKEY": "o_POINT1"
+      "CHINESE": "第1分"
     },
     {
-      "CHINESE": "第20分",
+      "_CMSKEY": "o_POINT20",
       "ENGLISH": "Point 20",
-      "_CMSKEY": "o_POINT20"
+      "CHINESE": "第20分"
     },
     {
-      "CHINESE": "得分者",
+      "_CMSKEY": "o_POINTWINNER",
       "ENGLISH": "POINT WINNER",
-      "_CMSKEY": "o_POINTWINNER"
+      "CHINESE": "得分者"
     },
     {
-      "CHINESE": "由两个现实中不同的对战组合各取1队並配对成梦幻对战供玩家预测结果。",
+      "_CMSKEY": "o_FANTASYMATCHESINFORMATION",
       "ENGLISH": "These are events where two teams, from two separate matches, are paired together for predicting imaginary outcomes.",
-      "_CMSKEY": "o_FANTASYMATCHESINFORMATION"
+      "CHINESE": "由两个现实中不同的对战组合各取1队並配对成梦幻对战供玩家预测结果。"
     },
     {
-      "CHINESE": "独赢 & 双方皆进球",
+      "_CMSKEY": "o_1X2BTTS",
       "ENGLISH": "1 X 2 & Both to Score",
-      "_CMSKEY": "o_1X2BTTS"
+      "CHINESE": "独赢 & 双方皆进球"
     },
     {
-      "CHINESE": "加时赛分数由 0-0 开始。",
+      "_CMSKEY": "o_INFOMESSAGEEVENTFILTER",
       "ENGLISH": "Extra Time score starts at 0 – 0.",
-      "_CMSKEY": "o_INFOMESSAGEEVENTFILTER"
+      "CHINESE": "加时赛分数由 0-0 开始。"
     },
     {
-      "CHINESE": "全场分数为 X - X。",
+      "_CMSKEY": "o_INFOMESSAGEEVENTFILTER",
       "ENGLISH": "Full Time score is X – X.",
-      "_CMSKEY": "o_INFOMESSAGEEVENTFILTER"
+      "CHINESE": "全场分数为 X - X。"
     },
     {
-      "CHINESE": "罚牌盘口以分数为结算依据。 红牌等于2分，黄牌等于1分。 每个球员最高罚牌分数为3分。",
+      "_CMSKEY": "o_BOOKINGMRKETS",
       "ENGLISH": "Booking markets are settled on a points system. Red Cards equal 2 points, while Yellow Cards equal 1 point. The maximum points any player can accumulate is 3.",
-      "_CMSKEY": "o_BOOKINGMRKETS"
+      "CHINESE": "罚牌盘口以分数为结算依据。 红牌等于2分，黄牌等于1分。 每个球员最高罚牌分数为3分。"
     },
     {
-      "CHINESE": "7或更多",
+      "_CMSKEY": "o_7MORE",
       "ENGLISH": "7 or More",
-      "_CMSKEY": "o_7MORE"
+      "CHINESE": "7或更多"
     },
     {
-      "CHINESE": "比分平局",
+      "_CMSKEY": "o_SCOREDRAW",
       "ENGLISH": "score draw",
-      "_CMSKEY": "o_SCOREDRAW"
+      "CHINESE": "比分平局"
     },
     {
-      "CHINESE": "Chrome",
+      "_CMSKEY": "o_CHROME",
       "ENGLISH": "Chrome",
-      "_CMSKEY": "o_CHROME"
+      "CHINESE": "Chrome"
     },
     {
-      "CHINESE": "Firefox",
+      "_CMSKEY": "o_FIREFOX",
       "ENGLISH": "Firefox",
-      "_CMSKEY": "o_FIREFOX"
+      "CHINESE": "Firefox"
     },
     {
-      "CHINESE": "您没有任何额度修改纪录。",
+      "_CMSKEY": "o_NOCREDIT",
       "ENGLISH": "You do not have any credit changed record",
-      "_CMSKEY": "o_NOCREDIT"
+      "CHINESE": "您没有任何额度修改纪录。"
     },
     {
-      "CHINESE": "总分：大 / 小",
+      "_CMSKEY": "o_TOTALPOINTSOU",
       "ENGLISH": "Total Points: Over / Under",
-      "_CMSKEY": "o_TOTALPOINTSOU"
+      "CHINESE": "总分：大 / 小"
     },
     {
-      "CHINESE": "总分：单 / 双",
+      "_CMSKEY": "o_TOTALPOINTSOE",
       "ENGLISH": "Total Points: odd / even",
-      "_CMSKEY": "o_TOTALPOINTSOE"
+      "CHINESE": "总分：单 / 双"
     },
     {
-      "CHINESE": "队员们：队员1-最后一位数字",
+      "_CMSKEY": "o_TEAMPOINTSTEAMLASTDIGIT",
       "ENGLISH": "TEAM POINTS: TEAM NAME 1- LAST DIGIT",
-      "_CMSKEY": "o_TEAMPOINTSTEAMLASTDIGIT"
+      "CHINESE": "队员们：队员1-最后一位数字"
     },
     {
-      "CHINESE": "切换至新版本网站",
+      "_CMSKEY": "o_SWITCHTONEWSITE",
       "ENGLISH": "Switch to New Site",
-      "_CMSKEY": "o_SWITCHTONEWSITE"
+      "CHINESE": "切换至新版本网站"
     },
     {
-      "CHINESE": "你已经达到每日最高支出限额 1,500,000,000.00 RMB",
+      "_CMSKEY": "o_YOUAREREACHINGTHEDAILYMAXIMUMPAYOUTOF1,500,000,000.00RMB",
       "ENGLISH": "You are reaching the daily maximum payout of 1,500,000,000.00 RMB",
-      "_CMSKEY": "o_YOUAREREACHINGTHEDAILYMAXIMUMPAYOUTOF1,500,000,000.00RMB"
+      "CHINESE": "你已经达到每日最高支出限额 1,500,000,000.00 RMB"
     },
     {
-      "CHINESE": "您的下注总额已超过您的帐户余额，请修改您的下注金额或是存入更多资金。",
+      "_CMSKEY": "o_YOURTOTALSTAKEEXCEEDSYOURAVAILABLEBALANCE.PLEASEEDITYOURBET(S)ORDEPOSITMOREFUNDS.",
       "ENGLISH": "Your total stake exceeds your available balance. Please edit your bet(s) or deposit more funds.",
-      "_CMSKEY": "o_YOURTOTALSTAKEEXCEEDSYOURAVAILABLEBALANCE.PLEASEEDITYOURBET(S)ORDEPOSITMOREFUNDS."
+      "CHINESE": "您的下注总额已超过您的帐户余额，请修改您的下注金额或是存入更多资金。"
     },
     {
-      "CHINESE": "已超过最高投注金额。最高投注金额为 80 USD.",
+      "_CMSKEY": "o_MAXBETLIMITEXCEEDED.YOURMAXBETIS80USD.",
       "ENGLISH": "Max Bet Limit exceeded. Your Max Bet is 80 USD.",
-      "_CMSKEY": "o_MAXBETLIMITEXCEEDED.YOURMAXBETIS80USD."
+      "CHINESE": "已超过最高投注金额。最高投注金额为 80 USD."
     },
     {
-      "CHINESE": "有一或多个选项已经暂停下注。",
+      "_CMSKEY": "o_ONEORMOREOFYOURSELECTIONSARECLOSEDFORBETTING.",
       "ENGLISH": "One or more of your selections are closed for betting.",
-      "_CMSKEY": "o_ONEORMOREOFYOURSELECTIONSARECLOSEDFORBETTING."
+      "CHINESE": "有一或多个选项已经暂停下注。"
     },
     {
-      "CHINESE": "您的帐号因被停用而无法下注。",
+      "_CMSKEY": "o_YOURACCOUNTISIMPOSEDWITHANEXCLUSIONTHATDOESNOTALLOWBETPLACEMENT.",
       "ENGLISH": "Your account is imposed with an exclusion that does not allow bet placement.",
-      "_CMSKEY": "o_YOURACCOUNTISIMPOSEDWITHANEXCLUSIONTHATDOESNOTALLOWBETPLACEMENT."
+      "CHINESE": "您的帐号因被停用而无法下注。"
     },
     {
-      "CHINESE": "盘面、赔率或者分数已改变。",
+      "_CMSKEY": "o_THELINES,ODDS,ORSCOREHASCHANGED.",
       "ENGLISH": "The Lines, Odds, or Score has changed.",
-      "_CMSKEY": "o_THELINES,ODDS,ORSCOREHASCHANGED."
+      "CHINESE": "盘面、赔率或者分数已改变。"
     },
     {
-      "CHINESE": "滚球 让分",
+      "_CMSKEY": "o_IN-PLAYHANDICAP",
       "ENGLISH": "In-Play Handicap",
-      "_CMSKEY": "o_IN-PLAYHANDICAP"
+      "CHINESE": "滚球 让分"
     },
     {
-      "CHINESE": "已取消 - 赔率/让分错误",
+      "_CMSKEY": "o_CANCELLED-WRONGODDS/HCAP",
       "ENGLISH": "Cancelled - Wrong Odds/Hcap",
-      "_CMSKEY": "o_CANCELLED-WRONGODDS/HCAP"
+      "CHINESE": "已取消 - 赔率/让分错误"
     },
     {
-      "CHINESE": "半场 平局 / 半场 赢",
+      "_CMSKEY": "o_HALFPUSH/HALFWIN",
       "ENGLISH": "Half Push / Half Win",
-      "_CMSKEY": "o_HALFPUSH/HALFWIN"
+      "CHINESE": "半场 平局 / 半场 赢"
     },
     {
-      "CHINESE": "可赢金额:",
+      "_CMSKEY": "o_EST.WIN:",
       "ENGLISH": "Est. Win:",
-      "_CMSKEY": "o_EST.WIN:"
+      "CHINESE": "可赢金额:"
     },
     {
-      "CHINESE": "独赢及位置",
+      "_CMSKEY": "o_EACHWAY",
       "ENGLISH": "Each way",
-      "_CMSKEY": "o_EACHWAY"
+      "CHINESE": "独赢及位置"
     },
     {
-      "CHINESE": "总下注金额",
+      "_CMSKEY": "o_TOTALSTAKE",
       "ENGLISH": "Total Stake",
-      "_CMSKEY": "o_TOTALSTAKE"
+      "CHINESE": "总下注金额"
     },
     {
-      "CHINESE": "得分最多球员",
+      "_CMSKEY": "TOP_GOAL_SCORER",
       "ENGLISH": "Top Goal Scorer",
-      "_CMSKEY": "TOP_GOAL_SCORER"
+      "CHINESE": "得分最多球员"
     },
     {
-      "CHINESE": "单节",
+      "_CMSKEY": "o_QUARTERSBASKETBALL",
       "ENGLISH": "Quarters",
-      "_CMSKEY": "o_QUARTERSBASKETBALL"
+      "CHINESE": "单节"
     },
     {
-      "CHINESE": "电话号码",
+      "_CMSKEY": "o_PHONE",
       "ENGLISH": "PHONE",
-      "_CMSKEY": "o_PHONE"
+      "CHINESE": "电话号码"
     },
     {
-      "CHINESE": "电子邮件",
+      "_CMSKEY": "o_EMAIL",
       "ENGLISH": "EMAIL",
-      "_CMSKEY": "o_EMAIL"
+      "CHINESE": "电子邮件"
     },
     {
-      "CHINESE": "版权声明 (C) 2021 版权所有",
+      "_CMSKEY": "o_COPYRIGHGTS",
       "ENGLISH": "Copyright (C) 2021. All rights reserved.",
-      "_CMSKEY": "o_COPYRIGHGTS"
+      "CHINESE": "版权声明 (C) 2021 版权所有"
     },
     {
-      "CHINESE": "系统需求",
+      "_CMSKEY": "o_SYSTEMREQUIREMENTS",
       "ENGLISH": "System Requirements",
-      "_CMSKEY": "o_SYSTEMREQUIREMENTS"
+      "CHINESE": "系统需求"
     },
     {
-      "CHINESE": "上半场",
+      "_CMSKEY": "o_1ST_HALF",
       "ENGLISH": "1st Half",
-      "_CMSKEY": "o_1ST_HALF"
+      "CHINESE": "上半场"
     },
     {
-      "CHINESE": "第一节",
+      "_CMSKEY": "o_1ST_QUARTER",
       "ENGLISH": "1st Quarter",
-      "_CMSKEY": "o_1ST_QUARTER"
+      "CHINESE": "第一节"
     },
     {
-      "CHINESE": "第二节",
+      "_CMSKEY": "o_2ND_QUARTER",
       "ENGLISH": "2nd Quarter",
-      "_CMSKEY": "o_2ND_QUARTER"
+      "CHINESE": "第二节"
     },
     {
-      "CHINESE": "第三节",
+      "_CMSKEY": "o_3RD_QUARTER",
       "ENGLISH": "3rd Quarter",
-      "_CMSKEY": "o_3RD_QUARTER"
+      "CHINESE": "第三节"
     },
     {
-      "CHINESE": "第四节",
+      "_CMSKEY": "o_4TH_QUARTER",
       "ENGLISH": "4th Quarter",
-      "_CMSKEY": "o_4TH_QUARTER"
+      "CHINESE": "第四节"
     },
     {
-      "CHINESE": "下半场",
+      "_CMSKEY": "o_2ND_HALF",
       "ENGLISH": "2nd Half",
-      "_CMSKEY": "o_2ND_HALF"
+      "CHINESE": "下半场"
     },
     {
-      "CHINESE": "净胜1 - 5分",
+      "_CMSKEY": "o_WIN_BY_1_5_POINTS",
       "ENGLISH": "Win by 1 - 5 Points",
-      "_CMSKEY": "o_WIN_BY_1_5_POINTS"
+      "CHINESE": "净胜1 - 5分"
     },
     {
-      "CHINESE": "净胜6 - 10分",
+      "_CMSKEY": "o_WIN_BY_6_10_POINTS",
       "ENGLISH": "Win by 6 - 10 Points",
-      "_CMSKEY": "o_WIN_BY_6_10_POINTS"
+      "CHINESE": "净胜6 - 10分"
     },
     {
-      "CHINESE": "净胜11 - 15分",
+      "_CMSKEY": "o_WIN_BY_11_15_POINTS",
       "ENGLISH": "Win by 11 - 15 Points",
-      "_CMSKEY": "o_WIN_BY_11_15_POINTS"
+      "CHINESE": "净胜11 - 15分"
     },
     {
-      "CHINESE": "净胜16 - 20分",
+      "_CMSKEY": "o_WIN_BY_16_20_POINTS",
       "ENGLISH": "Win by 16 - 20 Points",
-      "_CMSKEY": "o_WIN_BY_16_20_POINTS"
+      "CHINESE": "净胜16 - 20分"
     },
     {
-      "CHINESE": "净胜21 - 25分",
+      "_CMSKEY": "o_WIN_BY_21_25_POINTS",
       "ENGLISH": "Win by 21 - 25 Points",
-      "_CMSKEY": "o_WIN_BY_21_25_POINTS"
+      "CHINESE": "净胜21 - 25分"
     },
     {
-      "CHINESE": "净胜26分或更多",
+      "_CMSKEY": "o_WIN_BY_26_POINTS",
       "ENGLISH": "Win by 26+ Points",
-      "_CMSKEY": "o_WIN_BY_26_POINTS"
+      "CHINESE": "净胜26分或更多"
     },
     {
-      "CHINESE": "净胜3 - 7分",
+      "_CMSKEY": "o_WIN_BY_3_7_POINTS",
       "ENGLISH": "Win by 3 - 7 Points",
-      "_CMSKEY": "o_WIN_BY_3_7_POINTS"
+      "CHINESE": "净胜3 - 7分"
     },
     {
-      "CHINESE": "净胜8分或更多",
+      "_CMSKEY": "o_WIN_BY_8_POINTS",
       "ENGLISH": "Win by 8+ Points",
-      "_CMSKEY": "o_WIN_BY_8_POINTS"
+      "CHINESE": "净胜8分或更多"
     },
     {
-      "CHINESE": "净胜3分或更多",
+      "_CMSKEY": "o_WIN_BY_3_POINTS",
       "ENGLISH": "Win by 3+ Points",
-      "_CMSKEY": "o_WIN_BY_3_POINTS"
+      "CHINESE": "净胜3分或更多"
     },
     {
-      "CHINESE": "视频助理裁判助理",
+      "_CMSKEY": "o_VIDEO_ASSISTANT_REFEREE",
       "ENGLISH": "Video Assistant Referee (VAR) Decision",
-      "_CMSKEY": "o_VIDEO_ASSISTANT_REFEREE"
+      "CHINESE": "视频助理裁判助理"
     },
     {
-      "CHINESE": "篮球 (滚球) 净胜球数",
+      "_CMSKEY": "o_BASKETBALL_IN_PLAY_WINNING_MARGIN",
       "ENGLISH": "Basketball (In-Play) Winning Margin",
-      "_CMSKEY": "o_BASKETBALL_IN_PLAY_WINNING_MARGIN"
+      "CHINESE": "篮球 (滚球) 净胜球数"
     },
     {
-      "CHINESE": "星期一",
+      "_CMSKEY": "o_MONDAY",
       "ENGLISH": "Monday",
-      "_CMSKEY": "o_MONDAY"
+      "CHINESE": "星期一"
     },
     {
-      "CHINESE": "8月23日 星期一",
+      "_CMSKEY": "o_08_23_MONDAY",
       "ENGLISH": "08-23 Monday",
-      "_CMSKEY": "o_08_23_MONDAY"
+      "CHINESE": "8月23日 星期一"
     },
     {
-      "CHINESE": "04:36:26 (香港盘)",
+      "_CMSKEY": "o_04_36_26_HK",
       "ENGLISH": "04:36:26 (HK)",
-      "_CMSKEY": "o_04_36_26_HK"
+      "CHINESE": "04:36:26 (香港盘)"
     },
     {
-      "CHINESE": "已加入我的賽事。",
+      "_CMSKEY": "o_ADDED_TO_MY_EVENTS",
       "ENGLISH": "Added to my events",
-      "_CMSKEY": "o_ADDED_TO_MY_EVENTS"
+      "CHINESE": "已加入我的賽事。"
     },
     {
       "_CMSKEY": "o_FROM",
@@ -6702,7 +6702,7 @@
     },
     {
       "_CMSKEY": "o_WINLOSS_FORECAST_BETTYPES_OTHERS",
-      "ENGLISH": "Bets placed on other Bet Types will not be included in the Win/Loss Forecast. ",
+      "ENGLISH": "Bets placed on other Bet Types will not be included in the Win/Loss Forecast.",
       "CHINESE": "其他玩法的投注将不包含在赢输预测功能的计算内。"
     },
     {
@@ -6865,7 +6865,6 @@
       "ENGLISH": "18 / 06 / 2018",
       "CHINESE": "06 / 18 / 2018"
     },
-
     {
       "_CMSKEY": "o_TOTAL_POINTS_1H",
       "ENGLISH": "Total Points 1H",
